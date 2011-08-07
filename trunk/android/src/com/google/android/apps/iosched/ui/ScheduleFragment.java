@@ -28,6 +28,7 @@ import com.google.android.apps.iosched.util.MotionEventUtils;
 import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
 import com.google.android.apps.iosched.util.ParserUtils;
 import com.google.android.apps.iosched.util.UIUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -78,8 +79,8 @@ public class ScheduleFragment extends Fragment implements
     private static final int TIME_FLAGS = DateUtils.FORMAT_SHOW_DATE
             | DateUtils.FORMAT_SHOW_WEEKDAY | DateUtils.FORMAT_ABBREV_WEEKDAY;
 
-    private static final long TUE_START = ParserUtils.parseTime("2011-05-10T00:00:00.000-07:00");
-    private static final long WED_START = ParserUtils.parseTime("2011-05-11T00:00:00.000-07:00");
+    private static final long TUE_START = Setup.CONFERENCE_START_MILLIS_DAY1; //ParserUtils.parseTime("2011-05-10T00:00:00.000-07:00");
+    private static final long WED_START = Setup.CONFERENCE_START_MILLIS_DAY2; //ParserUtils.parseTime("2011-05-11T00:00:00.000-07:00");
 
     private static final int DISABLED_BLOCK_ALPHA = 100;
 
@@ -118,9 +119,17 @@ public class ScheduleFragment extends Fragment implements
 
     private static HashMap<String, Integer> buildTypeColumnMap() {
         final HashMap<String, Integer> map = Maps.newHashMap();
+        
         map.put(ParserUtils.BLOCK_TYPE_FOOD, 0);
         map.put(ParserUtils.BLOCK_TYPE_SESSION, 1);
-        map.put(ParserUtils.BLOCK_TYPE_OFFICE_HOURS, 2);
+        
+        /*
+         * do not show office hours if not configured
+         */
+        if (Setup.OFFICEHOURS_ON) {
+        	map.put(ParserUtils.BLOCK_TYPE_OFFICE_HOURS, 2);
+        }
+        
         return map;
     }
 
@@ -176,8 +185,11 @@ public class ScheduleFragment extends Fragment implements
         });
 
         setupDay(inflater, TUE_START);
-        setupDay(inflater, WED_START);
-
+		
+		if (Setup.CONFERENCE_DAYS > 1) {
+        	setupDay(inflater, WED_START);
+		}
+		
         updateWorkspaceHeader(0);
         mWorkspace.setOnScrollListener(new Workspace.OnScrollListener() {
             public void onScroll(float screenFraction) {

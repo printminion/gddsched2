@@ -89,7 +89,7 @@
     <track>
         <name>Tech Talk</name>
         <color>#999999</color>
-        <abstract>Google I/O features Tech Talks on subjects of interest to developers, such as computer science problems, programming languages, and more.</abstract>
+        <abstract>GDD features Tech Talks on subjects of interest to developers, such as computer science problems, programming languages, and more.</abstract>
     </track>
 
     <!-- Sessions only -->

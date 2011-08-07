@@ -17,6 +17,7 @@
 package com.google.android.apps.iosched.ui;
 
 import com.google.android.apps.iosched.R;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -45,7 +46,7 @@ public class TagStreamFragment extends Fragment {
 
     public static final String EXTRA_QUERY = "com.google.android.iosched.extra.QUERY";
 
-    public static final String CONFERENCE_HASHTAG = "#io2011";
+    public static final String CONFERENCE_HASHTAG = Setup.CONFERENCE_HASHTAG;
 
     private String mSearchString;
     private WebView mWebView;

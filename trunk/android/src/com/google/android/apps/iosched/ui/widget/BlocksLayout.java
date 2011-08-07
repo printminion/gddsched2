@@ -18,6 +18,7 @@ package com.google.android.apps.iosched.ui.widget;
 
 import com.google.android.apps.iosched.R;
 import com.google.android.apps.iosched.util.UIUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -52,6 +53,10 @@ public class BlocksLayout extends ViewGroup {
 
         mColumns = a.getInt(R.styleable.TimeRulerView_headerWidth, mColumns);
 
+        if (!Setup.OFFICEHOURS_ON) {
+        	mColumns--;
+        }
+        
         a.recycle();
     }
 

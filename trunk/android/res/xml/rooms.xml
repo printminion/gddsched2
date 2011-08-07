@@ -16,6 +16,7 @@
   -->
 <rooms>
 
+    <room><id>na</id><name>N/A</name><floor>2</floor></room>
     <room><id>1</id><name>Room 1</name><floor>2</floor></room>
     <room><id>2</id><name>Room 2</name><floor>2</floor></room>
     <room><id>3</id><name>Room 3</name><floor>2</floor></room>
@@ -29,7 +30,7 @@
     <room><id>11</id><name>Room 11</name><floor>3</floor></room>
 
     <room><id>lunchroom</id><name>Lunch Room</name><floor>1</floor></room>
-    <room><id>officehoursfloor2</id><name>Office Hours Floor 2</name><floor>2</floor></room>
-    <room><id>officehoursfloor3</id><name>Office Hours Floor 3</name><floor>3</floor></room>
+   <!--  <room><id>officehoursfloor2</id><name>Office Hours Floor 2</name><floor>2</floor></room>
+    <room><id>officehoursfloor3</id><name>Office Hours Floor 3</name><floor>3</floor></room> -->
 
 </rooms>

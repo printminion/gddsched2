@@ -21,6 +21,7 @@ import com.google.android.apps.iosched.provider.ScheduleContract.Blocks;
 import com.google.android.apps.iosched.provider.ScheduleContract.Rooms;
 import com.google.android.apps.iosched.ui.phone.MapActivity;
 import com.google.android.apps.iosched.ui.tablet.MapMultiPaneActivity;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Context;
 import android.content.Intent;
@@ -57,14 +58,12 @@ public class UIUtils {
      * Time zone to use when formatting all session times. To always use the
      * phone local time, use {@link TimeZone#getDefault()}.
      */
-    public static final TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("America/Los_Angeles");
+    public static final TimeZone CONFERENCE_TIME_ZONE = Setup.CONFERENCE_TIME_ZONE;// TimeZone.getTimeZone("America/Los_Angeles");
 
-    public static final long CONFERENCE_START_MILLIS = ParserUtils.parseTime(
-            "2011-05-10T09:00:00.000-07:00");
-    public static final long CONFERENCE_END_MILLIS = ParserUtils.parseTime(
-            "2011-05-11T17:30:00.000-07:00");
+    public static final long CONFERENCE_START_MILLIS = Setup.CONFERENCE_START_MILLIS_DAY1; //ParserUtils.parseTime("2011-05-10T09:00:00.000-07:00");
+    public static final long CONFERENCE_END_MILLIS = Setup.CONFERENCE_END_MILLIS_DAY1;//ParserUtils.parseTime("2011-05-11T17:30:00.000-07:00");
 
-    public static final Uri CONFERENCE_URL = Uri.parse("http://www.google.com/events/io/2011/");
+    public static final Uri CONFERENCE_URL = Uri.parse("Setup.CONFERNCE_URL");// Uri.parse("http://www.google.com/events/io/2011/");
 
     /** Flags used with {@link DateUtils#formatDateRange}. */
     private static final int TIME_FLAGS = DateUtils.FORMAT_SHOW_TIME

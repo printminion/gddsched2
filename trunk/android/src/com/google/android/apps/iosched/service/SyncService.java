@@ -29,6 +29,7 @@ import com.google.android.apps.iosched.io.RemoteSpeakersHandler;
 import com.google.android.apps.iosched.io.RemoteVendorsHandler;
 import com.google.android.apps.iosched.io.RemoteWorksheetsHandler;
 import com.google.android.apps.iosched.provider.ScheduleProvider;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import org.apache.http.Header;
 import org.apache.http.HeaderElement;
@@ -84,7 +85,7 @@ public class SyncService extends IntentService {
 
     /** Root worksheet feed for online data source */
     // TODO: insert your sessions/speakers/vendors spreadsheet doc URL here.
-    private static final String WORKSHEETS_URL = "INSERT_SPREADSHEET_URL_HERE";
+    private static final String WORKSHEETS_URL = Setup.WORKSHEETS_URL;//"INSERT_SPREADSHEET_URL_HERE";
 
     private static final String HEADER_ACCEPT_ENCODING = "Accept-Encoding";
     private static final String ENCODING_GZIP = "gzip";

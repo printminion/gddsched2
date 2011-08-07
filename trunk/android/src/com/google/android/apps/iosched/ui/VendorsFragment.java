@@ -21,6 +21,7 @@ import com.google.android.apps.iosched.provider.ScheduleContract;
 import com.google.android.apps.iosched.util.ActivityHelper;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
 import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Context;
 import android.content.Intent;
@@ -125,7 +126,10 @@ public class VendorsFragment extends ListFragment implements
         if (!mHasSetEmptyText) {
             // Could be a bug, but calling this twice makes it become visible when it shouldn't
             // be visible.
-            setEmptyText(getString(R.string.empty_vendors));
+            
+        	if (Setup.VENDORS_ON) {
+        		setEmptyText(getString(R.string.empty_vendors));
+        	}
             mHasSetEmptyText = true;
         }
     }

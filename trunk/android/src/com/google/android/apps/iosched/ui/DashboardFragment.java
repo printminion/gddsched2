@@ -24,8 +24,11 @@ import com.google.android.apps.iosched.ui.tablet.SessionsMultiPaneActivity;
 import com.google.android.apps.iosched.ui.tablet.VendorsMultiPaneActivity;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
 import com.google.android.apps.iosched.util.UIUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
+import android.app.Activity;
 import android.content.Intent;
+import android.opengl.Visibility;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -84,6 +87,10 @@ public class DashboardFragment extends Fragment {
             }
         });
 
+        if (!Setup.VENDORS_ON) {
+        	root.findViewById(R.id.home_btn_vendors).setVisibility(View.GONE);
+        }
+        
         root.findViewById(R.id.home_btn_vendors).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 fireTrackerEvent("Sandbox");

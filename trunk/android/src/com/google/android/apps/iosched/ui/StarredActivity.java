@@ -21,6 +21,7 @@ import com.google.android.apps.iosched.provider.ScheduleContract.Sessions;
 import com.google.android.apps.iosched.provider.ScheduleContract.Vendors;
 import com.google.android.apps.iosched.ui.phone.SessionDetailActivity;
 import com.google.android.apps.iosched.ui.phone.VendorDetailActivity;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -130,10 +131,15 @@ public class StarredActivity extends BaseMultiPaneActivity {
         }
 
         // Vendors content comes from reused activity
+        /*
+         * removed vendors
+         */
+        if (Setup.VENDORS_ON) {
         mTabHost.addTab(mTabHost.newTabSpec(TAG_VENDORS)
                 .setIndicator(buildIndicator(R.string.starred_vendors))
                 .setContent(R.id.fragment_vendors));
-    }
+        }
+	}
 
     /**
      * Build a {@link View} to be used as a tab indicator, setting the requested string resource as

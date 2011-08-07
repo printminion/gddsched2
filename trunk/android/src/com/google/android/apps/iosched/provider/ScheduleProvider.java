@@ -296,6 +296,7 @@ public class ScheduleProvider extends ContentProvider {
                 return SearchSuggest.CONTENT_URI;
             }
             default: {
+            	Log.e(TAG, "insert(uri=" + uri + ", values=" + values.toString() + ")");
                 throw new UnsupportedOperationException("Unknown uri: " + uri);
             }
         }
