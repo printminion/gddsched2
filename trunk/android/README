@@ -1,0 +1,83 @@
+
+add libs
+
+-------
+
+fix style.xml
+
+-------
+
+http://www.disgruntledrats.com/?p=27
+
+Create a file called “local.properties” which has the following line, pointing to the Android SDK:
+sdk.dir=<sdk_install_dir>/android-sdk-linux_86
+
+-----------------
+
+Get a worksheet-based feed
+
+http://code.google.com/apis/spreadsheets/data/2.0/developers_guide_protocol.html
+
+all
+https://spreadsheets.google.com/feeds/worksheets/0Akgh73WhU1qHdDFLRFhfXzRkNm8zUmhNS2xQTWpZR3c/private/full
+
+two <entry> tags
+
+Sessions
+
+https://spreadsheets.google.com/feeds/worksheets/0Akgh73WhU1qHdDFLRFhfXzRkNm8zUmhNS2xQTWpZR3c/private/full/od6
+
+Speakers
+
+
+
+
+Original link
+http://spreadsheets.google.com/feeds/list/t0bDxnEqbFO4XuYpkA070Nw/od6/public/basic
+
+Prettyprint
+Queries docu:http://code.google.com/apis/gdata/docs/2.0/reference.html#Queries
+https://spreadsheets.google.com/feeds/list/t0bDxnEqbFO4XuYpkA070Nw/od6/public/basic?prettyprint=true
+
+https://spreadsheets.google.com/feeds/list/0Akgh73WhU1qHdDFLRFhfXzRkNm8zUmhNS2xQTWpZR3c/od6/private/basic?prettyprint=true&fileds=id
+
+
+Partial response
+http://code.google.com/apis/gdata/docs/2.0/reference.html#PartialDocuments
+
+
+Uninstall
+
+$adb uninstall com.google.android.apps.iosched
+
+
+
+replace to 2011-05-10 to 
+F:\!Develop\android\gddshed2\trunk\android\res\xml
+
+
+
+------------------------
+http://www.google.com/events/io/2011/mobile_announcements.html
+http://www.google.com/events/io/2011/embed.html#level1
+http://www.google.com/search?tbs=%22+%20%22mbl%3A1&hl=en&source=hp&biw=1170&bih=668&q=gdd11&btnG=Search
+
+I have put notifications on changes - No                   
+
+Realtime stream
+
+
+-------------
+Original RSS
+https://spreadsheets.google.com/feeds/worksheets/tmaLiaNqIWYYtuuhmIyG0uQ/public/basic
+
+
+@gddcz
+
+Tuesday 18 Oktober
+
+----
+I ve put 
+
+br -----------------
+Friday 16 September

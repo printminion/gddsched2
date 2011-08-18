@@ -16,8 +16,9 @@
 
 package com.google.android.apps.iosched.util;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.ui.HomeActivity;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -119,7 +120,10 @@ public class ActivityHelper {
             return;
         }
 
-        final Intent intent = new Intent(mActivity, HomeActivity.class);
+        
+        //final Intent intent = new Intent(mActivity, HomeActivity.class);
+        final Intent intent = new Intent(mActivity, Setup.HomeActivityClass);
+        
         intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         mActivity.startActivity(intent);
 

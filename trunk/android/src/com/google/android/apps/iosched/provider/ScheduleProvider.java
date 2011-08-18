@@ -28,7 +28,7 @@ import com.google.android.apps.iosched.provider.ScheduleDatabase.SessionsSpeaker
 import com.google.android.apps.iosched.provider.ScheduleDatabase.SessionsTracks;
 import com.google.android.apps.iosched.provider.ScheduleDatabase.Tables;
 import com.google.android.apps.iosched.provider.ScheduleDatabase.VendorsSearchColumns;
-import com.google.android.apps.iosched.service.SyncService;
+import com.google.android.apps.gddsched.service.SyncService;
 import com.google.android.apps.iosched.util.SelectionBuilder;
 
 import android.app.Activity;

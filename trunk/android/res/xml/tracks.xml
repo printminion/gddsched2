@@ -65,6 +65,12 @@
         <abstract>This year the Geo track focuses on helping you connect users to the world around them, manage and visualize a world of spatial data...</abstract>
     </track>
 
+    <track>
+        <name>Orkut</name>
+        <color>#F82790</color>
+        <abstract>This year the Orkut track focuses on helping you...</abstract>
+    </track>
+    
     <!-- Sessions only -->
     <track>
         <name>Google APIs</name>

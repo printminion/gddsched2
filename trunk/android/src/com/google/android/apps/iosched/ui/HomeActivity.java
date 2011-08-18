@@ -16,8 +16,8 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
-import com.google.android.apps.iosched.service.SyncService;
+import com.google.android.apps.gddsched.R;
+import com.google.android.apps.gddsched.service.SyncService;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
 import com.google.android.apps.iosched.util.DetachableResultReceiver;
 import com.google.android.apps.iosched.util.EulaHelper;

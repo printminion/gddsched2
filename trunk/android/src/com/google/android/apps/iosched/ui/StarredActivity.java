@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract.Sessions;
 import com.google.android.apps.iosched.provider.ScheduleContract.Vendors;
 import com.google.android.apps.iosched.ui.phone.SessionDetailActivity;
@@ -134,7 +134,7 @@ public class StarredActivity extends BaseMultiPaneActivity {
         /*
          * removed vendors
          */
-        if (Setup.VENDORS_ON) {
+        if (Setup.FEATURE_VENDORS_ON) {
         mTabHost.addTab(mTabHost.newTabSpec(TAG_VENDORS)
                 .setIndicator(buildIndicator(R.string.starred_vendors))
                 .setContent(R.id.fragment_vendors));

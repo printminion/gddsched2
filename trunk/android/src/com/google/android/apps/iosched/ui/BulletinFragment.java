@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
 
 import android.content.Intent;

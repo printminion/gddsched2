@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.ui.tablet;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract;
 import com.google.android.apps.iosched.ui.BaseActivity;
 import com.google.android.apps.iosched.ui.SessionDetailFragment;
@@ -24,6 +24,7 @@ import com.google.android.apps.iosched.ui.TracksAdapter;
 import com.google.android.apps.iosched.ui.TracksFragment;
 import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
 import com.google.android.apps.iosched.util.UIUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
 import android.content.res.Resources;
@@ -50,7 +51,7 @@ public class TracksDropdownFragment extends Fragment implements
         AdapterView.OnItemClickListener,
         PopupWindow.OnDismissListener {
 
-    public static final String EXTRA_NEXT_TYPE = "com.google.android.iosched.extra.NEXT_TYPE";
+    public static final String EXTRA_NEXT_TYPE = Setup.EXTRA_NEXT_TYPE;// "com.google.android.iosched.extra.NEXT_TYPE";
 
     public static final String NEXT_TYPE_SESSIONS = "sessions";
     public static final String NEXT_TYPE_VENDORS = "vendors";

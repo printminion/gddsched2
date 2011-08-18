@@ -16,12 +16,13 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract;
 import com.google.android.apps.iosched.util.ActivityHelper;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
 import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
 import com.google.android.apps.iosched.util.UIUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Context;
 import android.content.Intent;
@@ -50,8 +51,7 @@ import static com.google.android.apps.iosched.util.UIUtils.formatSessionSubtitle
 public class SessionsFragment extends ListFragment implements
         NotifyingAsyncQueryHandler.AsyncQueryListener {
 
-    public static final String EXTRA_SCHEDULE_TIME_STRING =
-            "com.google.android.iosched.extra.SCHEDULE_TIME_STRING";
+    public static final String EXTRA_SCHEDULE_TIME_STRING = Setup.EXTRA_SCHEDULE_TIME_STRING; //"com.google.android.iosched.extra.SCHEDULE_TIME_STRING";
 
     private static final String STATE_CHECKED_POSITION = "checkedPosition";
 

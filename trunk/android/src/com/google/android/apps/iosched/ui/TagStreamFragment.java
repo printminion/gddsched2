@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
@@ -44,7 +44,7 @@ public class TagStreamFragment extends Fragment {
 
     private static final String TAG = "TagStreamFragment";
 
-    public static final String EXTRA_QUERY = "com.google.android.iosched.extra.QUERY";
+    public static final String EXTRA_QUERY = Setup.EXTRA_QUERY;//"com.google.android.iosched.extra.QUERY";
 
     public static final String CONFERENCE_HASHTAG = Setup.CONFERENCE_HASHTAG;
 

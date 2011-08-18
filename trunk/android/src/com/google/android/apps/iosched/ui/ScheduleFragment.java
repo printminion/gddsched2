@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract;
 import com.google.android.apps.iosched.ui.widget.BlockView;
 import com.google.android.apps.iosched.ui.widget.BlocksLayout;
@@ -88,8 +88,8 @@ public class ScheduleFragment extends Fragment implements
 
     // TODO: show blocks that don't fall into columns at the bottom
 
-    public static final String EXTRA_TIME_START = "com.google.android.iosched.extra.TIME_START";
-    public static final String EXTRA_TIME_END = "com.google.android.iosched.extra.TIME_END";
+    public static final String EXTRA_TIME_START = Setup.EXTRA_TIME_START;// "com.google.android.iosched.extra.TIME_START";
+    public static final String EXTRA_TIME_END = Setup.EXTRA_TIME_END; //"com.google.android.iosched.extra.TIME_END";
 
     private NotifyingAsyncQueryHandler mHandler;
 
@@ -126,7 +126,7 @@ public class ScheduleFragment extends Fragment implements
         /*
          * do not show office hours if not configured
          */
-        if (Setup.OFFICEHOURS_ON) {
+        if (Setup.FEATURE_OFFICEHOURS_ON) {
         	map.put(ParserUtils.BLOCK_TYPE_OFFICE_HOURS, 2);
         }
         

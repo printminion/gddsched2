@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract;
 import com.google.android.apps.iosched.util.ActivityHelper;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
@@ -127,7 +127,7 @@ public class VendorsFragment extends ListFragment implements
             // Could be a bug, but calling this twice makes it become visible when it shouldn't
             // be visible.
             
-        	if (Setup.VENDORS_ON) {
+        	if (Setup.FEATURE_VENDORS_ON) {
         		setEmptyText(getString(R.string.empty_vendors));
         	}
             mHasSetEmptyText = true;

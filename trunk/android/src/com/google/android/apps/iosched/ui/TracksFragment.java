@@ -16,10 +16,11 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
 import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -38,7 +39,7 @@ import android.widget.ListView;
 public class TracksFragment extends ListFragment implements
         NotifyingAsyncQueryHandler.AsyncQueryListener {
 
-    public static final String EXTRA_NEXT_TYPE = "com.google.android.iosched.extra.NEXT_TYPE";
+    public static final String EXTRA_NEXT_TYPE = Setup.EXTRA_NEXT_TYPE; //"com.google.android.iosched.extra.NEXT_TYPE";
 
     public static final String NEXT_TYPE_SESSIONS = "sessions";
     public static final String NEXT_TYPE_VENDORS = "vendors";

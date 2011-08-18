@@ -16,11 +16,12 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract;
 import com.google.android.apps.iosched.provider.ScheduleContract.Rooms;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
 import com.google.android.apps.iosched.util.ParserUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -48,7 +49,7 @@ public class MapFragment extends Fragment {
     /**
      * When specified, will automatically point the map to the requested room.
      */
-    public static final String EXTRA_ROOM = "com.google.android.iosched.extra.ROOM";
+    public static final String EXTRA_ROOM = Setup.EXTRA_ROOM;// "com.google.android.iosched.extra.ROOM";
 
     private static final String MAP_JSI_NAME = "MAP_CONTAINER";
     private static final String MAP_URL = "http://www.google.com/events/io/2011/embed.html";

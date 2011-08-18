@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract;
 import com.google.android.apps.iosched.ui.phone.ScheduleActivity;
 import com.google.android.apps.iosched.ui.tablet.ScheduleMultiPaneActivity;
@@ -87,8 +87,8 @@ public class DashboardFragment extends Fragment {
             }
         });
 
-        if (!Setup.VENDORS_ON) {
-        	root.findViewById(R.id.home_btn_vendors).setVisibility(View.GONE);
+        if (!Setup.FEATURE_VENDORS_ON) {
+        	root.findViewById(R.id.home_btn_vendors).setVisibility(View.INVISIBLE);
         }
         
         root.findViewById(R.id.home_btn_vendors).setOnClickListener(new View.OnClickListener() {
@@ -108,6 +108,10 @@ public class DashboardFragment extends Fragment {
             }
         });
 
+        if (!Setup.FEATURE_MAP_ON) {
+        	root.findViewById(R.id.home_btn_map).setVisibility(View.INVISIBLE);
+        }
+        
         root.findViewById(R.id.home_btn_map).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 // Launch map of conference venue
@@ -117,6 +121,10 @@ public class DashboardFragment extends Fragment {
             }
         });
 
+        if (!Setup.FEATURE_ANNOUNCEMENTS_ON) {
+        	root.findViewById(R.id.home_btn_announcements).setVisibility(View.INVISIBLE);
+        }
+        
         root.findViewById(R.id.home_btn_announcements).setOnClickListener(
                 new View.OnClickListener() {
                     public void onClick(View view) {

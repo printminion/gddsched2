@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.ui;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract;
 import com.google.android.apps.iosched.util.ActivityHelper;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
@@ -25,6 +25,7 @@ import com.google.android.apps.iosched.util.CatchNotesHelper;
 import com.google.android.apps.iosched.util.FractionalTouchDelegate;
 import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
 import com.google.android.apps.iosched.util.UIUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.BroadcastReceiver;
 import android.content.ContentValues;
@@ -68,7 +69,7 @@ public class SessionDetailFragment extends Fragment implements
      * Since sessions can belong tracks, the parent activity can send this extra specifying a
      * track URI that should be used for coloring the title-bar.
      */
-    public static final String EXTRA_TRACK = "com.google.android.iosched.extra.TRACK";
+    public static final String EXTRA_TRACK = Setup.EXTRA_TRACK;// "com.google.android.iosched.extra.TRACK";
 
     private static final String TAG_SUMMARY = "summary";
     private static final String TAG_NOTES = "notes";
@@ -116,6 +117,11 @@ public class SessionDetailFragment extends Fragment implements
         mSessionId = ScheduleContract.Sessions.getSessionId(mSessionUri);
 
         setHasOptionsMenu(true);
+        
+        if (!Setup.FEATURE_MAP_ON) {
+        	//root.findViewById(R.id.menu_map).setVisibility(View.INVISIBLE);
+        }
+        
     }
 
     @Override

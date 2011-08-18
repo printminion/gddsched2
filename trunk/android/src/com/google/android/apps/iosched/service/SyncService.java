@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.service;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.io.LocalBlocksHandler;
 import com.google.android.apps.iosched.io.LocalExecutor;
 import com.google.android.apps.iosched.io.LocalRoomsHandler;
@@ -74,8 +74,7 @@ import java.util.zip.GZIPInputStream;
 public class SyncService extends IntentService {
     private static final String TAG = "SyncService";
 
-    public static final String EXTRA_STATUS_RECEIVER =
-            "com.google.android.iosched.extra.STATUS_RECEIVER";
+    public static final String EXTRA_STATUS_RECEIVER = Setup.EXTRA_STATUS_RECEIVER;//"com.google.android.iosched.extra.STATUS_RECEIVER";
 
     public static final int STATUS_RUNNING = 0x1;
     public static final int STATUS_ERROR = 0x2;
@@ -119,7 +118,7 @@ public class SyncService extends IntentService {
         if (receiver != null) receiver.send(STATUS_RUNNING, Bundle.EMPTY);
 
         final Context context = this;
-        final SharedPreferences prefs = getSharedPreferences(Prefs.IOSCHED_SYNC,
+        final SharedPreferences prefs = getSharedPreferences(Prefs.SCHED_SYNC,
                 Context.MODE_PRIVATE);
         final int localVersion = prefs.getInt(Prefs.LOCAL_VERSION, VERSION_NONE);
 
@@ -141,10 +140,12 @@ public class SyncService extends IntentService {
 
                 // Parse values from local cache first, since spreadsheet copy
                 // or network might be down.
-                mLocalExecutor.execute(context, "cache-sessions.xml", new RemoteSessionsHandler());
-                mLocalExecutor.execute(context, "cache-speakers.xml", new RemoteSpeakersHandler());
-                mLocalExecutor.execute(context, "cache-vendors.xml", new RemoteVendorsHandler());
-
+                mLocalExecutor.execute(context, Setup.EVENT_PREFIX + "cache-sessions.xml", new RemoteSessionsHandler());
+                mLocalExecutor.execute(context, Setup.EVENT_PREFIX + "cache-speakers.xml", new RemoteSpeakersHandler());
+                
+                if (Setup.FEATURE_VENDORS_ON) {
+                	mLocalExecutor.execute(context, Setup.EVENT_PREFIX + "cache-vendors.xml", new RemoteVendorsHandler());
+                }
                 // Save local parsed version
                 prefs.edit().putInt(Prefs.LOCAL_VERSION, VERSION_CURRENT).commit();
             }
@@ -254,7 +255,7 @@ public class SyncService extends IntentService {
     }
 
     private interface Prefs {
-        String IOSCHED_SYNC = "iosched_sync";
+        String SCHED_SYNC = "gddsched_sync";
         String LOCAL_VERSION = "local_version";
     }
 }

@@ -249,8 +249,13 @@ public class RemoteSessionsHandler extends XmlHandler {
 		}
 	}
 
+	/**
+	 * Parse non US time into US time (am/pm)
+	 * @param time
+	 * @return nn:nnam/pm
+	 * @throws HandlerException
+	 */
 	private static String parseBeginTime(String time) throws HandlerException {
-
 		int timeSplit = time.indexOf("-");
 
 		if (timeSplit == -1) {
@@ -266,25 +271,10 @@ public class RemoteSessionsHandler extends XmlHandler {
 			time = time.substring(0, timeSplit);
 		}
 		
-		/*
-		 * TODO convert european time to am/pm
-		 */
-		
-		
-		return time;
-
-		// final String composed = String.format("%s " + Setup.EVENT_YEAR
-		// + " %s -0700", date, time);
-		// try {
-		// return sTimeFormat.parse(composed).getTime();
-		// } catch (java.text.ParseException e) {
-		// throw new HandlerException("Problem parsing timestamp", e);
-		// }
-
+		return parseAbstractTime(time);
 	}
-
+	
 	private static String parseEndTime(String time) throws HandlerException {
-
 		int timeSplit = time.indexOf("-");
 
 		if (timeSplit == -1) {
@@ -293,21 +283,34 @@ public class RemoteSessionsHandler extends XmlHandler {
 		}
 
 		time = time.substring(timeSplit + 1);
-		
+
 		timeSplit = time.indexOf(" ");
 
 		if (timeSplit > -1) {
 			time = time.substring(timeSplit + 1);
 		}
 		
-		/*
-		 * TODO convert european time to am/pm
-		 */
-		
-		
-		return time;
-
+		return parseAbstractTime(time);
 	}
+	
+	private static String parseAbstractTime(String time) throws HandlerException {
+		
+		final String ampm = time.substring(time.length() - 2);
+		if (ampm.equals("am") || ampm.equals("pm")) {
+			return time;
+		}
+		
+		final String[] timeArr = time.split(":");
+		
+		if (Integer.valueOf(timeArr[0]) <= 12) {
+			return time + "am";
+		}
+		
+		
+		return Integer.valueOf(timeArr[0]) - 12 + ":" + timeArr[1] + "pm";
+		
+	}
+
 
 	private static ContentValues querySessionDetails(Uri uri,
 			ContentResolver resolver) {

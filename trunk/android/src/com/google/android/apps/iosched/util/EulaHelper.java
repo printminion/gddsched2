@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.util;
 
-import com.google.android.apps.iosched.R;
+import com.google.android.apps.gddsched.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;

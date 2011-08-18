@@ -17,6 +17,7 @@
 package com.google.android.apps.iosched.provider;
 
 import com.google.android.apps.iosched.util.ParserUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.app.SearchManager;
 import android.graphics.Color;
@@ -154,7 +155,7 @@ public class ScheduleContract {
         String VENDOR_STARRED = "vendor_starred";
     }
 
-    public static final String CONTENT_AUTHORITY = "com.google.android.apps.iosched";
+    public static final String CONTENT_AUTHORITY = Setup.CONTENT_AUTHORITY;
 
     private static final Uri BASE_CONTENT_URI = Uri.parse("content://" + CONTENT_AUTHORITY);
 

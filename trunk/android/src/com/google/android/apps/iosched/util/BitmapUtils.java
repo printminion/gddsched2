@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched.util;
 
-import com.google.android.apps.iosched.service.SyncService;
+import com.google.android.apps.gddsched.service.SyncService;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
