@@ -197,16 +197,16 @@ public class SearchActivity extends BaseMultiPaneActivity {
 			// The layout we currently have has a detail container, we can add
 			// fragments there.
 			findViewById(android.R.id.empty).setVisibility(View.GONE);
-			if (SessionDetailActivity.class.getName().equals(activityClassName)) {
+			if (Setup.SessionDetailActivityClass.getName().equals(activityClassName)) {
 				clearSelectedItems();
 				return new BaseMultiPaneActivity.FragmentReplaceInfo(
-						SessionDetailFragment.class, "session_detail",
+						Setup.SessionDetailFragmentClass, "session_detail",
 						R.id.fragment_container_search_detail);
-			} else if (VendorDetailActivity.class.getName().equals(
+			} else if (Setup.VendorDetailActivityClass.getName().equals(
 					activityClassName)) {
 				clearSelectedItems();
 				return new BaseMultiPaneActivity.FragmentReplaceInfo(
-						VendorDetailFragment.class, "vendor_detail",
+						Setup.VendorDetailFragmentClass, "vendor_detail",
 						R.id.fragment_container_search_detail);
 			}
 		}

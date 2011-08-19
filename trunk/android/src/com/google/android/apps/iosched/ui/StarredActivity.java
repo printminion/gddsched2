@@ -157,16 +157,16 @@ public class StarredActivity extends BaseMultiPaneActivity {
         if (findViewById(R.id.fragment_container_starred_detail) != null) {
             // The layout we currently have has a detail container, we can add fragments there.
             findViewById(android.R.id.empty).setVisibility(View.GONE);
-            if (SessionDetailActivity.class.getName().equals(activityClassName)) {
+            if (Setup.SessionDetailActivityClass.getName().equals(activityClassName)) {
                 clearSelectedItems();
                 return new FragmentReplaceInfo(
-                        SessionDetailFragment.class,
+                        Setup.SessionDetailFragmentClass,
                         "session_detail",
                         R.id.fragment_container_starred_detail);
-            } else if (VendorDetailActivity.class.getName().equals(activityClassName)) {
+            } else if (Setup.VendorDetailActivityClass.getName().equals(activityClassName)) {
                 clearSelectedItems();
                 return new FragmentReplaceInfo(
-                        VendorDetailFragment.class,
+                        Setup.VendorDetailFragmentClass,
                         "vendor_detail",
                         R.id.fragment_container_starred_detail);
             }

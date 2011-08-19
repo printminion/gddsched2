@@ -16,21 +16,7 @@
 
 package com.google.android.apps.gddsched.ui.phone;
 
-import com.google.android.apps.iosched.ui.BaseSinglePaneActivity;
-import com.google.android.apps.iosched.ui.VendorDetailFragment;
+public class VendorDetailActivity extends
+		com.google.android.apps.iosched.ui.phone.VendorDetailActivity {
 
-import android.os.Bundle;
-import android.support.v4.app.Fragment;
-
-public class VendorDetailActivity extends BaseSinglePaneActivity {
-    @Override
-    protected Fragment onCreatePane() {
-        return new VendorDetailFragment();
-    }
-
-    @Override
-    protected void onPostCreate(Bundle savedInstanceState) {
-        super.onPostCreate(savedInstanceState);
-        getActivityHelper().setupSubActivity();
-    }
 }

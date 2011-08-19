@@ -21,6 +21,7 @@ import com.google.android.apps.iosched.provider.ScheduleContract;
 import com.google.android.apps.iosched.ui.tablet.NowPlayingMultiPaneActivity;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
 import com.google.android.apps.iosched.util.UIUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -93,7 +94,9 @@ public class WhatsOnFragment extends Fragment {
                 public void onClick(View view) {
                     AnalyticsUtils.getInstance(getActivity()).trackEvent(
                             "Home Screen Dashboard", "Click", "Realtime Stream", 0);
-                    Intent intent = new Intent(getActivity(), TagStreamActivity.class);
+                    //Intent intent = new Intent(getActivity(), TagStreamActivity.class);
+                    Intent intent = new Intent(getActivity(), Setup.TagStreamActivityClass);
+                    
                     startActivity(intent);
                 }
             });
@@ -122,7 +125,9 @@ public class WhatsOnFragment extends Fragment {
         view.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 if (UIUtils.isHoneycombTablet(getActivity())) {
-                    startActivity(new Intent(getActivity(), NowPlayingMultiPaneActivity.class));
+                    //startActivity(new Intent(getActivity(), NowPlayingMultiPaneActivity.class));
+                    startActivity(new Intent(getActivity(), Setup.NowPlayingMultiPaneActivityClass));
+                    
                 } else {
                     Intent intent = new Intent(Intent.ACTION_VIEW);
                     intent.setData(ScheduleContract.Sessions

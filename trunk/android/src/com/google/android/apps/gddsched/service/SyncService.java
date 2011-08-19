@@ -16,13 +16,12 @@
 
 package com.google.android.apps.gddsched.service;
 
-
-
 /**
  * Background {@link Service} that synchronizes data living in
  * {@link ScheduleProvider}. Reads data from both local {@link Resources} and
  * from remote sources, such as a spreadsheet.
  */
-public class SyncService extends com.google.android.apps.iosched.service.SyncService {
-  
+public class SyncService extends
+		com.google.android.apps.iosched.service.SyncService {
+
 }

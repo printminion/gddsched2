@@ -16,21 +16,7 @@
 
 package com.google.android.apps.gddsched.ui.phone;
 
-import com.google.android.apps.iosched.ui.BaseSinglePaneActivity;
-import com.google.android.apps.iosched.ui.SessionDetailFragment;
+public class SessionDetailActivity extends
+		com.google.android.apps.iosched.ui.phone.SessionDetailActivity {
 
-import android.os.Bundle;
-import android.support.v4.app.Fragment;
-
-public class SessionDetailActivity extends BaseSinglePaneActivity {
-    @Override
-    protected Fragment onCreatePane() {
-        return new SessionDetailFragment();
-    }
-
-    @Override
-    protected void onPostCreate(Bundle savedInstanceState) {
-        super.onPostCreate(savedInstanceState);
-        getActivityHelper().setupSubActivity();
-    }
 }

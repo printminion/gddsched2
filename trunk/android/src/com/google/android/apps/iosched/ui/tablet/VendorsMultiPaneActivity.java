@@ -24,6 +24,7 @@ import com.google.android.apps.iosched.ui.VendorDetailFragment;
 import com.google.android.apps.iosched.ui.VendorsFragment;
 import com.google.android.apps.iosched.ui.phone.VendorDetailActivity;
 import com.google.android.apps.iosched.ui.phone.VendorsActivity;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -72,16 +73,16 @@ public class VendorsMultiPaneActivity extends BaseMultiPaneActivity {
 
     @Override
     public FragmentReplaceInfo onSubstituteFragmentForActivityLaunch(String activityClassName) {
-        if (VendorsActivity.class.getName().equals(activityClassName)) {
+        if (Setup.VendorsActivityClass.getName().equals(activityClassName)) {
             return new FragmentReplaceInfo(
-                    VendorsFragment.class,
+                    Setup.VendorsFragmentClass,
                     "vendors",
                     R.id.fragment_container_vendors);
-        } else if (VendorDetailActivity.class.getName().equals(activityClassName)) {
+        } else if (Setup.VendorDetailActivityClass.getName().equals(activityClassName)) {
             findViewById(R.id.fragment_container_vendor_detail).setBackgroundColor(
                     0xffffffff);
             return new FragmentReplaceInfo(
-                    VendorDetailFragment.class,
+                    Setup.VendorDetailFragmentClass,
                     "vendor_detail",
                     R.id.fragment_container_vendor_detail);
         }

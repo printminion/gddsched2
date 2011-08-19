@@ -3,6 +3,7 @@ package com.kupriyanov.android.apps.gddsched;
 import java.util.Locale;
 import java.util.TimeZone;
 
+import com.google.android.apps.iosched.ui.SessionsFragment;
 import com.google.android.apps.iosched.util.ParserUtils;
 
 public interface Setup {
@@ -84,5 +85,38 @@ public interface Setup {
 	public static final Class<?> ScheduleMultiPaneActivityClass = com.google.android.apps.gddsched.ui.tablet.ScheduleMultiPaneActivity.class;
 	public static final Class<?> MapMultiPaneActivityClass = com.google.android.apps.gddsched.ui.tablet.MapMultiPaneActivity.class;
 	public static final Class<?> NowPlayingMultiPaneActivityClass = com.google.android.apps.gddsched.ui.tablet.NowPlayingMultiPaneActivity.class;
+
+	public static final Class<?> SessionsFragmentClass = com.google.android.apps.gddsched.ui.SessionsFragment.class;
+	public static final Class<?> SessionDetailFragmentClass = com.google.android.apps.gddsched.ui.SessionDetailFragment.class;
+	
+	public static final Class<?> VendorsFragmentClass = com.google.android.apps.gddsched.ui.VendorsFragment.class;
+	public static final Class<?> VendorDetailFragmentClass = com.google.android.apps.gddsched.ui.VendorDetailFragment.class;
+
+//	public static final Class<?> SyncStatusUpdaterFragmentClass = com.google.android.apps.gddsched.ui.SyncStatusUpdaterFragment.class;
+
+
+	
+	public static final String CONTENT_TYPE_BLOCK = "vnd.android.cursor.dir/vnd.gddsched.block";
+	public static final String CONTENT_ITEM_TYPE_BLOCK = "vnd.android.cursor.item/vnd.gddsched.block";
+	
+	public static final String CONTENT_TYPE_TRACK = "vnd.android.cursor.dir/vnd.gddsched.track";
+	public static final String CONTENT_ITEM_TYPE_TRACK = "vnd.android.cursor.item/vnd.gddsched.track";
+	
+	public static final String CONTENT_TYPE_ROOM = "vnd.android.cursor.dir/vnd.gddsched.room";
+	public static final String CONTENT_ITEM_TYPE_ROOM = "vnd.android.cursor.item/vnd.gddsched.room";
+	
+	public static final String CONTENT_TYPE_SESSION = "vnd.android.cursor.dir/vnd.gddsched.session";
+	public static final String CONTENT_ITEM_TYPE_SESSION = "vnd.android.cursor.item/vnd.gddsched.session";
+	
+	public static final String CONTENT_TYPE_SPEAKER = "vnd.android.cursor.dir/vnd.gddsched.speaker";
+	public static final String CONTENT_ITEM_TYPE_SPEAKER = "vnd.android.cursor.item/vnd.gddsched.speaker";
+	
+	public static final String CONTENT_TYPE_VENDOR = "vnd.android.cursor.dir/vnd.gddsched.vendor";
+	public static final String CONTENT_ITEM_TYPE_VENDOR = "vnd.android.cursor.item/vnd.gddsched.vendor";
+	
+	
+	
+	
+
 
 }

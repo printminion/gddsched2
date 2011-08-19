@@ -1,8 +1,7 @@
 @echo off
 
 
-echo verbose on
+echo turn verbose on
 
-adb uninstall com.google.android.apps.gddsched
 
 pause

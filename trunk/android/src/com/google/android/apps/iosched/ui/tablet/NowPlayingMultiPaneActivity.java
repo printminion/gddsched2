@@ -22,6 +22,7 @@ import com.google.android.apps.iosched.ui.BaseMultiPaneActivity;
 import com.google.android.apps.iosched.ui.SessionDetailFragment;
 import com.google.android.apps.iosched.ui.SessionsFragment;
 import com.google.android.apps.iosched.ui.phone.SessionDetailActivity;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -72,10 +73,10 @@ public class NowPlayingMultiPaneActivity extends BaseMultiPaneActivity {
     public FragmentReplaceInfo onSubstituteFragmentForActivityLaunch(
             String activityClassName) {
         findViewById(android.R.id.empty).setVisibility(View.GONE);
-        if (SessionDetailActivity.class.getName().equals(activityClassName)) {
+        if (Setup.SessionDetailActivityClass.getName().equals(activityClassName)) {
             clearSelectedItems();
             return new FragmentReplaceInfo(
-                    SessionDetailFragment.class,
+                    Setup.SessionDetailFragmentClass,
                     "session_detail",
                     R.id.fragment_container_now_playing_detail);
         }

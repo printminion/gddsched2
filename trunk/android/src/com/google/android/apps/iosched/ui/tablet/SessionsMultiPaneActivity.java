@@ -24,6 +24,7 @@ import com.google.android.apps.iosched.ui.SessionsFragment;
 import com.google.android.apps.iosched.ui.TracksFragment;
 import com.google.android.apps.iosched.ui.phone.SessionDetailActivity;
 import com.google.android.apps.iosched.ui.phone.SessionsActivity;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -70,16 +71,16 @@ public class SessionsMultiPaneActivity extends BaseMultiPaneActivity {
 
     @Override
     public FragmentReplaceInfo onSubstituteFragmentForActivityLaunch(String activityClassName) {
-        if (SessionsActivity.class.getName().equals(activityClassName)) {
+        if (Setup.SessionsActivityClass.getName().equals(activityClassName)) {
             return new FragmentReplaceInfo(
-                    SessionsFragment.class,
+                    Setup.SessionsFragmentClass,
                     "sessions",
                     R.id.fragment_container_sessions);
-        } else if (SessionDetailActivity.class.getName().equals(activityClassName)) {
+        } else if (Setup.SessionDetailActivityClass.getName().equals(activityClassName)) {
             findViewById(R.id.fragment_container_session_detail).setBackgroundColor(
                     0xffffffff);
             return new FragmentReplaceInfo(
-                    SessionDetailFragment.class,
+            		Setup.SessionDetailFragmentClass,
                     "session_detail",
                     R.id.fragment_container_session_detail);
         }

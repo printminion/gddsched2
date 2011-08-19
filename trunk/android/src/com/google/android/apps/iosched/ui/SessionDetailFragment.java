@@ -291,7 +291,9 @@ public class SessionDetailFragment extends Fragment implements
 
                 mTagDisplay.setOnClickListener(new View.OnClickListener() {
                     public void onClick(View v) {
-                        Intent intent = new Intent(getActivity(), TagStreamActivity.class);
+                        //Intent intent = new Intent(getActivity(), TagStreamActivity.class);
+                        Intent intent = new Intent(getActivity(), Setup.TagStreamActivityClass);
+                        
                         intent.putExtra(TagStreamFragment.EXTRA_QUERY, getHashtagsString());
                         startActivity(intent);
                     }

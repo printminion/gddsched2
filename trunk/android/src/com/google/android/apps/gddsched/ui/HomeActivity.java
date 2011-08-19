@@ -16,14 +16,14 @@
 
 package com.google.android.apps.gddsched.ui;
 
-
 /**
- * Front-door {@link Activity} that displays high-level features the schedule application offers to
- * users. Depending on whether the device is a phone or an Android 3.0+ tablet, different layouts
- * will be used. For example, on a phone, the primary content is a {@link DashboardFragment},
- * whereas on a tablet, both a {@link DashboardFragment} and a {@link TagStreamFragment} are
- * displayed.
+ * Front-door {@link Activity} that displays high-level features the schedule
+ * application offers to users. Depending on whether the device is a phone or an
+ * Android 3.0+ tablet, different layouts will be used. For example, on a phone,
+ * the primary content is a {@link DashboardFragment}, whereas on a tablet, both
+ * a {@link DashboardFragment} and a {@link TagStreamFragment} are displayed.
  */
-public class HomeActivity extends com.google.android.apps.iosched.ui.HomeActivity {
-    
+public class HomeActivity extends
+		com.google.android.apps.iosched.ui.HomeActivity {
+
 }

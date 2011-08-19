@@ -16,11 +16,11 @@
 
 package com.google.android.apps.gddsched.provider;
 
-
 /**
  * Provider that stores {@link ScheduleContract} data. Data is usually inserted
  * by {@link SyncService}, and queried by various {@link Activity} instances.
  */
-public class ScheduleProvider extends com.google.android.apps.iosched.provider.ScheduleProvider {
- 
+public class ScheduleProvider extends
+		com.google.android.apps.iosched.provider.ScheduleProvider {
+
 }

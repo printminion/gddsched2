@@ -37,16 +37,16 @@
 			</intent-filter>
 		</activity>
 
-		<activity android:name="com.google.android.apps.iosched.ui.BulletinActivity"
+		<activity android:name="com.google.android.apps.gddsched.ui.BulletinActivity"
 			android:label="@string/title_bulletin" />
 
-		<activity android:name="com.google.android.apps.iosched.ui.TagStreamActivity"
+		<activity android:name="com.google.android.apps.gddsched.ui.TagStreamActivity"
 			android:label="@string/title_tagstream" />
 
-		<activity android:name="com.google.android.apps.iosched.ui.StarredActivity"
+		<activity android:name="com.google.android.apps.gddsched.ui.StarredActivity"
 			android:label="@string/title_starred" />
 
-		<activity android:name="com.google.android.apps.iosched.ui.SearchActivity"
+		<activity android:name="com.google.android.apps.gddsched.ui.SearchActivity"
 			android:label="@string/title_search" android:launchMode="singleTop">
 			<intent-filter>
 				<action android:name="android.intent.action.SEARCH" />
@@ -61,7 +61,7 @@
 		<activity android:name="com.google.android.apps.gddsched.ui.phone.ScheduleActivity"
 			android:label="@string/title_schedule" />
 
-		<activity android:name="com.google.android.apps.iosched.ui.phone.TracksActivity"
+		<activity android:name="com.google.android.apps.gddsched.ui.phone.TracksActivity"
 			android:label="@string/title_tracks">
 			<intent-filter>
 				<action android:name="android.intent.action.VIEW" />
@@ -70,7 +70,7 @@
 			</intent-filter>
 		</activity>
 
-		<activity android:name="com.google.android.apps.iosched.ui.phone.SessionsActivity"
+		<activity android:name="com.google.android.apps.gddsched.ui.phone.SessionsActivity"
 			android:label="@string/title_sessions">
 			<intent-filter>
 				<action android:name="android.intent.action.VIEW" />
@@ -81,7 +81,7 @@
 		</activity>
 
 		<activity
-			android:name="com.google.android.apps.iosched.ui.phone.SessionDetailActivity">
+			android:name="com.google.android.apps.gddsched.ui.phone.SessionDetailActivity">
 			<intent-filter>
 				<action android:name="android.intent.action.VIEW" />
 				<category android:name="android.intent.category.DEFAULT" />
@@ -89,7 +89,7 @@
 			</intent-filter>
 		</activity>
 
-		<activity android:name="com.google.android.apps.iosched.ui.phone.VendorsActivity"
+		<activity android:name="com.google.android.apps.gddsched.ui.phone.VendorsActivity"
 			android:label="@string/title_vendors">
 			<intent-filter>
 				<action android:name="android.intent.action.VIEW" />
@@ -100,7 +100,7 @@
 		</activity>
 
 		<activity
-			android:name="com.google.android.apps.iosched.ui.phone.VendorDetailActivity">
+			android:name="com.google.android.apps.gddsched.ui.phone.VendorDetailActivity">
 			<intent-filter>
 				<action android:name="android.intent.action.VIEW" />
 				<category android:name="android.intent.category.DEFAULT" />
@@ -108,25 +108,25 @@
 			</intent-filter>
 		</activity>
 
-		<activity android:name="com.google.android.apps.iosched.ui.phone.MapActivity"
+		<activity android:name="com.google.android.apps.gddsched.ui.phone.MapActivity"
 			android:label="@string/title_map" android:configChanges="orientation|keyboardHidden" />
 
 		<!-- Tablet-only activities -->
 
 		<activity
-			android:name="com.google.android.apps.iosched.ui.tablet.SessionsMultiPaneActivity"
+			android:name="com.google.android.apps.gddsched.ui.tablet.SessionsMultiPaneActivity"
 			android:label="@string/title_sessions" />
 		<activity
-			android:name="com.google.android.apps.iosched.ui.tablet.VendorsMultiPaneActivity"
+			android:name="com.google.android.apps.gddsched.ui.tablet.VendorsMultiPaneActivity"
 			android:label="@string/title_vendors" />
 		<activity
-			android:name="com.google.android.apps.iosched.ui.tablet.ScheduleMultiPaneActivity"
+			android:name="com.google.android.apps.gddsched.ui.tablet.ScheduleMultiPaneActivity"
 			android:label="@string/title_schedule" />
 		<activity
-			android:name="com.google.android.apps.iosched.ui.tablet.MapMultiPaneActivity"
+			android:name="com.google.android.apps.gddsched.ui.tablet.MapMultiPaneActivity"
 			android:label="@string/title_map" android:configChanges="orientation|keyboardHidden" />
 		<activity
-			android:name="com.google.android.apps.iosched.ui.tablet.NowPlayingMultiPaneActivity"
+			android:name="com.google.android.apps.gddsched.ui.tablet.NowPlayingMultiPaneActivity"
 			android:label="@string/title_now_playing" />
 
 		<!-- Used for install referrer tracking -->
@@ -141,7 +141,7 @@
 
 		<!-- changed com.google.android.apps.iosched to com.google.android.apps.gddsched -->
 		<meta-data android:name="android.app.default_searchable"
-			android:value="com.google.android.apps.iosched.ui.SearchActivity" />
+			android:value="com.google.android.apps.gddsched.ui.SearchActivity" />
 
 		<service android:name="com.google.android.apps.gddsched.service.SyncService" />
 

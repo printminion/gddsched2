@@ -16,18 +16,7 @@
 
 package com.google.android.apps.gddsched.ui;
 
-import android.os.Bundle;
-import android.support.v4.app.Fragment;
+public class BulletinActivity extends
+		com.google.android.apps.iosched.ui.BulletinActivity {
 
-public class BulletinActivity extends BaseSinglePaneActivity {
-    @Override
-    protected Fragment onCreatePane() {
-        return new BulletinFragment();
-    }
-
-    @Override
-    protected void onPostCreate(Bundle savedInstanceState) {
-        super.onPostCreate(savedInstanceState);
-        getActivityHelper().setupSubActivity();
-    }    
 }

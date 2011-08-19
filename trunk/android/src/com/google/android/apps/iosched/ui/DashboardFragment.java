@@ -52,9 +52,12 @@ public class DashboardFragment extends Fragment {
             public void onClick(View view) {
                 fireTrackerEvent("Schedule");
                 if (UIUtils.isHoneycombTablet(getActivity())) {
-                    startActivity(new Intent(getActivity(), ScheduleMultiPaneActivity.class));
+                    //startActivity(new Intent(getActivity(), ScheduleMultiPaneActivity.class));
+                	startActivity(new Intent(getActivity(), Setup.ScheduleMultiPaneActivityClass));
                 } else {
-                    startActivity(new Intent(getActivity(), ScheduleActivity.class));
+                    //startActivity(new Intent(getActivity(), ScheduleActivity.class));
+                    startActivity(new Intent(getActivity(), Setup.ScheduleActivityClass));
+                    
                 }
                 
             }
@@ -66,7 +69,9 @@ public class DashboardFragment extends Fragment {
                 fireTrackerEvent("Sessions");
                 // Launch sessions list
                 if (UIUtils.isHoneycombTablet(getActivity())) {
-                    startActivity(new Intent(getActivity(), SessionsMultiPaneActivity.class));
+                    //startActivity(new Intent(getActivity(), SessionsMultiPaneActivity.class));
+                    startActivity(new Intent(getActivity(), Setup.SessionsMultiPaneActivityClass));
+                    
                 } else {
                     final Intent intent = new Intent(Intent.ACTION_VIEW,
                             ScheduleContract.Tracks.CONTENT_URI);
@@ -83,7 +88,9 @@ public class DashboardFragment extends Fragment {
             public void onClick(View view) {
                 fireTrackerEvent("Starred");
                 // Launch list of sessions and vendors the user has starred
-                startActivity(new Intent(getActivity(), StarredActivity.class));                
+                //startActivity(new Intent(getActivity(), StarredActivity.class));
+                startActivity(new Intent(getActivity(), Setup.StarredActivityClass));
+                
             }
         });
 
@@ -96,7 +103,9 @@ public class DashboardFragment extends Fragment {
                 fireTrackerEvent("Sandbox");
                 // Launch vendors list
                 if (UIUtils.isHoneycombTablet(getActivity())) {
-                    startActivity(new Intent(getActivity(), VendorsMultiPaneActivity.class));
+                    //startActivity(new Intent(getActivity(), VendorsMultiPaneActivity.class));
+                    startActivity(new Intent(getActivity(), Setup.VendorsMultiPaneActivityClass));
+                    
                 } else {
                     final Intent intent = new Intent(Intent.ACTION_VIEW,
                             ScheduleContract.Tracks.CONTENT_URI);
@@ -130,7 +139,9 @@ public class DashboardFragment extends Fragment {
                     public void onClick(View view) {
                         // splicing in tag streamer
                         fireTrackerEvent("Bulletin");
-                        Intent intent = new Intent(getActivity(), BulletinActivity.class);
+                        //Intent intent = new Intent(getActivity(), BulletinActivity.class);
+                        Intent intent = new Intent(getActivity(), Setup.BulletinActivityClass);
+                        
                         startActivity(intent);
                     }
                 });

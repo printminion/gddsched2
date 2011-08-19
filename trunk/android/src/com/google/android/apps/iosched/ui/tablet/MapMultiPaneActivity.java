@@ -27,6 +27,7 @@ import com.google.android.apps.iosched.ui.phone.SessionDetailActivity;
 import com.google.android.apps.iosched.ui.phone.SessionsActivity;
 import com.google.android.apps.iosched.ui.phone.VendorDetailActivity;
 import com.google.android.apps.iosched.ui.phone.VendorsActivity;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.app.FragmentBreadCrumbs;
 import android.os.Bundle;
@@ -94,34 +95,34 @@ public class MapMultiPaneActivity extends BaseMultiPaneActivity implements
 
     @Override
     public FragmentReplaceInfo onSubstituteFragmentForActivityLaunch(String activityClassName) {
-        if (SessionsActivity.class.getName().equals(activityClassName)) {
+        if (Setup.SessionsActivityClass.getName().equals(activityClassName)) {
             clearBackStack(getSupportFragmentManager());
             mPopupType = POPUP_TYPE_SESSIONS;
             showHideDetailAndPan(true);
             return new FragmentReplaceInfo(
-                    SessionsFragment.class,
+                    Setup.SessionsFragmentClass,
                     "sessions",
                     R.id.fragment_container_map_detail);
-        } else if (SessionDetailActivity.class.getName().equals(activityClassName)) {
+        } else if (Setup.SessionDetailActivityClass.getName().equals(activityClassName)) {
             mPopupType = POPUP_TYPE_SESSIONS;
             showHideDetailAndPan(true);
             return new FragmentReplaceInfo(
-                    SessionDetailFragment.class,
+                    Setup.SessionDetailFragmentClass,
                     "session_detail",
                     R.id.fragment_container_map_detail);
-        } else if (VendorsActivity.class.getName().equals(activityClassName)) {
+        } else if (Setup.VendorsActivityClass.getName().equals(activityClassName)) {
             clearBackStack(getSupportFragmentManager());
             mPopupType = POPUP_TYPE_VENDORS;
             showHideDetailAndPan(true);
             return new FragmentReplaceInfo(
-                    VendorsFragment.class,
+                    Setup.VendorsFragmentClass,
                     "vendors",
                     R.id.fragment_container_map_detail);
-        } else if (VendorDetailActivity.class.getName().equals(activityClassName)) {
+        } else if (Setup.VendorDetailActivityClass.getName().equals(activityClassName)) {
             mPopupType = POPUP_TYPE_VENDORS;
             showHideDetailAndPan(true);
             return new FragmentReplaceInfo(
-                    VendorDetailFragment.class,
+                    Setup.VendorDetailFragmentClass,
                     "vendor_detail",
                     R.id.fragment_container_map_detail);
         }

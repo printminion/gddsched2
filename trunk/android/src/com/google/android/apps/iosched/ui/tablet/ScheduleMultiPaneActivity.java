@@ -22,6 +22,7 @@ import com.google.android.apps.iosched.ui.SessionDetailFragment;
 import com.google.android.apps.iosched.ui.SessionsFragment;
 import com.google.android.apps.iosched.ui.phone.SessionDetailActivity;
 import com.google.android.apps.iosched.ui.phone.SessionsActivity;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.app.FragmentBreadCrumbs;
 import android.os.Bundle;
@@ -71,17 +72,17 @@ public class ScheduleMultiPaneActivity extends BaseMultiPaneActivity implements
 
     @Override
     public FragmentReplaceInfo onSubstituteFragmentForActivityLaunch(String activityClassName) {
-        if (SessionsActivity.class.getName().equals(activityClassName)) {
+        if (Setup.SessionsActivityClass.getName().equals(activityClassName)) {
             getSupportFragmentManager().popBackStack();
             findViewById(R.id.fragment_container_schedule_detail).setBackgroundColor(0);
             return new FragmentReplaceInfo(
-                    SessionsFragment.class,
+                    Setup.SessionsFragmentClass,
                     "sessions",
                     R.id.fragment_container_schedule_detail);
-        } else if (SessionDetailActivity.class.getName().equals(activityClassName)) {
+        } else if (Setup.SessionDetailActivityClass.getName().equals(activityClassName)) {
             findViewById(R.id.fragment_container_schedule_detail).setBackgroundColor(0);
             return new FragmentReplaceInfo(
-                    SessionDetailFragment.class,
+                    Setup.SessionDetailFragmentClass,
                     "session_detail",
                     R.id.fragment_container_schedule_detail);
         }
