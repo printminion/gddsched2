@@ -18,7 +18,6 @@ package com.google.android.apps.iosched.ui;
 
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract;
-import com.google.android.apps.iosched.ui.tablet.NowPlayingMultiPaneActivity;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
 import com.google.android.apps.iosched.util.UIUtils;
 import com.kupriyanov.android.apps.gddsched.Setup;

@@ -19,8 +19,6 @@ package com.google.android.apps.iosched.ui;
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract.Sessions;
 import com.google.android.apps.iosched.provider.ScheduleContract.Vendors;
-import com.google.android.apps.iosched.ui.phone.SessionDetailActivity;
-import com.google.android.apps.iosched.ui.phone.VendorDetailActivity;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
@@ -61,7 +59,10 @@ public class StarredActivity extends BaseMultiPaneActivity {
         mTabHost.setup();
 
         setupSessionsTab();
-        setupVendorsTab();
+        
+        if (Setup.FEATURE_VENDORS_ON) {
+        	setupVendorsTab();
+        }
     }
 
     @Override

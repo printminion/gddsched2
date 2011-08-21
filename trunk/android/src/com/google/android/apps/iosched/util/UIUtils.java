@@ -19,8 +19,6 @@ package com.google.android.apps.iosched.util;
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract.Blocks;
 import com.google.android.apps.iosched.provider.ScheduleContract.Rooms;
-import com.google.android.apps.iosched.ui.phone.MapActivity;
-import com.google.android.apps.iosched.ui.tablet.MapMultiPaneActivity;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Context;

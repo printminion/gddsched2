@@ -18,17 +18,11 @@ package com.google.android.apps.iosched.ui;
 
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract;
-import com.google.android.apps.iosched.ui.phone.ScheduleActivity;
-import com.google.android.apps.iosched.ui.tablet.ScheduleMultiPaneActivity;
-import com.google.android.apps.iosched.ui.tablet.SessionsMultiPaneActivity;
-import com.google.android.apps.iosched.ui.tablet.VendorsMultiPaneActivity;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
 import com.google.android.apps.iosched.util.UIUtils;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
-import android.app.Activity;
 import android.content.Intent;
-import android.opengl.Visibility;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;

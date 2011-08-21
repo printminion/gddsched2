@@ -23,10 +23,6 @@ import com.google.android.apps.iosched.ui.SessionDetailFragment;
 import com.google.android.apps.iosched.ui.SessionsFragment;
 import com.google.android.apps.iosched.ui.VendorDetailFragment;
 import com.google.android.apps.iosched.ui.VendorsFragment;
-import com.google.android.apps.iosched.ui.phone.SessionDetailActivity;
-import com.google.android.apps.iosched.ui.phone.SessionsActivity;
-import com.google.android.apps.iosched.ui.phone.VendorDetailActivity;
-import com.google.android.apps.iosched.ui.phone.VendorsActivity;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.app.FragmentBreadCrumbs;

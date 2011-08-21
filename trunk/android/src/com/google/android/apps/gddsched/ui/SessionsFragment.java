@@ -16,14 +16,12 @@
 
 package com.google.android.apps.gddsched.ui;
 
-import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
 import android.support.v4.app.ListFragment;
 
 /**
  * A {@link ListFragment} showing a list of sessions.
  */
 public class SessionsFragment extends
-		com.google.android.apps.iosched.ui.SessionsFragment implements
-		NotifyingAsyncQueryHandler.AsyncQueryListener {
+		com.google.android.apps.iosched.ui.SessionsFragment {
 
 }

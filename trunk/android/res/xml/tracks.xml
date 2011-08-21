@@ -35,8 +35,14 @@
         <abstract>App Engine is a powerful cloud computing platform which lets you build and run your apps on Google's reliable, scalable infrastructure.</abstract>
     </track>
 
-    <track>
+<!--     <track>
         <name>Chrome</name>
+        <color>#0FABFF</color>
+        <abstract>Users know Google Chrome for its speed, stability, and security. We also have a lot to offer developers, including developer tools...</abstract>
+    </track>
+ -->
+   <track>
+        <name>Chrome &amp; HTML5</name>
         <color>#0FABFF</color>
         <abstract>Users know Google Chrome for its speed, stability, and security. We also have a lot to offer developers, including developer tools...</abstract>
     </track>
@@ -64,9 +70,15 @@
         <color>#007D5D</color>
         <abstract>This year the Geo track focuses on helping you connect users to the world around them, manage and visualize a world of spatial data...</abstract>
     </track>
+    
+    <track>
+        <name>Cloud / Geo</name>
+        <color>#007D5D</color>
+        <abstract>This year the Geo track focuses on helping you connect users to the world around them, manage and visualize a world of spatial data...</abstract>
+    </track>
 
     <track>
-        <name>Orkut</name>
+        <name>Orkut / Social</name>
         <color>#F82790</color>
         <abstract>This year the Orkut track focuses on helping you...</abstract>
     </track>
@@ -97,6 +109,15 @@
         <color>#999999</color>
         <abstract>GDD features Tech Talks on subjects of interest to developers, such as computer science problems, programming languages, and more.</abstract>
     </track>
+
+    <track>
+        <name>Tech Talks / General</name>
+        <color>#999999</color>
+        <abstract>GDD features Tech Talks on subjects of interest to developers, such as computer science problems, programming languages, and more.</abstract>
+    </track>
+    
+    
+    
 
     <!-- Sessions only -->
     <track>

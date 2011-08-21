@@ -19,9 +19,7 @@ package com.google.android.apps.iosched.ui.tablet;
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.provider.ScheduleContract.Sessions;
 import com.google.android.apps.iosched.ui.BaseMultiPaneActivity;
-import com.google.android.apps.iosched.ui.SessionDetailFragment;
 import com.google.android.apps.iosched.ui.SessionsFragment;
-import com.google.android.apps.iosched.ui.phone.SessionDetailActivity;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;

@@ -82,6 +82,11 @@ public class RemoteSessionsHandler extends XmlHandler {
 				final SpreadsheetEntry entry = SpreadsheetEntry
 						.fromParser(parser);
 
+				
+//				if (entry.get(Columns.SESSION_TRACK).equals("ignore")) {
+//					continue;
+//				}
+				
 				final String sessionId = sanitizeId(entry
 						.get(Columns.SESSION_TITLE));
 				final Uri sessionUri = Sessions.buildSessionUri(sessionId);
@@ -302,7 +307,7 @@ public class RemoteSessionsHandler extends XmlHandler {
 		
 		final String[] timeArr = time.split(":");
 		
-		if (Integer.valueOf(timeArr[0]) <= 12) {
+		if (Integer.valueOf(timeArr[0]) < 12) {
 			return time + "am";
 		}
 		

@@ -65,7 +65,15 @@ public class ActivityHelper {
         // TODO: call onPreparePanelMenu here as well
         for (int i = 0; i < menu.size(); i++) {
             MenuItem item = menu.getItem(i);
+            
+            /*
+             * dont show menu items if not enabled
+             */
+            if (!Setup.FEATURE_MAP_ON && item.getItemId() == R.id.menu_map) {
+            	continue;
+            }
             addActionButtonCompatFromMenuItem(item);
+            
         }
     }
 

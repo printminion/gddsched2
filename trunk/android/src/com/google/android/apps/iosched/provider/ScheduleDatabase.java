@@ -29,6 +29,7 @@ import com.google.android.apps.iosched.provider.ScheduleContract.Tracks;
 import com.google.android.apps.iosched.provider.ScheduleContract.TracksColumns;
 import com.google.android.apps.iosched.provider.ScheduleContract.Vendors;
 import com.google.android.apps.iosched.provider.ScheduleContract.VendorsColumns;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.app.SearchManager;
 import android.content.Context;
@@ -44,7 +45,7 @@ import android.util.Log;
 public class ScheduleDatabase extends SQLiteOpenHelper {
     private static final String TAG = "ScheduleDatabase";
 
-    private static final String DATABASE_NAME = "schedule.db";
+    private static final String DATABASE_NAME = Setup.EVENT_PREFIX + "schedule.db";
 
     // NOTE: carefully update onUpgrade() when bumping database versions to make
     // sure user data is saved.

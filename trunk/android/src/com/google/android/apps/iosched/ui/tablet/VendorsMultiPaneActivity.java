@@ -22,8 +22,6 @@ import com.google.android.apps.iosched.ui.BaseMultiPaneActivity;
 import com.google.android.apps.iosched.ui.TracksFragment;
 import com.google.android.apps.iosched.ui.VendorDetailFragment;
 import com.google.android.apps.iosched.ui.VendorsFragment;
-import com.google.android.apps.iosched.ui.phone.VendorDetailActivity;
-import com.google.android.apps.iosched.ui.phone.VendorsActivity;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;

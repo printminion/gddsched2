@@ -22,8 +22,6 @@ import com.google.android.apps.iosched.ui.BaseMultiPaneActivity;
 import com.google.android.apps.iosched.ui.SessionDetailFragment;
 import com.google.android.apps.iosched.ui.SessionsFragment;
 import com.google.android.apps.iosched.ui.TracksFragment;
-import com.google.android.apps.iosched.ui.phone.SessionDetailActivity;
-import com.google.android.apps.iosched.ui.phone.SessionsActivity;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
