@@ -18,6 +18,7 @@ package com.google.android.apps.iosched.ui;
 
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched.util.AnalyticsUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -41,8 +42,8 @@ import java.util.regex.Pattern;
 public class BulletinFragment extends Fragment {
 
     private static final Pattern sSiteUrlPattern = Pattern.compile("google\\.com\\/events\\/io");
-    private static final String BULLETIN_URL =
-            "http://www.google.com/events/io/2011/mobile_announcements.html";
+    private static final String BULLETIN_URL = Setup.ANNOUNCEMENT_URL;
+//            "http://www.google.com/events/io/2011/mobile_announcements.html";
 
     private WebView mWebView;
     private View mLoadingSpinner;

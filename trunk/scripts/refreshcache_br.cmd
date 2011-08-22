@@ -7,7 +7,7 @@ cd %~dp0
 %~d0
 
 
-SET KEY=0Akgh73WhU1qHdDhOU3QzdDE0cGx5SWFUV0JCQkoxeGc
+SET KEY=0Akgh73WhU1qHdHdsMFJsbDNocllIYWNBU1BkSG53MFE
 SET EVENTPREFIX=br-
 
 wget -O../android/assets/%EVENTPREFIX%cache-sessions.xml --no-check-certificate http://spreadsheets.google.com/feeds/list/%KEY%/od6/public/basic?prettyprint=true

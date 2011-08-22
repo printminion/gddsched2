@@ -47,8 +47,10 @@ public interface Setup {
 	public static final boolean FEATURE_VENDORS_ON = false;
 	public static final boolean FEATURE_OFFICEHOURS_ON = false;
 	public static final boolean FEATURE_MAP_ON = false;
-	public static final boolean FEATURE_ANNOUNCEMENTS_ON = false;
-
+	
+	public static final boolean FEATURE_ANNOUNCEMENTS_ON = true;
+	public static final String ANNOUNCEMENT_URL = "http://www.google.com/intl/pt-BR/events/developerday/2011/sao-paulo/faq.html";
+	
 	public static final int CONFERENCE_DAYS = 1;
 
 	public static final String EVENT_PREFIX = "br-";
@@ -117,6 +119,8 @@ public interface Setup {
 	
 	public static final String CONTENT_TYPE_VENDOR = "vnd.android.cursor.dir/vnd.gddsched.vendor";
 	public static final String CONTENT_ITEM_TYPE_VENDOR = "vnd.android.cursor.item/vnd.gddsched.vendor";
+
+
 	
 	
 	
