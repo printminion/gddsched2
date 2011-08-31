@@ -22,6 +22,7 @@ import com.google.android.apps.iosched2.util.AnalyticsUtils;
 import com.google.android.apps.iosched2.util.UIUtils;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -31,6 +32,12 @@ import android.view.ViewGroup;
 
 public class SetupFragment extends Fragment {
 
+	private onSetupSelectedListener mListener;
+	
+	public interface onSetupSelectedListener {
+		void setupSelected(int setupId);
+	}
+	
     public void fireTrackerEvent(String label) {
         AnalyticsUtils.getInstance(getActivity()).trackEvent(
                 "Setup Screen Dashboard", "Click", label, 0);
@@ -47,12 +54,65 @@ public class SetupFragment extends Fragment {
         // Attach event handlers
         root.findViewById(R.id.home_btn_sao_pulo).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
-                fireTrackerEvent("Setup/Brasil");
-                
-                
-                getActivity().setResult(1);
-                getActivity().finish();
-                
+                fireTrackerEvent("Setup/BR");
+                mListener.setupSelected(1);
+            }
+            
+        });
+
+        
+        root.findViewById(R.id.home_btn_buenos_aires).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View view) {
+                fireTrackerEvent("Setup/AR");
+                mListener.setupSelected(2);
+            }
+            
+        });
+        
+        root.findViewById(R.id.home_btn_moscow).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View view) {
+                fireTrackerEvent("Setup/RU");
+                mListener.setupSelected(3);
+            }
+            
+        });
+        
+        root.findViewById(R.id.home_btn_prague).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View view) {
+                fireTrackerEvent("Setup/CZ");
+                mListener.setupSelected(4);
+            }
+            
+        });
+        
+        root.findViewById(R.id.home_btn_tokyo).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View view) {
+                fireTrackerEvent("Setup/JP");
+                mListener.setupSelected(5);
+            }
+            
+        });
+        
+        root.findViewById(R.id.home_btn_sydney).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View view) {
+                fireTrackerEvent("Setup/AU");
+                mListener.setupSelected(6);
+            }
+            
+        });
+        
+        root.findViewById(R.id.home_btn_tel_aviv).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View view) {
+                fireTrackerEvent("Setup/IL");
+                mListener.setupSelected(7);
+            }
+            
+        });
+        
+        root.findViewById(R.id.home_btn_berlin).setOnClickListener(new View.OnClickListener() {
+            public void onClick(View view) {
+                fireTrackerEvent("Setup/DE");
+                mListener.setupSelected(8);
             }
             
         });
@@ -140,6 +200,10 @@ public class SetupFragment extends Fragment {
 //                });
 
         return root;
+    }
+    
+    public void onSetupSelected(Context mContext, onSetupSelectedListener mListener) {
+    	this.mListener = mListener;
     }
     
     

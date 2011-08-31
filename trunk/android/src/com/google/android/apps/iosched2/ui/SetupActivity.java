@@ -19,6 +19,7 @@ package com.google.android.apps.iosched2.ui;
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.gddsched.service.SyncService;
 //import com.google.android.apps.iosched2.util.AnalyticsUtils;
+import com.google.android.apps.iosched2.ui.SetupFragment.onSetupSelectedListener;
 import com.google.android.apps.iosched2.util.DetachableResultReceiver;
 import com.google.android.apps.iosched2.util.EulaHelper;
 import com.google.android.apps.iosched2.util.SetupHelper;
@@ -37,16 +38,17 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 /**
- * Front-door {@link Activity} that displays high-level features the schedule application offers to
- * users. Depending on whether the device is a phone or an Android 3.0+ tablet, different layouts
- * will be used. For example, on a phone, the primary content is a {@link DashboardFragment},
- * whereas on a tablet, both a {@link DashboardFragment} and a {@link TagStreamFragment} are
- * displayed.
+ * Front-door {@link Activity} that displays high-level features the schedule
+ * application offers to users. Depending on whether the device is a phone or an
+ * Android 3.0+ tablet, different layouts will be used. For example, on a phone,
+ * the primary content is a {@link DashboardFragment}, whereas on a tablet, both
+ * a {@link DashboardFragment} and a {@link TagStreamFragment} are displayed.
  */
 public class SetupActivity extends BaseActivity {
-    private static final String TAG = "SetupActivity";
+	private static final String TAG = "SetupActivity";
 	private SetupFragment mSetupFragment;
-    @Override
+
+	@Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
@@ -56,15 +58,24 @@ public class SetupActivity extends BaseActivity {
 
         mSetupFragment = (SetupFragment) fm.findFragmentById(R.id.fragment_setup_dashboard);
         
-        mSetupFragment.on
+        
+        mSetupFragment.onSetupSelected(getApplicationContext(), new onSetupSelectedListener() {
+			
+			@Override
+			public void setupSelected(int setupId) {
+				// TODO Auto-generated method stub
+				Toast.makeText(getApplicationContext(), "setupSelected:" + setupId, Toast.LENGTH_SHORT).show();
+				setResult(RESULT_OK);
+				finish();
+			}
+		});
+
     }
-    
-   
-    @Override
-    public void onBackPressed() {
-    	// TODO Auto-generated method stub
-    	super.onBackPressed();
-    }
-    
-    
+
+	@Override
+	public void onBackPressed() {
+		// TODO Auto-generated method stub
+		super.onBackPressed();
+	}
+
 }

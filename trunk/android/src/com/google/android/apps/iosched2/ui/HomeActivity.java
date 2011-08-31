@@ -53,12 +53,19 @@ public class HomeActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        setContentView(R.layout.activity_home);
+        getActivityHelper().setupActionBar(null, 0);
+
+        initUI();
+        
+        
         if (Setup.FEATURE_MULTIEVENT_ON) {
 	        if (!SetupHelper.hasChoosedSetup(this)) {
 	        	
 	        	startActivityForResult(new Intent(this, Setup.SetupActivityClass), RESULT_SETUP);
 	        	
 	        	//SetupHelper.showSetup(this);
+	        	return;
 	        }
         }
         
@@ -68,12 +75,10 @@ public class HomeActivity extends BaseActivity {
             }        
         }
 
-        initUI();
     }
     
     protected void initUI() {
-        setContentView(R.layout.activity_home);
-        getActivityHelper().setupActionBar(null, 0);
+        
 
         FragmentManager fm = getSupportFragmentManager();
 
@@ -94,11 +99,10 @@ public class HomeActivity extends BaseActivity {
     
     @Override
     protected void onActivityResult(int arg0, int arg1, Intent arg2) {
-    
     	
-    	
-    	
-    	initUI();
+        if (Setup.FEATURE_MULTIEVENT_ON) {
+        	triggerRefresh();
+        }
     	
     	super.onActivityResult(arg0, arg1, arg2);
     }
