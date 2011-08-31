@@ -17,6 +17,6 @@
 package com.google.android.apps.gddsched.ui;
 
 public class TagStreamActivity extends
-		com.google.android.apps.iosched.ui.TagStreamActivity {
+		com.google.android.apps.iosched2.ui.TagStreamActivity {
 
 }

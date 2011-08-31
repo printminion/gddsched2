@@ -16,7 +16,8 @@
 
 package com.google.android.apps.gddsched.ui;
 
-import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
+import com.google.android.apps.iosched2.util.NotifyingAsyncQueryHandler;
+
 import android.widget.CompoundButton;
 
 /**
@@ -24,7 +25,7 @@ import android.widget.CompoundButton;
  * title, abstract, time information, speaker photos and bios, etc.
  */
 public class SessionDetailFragment extends
-		com.google.android.apps.iosched.ui.SessionDetailFragment implements
+		com.google.android.apps.iosched2.ui.SessionDetailFragment implements
 		NotifyingAsyncQueryHandler.AsyncQueryListener,
 		CompoundButton.OnCheckedChangeListener {
 

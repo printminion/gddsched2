@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <style name="Theme.IOSched.Home" parent="style/Theme.IOSched">
+    <style name="Theme.iosched2.Home" parent="style/Theme.IOSched">
         <item name="android:windowBackground">@drawable/window_background_home</item>
         <item name="android:actionBarStyle">@null</item>
     </style>

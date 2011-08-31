@@ -21,6 +21,6 @@ package com.google.android.apps.gddsched.provider;
  * by {@link SyncService}, and queried by various {@link Activity} instances.
  */
 public class ScheduleProvider extends
-		com.google.android.apps.iosched.provider.ScheduleProvider {
+		com.google.android.apps.iosched2.provider.ScheduleProvider {
 
 }

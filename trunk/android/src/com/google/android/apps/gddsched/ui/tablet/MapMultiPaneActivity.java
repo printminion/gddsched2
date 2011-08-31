@@ -29,7 +29,7 @@ import android.view.View;
  * {@link FragmentBreadCrumbs}.
  */
 public class MapMultiPaneActivity extends
-		com.google.android.apps.iosched.ui.tablet.MapMultiPaneActivity
+		com.google.android.apps.iosched2.ui.tablet.MapMultiPaneActivity
 		implements View.OnClickListener,
 		FragmentManager.OnBackStackChangedListener {
 

@@ -23,6 +23,6 @@ package com.google.android.apps.gddsched.ui;
  * inherit from it instead of {@link BaseSinglePaneActivity}.
  */
 public class SearchActivity extends
-		com.google.android.apps.iosched.ui.SearchActivity {
+		com.google.android.apps.iosched2.ui.SearchActivity {
 
 }

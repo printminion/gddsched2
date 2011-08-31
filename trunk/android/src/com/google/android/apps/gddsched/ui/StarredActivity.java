@@ -24,6 +24,6 @@ package com.google.android.apps.gddsched.ui;
  * {@link BaseSinglePaneActivity}.
  */
 public class StarredActivity extends
-		com.google.android.apps.iosched.ui.StarredActivity {
+		com.google.android.apps.iosched2.ui.StarredActivity {
 
 }

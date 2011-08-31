@@ -17,6 +17,6 @@
 package com.google.android.apps.gddsched.ui.phone;
 
 public class VendorsActivity extends
-		com.google.android.apps.iosched.ui.phone.VendorsActivity {
+		com.google.android.apps.iosched2.ui.phone.VendorsActivity {
 
 }

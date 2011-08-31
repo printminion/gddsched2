@@ -17,6 +17,6 @@
 package com.google.android.apps.gddsched.ui.phone;
 
 public class SessionDetailActivity extends
-		com.google.android.apps.iosched.ui.phone.SessionDetailActivity {
+		com.google.android.apps.iosched2.ui.phone.SessionDetailActivity {
 
 }

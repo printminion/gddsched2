@@ -30,7 +30,7 @@
             android:layout_height="fill_parent"
             android:layout_weight="1">
 
-            <fragment android:name="com.google.android.apps.iosched.ui.tablet.TracksDropdownFragment"
+            <fragment android:name="com.google.android.apps.iosched2.ui.tablet.TracksDropdownFragment"
                 android:id="@+id/fragment_tracks_dropdown"
                 android:layout_width="fill_parent"
                 android:layout_height="@dimen/thickbar_height" />

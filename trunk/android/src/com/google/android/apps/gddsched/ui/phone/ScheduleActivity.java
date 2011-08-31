@@ -17,6 +17,6 @@
 package com.google.android.apps.gddsched.ui.phone;
 
 public class ScheduleActivity extends
-		com.google.android.apps.iosched.ui.phone.ScheduleActivity {
+		com.google.android.apps.iosched2.ui.phone.ScheduleActivity {
 
 }

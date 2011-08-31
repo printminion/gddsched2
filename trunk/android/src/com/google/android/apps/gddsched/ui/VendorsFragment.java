@@ -16,14 +16,15 @@
 
 package com.google.android.apps.gddsched.ui;
 
-import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
+import com.google.android.apps.iosched2.util.NotifyingAsyncQueryHandler;
+
 import android.support.v4.app.ListFragment;
 
 /**
  * A {@link ListFragment} showing a list of sandbox comapnies.
  */
 public class VendorsFragment extends
-		com.google.android.apps.iosched.ui.VendorsFragment implements
+		com.google.android.apps.iosched2.ui.VendorsFragment implements
 		NotifyingAsyncQueryHandler.AsyncQueryListener {
 
 }

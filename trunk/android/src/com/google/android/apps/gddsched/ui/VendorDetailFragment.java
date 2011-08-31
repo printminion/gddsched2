@@ -16,7 +16,8 @@
 
 package com.google.android.apps.gddsched.ui;
 
-import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
+import com.google.android.apps.iosched2.util.NotifyingAsyncQueryHandler;
+
 import android.widget.CompoundButton;
 
 /**
@@ -24,7 +25,7 @@ import android.widget.CompoundButton;
  * company name, description, product description, logo, etc.
  */
 public class VendorDetailFragment extends
-		com.google.android.apps.iosched.ui.VendorDetailFragment implements
+		com.google.android.apps.iosched2.ui.VendorDetailFragment implements
 		NotifyingAsyncQueryHandler.AsyncQueryListener,
 		CompoundButton.OnCheckedChangeListener {
 

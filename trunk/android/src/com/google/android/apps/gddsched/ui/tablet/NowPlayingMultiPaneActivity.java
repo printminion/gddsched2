@@ -20,6 +20,6 @@ package com.google.android.apps.gddsched.ui.tablet;
  * An activity that shows currently playing sessions in a two-pane view.
  */
 public class NowPlayingMultiPaneActivity extends
-		com.google.android.apps.iosched.ui.tablet.NowPlayingMultiPaneActivity {
+		com.google.android.apps.iosched2.ui.tablet.NowPlayingMultiPaneActivity {
 
 }

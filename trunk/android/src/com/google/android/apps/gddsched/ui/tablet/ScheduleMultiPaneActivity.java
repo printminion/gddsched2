@@ -21,14 +21,14 @@ import android.view.View;
 
 /**
  * A multi-pane activity, where the primary navigation pane is a
- * {@link com.google.android.apps.iosched.ui.ScheduleFragment}, that shows
+ * {@link com.google.android.apps.iosched2.ui.ScheduleFragment}, that shows
  * {@link SessionsFragment} and {@link SessionDetailFragment} as popups.
  * 
  * This activity requires API level 11 or greater because of its use of
  * {@link FragmentBreadCrumbs}.
  */
 public class ScheduleMultiPaneActivity extends
-		com.google.android.apps.iosched.ui.tablet.ScheduleMultiPaneActivity
+		com.google.android.apps.iosched2.ui.tablet.ScheduleMultiPaneActivity
 		implements View.OnClickListener,
 		FragmentManager.OnBackStackChangedListener {
 

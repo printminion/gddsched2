@@ -25,6 +25,6 @@ package com.google.android.apps.gddsched.ui.tablet;
  * {@link TracksDropdownFragment} requires API level 11.
  */
 public class VendorsMultiPaneActivity extends
-		com.google.android.apps.iosched.ui.tablet.VendorsMultiPaneActivity {
+		com.google.android.apps.iosched2.ui.tablet.VendorsMultiPaneActivity {
 
 }

@@ -17,6 +17,6 @@
 package com.google.android.apps.gddsched.ui.phone;
 
 public class MapActivity extends
-		com.google.android.apps.iosched.ui.phone.MapActivity {
+		com.google.android.apps.iosched2.ui.phone.MapActivity {
 
 }

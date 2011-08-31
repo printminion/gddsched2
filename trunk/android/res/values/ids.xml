@@ -23,6 +23,7 @@
     <item type="id" name="fragment_session_detail" />
     <item type="id" name="fragment_vendors" />
     <item type="id" name="fragment_vendor_detail" />
+    
 
     <item type="id" name="menu_refresh_progress" />
 

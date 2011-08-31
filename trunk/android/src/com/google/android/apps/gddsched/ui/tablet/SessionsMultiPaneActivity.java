@@ -24,6 +24,6 @@ package com.google.android.apps.gddsched.ui.tablet;
  * {@link TracksDropdownFragment} requires API level 11.
  */
 public class SessionsMultiPaneActivity extends
-		com.google.android.apps.iosched.ui.tablet.SessionsMultiPaneActivity {
+		com.google.android.apps.iosched2.ui.tablet.SessionsMultiPaneActivity {
 
 }

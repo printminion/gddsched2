@@ -22,6 +22,6 @@ import android.support.v4.app.ListFragment;
  * A {@link ListFragment} showing a list of sessions.
  */
 public class SessionsFragment extends
-		com.google.android.apps.iosched.ui.SessionsFragment {
+		com.google.android.apps.iosched2.ui.SessionsFragment {
 
 }

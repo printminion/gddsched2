@@ -22,6 +22,6 @@ package com.google.android.apps.gddsched.service;
  * from remote sources, such as a spreadsheet.
  */
 public class SyncService extends
-		com.google.android.apps.iosched.service.SyncService {
+		com.google.android.apps.iosched2.service.SyncService {
 
 }

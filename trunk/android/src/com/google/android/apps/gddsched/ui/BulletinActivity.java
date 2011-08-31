@@ -17,6 +17,6 @@
 package com.google.android.apps.gddsched.ui;
 
 public class BulletinActivity extends
-		com.google.android.apps.iosched.ui.BulletinActivity {
+		com.google.android.apps.iosched2.ui.BulletinActivity {
 
 }

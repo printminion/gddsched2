@@ -24,6 +24,6 @@ package com.google.android.apps.gddsched.ui;
  * a {@link DashboardFragment} and a {@link TagStreamFragment} are displayed.
  */
 public class HomeActivity extends
-		com.google.android.apps.iosched.ui.HomeActivity {
+		com.google.android.apps.iosched2.ui.HomeActivity {
 
 }

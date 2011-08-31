@@ -36,7 +36,7 @@
     </style>
 
     <!-- Start with the Holographic Light theme -->
-    <style name="Theme.IOSched.Home" parent="style/Theme.IOSched">
+    <style name="Theme.iosched2.Home" parent="style/Theme.IOSched">
         <item name="android:windowBackground">@drawable/background_noise</item>
     </style>
 

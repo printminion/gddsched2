@@ -16,22 +16,23 @@
 
 package com.google.android.apps.gddsched.ui;
 
-import com.google.android.apps.iosched.ui.widget.BlockView;
-import com.google.android.apps.iosched.ui.widget.BlocksLayout;
-import com.google.android.apps.iosched.ui.widget.ObservableScrollView;
-import com.google.android.apps.iosched.ui.widget.Workspace;
-import com.google.android.apps.iosched.util.NotifyingAsyncQueryHandler;
+import com.google.android.apps.iosched2.ui.widget.BlockView;
+import com.google.android.apps.iosched2.ui.widget.BlocksLayout;
+import com.google.android.apps.iosched2.ui.widget.ObservableScrollView;
+import com.google.android.apps.iosched2.ui.widget.Workspace;
+import com.google.android.apps.iosched2.util.NotifyingAsyncQueryHandler;
+
 import android.view.View;
 
 /**
  * Shows a horizontally-pageable calendar of conference days. Horizontaly paging
  * is achieved using {@link Workspace}, and the primary UI classes for rendering
  * the calendar are
- * {@link com.google.android.apps.iosched.ui.widget.TimeRulerView},
+ * {@link com.google.android.apps.iosched2.ui.widget.TimeRulerView},
  * {@link BlocksLayout}, and {@link BlockView}.
  */
 public class ScheduleFragment extends
-		com.google.android.apps.iosched.ui.ScheduleFragment implements
+		com.google.android.apps.iosched2.ui.ScheduleFragment implements
 		NotifyingAsyncQueryHandler.AsyncQueryListener,
 		ObservableScrollView.OnScrollListener, View.OnClickListener {
 

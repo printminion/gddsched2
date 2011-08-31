@@ -17,6 +17,6 @@
 package com.google.android.apps.gddsched.ui.phone;
 
 public class TracksActivity extends
-		com.google.android.apps.iosched.ui.phone.TracksActivity {
+		com.google.android.apps.iosched2.ui.phone.TracksActivity {
 
 }
