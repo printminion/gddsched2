@@ -49,33 +49,36 @@ public class SetupActivity extends BaseActivity {
 	private SetupFragment mSetupFragment;
 
 	@Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.activity_setup);
-        
-        FragmentManager fm = getSupportFragmentManager();
+		setContentView(R.layout.activity_setup);
 
-        mSetupFragment = (SetupFragment) fm.findFragmentById(R.id.fragment_setup_dashboard);
-        
-        
-        mSetupFragment.onSetupSelected(getApplicationContext(), new onSetupSelectedListener() {
-			
+		FragmentManager fm = getSupportFragmentManager();
+
+		mSetupFragment = (SetupFragment) fm.findFragmentById(R.id.fragment_setup_dashboard);
+
+		mSetupFragment.onSetupSelected(getApplicationContext(), new onSetupSelectedListener() {
+
 			@Override
-			public void setupSelected(int setupId) {
-				// TODO Auto-generated method stub
-				Toast.makeText(getApplicationContext(), "setupSelected:" + setupId, Toast.LENGTH_SHORT).show();
+			public void setupSelected(Setup.EVENT_ID eventId) {
+
+				Toast.makeText(getApplicationContext(), "setupSelected:" + eventId, Toast.LENGTH_SHORT).show();
+
+				SetupHelper.setAcceptedEvent(getApplicationContext(), eventId);
+
 				setResult(RESULT_OK);
 				finish();
 			}
 		});
 
-    }
+	}
 
 	@Override
 	public void onBackPressed() {
-		// TODO Auto-generated method stub
-		super.onBackPressed();
+
+		Toast.makeText(getApplicationContext(), "Please select desired event", Toast.LENGTH_LONG).show();
+
 	}
 
 }

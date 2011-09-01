@@ -7,6 +7,8 @@ import com.google.android.apps.iosched2.util.ParserUtils;
 
 public interface ISetup {
 
+	public static String EVENT_ID_SELECTED = null;
+
 	public static String WORKSHEETS_URL = "";// "http://spreadsheets.google.com/feeds/worksheets/0Akgh73WhU1qHdHJmSUlSb0JIckowX1ZiQkhsYmdkdkE/public/basic";
 
 	public static TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("America/Sao_Paulo");
@@ -51,6 +53,12 @@ public interface ISetup {
 	public static String EVENT_PREFIX = ""; // br-
 	public static String EVENT_PACKAGE_NAME = "gddsched";
 
+	
+	public static String SETUP_PACKAGE_NAME = "com.kupriyanov.android.apps.gddsched";
+
+	
+	
+	
 	public static String CONTENT_AUTHORITY = "com.google.android.apps." + EVENT_PACKAGE_NAME;// com.kupriyanov.android.apps.gddsched";
 
 	public static String EXTRA_TRACK = CONTENT_AUTHORITY + ".extra.TRACK";

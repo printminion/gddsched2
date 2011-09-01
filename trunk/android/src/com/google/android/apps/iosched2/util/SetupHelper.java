@@ -19,6 +19,7 @@ package com.google.android.apps.iosched2.util;
 import java.lang.reflect.Field;
 
 import com.google.android.apps.gddsched.R;
+import com.kupriyanov.android.apps.gddsched.ISetup;
 import com.kupriyanov.android.apps.gddsched.Setup;
 import com.kupriyanov.android.apps.gddsched.SetupBR;
 
@@ -41,77 +42,104 @@ public class SetupHelper {
 
 	public static boolean hasChoosedSetup(final Context context) {
 		SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(context);
-		if (sp.getString("setup_event_prefix", "").equals("")) {
+
+		final String event = sp.getString("setup_event_prefix", "");
+
+		if (event.equals("") || Setup.EVENT_ID_SELECTED == null || Setup.EVENT_ID_SELECTED.equals("")) {
 			return false;
 		}
-		return true;
+
+		if (event.equals(Setup.EVENT_ID_SELECTED)) {
+			return true;
+		}
+
+		setAcceptedEvent(context, Setup.EVENT_ID.valueOf(event));
+
+		return !sp.getString("setup_event_prefix", "").equals("");
 	}
 
-	private static void setAcceptedEvent(final Context context, int item) {
-		new AsyncTask<Void, Void, Void>() {
-			@Override
-			protected Void doInBackground(Void... voids) {
+	public static void setAcceptedEvent(final Context context, final Setup.EVENT_ID item) {
+		// new AsyncTask<Void, Void, Void>() {
+		// @Override
+		// protected Void doInBackground(Void... voids) {
 
-				try {
+		String sClassName = Setup.SETUP_PACKAGE_NAME + ".SetupBR";// android.app.NotificationManager";
 
-					final Field[] fields = SetupBR.class.getFields();
+		@SuppressWarnings("rawtypes")
+		Class setupTarget;
+		try {
+			setupTarget = Class.forName(sClassName);
 
-					for (int i = 0; i < SetupBR.class.getFields().length; i++) {
+			// final Class<ISetup> setupTarget = class.getClasses();
 
-						try {
+			final Field[] fields = setupTarget.getDeclaredFields();
 
-							Log.d(TAG, fields[i].getName() + " = " + fields[i].get(null));
+			for (int i = 0; i < setupTarget.getDeclaredFields().length; i++) {
 
-							Setup.class.getField(fields[i].getName()).set(null, fields[i].get(null));
-							Log.v(TAG, "Set new value of " + fields[i].getName() + " = " +  fields[i].get(null));
+				// try {
 
-						} catch (Exception e) {
-							// TODO: handle exception
-							Log.e(TAG, "Failed to set new value of " + fields[i].getName() + ":" + e.toString());
-						}
+				Log.d(TAG, i + ":" + fields[i].getName() + " = " + fields[i].get(null));
 
-					}
-				} catch (Exception e) {
-					// TODO: handle exception
-				}
+				Setup.class.getDeclaredField(fields[i].getName()).set(null, fields[i].get(null));
+				Log.v(TAG, "Set new value of " + fields[i].getName() + " = " + fields[i].get(null));
 
-				AnalyticsUtils.getInstance(context).trackPageView("/Setup/" + Setup.EVENT_PREFIX);
+				// } catch (Exception e) {
+				// // TODO: handle exception
+				// Log.e(TAG,
+				// "Failed " + i + " to set new value of " +
+				// fields[i].getName() + ":" + e.toString());
+				// }
 
-				SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(context);
-				sp.edit().putString("setup_event_prefix", Setup.EVENT_PREFIX).commit();
-				return null;
 			}
-		}.execute();
-	}
 
-	/**
-	 * Show End User License Agreement.
-	 * 
-	 * @param accepted
-	 *            True IFF user has accepted license already, which means it can
-	 *            be dismissed. If the user hasn't accepted, then the EULA must
-	 *            be accepted or the program exits.
-	 * @param activity
-	 *            Activity started from.
-	 */
-	public static void showSetup(final Activity activity) {
+			AnalyticsUtils.getInstance(context).trackPageView("/Setup/" + Setup.EVENT_PREFIX);
 
-		AnalyticsUtils.getInstance(activity).trackPageView("/Setup");
+			SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(context);
 
-			AlertDialog.Builder builder = new AlertDialog.Builder(activity).setTitle(R.string.setup_text).setIcon(
-				android.R.drawable.ic_dialog_info);
+			Setup.EVENT_ID_SELECTED = item.toString();
 
-		// .setMessage(R.string.setup_text);
+			sp.edit().putString("setup_event_prefix", Setup.EVENT_ID_SELECTED).commit();
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+//		return null;
+		// }
 		//
-
-		builder.setItems(Setup.EVENTS, new DialogInterface.OnClickListener() {
-			public void onClick(DialogInterface dialog, int item) {
-				Toast.makeText(activity, Setup.EVENTS[item], Toast.LENGTH_SHORT).show();
-				setAcceptedEvent(activity, item);
-				dialog.dismiss();
-			}
-		});
-
-		builder.show();
+		// }.execute();
 	}
+
+	// /**
+	// * Show End User License Agreement.
+	// *
+	// * @param accepted
+	// * True IFF user has accepted license already, which means it can
+	// * be dismissed. If the user hasn't accepted, then the EULA must
+	// * be accepted or the program exits.
+	// * @param activity
+	// * Activity started from.
+	// */
+	// public static void showSetup(final Activity activity) {
+	//
+	// AnalyticsUtils.getInstance(activity).trackPageView("/Setup");
+	//
+	// AlertDialog.Builder builder = new
+	// AlertDialog.Builder(activity).setTitle(R.string.setup_text).setIcon(
+	// android.R.drawable.ic_dialog_info);
+	//
+	// // .setMessage(R.string.setup_text);
+	// //
+	//
+	// builder.setItems(Setup.EVENTS_NAMES, new
+	// DialogInterface.OnClickListener() {
+	// public void onClick(DialogInterface dialog, int item) {
+	// Toast.makeText(activity, Setup.EVENTS_NAMES[item],
+	// Toast.LENGTH_SHORT).show();
+	// setAcceptedEvent(activity, item);
+	// dialog.dismiss();
+	// }
+	// });
+	//
+	// builder.show();
+	// }
 }

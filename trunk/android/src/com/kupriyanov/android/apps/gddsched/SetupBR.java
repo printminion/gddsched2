@@ -51,10 +51,10 @@ public class SetupBR implements ISetup {
 	
 	public static final int CONFERENCE_DAYS = 1;
 
-	public static final String EVENT_PREFIX = "br-";
+	public static final String EVENT_PREFIX = "br_";
 
 	public static final String CONTENT_AUTHORITY = "com.google.android.apps.gddsched";// com.kupriyanov.android.apps.gddsched";
 
-	public static final String ANALYTICS_CODE = "UACODE"; //INSERT_YOUR_ANALYTICS_UA_CODE_HERE
+	public static final String ANALYTICS_CODE = "UACODE-BR"; // INSERT_YOUR_ANALYTICS_UA_CODE_HERE
 
 }
