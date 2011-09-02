@@ -1,14 +1,14 @@
 @echo off
 
-echo get data for data...
+echo get data for argentina...
 
 cd %~dp0
 
 %~d0
 
 
-SET KEY=0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc
-SET EVENTPREFIX=br_
+SET KEY=0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE
+SET EVENTPREFIX=ar_
 
 wget -O../android/assets/%EVENTPREFIX%cache-sessions.xml --no-check-certificate http://spreadsheets.google.com/feeds/list/%KEY%/od6/public/basic?prettyprint=true
 
