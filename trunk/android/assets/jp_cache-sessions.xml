@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
+	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic</id>
+	<updated>2011-09-02T20:28:02.345Z</updated>
+	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+	<title type='text'>sessions</title>
+	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic'/>
+	<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic'/>
+	<author>
+		<name>j.prufrock</name>
+		<email>j.prufrock@gmail.com</email>
+	</author>
+	<openSearch:totalResults>25</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/i6mvg</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 2</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00pm - 13:45pm, sessiontrack: Android, sessiontitle: Android の最新情報と重要事項</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/i6mvg'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cpzh4</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 3</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00pm - 14:45pm, sessiontrack: Android, sessiontitle: Android の優れたユーザー エクスペリエンス</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cpzh4'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cre1l</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 4</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00pm - 15:45pm, sessiontrack: Android, sessiontitle: デベロッパー向け Android マーケット</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cre1l'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/chk2m</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 5</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00pm - 16:45pm, sessiontrack: Android, sessiontitle: 日本における Android の成功事例</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/chk2m'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ciyn3</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 6</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00pm - 17:45pm, sessiontrack: Android, sessiontitle: Google TV: Android デベロッパー向けに公開</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ciyn3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ckd7g</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 7</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00pm - 13:45pm, sessiontrack: Chrome &amp; HTML5, sessiontitle: HTML5 最前線</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ckd7g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/clrrx</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 8</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00pm - 14:45pm, sessiontrack: Chrome &amp; HTML5, sessiontitle: 電波が届かない場所でも利用可能に: HTML5 のオフライン機能</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/clrrx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cztg3</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 9</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00pm - 15:45pm, sessiontrack: Chrome &amp; HTML5, sessiontitle: デベロッパーツールのティップス・アンド・トリックス</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cztg3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d180g</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 10</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00pm - 16:45pm, sessiontrack: Chrome &amp; HTML5, sessiontitle: HTML5 と ChromeVox でアプリケーションのアクセシビリティを向上させる</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d180g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cssly</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 11</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00pm - 17:45pm, sessiontrack: Chrome &amp; HTML5</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cssly'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cu76f</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 12</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00pm - 13:45pm, sessiontrack: Cloud, sessiontitle: App Engine 最新機能の活用</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cu76f'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cvlqs</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 13</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00pm - 14:45pm, sessiontrack: Cloud, sessiontitle: Google のクラウド技術を駆使した統合アプリケーションの構築 </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cvlqs'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cx0b9</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 14</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00pm - 15:45pm, sessiontrack: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cx0b9'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d9ney</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 15</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00pm - 16:45pm, sessiontrack: Cloud, sessiontitle: Google Apps との連携: 新しい API、新機能、ベストプラクティス</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d9ney'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/db1zf</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 16</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00pm - 17:45pm, sessiontrack: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/db1zf'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dcgjs</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 17</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00pm - 13:45pm, sessiontrack: Tech Talks / General</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dcgjs'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ddv49</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 18</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00pm - 14:45pm, sessiontrack: Tech Talks / General</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ddv49'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d415a</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 19</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00pm - 15:45pm, sessiontrack: Tech Talks / General</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d415a'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d5fpr</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 20</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00pm - 16:45pm, sessiontrack: Tech Talks / General</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d5fpr'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d6ua4</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 21</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00pm - 17:45pm, sessiontrack: Tech Talks / General, sessiontitle: VC パネル: 企業家精神、起業支援、ベンチャー キャピタル</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d6ua4'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d88ul</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 22</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00pm - 13:45pm, sessiontitle: ウェブアプリにおけるデータアクセスと本人認証のための OAuth と OpenID</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/d88ul'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dkvya</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 23</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00pm - 14:45pm, sessiontitle: 自分のいる場所を見つけてみよう: Google Places API</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dkvya'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/jqtlw</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 24</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00pm - 15:45pm, sessiontitle: グーグル クライシス レスポンス</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/jqtlw'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/jpf1j</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 25</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00pm - 16:45pm, sessiontitle: Google のアプリ内課金でウェブ アプリをマネタイズ</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/jpf1j'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dmair</id>
+		<updated>2011-09-02T20:28:02.345Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 26</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00pm - 17:45pm, sessiontitle: グーグルエンジニアの一日 </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dmair'/>
+	</entry>
+</feed>
