@@ -3,9 +3,13 @@ package com.kupriyanov.android.apps.gddsched;
 import java.util.Locale;
 import java.util.TimeZone;
 
+import com.google.android.apps.gddsched.R.xml;
 import com.google.android.apps.iosched2.util.ParserUtils;
 
 public interface ISetup {
+
+	public static int BLOCKS_XML = xml.blocks;
+	public static int ROOMS_XML = xml.rooms;
 
 	public static String EVENT_ID_SELECTED = null;
 
@@ -45,7 +49,6 @@ public interface ISetup {
 	public static boolean FEATURE_ANNOUNCEMENTS_ON = false;
 	public static boolean FEATURE_MULTIEVENT_ON = true;
 
-	
 	public static String ANNOUNCEMENT_URL = "http://www.google.com/intl/pt-BR/events/developerday/2011/sao-paulo/faq.html";
 
 	public static int CONFERENCE_DAYS = 1;
@@ -53,12 +56,8 @@ public interface ISetup {
 	public static String EVENT_PREFIX = ""; // br-
 	public static String EVENT_PACKAGE_NAME = "gddsched";
 
-	
 	public static String SETUP_PACKAGE_NAME = "com.kupriyanov.android.apps.gddsched";
 
-	
-	
-	
 	public static String CONTENT_AUTHORITY = "com.google.android.apps." + EVENT_PACKAGE_NAME;// com.kupriyanov.android.apps.gddsched";
 
 	public static String EXTRA_TRACK = CONTENT_AUTHORITY + ".extra.TRACK";
@@ -96,11 +95,8 @@ public interface ISetup {
 
 	public static final Class<?> VendorsFragmentClass = com.google.android.apps.gddsched.ui.VendorsFragment.class;
 	public static final Class<?> VendorDetailFragmentClass = com.google.android.apps.gddsched.ui.VendorDetailFragment.class;
-	
+
 	public static final Class<?> SetupActivityClass = com.google.android.apps.gddsched.ui.SetupActivity.class;
-	
-	
-	
 
 	// public static final Class<?> SyncStatusUpdaterFragmentClass =
 	// com.google.android.apps.gddsched.ui.SyncStatusUpdaterFragment.class;
