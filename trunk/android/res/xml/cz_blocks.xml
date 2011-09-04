@@ -15,20 +15,6 @@
   limitations under the License.
   -->
 <blocks>
-
-    <!-- Monday, May 9th 2011 -->
-<!--     <block>
-        <start>2011-05-09T13:00:00.000-07:00</start>
-          <end>2011-05-09T19:00:00.000-07:00</end>
-        <title>On-site check-in</title>
-    </block>
-    <block>
-        <start>2011-05-09T09:00:00.000-07:00</start>
-          <end>2011-05-09T18:00:00.000-07:00</end>
-        <title>BootCamp</title>
-        <type>session</type>
-    </block>
- -->
     <!-- Tuesday, May 10th 2011 -->
     <block>
         <start>2011-10-18T08:00:00.000+01:00</start>
