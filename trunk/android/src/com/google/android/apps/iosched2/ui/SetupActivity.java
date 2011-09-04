@@ -33,8 +33,11 @@ import android.os.Handler;
 import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
+import android.view.ContextMenu;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.view.ContextMenu.ContextMenuInfo;
 import android.widget.Toast;
 
 /**
@@ -52,7 +55,16 @@ public class SetupActivity extends BaseActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
+		checkSetup();
+
 		setContentView(R.layout.activity_setup);
+		getActivityHelper().setActionBarTitle(getString(R.string.setup_text));
+		
+		if (Setup.FEATURE_EULA_ON) {
+			if (!EulaHelper.hasAcceptedEula(this)) {
+				EulaHelper.showEula(false, this);
+			}
+		}
 
 		FragmentManager fm = getSupportFragmentManager();
 
@@ -67,11 +79,38 @@ public class SetupActivity extends BaseActivity {
 
 				SetupHelper.setAcceptedEvent(getApplicationContext(), eventId);
 
-				setResult(RESULT_OK);
+				startActivity(new Intent(getApplicationContext(), Setup.HomeActivityClass));
 				finish();
+
 			}
 		});
 
+	}
+
+	@Override
+	protected void onResume() {
+		checkSetup();
+		super.onResume();
+	}
+
+	private void checkSetup() {
+		if (!Setup.FEATURE_MULTIEVENT_ON) {
+			startActivity(new Intent(this, Setup.HomeActivityClass));
+			finish();
+		} else {
+			if (SetupHelper.hasChoosedSetup(this)) {
+				startActivity(new Intent(this, Setup.HomeActivityClass));
+				finish();
+			}
+		}
+	}
+	
+	/* dont show any menus
+	 * @see com.google.android.apps.iosched2.ui.BaseActivity#onCreateOptionsMenu(android.view.Menu)
+	 */
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		return false;
 	}
 
 	@Override

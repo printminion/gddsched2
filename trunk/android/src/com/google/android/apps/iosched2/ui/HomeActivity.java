@@ -56,23 +56,6 @@ public class HomeActivity extends BaseActivity {
         setContentView(R.layout.activity_home);
         getActivityHelper().setupActionBar(null, 0);
 
-        initUI();
-        
-        
-        if (Setup.FEATURE_MULTIEVENT_ON) {
-	        if (!SetupHelper.hasChoosedSetup(this)) {
-	        	
-	        	startActivityForResult(new Intent(this, Setup.SetupActivityClass), RESULT_SETUP);
-	        	
-	        	//SetupHelper.showSetup(this);
-	        	return;
-	        }
-        }
-    }
-    
-    protected void initUI() {
-        
-
         FragmentManager fm = getSupportFragmentManager();
 
         mTagStreamFragment = (TagStreamFragment) fm.findFragmentById(R.id.fragment_tag_stream);
@@ -83,30 +66,11 @@ public class HomeActivity extends BaseActivity {
             mSyncStatusUpdaterFragment = new SyncStatusUpdaterFragment();
             fm.beginTransaction().add(mSyncStatusUpdaterFragment,
                     SyncStatusUpdaterFragment.TAG).commit();
-
-            if (!Setup.FEATURE_MULTIEVENT_ON) {
             	triggerRefresh();
-            }
-        }    	
+        }            
+        
     }
     
-    @Override
-    protected void onActivityResult(int arg0, int arg1, Intent arg2) {
-    	
-        if (Setup.FEATURE_EULA_ON) {
-        	if (!EulaHelper.hasAcceptedEula(this)) {
-                EulaHelper.showEula(false, this);
-            }        
-        }
-
-        if (Setup.FEATURE_MULTIEVENT_ON) {
-        	triggerRefresh();
-        }
-    	
-    	super.onActivityResult(arg0, arg1, arg2);
-    }
-
-
     @Override
     protected void onPostCreate(Bundle savedInstanceState) {
         super.onPostCreate(savedInstanceState);
