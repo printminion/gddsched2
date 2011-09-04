@@ -53,17 +53,17 @@ public class SetupHelper {
 			return true;
 		}
 
-		setAcceptedEvent(context, Setup.EVENT_ID.valueOf(event));
+		setAcceptedEvent(context, Setup.EventId.valueOf(event));
 
 		return !sp.getString("setup_event_prefix", "").equals("");
 	}
 
-	public static void setAcceptedEvent(final Context context, final Setup.EVENT_ID item) {
+	public static void setAcceptedEvent(final Context context, final Setup.EventId item) {
 		// new AsyncTask<Void, Void, Void>() {
 		// @Override
 		// protected Void doInBackground(Void... voids) {
 
-		String sClassName = Setup.SETUP_PACKAGE_NAME + ".SetupBR";// android.app.NotificationManager";
+		String sClassName = Setup.SETUP_PACKAGE_NAME + ".Setup" + item;// android.app.NotificationManager";
 
 		@SuppressWarnings("rawtypes")
 		Class setupTarget;

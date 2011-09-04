@@ -21,7 +21,7 @@ import com.google.android.apps.iosched2.provider.ScheduleContract;
 import com.google.android.apps.iosched2.util.AnalyticsUtils;
 import com.google.android.apps.iosched2.util.UIUtils;
 import com.kupriyanov.android.apps.gddsched.Setup;
-import com.kupriyanov.android.apps.gddsched.Setup.EVENT_ID;
+import com.kupriyanov.android.apps.gddsched.Setup.EventId;
 
 import android.content.Context;
 import android.content.Intent;
@@ -36,7 +36,7 @@ public class SetupFragment extends Fragment {
 	private onSetupSelectedListener mListener;
 	
 	public interface onSetupSelectedListener {
-		void setupSelected(Setup.EVENT_ID setupId);
+		void setupSelected(Setup.EventId setupId);
 	}
 	
     public void fireTrackerEvent(String label) {
@@ -56,7 +56,7 @@ public class SetupFragment extends Fragment {
         root.findViewById(R.id.home_btn_sao_pulo).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 fireTrackerEvent("Setup/BR");
-                mListener.setupSelected(Setup.EVENT_ID.EVENT_SAO_PAULO);
+                mListener.setupSelected(Setup.EventId.BR);
             }
             
         });
@@ -65,7 +65,7 @@ public class SetupFragment extends Fragment {
         root.findViewById(R.id.home_btn_buenos_aires).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 fireTrackerEvent("Setup/AR");
-                mListener.setupSelected(Setup.EVENT_ID.EVENT_BUENOS_AIRES);
+                mListener.setupSelected(Setup.EventId.AR);
             }
             
         });
@@ -73,7 +73,7 @@ public class SetupFragment extends Fragment {
         root.findViewById(R.id.home_btn_moscow).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 fireTrackerEvent("Setup/RU");
-                mListener.setupSelected(Setup.EVENT_ID.EVENT_MOSCOW);
+                mListener.setupSelected(Setup.EventId.RU);
             }
             
         });
@@ -81,7 +81,7 @@ public class SetupFragment extends Fragment {
         root.findViewById(R.id.home_btn_prague).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 fireTrackerEvent("Setup/CZ");
-                mListener.setupSelected(Setup.EVENT_ID.EVENT_PRAGUE);
+                mListener.setupSelected(Setup.EventId.CZ);
             }
             
         });
@@ -89,7 +89,7 @@ public class SetupFragment extends Fragment {
         root.findViewById(R.id.home_btn_tokyo).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 fireTrackerEvent("Setup/JP");
-                mListener.setupSelected(Setup.EVENT_ID.EVENT_TOKYO);
+                mListener.setupSelected(Setup.EventId.JP);
             }
             
         });
@@ -97,7 +97,7 @@ public class SetupFragment extends Fragment {
         root.findViewById(R.id.home_btn_sydney).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 fireTrackerEvent("Setup/AU");
-                mListener.setupSelected(Setup.EVENT_ID.EVENT_SYDNEY);
+                mListener.setupSelected(Setup.EventId.AU);
             }
             
         });
@@ -105,7 +105,7 @@ public class SetupFragment extends Fragment {
         root.findViewById(R.id.home_btn_tel_aviv).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 fireTrackerEvent("Setup/IL");
-                mListener.setupSelected(Setup.EVENT_ID.EVENT_TEL_AVIV);
+                mListener.setupSelected(Setup.EventId.LI);
             }
             
         });
@@ -113,7 +113,7 @@ public class SetupFragment extends Fragment {
         root.findViewById(R.id.home_btn_berlin).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 fireTrackerEvent("Setup/DE");
-                mListener.setupSelected(Setup.EVENT_ID.EVENT_BERLIN);
+                mListener.setupSelected(Setup.EventId.DE);
             }
             
         });

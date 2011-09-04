@@ -61,7 +61,7 @@ public class SetupActivity extends BaseActivity {
 		mSetupFragment.onSetupSelected(getApplicationContext(), new onSetupSelectedListener() {
 
 			@Override
-			public void setupSelected(Setup.EVENT_ID eventId) {
+			public void setupSelected(Setup.EventId eventId) {
 
 				Toast.makeText(getApplicationContext(), "setupSelected:" + eventId, Toast.LENGTH_SHORT).show();
 
