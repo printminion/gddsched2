@@ -237,7 +237,7 @@ public class ScheduleFragment extends Fragment implements
         day.blocksView.setDrawingCacheEnabled(true);
         day.blocksView.setAlwaysDrawnWithCacheEnabled(true);
 
-        TimeZone.setDefault(UIUtils.CONFERENCE_TIME_ZONE);
+        TimeZone.setDefault(UIUtils.getConferenceTimeZone());
         day.label = DateUtils.formatDateTime(getActivity(), startMillis, TIME_FLAGS);
 
         mWorkspace.addView(day.rootView);

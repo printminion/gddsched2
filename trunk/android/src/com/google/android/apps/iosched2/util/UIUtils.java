@@ -56,12 +56,12 @@ public class UIUtils {
      * Time zone to use when formatting all session times. To always use the
      * phone local time, use {@link TimeZone#getDefault()}.
      */
-    public static final TimeZone CONFERENCE_TIME_ZONE = Setup.CONFERENCE_TIME_ZONE;// TimeZone.getTimeZone("America/Los_Angeles");
-
-    public static final long CONFERENCE_START_MILLIS = Setup.CONFERENCE_START_MILLIS_DAY1; //ParserUtils.parseTime("2011-05-10T09:00:00.000-07:00");
-    public static final long CONFERENCE_END_MILLIS = Setup.CONFERENCE_END_MILLIS_DAY1;//ParserUtils.parseTime("2011-05-11T17:30:00.000-07:00");
-
-    public static final Uri CONFERENCE_URL = Uri.parse("Setup.CONFERNCE_URL");// Uri.parse("http://www.google.com/events/io/2011/");
+//    public static final TimeZone CONFERENCE_TIME_ZONE = Setup.CONFERENCE_TIME_ZONE;// TimeZone.getTimeZone("America/Los_Angeles");
+//
+//    public static final long CONFERENCE_START_MILLIS = Setup.CONFERENCE_START_MILLIS_DAY1; //ParserUtils.parseTime("2011-05-10T09:00:00.000-07:00");
+//    public static final long CONFERENCE_END_MILLIS = Setup.CONFERENCE_END_MILLIS_DAY1;//ParserUtils.parseTime("2011-05-11T17:30:00.000-07:00");
+//
+//    public static final Uri CONFERENCE_URL = Uri.parse(Setup.CONFERNCE_URL);// Uri.parse("http://www.google.com/events/io/2011/");
 
     /** Flags used with {@link DateUtils#formatDateRange}. */
     private static final int TIME_FLAGS = DateUtils.FORMAT_SHOW_TIME
@@ -74,13 +74,25 @@ public class UIUtils {
 
     private static StyleSpan sBoldSpan = new StyleSpan(Typeface.BOLD);
 
+    public static long getConferenceStart(){
+    	return Setup.CONFERENCE_START_MILLIS_DAY1;
+    }
+    
+    public static long getConferenceEnd(){
+    	return (Setup.CONFERENCE_DAYS == 2) ? Setup.CONFERENCE_END_MILLIS_DAY2 : Setup.CONFERENCE_END_MILLIS_DAY1;
+    }
+    
+    public static TimeZone getConferenceTimeZone(){
+    	return Setup.CONFERENCE_TIME_ZONE;
+    }
+    
     /**
      * Format and return the given {@link Blocks} and {@link Rooms} values using
      * {@link #CONFERENCE_TIME_ZONE}.
      */
     public static String formatSessionSubtitle(long blockStart, long blockEnd,
             String roomName, Context context) {
-        TimeZone.setDefault(CONFERENCE_TIME_ZONE);
+        TimeZone.setDefault(getConferenceTimeZone());
 
         // NOTE: There is an efficient version of formatDateRange in Eclair and
         // beyond that allows you to recycle a StringBuilder.
@@ -115,7 +127,7 @@ public class UIUtils {
         int subColorId = R.color.body_text_2;
 
         if (currentTimeMillis > blockEnd &&
-                currentTimeMillis < CONFERENCE_END_MILLIS) {
+                currentTimeMillis < getConferenceEnd()) {
             colorId = subColorId = R.color.body_text_disabled;
         }
 
