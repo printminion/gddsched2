@@ -45,7 +45,7 @@ public interface ISetup {
 	public static boolean FEATURE_VENDORS_ON = false;
 	public static boolean FEATURE_OFFICEHOURS_ON = false;
 	public static boolean FEATURE_MAP_ON = false;
-	public static boolean FEATURE_EULA_ON = false;
+	public static boolean FEATURE_EULA_ON = true;
 	public static boolean FEATURE_ANNOUNCEMENTS_ON = false;
 	public static boolean FEATURE_MULTIEVENT_ON = true;
 

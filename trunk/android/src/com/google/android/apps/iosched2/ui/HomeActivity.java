@@ -68,13 +68,6 @@ public class HomeActivity extends BaseActivity {
 	        	return;
 	        }
         }
-        
-        if (Setup.FEATURE_EULA_ON) {
-        	if (!EulaHelper.hasAcceptedEula(this)) {
-                EulaHelper.showEula(false, this);
-            }        
-        }
-
     }
     
     protected void initUI() {
@@ -100,6 +93,12 @@ public class HomeActivity extends BaseActivity {
     @Override
     protected void onActivityResult(int arg0, int arg1, Intent arg2) {
     	
+        if (Setup.FEATURE_EULA_ON) {
+        	if (!EulaHelper.hasAcceptedEula(this)) {
+                EulaHelper.showEula(false, this);
+            }        
+        }
+
         if (Setup.FEATURE_MULTIEVENT_ON) {
         	triggerRefresh();
         }
