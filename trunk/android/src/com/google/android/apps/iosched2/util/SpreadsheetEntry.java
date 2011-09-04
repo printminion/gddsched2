@@ -26,6 +26,8 @@ import java.util.regex.Pattern;
 
 import static com.google.android.apps.iosched2.util.ParserUtils.AtomTags.CONTENT;
 import static com.google.android.apps.iosched2.util.ParserUtils.AtomTags.UPDATED;
+import static com.google.android.apps.iosched2.util.ParserUtils.AtomTags.TITLE;
+
 import static org.xmlpull.v1.XmlPullParser.END_DOCUMENT;
 import static org.xmlpull.v1.XmlPullParser.END_TAG;
 import static org.xmlpull.v1.XmlPullParser.START_TAG;
@@ -70,7 +72,16 @@ public class SpreadsheetEntry extends HashMap<String, String> {
                 if (UPDATED.equals(tag)) {
                     final String text = parser.getText();
                     entry.mUpdated = ParserUtils.parseTime(text);
-                } else if (CONTENT.equals(tag)) {
+                } else if (TITLE.equals(tag)) {
+                	/*
+                	 * ignore sessions
+                	 */
+                	final String text = parser.getText();
+                	if (text.equals("-") || text.equals("ignore")) {
+                    	entry.put("ignore", "true");
+                	}
+            	}
+                else if (CONTENT.equals(tag)) {
                     final String text = parser.getText();
                     final Matcher matcher = getContentMatcher(text);
                     while (matcher.find()) {
