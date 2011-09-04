@@ -81,11 +81,15 @@ public class RemoteSessionsHandler extends XmlHandler {
 				// Process single spreadsheet row at a time
 				final SpreadsheetEntry entry = SpreadsheetEntry
 						.fromParser(parser);
-
+					
+				/*
+				 * skip ignored entries
+				 */
 				
-//				if (entry.get(Columns.SESSION_TRACK).equals("ignore")) {
-//					continue;
-//				}
+				if (entry.containsKey("ignore")) {
+					Log.v(TAG, "ignore session" + entry.toString());
+					continue;
+				}
 				
 				final String sessionId = sanitizeId(entry
 						.get(Columns.SESSION_TITLE));
