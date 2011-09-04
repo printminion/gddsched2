@@ -89,7 +89,7 @@ public class DashboardFragment extends Fragment {
         });
 
         if (!Setup.FEATURE_VENDORS_ON) {
-        	root.findViewById(R.id.home_btn_vendors).setVisibility(View.INVISIBLE);
+        	root.findViewById(R.id.home_btn_vendors).setVisibility(View.GONE);
         }
         
         root.findViewById(R.id.home_btn_vendors).setOnClickListener(new View.OnClickListener() {
@@ -112,7 +112,7 @@ public class DashboardFragment extends Fragment {
         });
 
         if (!Setup.FEATURE_MAP_ON) {
-        	root.findViewById(R.id.home_btn_map).setVisibility(View.INVISIBLE);
+        	root.findViewById(R.id.home_btn_map).setVisibility(View.GONE);
         }
         
         root.findViewById(R.id.home_btn_map).setOnClickListener(new View.OnClickListener() {
