@@ -78,6 +78,12 @@
     </track>
 
     <track>
+        <name>Cloud</name>
+        <color>#0054AB</color>
+        <abstract></abstract>
+    </track>
+    
+    <track>
         <name>Orkut / Social</name>
         <color>#F82790</color>
         <abstract>This year the Orkut track focuses on helping you...</abstract>
@@ -116,8 +122,19 @@
         <abstract>GDD features Tech Talks on subjects of interest to developers, such as computer science problems, programming languages, and more.</abstract>
     </track>
     
+    <track>
+        <name>Misc</name>
+        <color>#B0DFFF</color>
+        <abstract></abstract>
+    </track>    
     
-    
+    <!-- Misc for CZ -->
+    <track>
+        <name>Různé</name>
+        <color>#B0DFFF</color>
+        <abstract></abstract>
+    </track> 
+        
 
     <!-- Sessions only -->
     <track>
