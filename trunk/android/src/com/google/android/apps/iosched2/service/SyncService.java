@@ -132,21 +132,12 @@ public class SyncService extends IntentService {
                     + VERSION_CURRENT);
             if (localParse) {
                 // Load static local data
-            	
+        		mLocalExecutor.execute(Setup.BLOCKS_XML, new LocalBlocksHandler());
+        		mLocalExecutor.execute(Setup.ROOMS_XML, new LocalRoomsHandler());
 
-            	/*
-            	 * XXX: Do not know how to do it better - yet
-            	 */
-            	if (Setup.EVENT_PREFIX.equals("br_")) {
-            		mLocalExecutor.execute(R.xml.br_blocks, new LocalBlocksHandler());
-                    mLocalExecutor.execute(R.xml.br_rooms, new LocalRoomsHandler());
-            	} else if (Setup.EVENT_PREFIX.equals("cz_")) {
-            		mLocalExecutor.execute(R.xml.cz_blocks, new LocalBlocksHandler());
-                    mLocalExecutor.execute(R.xml.cz_rooms, new LocalRoomsHandler());
-            	} else {
-            		mLocalExecutor.execute(R.xml.blocks, new LocalBlocksHandler());
-                    mLocalExecutor.execute(R.xml.rooms, new LocalRoomsHandler());
-            	}
+
+//            		mLocalExecutor.execute(R.xml.blocks, new LocalBlocksHandler());
+//                  mLocalExecutor.execute(R.xml.rooms, new LocalRoomsHandler());
 
             	mLocalExecutor.execute(R.xml.tracks, new LocalTracksHandler());
                 mLocalExecutor.execute(R.xml.search_suggest, new LocalSearchSuggestHandler());
