@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
+	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic</id>
+	<updated>2011-09-03T22:59:52.031Z</updated>
+	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+	<title type='text'>sessions</title>
+	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic'/>
+	<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic'/>
+	<author>
+		<name>j.prufrock</name>
+		<email>j.prufrock@gmail.com</email>
+	</author>
+	<openSearch:totalResults>51</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/cpzh4</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 08:15 - 09:15, sessionroom: 1, sessiontitle:  Inscripción y servicio de café</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/cpzh4'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/cre1l</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 09:15 - 11:00, sessionroom: 1, sessiontitle:  Keynote</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/cre1l'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/f9a8p</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 4</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 12:20 - 13:05, sessionroom: 1, sessionproduct: Android, sessiontrack: Android, sessiontitle: Google TV: disponible para los desarrolladores de Android  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/f9a8p'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ciyn3</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 11:00 - 11:20, sessionroom: 1, sessiontitle:  Break (20 mins)</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ciyn3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ddv49</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 13:00 - 14:15, sessionroom: 1, sessiontitle:  Almuerzo/Office Hours</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ddv49'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/d5fpr</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 16:00 - 16:30, sessionroom: 1, sessiontitle:  Break (30 mins)</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/d5fpr'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/d6ua4</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 8</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 16:30 - 17:15, sessionroom: 1, sessionproduct: Android, sessiontrack: Android, sessiontitle: Novedades y aspectos importantes en Android  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/d6ua4'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/jqtlw</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 11:20 - 12:05, sessionroom: 2, sessionproduct: Chrome &amp; HTML5, sessiontrack: Chrome &amp; HTML5</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/jqtlw'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/jpf1j</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 10</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 12:20 - 13:05, sessionroom: 2, sessionproduct: Chrome &amp; HTML5, sessiontrack: Chrome &amp; HTML5, sessiontitle: Cómo trabajar sin red: HTML5 sin conexión  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/jpf1j'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dmair</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 13:00 - 14:15, sessionroom: 2</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dmair'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dgo93</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 12</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 14:15 - 15:00, sessionroom: 2, sessionproduct: Chrome &amp; HTML5, sessiontrack: Chrome &amp; HTML5, sessiontitle: Cómo permitir el acceso a sus aplicaciones web con HTML5 y ChromeVox  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dgo93'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/f0uu7</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 13</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 15:15 - 16:00, sessionroom: 2, sessionproduct: Chrome &amp; HTML5, sessiontrack: Chrome &amp; HTML5, sessiontitle: Novedades en HTML5  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/f0uu7'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dxj3v</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 14</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 16:30 - 17:15, sessionroom: 2, sessionproduct: Chrome &amp; HTML5, sessiontrack: Chrome &amp; HTML5, sessiontitle: No son los sitios que busca: modernas aplicaciones web HTML5  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dxj3v'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dyxo8</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 17:30 - 18:15, sessionroom: 2</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dyxo8'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e0c8p</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 16</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 11:20 - 12:05, sessionroom: 3, sessionproduct: Cloud / Geo, sessiontrack: Cloud / Geo, sessiontitle: Google App Engine Actualizaciones &amp; Vista General  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e0c8p'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dqi9q</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 17</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 12:20 - 13:05, sessionroom: 3, sessionproduct: Cloud / Geo, sessiontrack: Cloud / Geo, sessiontitle: Presentación de conjuntos de datos geográficos de gran tamaño: Google Fusion Tables  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dqi9q'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/drwu7</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 13:00 - 14:15, sessionroom: 3</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/drwu7'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dtbek</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 19</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 14:15 - 15:00, sessionroom: 3, sessionproduct: Cloud / Geo, sessiontrack: Cloud / Geo, sessiontitle: Creación de juegos sociales en la nube  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dtbek'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dupz1</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 16:00 - 16:30, sessionroom: 3</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/dupz1'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e7d2q</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 21</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 16:30 - 17:15, sessionroom: 3, sessionproduct: App Engine, sessiontrack: Cloud / Geo, sessiontitle: Taller acelerado de App Engine para principiantes  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e7d2q'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e8rn7</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 22</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 17:30 - 18:15, sessionroom: 3, sessionproduct: Google Places, sessiontrack: Cloud / Geo, sessiontitle: Cómo encontrar cualquier lugar del mundo: Google Places API  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e8rn7'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ea67k</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 23</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 11:20 - 12:05, sessionroom: 4, sessionproduct: OAuth, OpenID, sessiontrack: Tech Talks / General, sessiontitle: OAuth y OpenID para identificación y acceso a datos en aplicaciones web  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ea67k'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e1qt2</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 24</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 12:20 - 13:05, sessionroom: 4, sessionproduct: HTML5, Flash, sessiontrack: Tech Talks / General, sessiontitle: HTML5, Flash y la batalla por crear vídeos de gatos en YouTube más rápidos</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e1qt2'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e35dj</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 13:00 - 14:15, sessionroom: 4</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e35dj'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e4jxw</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 26</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 14:15 - 15:00, sessionroom: 4, sessionproduct: Tech Talks / General, sessiontrack: Tech Talks / General, sessiontitle: Creación de empresas en aplicaciones para móviles  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e4jxw'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e5yid</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 16:00 - 16:30, sessionroom: 4</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/e5yid'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eilm2</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 16:30 - 17:15, sessionroom: 4</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eilm2'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ek06j</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 29</title>
+		<content type='text'>sessiondate: Monday September 19, sessiontime: 17:30 - 18:15, sessionroom: 4, sessionproduct: Tech Talks / General, sessiontrack: Tech Talks / General, sessiontitle: Panel de VC: iniciativa empresarial, incubación y capital de riesgo  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ek06j'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eleqw</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 08:15 - 09:00, sessionroom: 1, sessiontitle: Registro</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eleqw'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/emtbd</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 31</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 09:00 - 09:45, sessionroom: 1, sessionproduct: Android, sessiontrack: Android, sessiontitle: Android Market para desarrolladores  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/emtbd'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eczce</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 32</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 10:00 - 10:45, sessionroom: 1, sessionproduct: Android, sessiontrack: Android, sessiontitle: Excelencia en la experiencia de usuario Android  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eczce'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eedwv</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 10:45 - 11:15, sessionroom: 1</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eedwv'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/efsh8</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 11:15 - 12:00, sessionroom: 1</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/efsh8'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eh71p</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 35</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 12:15 - 13:00, sessionroom: 1, sessionproduct: Android, sessiontrack: Android, sessiontitle: Gráficos de alto rendimiento para Android  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eh71p'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/etu5e</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 08:15 - 09:00, sessionroom: 2</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/etu5e'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ev8pv</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 09:00 - 09:45, sessionroom: 2</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ev8pv'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ewna8</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 10:00 - 10:45, sessionroom: 2</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ewna8'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ey1up</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 10:45 - 11:15, sessionroom: 2</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/ey1up'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eo7vq</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 40</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 11:15 - 12:00, sessionroom: 2, sessionproduct: Chrome &amp; HTML5, sessiontrack: Chrome &amp; HTML5, sessiontitle: Sugerencias y consejos sobre herramientas para desarrolladores  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/eo7vq'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/epmg7</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 12:15 - 13:00, sessionroom: 2</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/epmg7'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/er10k</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 08:15 - 09:00, sessionroom: 3</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/er10k'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/esfl1</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 09:00 - 09:45, sessionroom: 3</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/esfl1'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a59y2</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 10:00 - 10:45, sessionroom: 3</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a59y2'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a6oij</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 10:45 - 11:15, sessionroom: 3</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a6oij'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a832w</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 11:15 - 12:00, sessionroom: 3</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a832w'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a9hnd</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 47</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 12:15 - 13:00, sessionroom: 3, sessionproduct: Cloud / Geo, sessiontrack: Cloud / Geo, sessiontitle: Creación de aplicaciones integradas en las tecnologías de nube de Google  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a9hnd'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/9znoe</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 08:15 - 09:00, sessionroom: 4</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/9znoe'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a128v</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 49</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 09:00 - 09:45, sessionroom: 4, sessionproduct: Tech Talks / General, sessiontrack: Tech Talks / General, sessiontitle: Flujo de trabajo empresarial con Apps Script</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a128v'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a2gt8</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 50</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 10:00 - 10:45, sessionroom: 4, sessionproduct: Tech Talks / General, sessiontrack: Tech Talks / General, sessiontitle: Sea uno de los primeros en conocer YouTube Live Streaming API  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a2gt8'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a3vdp</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 10:45 - 11:15, sessionroom: 4</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/a3vdp'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/agihe</id>
+		<updated>2011-09-03T22:59:52.031Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 52</title>
+		<content type='text'>sessiondate: Tuesday September 20, sessiontime: 11:15 - 12:00, sessionroom: 4, sessionproduct: Tech Talks / General, sessiontrack: Tech Talks / General, sessiontitle: Google+ y el botón +1  </content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od6/public/basic/agihe'/>
+	</entry>
+</feed>

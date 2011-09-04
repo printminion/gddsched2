@@ -31,77 +31,77 @@
  -->
     <!-- Tuesday, May 10th 2011 -->
     <block>
-        <start>2011-09-16T08:00:00.000+01:00</start>
-          <end>2011-09-16T08:59:00.000+01:00</end>
+        <start>2011-10-18T08:00:00.000+01:00</start>
+          <end>2011-10-18T08:59:00.000+01:00</end>
         <title>Registrace</title>
         <type>session</type>
     </block>
 
     <block>
-        <start>2011-09-16T09:00:00.000+01:00</start>
-          <end>2011-09-16T10:29:00.000+01:00</end>
+        <start>2011-10-18T09:00:00.000+01:00</start>
+          <end>2011-10-18T10:29:00.000+01:00</end>
         <title>Keynote</title>
         <type>session</type>
     </block>
 
     <block>
-        <start>2011-09-16T10:30:00.000+01:00</start>
-          <end>2011-09-16T10:59:00.000+01:00</end>
+        <start>2011-10-18T10:30:00.000+01:00</start>
+          <end>2011-10-18T10:59:00.000+01:00</end>
         <title>Přestávka</title>
         <type>food</type>
     </block>
 
     <block>
-        <start>2011-09-16T13:00:00.000+01:00</start>
-          <end>2011-09-16T14:00:00.000+01:00</end>
+        <start>2011-10-18T13:00:00.000+01:00</start>
+          <end>2011-10-18T14:00:00.000+01:00</end>
         <title>Oběd</title>
         <type>food</type>
     </block>
 
 
     <block>
-        <start>2011-09-16T16:00:00.000+01:00</start>
-          <end>2011-09-16T16:29:00.000+01:00</end>
+        <start>2011-10-18T16:00:00.000+01:00</start>
+          <end>2011-10-18T16:29:00.000+01:00</end>
         <title>Break</title>
         <type>food</type>
     </block>
     
 
     <block>
-        <start>2011-09-16T18:30:00.000+01:00</start>
-          <end>2011-09-16T18:44:00.000+01:00</end>
+        <start>2011-10-18T18:30:00.000+01:00</start>
+          <end>2011-10-18T18:44:00.000+01:00</end>
         <title>Shrnutí</title>
         <type>food</type>
     </block>
     
     <block>
-        <start>2011-09-16T18:45:00.000+01:00</start>
-          <end>2011-09-16T21:00:00.000+01:00</end>
+        <start>2011-10-18T18:45:00.000+01:00</start>
+          <end>2011-10-18T21:00:00.000+01:00</end>
         <title>Párty</title>
         <type>food</type>
     </block>    
             
     <!-- <block>
-        <start>2011-09-16T10:30:00.000-07:00</start>
-          <end>2011-09-16T18:30:00.000-07:00</end>
+        <start>2011-10-18T10:30:00.000-07:00</start>
+          <end>2011-10-18T18:30:00.000-07:00</end>
         <title>Developer Sandbox</title>
     </block> -->
 
 <!--     <block>
-        <start>2011-09-16T12:00:00.000-07:00</start>
-          <end>2011-09-16T15:00:00.000-07:00</end>
+        <start>2011-10-18T12:00:00.000-07:00</start>
+          <end>2011-10-18T15:00:00.000-07:00</end>
         <title>Office hours</title>
         <type>officehours</type>
     </block>
     <block>
-        <start>2011-09-16T15:00:00.000-07:00</start>
-          <end>2011-09-16T18:30:00.000-07:00</end>
+        <start>2011-10-18T15:00:00.000-07:00</start>
+          <end>2011-10-18T18:30:00.000-07:00</end>
         <title>Office hours</title>
         <type>officehours</type>
     </block> -->
 <!--     <block>
-        <start>2011-09-16T18:30:00.000-07:00</start>
-          <end>2011-09-16T22:30:00.000-07:00</end>
+        <start>2011-10-18T18:30:00.000-07:00</start>
+          <end>2011-10-18T22:30:00.000-07:00</end>
         <title>After Hours evening party</title>
         <type>food</type>
     </block> -->
