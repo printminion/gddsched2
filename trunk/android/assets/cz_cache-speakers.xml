@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic</id>
-	<updated>2011-09-04T10:17:49.605Z</updated>
+	<updated>2011-09-04T11:23:42.150Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>speakers</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E'/>
@@ -11,6 +11,14 @@
 		<name>j.prufrock</name>
 		<email>j.prufrock@gmail.com</email>
 	</author>
-	<openSearch:totalResults>0</openSearch:totalResults>
+	<openSearch:totalResults>1</openSearch:totalResults>
 	<openSearch:startIndex>1</openSearch:startIndex>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/chk2m</id>
+		<updated>2011-09-04T11:23:42.150Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 2</title>
+		<content type='text'>speakertitle: Mano Marks, speakercompany: Google, speakerabstract: Mano has been on Google’s Developer Relations team for the last four years, and is the lead Developer Advocate for Google’s Geo APIs. After work, he collects old maps and new video games., speakerimageurl: http://www.google.com/events/io/2011/static/img/Mano_Marks.png</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/chk2m'/>
+	</entry>
 </feed>

@@ -4,7 +4,6 @@ import java.util.Locale;
 import java.util.TimeZone;
 
 import com.google.android.apps.gddsched.R.xml;
-import com.google.android.apps.iosched2.util.ParserUtils;
 
 public class Setup implements ISetup {
 

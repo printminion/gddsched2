@@ -18,20 +18,12 @@ package com.google.android.apps.iosched2.util;
 
 import java.lang.reflect.Field;
 
-import com.google.android.apps.gddsched.R;
-import com.kupriyanov.android.apps.gddsched.ISetup;
-import com.kupriyanov.android.apps.gddsched.Setup;
-import com.kupriyanov.android.apps.gddsched.SetupBR;
-
-import android.app.Activity;
-import android.app.AlertDialog;
 import android.content.Context;
-import android.content.DialogInterface;
 import android.content.SharedPreferences;
-import android.os.AsyncTask;
 import android.preference.PreferenceManager;
 import android.util.Log;
-import android.widget.Toast;
+
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 /**
  * A helper for showing EULAs and storing a {@link SharedPreferences} bit

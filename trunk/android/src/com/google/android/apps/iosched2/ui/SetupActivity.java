@@ -16,29 +16,23 @@
 
 package com.google.android.apps.iosched2.ui;
 
+import android.app.Activity;
+import android.app.ProgressDialog;
+import android.content.Intent;
+import android.os.Bundle;
+import android.os.Handler;
+import android.support.v4.app.FragmentManager;
+import android.util.Log;
+import android.view.Menu;
+import android.widget.Toast;
+
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.gddsched.service.SyncService;
-//import com.google.android.apps.iosched2.util.AnalyticsUtils;
 import com.google.android.apps.iosched2.ui.SetupFragment.onSetupSelectedListener;
 import com.google.android.apps.iosched2.util.DetachableResultReceiver;
 import com.google.android.apps.iosched2.util.EulaHelper;
 import com.google.android.apps.iosched2.util.SetupHelper;
 import com.kupriyanov.android.apps.gddsched.Setup;
-
-import android.app.Activity;
-import android.content.Intent;
-import android.content.SharedPreferences;
-import android.os.Bundle;
-import android.os.Handler;
-import android.preference.PreferenceManager;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.view.ContextMenu;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.view.ContextMenu.ContextMenuInfo;
-import android.widget.Toast;
 
 /**
  * Front-door {@link Activity} that displays high-level features the schedule
@@ -47,19 +41,26 @@ import android.widget.Toast;
  * the primary content is a {@link DashboardFragment}, whereas on a tablet, both
  * a {@link DashboardFragment} and a {@link TagStreamFragment} are displayed.
  */
-public class SetupActivity extends BaseActivity {
+public class SetupActivity extends BaseActivity implements DetachableResultReceiver.Receiver {
 	private static final String TAG = "SetupActivity";
+
+	private boolean mSyncing = false;
 	private SetupFragment mSetupFragment;
+
+	private DetachableResultReceiver mReceiver;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
+		mReceiver = new DetachableResultReceiver(new Handler());
+		mReceiver.setReceiver(this);
+
 		checkSetup();
 
 		setContentView(R.layout.activity_setup);
 		getActivityHelper().setActionBarTitle(getString(R.string.setup_text));
-		
+
 		if (Setup.FEATURE_EULA_ON) {
 			if (!EulaHelper.hasAcceptedEula(this)) {
 				EulaHelper.showEula(false, this);
@@ -99,14 +100,23 @@ public class SetupActivity extends BaseActivity {
 			finish();
 		} else {
 			if (SetupHelper.hasChoosedSetup(this)) {
-				startActivity(new Intent(this, Setup.HomeActivityClass));
-				finish();
+
+				final ProgressDialog dialog = ProgressDialog.show(SetupActivity.this, "", "Loading. Please wait...", true);
+
+				final Intent intent = new Intent(Intent.ACTION_SYNC, null, this, SyncService.class);
+				intent.putExtra(SyncService.EXTRA_STATUS_RECEIVER, mReceiver);
+				startService(intent);
+
 			}
 		}
 	}
-	
-	/* dont show any menus
-	 * @see com.google.android.apps.iosched2.ui.BaseActivity#onCreateOptionsMenu(android.view.Menu)
+
+	/*
+	 * dont show any menus
+	 * 
+	 * @see
+	 * com.google.android.apps.iosched2.ui.BaseActivity#onCreateOptionsMenu(
+	 * android.view.Menu)
 	 */
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
@@ -118,6 +128,46 @@ public class SetupActivity extends BaseActivity {
 
 		Toast.makeText(getApplicationContext(), "Please select desired event", Toast.LENGTH_LONG).show();
 
+	}
+
+	/** {@inheritDoc} */
+	public void onReceiveResult(int resultCode, Bundle resultData) {
+
+		switch (resultCode) {
+		case SyncService.STATUS_RUNNING: {
+			Log.v(TAG, "onReceiveResult:STATUS_RUNNING");
+			
+			mSyncing = true;
+			break;
+		}
+		case SyncService.STATUS_FINISHED: {
+			Log.v(TAG, "onReceiveResult:STATUS_FINISHED");
+			
+			startActivity(new Intent(this, Setup.HomeActivityClass));
+			finish();
+
+			mSyncing = false;
+			break;
+		}
+		case SyncService.STATUS_ERROR: {
+			// Error happened down in SyncService, show as toast.
+			mSyncing = false;
+			final String errorText = getString(R.string.toast_sync_error, resultData.getString(Intent.EXTRA_TEXT));
+			Toast.makeText(this, errorText, Toast.LENGTH_LONG).show();
+			break;
+		}
+		}
+
+		this.updateRefreshStatus(mSyncing);
+	}
+
+	private void updateRefreshStatus(boolean refreshing) {
+//		if (!refreshing) {
+//			startActivity(new Intent(this, Setup.HomeActivityClass));
+//			finish();
+//		}
+
+		// getActivityHelper().setRefreshActionButtonCompatState(refreshing);
 	}
 
 }

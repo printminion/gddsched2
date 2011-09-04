@@ -16,24 +16,11 @@
   -->
 <blocks>
 
-    <!-- Monday, May 9th 2011 -->
-<!--     <block>
-        <start>2011-05-09T13:00:00.000-07:00</start>
-          <end>2011-05-09T19:00:00.000-07:00</end>
-        <title>On-site check-in</title>
-    </block>
-    <block>
-        <start>2011-05-09T09:00:00.000-07:00</start>
-          <end>2011-05-09T18:00:00.000-07:00</end>
-        <title>BootCamp</title>
-        <type>session</type>
-    </block>
- -->
     <!-- Tuesday, May 10th 2011 -->
     <block>
         <start>2011-09-16T08:00:00.000-03:00</start>
           <end>2011-09-16T08:59:00.000-03:00</end>
-        <title>Registration</title>
+        <title>Credenciamento</title>
         <type>session</type>
     </block>
 
@@ -54,7 +41,7 @@
     <block>
         <start>2011-09-16T13:11:00.000-03:00</start>
           <end>2011-09-16T14:29:00.000-03:00</end>
-        <title>Lunch and Office Hours</title>
+        <title>Almoço e Office Hours</title>
         <type>food</type>
     </block>
 
@@ -65,73 +52,5 @@
         <title>Break</title>
         <type>food</type>
     </block>
-    
-            
-    <!-- <block>
-        <start>2011-09-16T10:30:00.000-07:00</start>
-          <end>2011-09-16T18:30:00.000-07:00</end>
-        <title>Developer Sandbox</title>
-    </block> -->
-
-<!--     <block>
-        <start>2011-09-16T12:00:00.000-07:00</start>
-          <end>2011-09-16T15:00:00.000-07:00</end>
-        <title>Office hours</title>
-        <type>officehours</type>
-    </block>
-    <block>
-        <start>2011-09-16T15:00:00.000-07:00</start>
-          <end>2011-09-16T18:30:00.000-07:00</end>
-        <title>Office hours</title>
-        <type>officehours</type>
-    </block> -->
-<!--     <block>
-        <start>2011-09-16T18:30:00.000-07:00</start>
-          <end>2011-09-16T22:30:00.000-07:00</end>
-        <title>After Hours evening party</title>
-        <type>food</type>
-    </block> -->
-
-    <!-- Wednesday, May 11th 2011 -->
-   <!--  <block>
-        <start>2011-05-11T07:00:00.000-07:00</start>
-          <end>2011-05-11T16:00:00.000-07:00</end>
-        <title>On-site check-in</title>
-    </block>
-    <block>
-        <start>2011-05-11T07:00:00.000-07:00</start>
-          <end>2011-05-11T10:00:00.000-07:00</end>
-        <title>Breakfast</title>
-        <type>food</type>
-    </block>
-    <block>
-        <start>2011-05-11T09:30:00.000-07:00</start>
-          <end>2011-05-11T10:30:00.000-07:00</end>
-        <title>Keynote</title>
-        <type>session</type>
-    </block>
-    <block>
-        <start>2011-05-11T10:30:00.000-07:00</start>
-          <end>2011-05-11T17:30:00.000-07:00</end>
-        <title>Developer Sandbox</title>
-    </block>
-    <block>
-        <start>2011-05-11T11:45:00.000-07:00</start>
-          <end>2011-05-11T13:30:00.000-07:00</end>
-        <title>Lunch served</title>
-        <type>food</type>
-    </block>
-    <block>
-        <start>2011-05-11T12:00:00.000-07:00</start>
-          <end>2011-05-11T15:00:00.000-07:00</end>
-        <title>Office hours</title>
-        <type>officehours</type>
-    </block>
-    <block>
-        <start>2011-05-11T15:00:00.000-07:00</start>
-          <end>2011-05-11T17:30:00.000-07:00</end>
-        <title>Office hours</title>
-        <type>officehours</type>
-    </block>
- -->
+   
 </blocks>

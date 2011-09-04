@@ -16,10 +16,10 @@
 
 package com.google.android.apps.iosched2.util;
 
-import com.google.android.apps.gddsched.R;
-import com.google.android.apps.iosched2.provider.ScheduleContract.Blocks;
-import com.google.android.apps.iosched2.provider.ScheduleContract.Rooms;
-import com.kupriyanov.android.apps.gddsched.Setup;
+import java.util.Formatter;
+import java.util.List;
+import java.util.Locale;
+import java.util.TimeZone;
 
 import android.content.Context;
 import android.content.Intent;
@@ -31,7 +31,6 @@ import android.content.res.Resources;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
-import android.net.Uri;
 import android.os.Build;
 import android.preference.PreferenceManager;
 import android.text.Html;
@@ -43,10 +42,10 @@ import android.text.method.LinkMovementMethod;
 import android.text.style.StyleSpan;
 import android.widget.TextView;
 
-import java.util.Formatter;
-import java.util.List;
-import java.util.Locale;
-import java.util.TimeZone;
+import com.google.android.apps.gddsched.R;
+import com.google.android.apps.iosched2.provider.ScheduleContract.Blocks;
+import com.google.android.apps.iosched2.provider.ScheduleContract.Rooms;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 /**
  * An assortment of UI helpers.

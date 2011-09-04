@@ -84,6 +84,14 @@
     </track>
     
     <track>
+        <name>Облачная платформа</name>
+        <color>#0054AB</color>
+        <abstract></abstract>
+    </track>
+    
+    
+    
+    <track>
         <name>Orkut / Social</name>
         <color>#F82790</color>
         <abstract>This year the Orkut track focuses on helping you...</abstract>
@@ -123,6 +131,12 @@
     </track>
     
     <track>
+        <name>Технические и общие доклады</name>
+        <color>#999999</color>
+        <abstract>GDD features Tech Talks on subjects of interest to developers, such as computer science problems, programming languages, and more.</abstract>
+    </track>
+        
+    <track>
         <name>Misc</name>
         <color>#B0DFFF</color>
         <abstract></abstract>
@@ -136,6 +150,14 @@
     </track> 
         
 
+	<!-- GTUG for RU -->
+    
+    <track>
+        <name>GTUG</name>
+        <color>#0066CC</color>
+        <abstract></abstract>
+    </track>
+    
     <!-- Sessions only -->
     <track>
         <name>Web Games</name>
