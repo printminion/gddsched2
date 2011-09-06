@@ -40,10 +40,10 @@
         <item name="android:windowBackground">@drawable/background_noise</item>
     </style>
     
-    <style name="Theme.gddsched2.Setup" parent="style/Theme.IOSched">
+    <style name="Theme.iosched2.Setup" parent="style/Theme.IOSched">
         <item name="android:windowBackground">@drawable/background_noise</item>
     </style>
-
+    
     <style name="ActionBarCompat">
         <item name="android:id">@id/actionbar_compat</item>
         <item name="android:layout_width">fill_parent</item>
