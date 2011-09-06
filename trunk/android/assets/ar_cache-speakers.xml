@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic</id>
-	<updated>2011-09-03T22:59:52.031Z</updated>
+	<updated>2011-09-05T19:19:36.688Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>speakers</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE'/>
@@ -11,6 +11,127 @@
 		<name>j.prufrock</name>
 		<email>j.prufrock@gmail.com</email>
 	</author>
-	<openSearch:totalResults>0</openSearch:totalResults>
+	<openSearch:totalResults>15</openSearch:totalResults>
 	<openSearch:startIndex>1</openSearch:startIndex>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/chk2m</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 2</title>
+		<content type='text'>speakertitle: Les Vogel, speakercompany: Google, speakerabstract: Les es Ingeniero de desarrollo de programas para Google TV. Trabaja estrechamente con los desarrolladores, especialmente en la escritura de códigos de muestra y los ayuda a comprender la manera de generar aplicaciones atractivas y valiosas para el mercado., speakerabstract_2: Les is a Developer Programs Engineer for Google TV. Works closely with developers, writing sample code and helping them understand how to bring rich, compelling apps to market.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/chk2m'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/ciyn3</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 3</title>
+		<content type='text'>speakertitle: Paul Irish, speakercompany: Google, speakerabstract: Paul se ocupa de las relaciones con desarrolladores tanto de Chrome como de jQuery. Es responsable por el mantenimiento de HTML5 Boilerplate, la biblioteca de funciones Modernizr que nos permite detectar el soporte nativo y otros detalles del código abierto. Gran amante de los helados., speakerabstract_2: Paul does developer relations for both Chrome and jQuery. He maintains the HTML5 Boilerplate, the feature detection library Modernizr, and other bits and bobs of open source code. Big fan of gelato.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/ciyn3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/bamu</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 4</title>
+		<content type='text'>speakertitle: Rachel Shearer, speakercompany: Google, speakerabstract: Rachel es ingeniera de software del equipo de Google Accessibility. Trabaja en el lector de pantallas de ChromeVox y temas de acceso a las bibliotecas compartidas y aplicaciones web de Google., speakerabstract_2: Rachel is a software engineer on the Google Accessibility Engineering team. She works on the ChromeVox screen reader and on accessibility in Google web apps and shared libraries.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/bamu'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/ckd7g</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 5</title>
+		<content type='text'>speakertitle: Pete LePage, speakercompany: Google, speakerabstract: Pete es un Developer Advocate de Chrome Web Store y ama la web abierta. Hace poco tiempo descubrió que HTML5 y CSS3 lucen mucho mejor que la superposición de las etiquetas &lt;blink&gt;, &lt;marquee&gt; y &lt;font&gt;., speakerabstract_2: Pete is a Developer Advocate on the Chrome Web Store and loves the open web. He recently learned that HTML5 and CSS3 looks a lot better than overlapping &lt;blink&gt;, &lt;marquee&gt; and &lt;font&gt; tags.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/ckd7g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/clrrx</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 6</title>
+		<content type='text'>speakertitle: Wesley Chun, speakercompany: Google, speakerabstract: Wesley Chun, MSCS, es ingeniero, escritor de éxito y Developer Advocate en Google, especializado en cloud computing. Desde hace más de 25 años dedica su vida a la programación, la enseñanza y la escritura, y ayudó a crear Yahoo!Mail usando Python., speakerabstract_2: Wesley Chun, MSCS, is an engineer, bestselling author &amp; Developer Advocate @ Google focused on cloud. He has been programming/teaching/writing for 25+ years &amp; helped create Yahoo!Mail using Python.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/clrrx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cyevm</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 7</title>
+		<content type='text'>speakertitle: Andrés Ferraté, speakercompany: Google, speakerabstract: Andrés dirige el equipo de relaciones de Geo Developer. Antes de incorporarse al equipo Geo, colaboró con los desarrolladores en la creación de aplicaciones para Google TV y Google Wave. Su misión es garantizar el éxito del desarrollo de Geo., speakerabstract_2: Andrés manages the Geo Developer Relations team. Prior to joining the Geo team, he helped developers build cool apps for Google TV and Google Wave. His mission is to ensure geo developer success.
+</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cyevm'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/wd55</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 8</title>
+		<content type='text'>speakertitle: Steve Bazyl, speakercompany: Google, speakerabstract: Steve es Developer Advocate de Google Apps en el Google Apps Marketplace. Disfruta ayudando a los desarrolladores a encontrar maneras de integrar sus aplicaciones y brindar más valor a los usuarios., speakerabstract_2: Steve is a Developer Advocate for Google Apps and the Google Apps Marketplace. He enjoys helping developers find ways to integrate their apps and bring added value to users.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/wd55'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cp7b</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 9</title>
+		<content type='text'>speakertitle: Jarek Wilkiewicz, speakercompany: Google, speakerabstract: Jarek es Developer Advocate de YouTube y su especialidad es ayudar a los partners a implementar increíbles aplicaciones usando las API de YouTube. Se graduó en la Universidad de Carnegie Mellon y la Universidad de Memphis., speakerabstract_2: Jarek is a YouTube Developer Advocate and his focus is helping partners implement amazing applications using YouTube APIs. He is a graduate of Carnegie Mellon University and The University of Memphis.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cp7b'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cztg3</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 10</title>
+		<content type='text'>speakertitle: Peter Fernandez, speakercompany: Google, speakerabstract: Peter dirige las ventas de publicidad para celulares de Google en América Latina. Anteriormente dirigió las ventas en América Latina de AdMob, una empresa de publicidad para celulares adquirida por Google en 2010., speakerabstract_2: Peter manages Google’s mobile advertising sales operations in Latin America. Previously, he managed Latin American sales for AdMob, a mobile advertising company acquired by Google in 2010.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cztg3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/d180g</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 11</title>
+		<content type='text'>speakertitle: Alejandro Villanueva, speakercompany: Google, speakerabstract: Alejandro dirige los Programas para Desarrolladores de Google en Europa y América Latina. Su misión es implementar iniciativas de difusión y apoyo tecnológico para ayudar a las comunidades de desarrolladores a que utilizen con éxito los estándares abiertos y la plataforma de desarrolladores de Google., speakerabstract_2: Alejandro dirige los Programas para Desarrolladores de Google en Europa y América Latina. Su misión es implementar iniciativas de difusión y apoyo tecnológico para ayudar a las comunidades de desarrolladores a que utilizen con éxito los estándares abiertos y la plataforma de desarrolladores de Google.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/d180g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/d2mkx</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 12</title>
+		<content type='text'>speakertitle: Dan Galpin, speakercompany: Google</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/d2mkx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/e3ro</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 13</title>
+		<content type='text'>speakertitle: Bruno Oliveira, speakercompany: Google, speakerabstract: Bruno es Ingeniero de desarrollo de programas en Google. Con sede en Sao Paulo, Brasil, trabaja estrechamente con los desarrolladores en el crecimiento y la participación de la comunidad online en relación con los productos para desarrolladores de Google, con especial énfasis en la promoción del interés de los desarrolladores de Brasil. Sus principales áreas de acción son Orkut, Open Social y Android., speakerabstract_2: Bruno is a Developer Programs Engineer at Google. Based in Sao Paulo, Brazil, he works closely with developers in order to grow and engage the online community around Google developer products, with special emphasis on fostering the involvement of Brazilian developers. His focus areas are Orkut/OpenSocial and Android.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/e3ro'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cssly</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 14</title>
+		<content type='text'>speakertitle: Saurabh Gupta, speakercompany: Google</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cssly'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cu76f</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 15</title>
+		<content type='text'>speakertitle: Chris Schalk, speakercompany: Google, speakerabstract: Chris es un Developer Advocate que trabaja en App Engine y otras tecnologías de Google para la nube. Antes de incorporarse a Google, Chris fue Gerente de producto en Oracle y también colaboró en la redacción de "JSF: Una referencia completa"., speakerabstract_2: Chris is a Developer Advocate who works on App Engine and other Google cloud technologies. Prior to Google, Chris was a Product Manager at Oracle and also co-authored "JSF: The Complete Reference".</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cu76f'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cvlqs</id>
+		<updated>2011-09-05T19:19:36.688Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 16</title>
+		<content type='text'>speakertitle: Timothy Jordan, speakercompany: Google, speakerabstract: Timothy es Developer Advocate de Google y se dedica al proyecto Google+. Adora resolver problemas y cree en el mejoramiento de la vida a través de la ciencia y el arte., speakerabstract_2: Timothy is a Developer Advocate at Google working on the Google+ project. He loves solving problems and believes in improving life through science and art.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/od7/public/basic/cvlqs'/>
+	</entry>
 </feed>

@@ -56,6 +56,9 @@
 
 
     <string name="title_setup">Choose your Google Developer Day location</string>
+    <string name="title_loading">Loading. Please wait...</string>
+
+
 
     <string name="btn_sao_pulo">São Paulo</string>
 	<string name="btn_buenos_aires">Buenos Aires</string>
@@ -65,10 +68,6 @@
 	<string name="btn_sydney">Sydney</string>
 	<string name="btn_tel_aviv">Tel-Aviv</string>
 	<string name="btn_berlin">Berlin</string>
-
-
-
-
 
     <string name="toast_sync_error">Sync error: <xliff:g id="error">%1$s</xliff:g></string>
 
@@ -94,6 +93,9 @@
     <string name="session_links">Links</string>
     <string name="session_requirements">Requirements</string>
     <string name="session_speakers">Speakers</string>
+    
+    <string name="block_title_breakout_session">Breakout sessions</string>
+
 
     <string name="tag_stream">Realtime stream for</string>
     

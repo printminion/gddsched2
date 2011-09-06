@@ -29,6 +29,7 @@ import android.widget.Toast;
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.gddsched.service.SyncService;
 import com.google.android.apps.iosched2.util.DetachableResultReceiver;
+import com.google.android.apps.iosched2.util.SetupHelper;
 
 /**
  * Front-door {@link Activity} that displays high-level features the schedule application offers to
@@ -157,4 +158,5 @@ public class HomeActivity extends BaseActivity {
             ((HomeActivity) getActivity()).updateRefreshStatus(mSyncing);
         }
     }
+
 }

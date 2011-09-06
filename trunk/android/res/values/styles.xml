@@ -39,6 +39,10 @@
     <style name="Theme.iosched2.Home" parent="style/Theme.IOSched">
         <item name="android:windowBackground">@drawable/background_noise</item>
     </style>
+    
+    <style name="Theme.gddsched2.Setup" parent="style/Theme.IOSched">
+        <item name="android:windowBackground">@drawable/background_noise</item>
+    </style>
 
     <style name="ActionBarCompat">
         <item name="android:id">@id/actionbar_compat</item>

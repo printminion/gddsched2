@@ -41,7 +41,7 @@
 			android:label="@string/title_setup"> -->
 		
 		<activity android:name="com.google.android.apps.gddsched.ui.SetupActivity"
-			 android:theme="@style/Theme.iosched2.Home" android:label="@string/app_name">
+			 android:theme="@style/Theme.gddsched2.Home" android:label="@string/app_name">
 			<intent-filter>
 				<action android:name="android.intent.action.MAIN" />
 				<category android:name="android.intent.category.LAUNCHER" />

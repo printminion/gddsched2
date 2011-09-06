@@ -49,6 +49,8 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 
 	private DetachableResultReceiver mReceiver;
 
+	private ProgressDialog mDialog;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -90,7 +92,7 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 
 	@Override
 	protected void onResume() {
-		checkSetup();
+		// checkSetup();
 		super.onResume();
 	}
 
@@ -98,16 +100,17 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 		if (!Setup.FEATURE_MULTIEVENT_ON) {
 			startActivity(new Intent(this, Setup.HomeActivityClass));
 			finish();
-		} else {
-			if (SetupHelper.hasChoosedSetup(this)) {
+			return;
+		}
 
-				final ProgressDialog dialog = ProgressDialog.show(SetupActivity.this, "", "Loading. Please wait...", true);
+		if (SetupHelper.hasChoosedSetup(this)) {
 
-				final Intent intent = new Intent(Intent.ACTION_SYNC, null, this, SyncService.class);
-				intent.putExtra(SyncService.EXTRA_STATUS_RECEIVER, mReceiver);
-				startService(intent);
+			mDialog = ProgressDialog.show(SetupActivity.this, "", getText(R.string.title_loading), true);
 
-			}
+			final Intent intent = new Intent(Intent.ACTION_SYNC, null, this, SyncService.class);
+			intent.putExtra(SyncService.EXTRA_STATUS_RECEIVER, mReceiver);
+			startService(intent);
+
 		}
 	}
 
@@ -136,13 +139,16 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 		switch (resultCode) {
 		case SyncService.STATUS_RUNNING: {
 			Log.v(TAG, "onReceiveResult:STATUS_RUNNING");
-			
+
 			mSyncing = true;
 			break;
 		}
 		case SyncService.STATUS_FINISHED: {
 			Log.v(TAG, "onReceiveResult:STATUS_FINISHED");
-			
+
+			mDialog.dismiss();
+			mDialog = null;
+
 			startActivity(new Intent(this, Setup.HomeActivityClass));
 			finish();
 
@@ -152,6 +158,10 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 		case SyncService.STATUS_ERROR: {
 			// Error happened down in SyncService, show as toast.
 			mSyncing = false;
+
+			mDialog.dismiss();
+			mDialog = null;
+
 			final String errorText = getString(R.string.toast_sync_error, resultData.getString(Intent.EXTRA_TEXT));
 			Toast.makeText(this, errorText, Toast.LENGTH_LONG).show();
 			break;
@@ -162,10 +172,10 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 	}
 
 	private void updateRefreshStatus(boolean refreshing) {
-//		if (!refreshing) {
-//			startActivity(new Intent(this, Setup.HomeActivityClass));
-//			finish();
-//		}
+		// if (!refreshing) {
+		// startActivity(new Intent(this, Setup.HomeActivityClass));
+		// finish();
+		// }
 
 		// getActivityHelper().setRefreshActionButtonCompatState(refreshing);
 	}

@@ -37,17 +37,18 @@ public class SetupHelper {
 
 		final String event = sp.getString("setup_event_prefix", "");
 
-		if (event.equals("") || Setup.EVENT_ID_SELECTED == null || Setup.EVENT_ID_SELECTED.equals("")) {
+		if (event.equals("")) {
 			return false;
 		}
 
 		if (event.equals(Setup.EVENT_ID_SELECTED)) {
 			return true;
 		}
-
+		
 		setAcceptedEvent(context, Setup.EventId.valueOf(event));
 
 		return !sp.getString("setup_event_prefix", "").equals("");
+
 	}
 
 	public static void setAcceptedEvent(final Context context, final Setup.EventId item) {
@@ -95,7 +96,7 @@ public class SetupHelper {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-//		return null;
+		// return null;
 		// }
 		//
 		// }.execute();

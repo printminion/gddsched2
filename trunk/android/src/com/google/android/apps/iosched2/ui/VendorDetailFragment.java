@@ -25,6 +25,7 @@ import com.google.android.apps.iosched2.util.FractionalTouchDelegate;
 import com.google.android.apps.iosched2.util.NotifyingAsyncQueryHandler;
 import com.google.android.apps.iosched2.util.ParserUtils;
 import com.google.android.apps.iosched2.util.UIUtils;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.ContentValues;
 import android.content.Intent;
@@ -208,7 +209,10 @@ public class VendorDetailFragment extends Fragment implements
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-        inflater.inflate(R.menu.map_menu_items, menu);
+    	
+    	if (!Setup.FEATURE_MAP_ON) {
+    		inflater.inflate(R.menu.map_menu_items, menu);
+    	}
         super.onCreateOptionsMenu(menu, inflater);
     }
 

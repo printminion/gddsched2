@@ -16,9 +16,11 @@
   limitations under the License.
   -->
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- TODO: add logic for programmically menu_map disabling  -->
+    
     <item android:id="@+id/menu_map"
         android:icon="@drawable/ic_title_map"
         android:title="@string/description_map"
         android:orderInCategory="1"
-        android:showAsAction="ifRoom" />
+        android:showAsAction="ifRoom" android:visible="false"/>
 </menu>
