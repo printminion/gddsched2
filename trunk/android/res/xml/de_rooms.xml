@@ -16,8 +16,18 @@
   -->
 <rooms>
 
+    <room><id>green</id><name>Green</name><floor>2</floor></room>
+    <room><id>red</id><name>Red</name><floor>2</floor></room>
+    <room><id>yellow</id><name>Yellow</name><floor>2</floor></room>
+    <room><id>blue</id><name>Blue</name><floor>2</floor></room>
+    <room><id>orange</id><name>Orange</name><floor>2</floor></room>
+    
+    
+    
+    
     <room><id>na</id><name>N/A</name><floor>2</floor></room>
-    <room><id>1</id><name>Room 1</name><floor>2</floor></room>
+    <room><id>tbd</id><name>TBD</name><floor>2</floor></room>
+		<room><id>1</id><name>Room 1</name><floor>2</floor></room>
     <room><id>2</id><name>Room 2</name><floor>2</floor></room>
     <room><id>3</id><name>Room 3</name><floor>2</floor></room>
     <room><id>4</id><name>Room 4</name><floor>2</floor></room>
@@ -27,7 +37,7 @@
     <room><id>8</id><name>Room 8</name><floor>2</floor></room>
     <room><id>9</id><name>Room 9</name><floor>2</floor></room>
     <room><id>10</id><name>Room 10</name><floor>2</floor></room>
-    <room><id>tbd</id><name>TBD</name><floor>3</floor></room>
+    <room><id>11</id><name>Room 11</name><floor>3</floor></room>
 
     <room><id>lunchroom</id><name>Lunch Room</name><floor>1</floor></room>
    <!--  <room><id>officehoursfloor2</id><name>Office Hours Floor 2</name><floor>2</floor></room>

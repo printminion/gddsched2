@@ -101,7 +101,7 @@ public class SetupFragment extends Fragment {
         root.findViewById(R.id.home_btn_tel_aviv).setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 fireTrackerEvent("Setup/IL");
-                mListener.setupSelected(Setup.EventId.LI);
+                mListener.setupSelected(Setup.EventId.IL);
             }
             
         });
