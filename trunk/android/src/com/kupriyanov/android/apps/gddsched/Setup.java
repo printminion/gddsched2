@@ -7,6 +7,11 @@ import com.google.android.apps.gddsched.R.xml;
 
 public class Setup implements ISetup {
 
+	/*
+	 * update it on the blocks and Rooms update
+	 */
+	public static final int VERSION_CURRENT = 12;
+	
 	public static int BLOCKS_XML = xml.blocks;
 	public static int ROOMS_XML = xml.rooms;
 
