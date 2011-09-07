@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic</id>
-	<updated>2011-09-06T23:46:09.186Z</updated>
+	<updated>2011-09-07T13:42:27.668Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>sessions</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E'/>
@@ -15,7 +15,7 @@
 	<openSearch:startIndex>1</openSearch:startIndex>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/i6mvg</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 08:00 - 09:00, sessiontitle: Registration</content>
@@ -23,7 +23,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/cpzh4</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 09:00 - 10:45, sessiontitle: Keynote</content>
@@ -31,7 +31,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/cre1l</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Тuesday November 8, sessiontime: 10:45 - 11:15, sessiontitle: Break</content>
@@ -39,7 +39,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/chk2m</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 5</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 11:15 - 12:00, sessionroom: TBD, sessionproduct: Android Market, sessiontrack: Android, sessionlevel: 101, sessiontitle: Android Market for Developers  , sessiontags: Android, sessionabstract: Android Market is undergoing continuous revisions to improve the experience for developers and end-users. This talk covers recent developments, and goes into depth on techniques for using Android Market to leverage new monetization models, deliver optimized content, minimize piracy, and maximize application visibility., sessionurl: http://www.google.com/intl/ru/events/developerday/2011/moscow/agenda/session_2000.html</content>
@@ -47,7 +47,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/ciyn3</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 6</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 11:15 - 12:00, sessionroom: TBD, sessionproduct: HTML5, ChromeVox, sessiontrack: Chrome &amp; HTML5, sessionlevel: 101, sessiontitle: Making Your Web Apps Accessible Using HTML5 and ChromeVox  , sessiontags: HTML5, sessionabstract: When you build web apps that are interactive and dynamic, how do you make them accessible to users with disabilities? How can ChromeVox, a screen reader for Chrome, help you to test apps for accessibility? With proven HTML5 techniques, web developers can provide an experience that's just as rich and interactive for people who use assistive technology. The emphasis of this talk will be on methods that work today, with the latest browser versions. We'll cover proper use of ARIA along with focus management, keyboard navigation, and simple UI testing for accessibility with ChromeVox.</content>
@@ -55,7 +55,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/ckd7g</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 7</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 11:15 - 12:00, sessionroom: TBD, sessionproduct: App Engine, sessiontrack: Cloud, sessionlevel: 101, sessiontitle: Using App Engine's Latest Features  , sessiontags: Cloud, sessionabstract: This session will review some of the most recent and compelling App Engine features including Backends, MapReduce, Full Text Search and the Channel API, and show how to use them in real world Web applications.</content>
@@ -63,7 +63,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/clrrx</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 8</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 11:15 - 12:00, sessionroom: TBD, sessionproduct: YouTube Live Streaming API, sessiontrack: Tech Talks / General, sessionlevel: 101, sessiontitle: Monetizing Your Web Apps with Google In-App Payments  , sessiontags: youtube, sessionabstract: You just built a great web app, now how do you monetize it? This session will focus on In-App Payments APIs for monetizing web application and games. We will show demos and example integrations of monetizing content and digital goods, as well as walk through how the API works and how to integrate it into both HTML and Flash apps.</content>
@@ -71,7 +71,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/cssly</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 9</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 12:00 - 12:50, sessionroom: TBD, sessiontrack: Android, sessionlevel: 101, sessiontitle: Excellence in the Android User Experience  , sessionurl: http://www.google.com/intl/ru/events/developerday/2011/moscow/agenda/session_2000.html</content>
@@ -79,7 +79,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/cu76f</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 10</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 12:00 - 12:50, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5, sessionlevel: 101, sessiontitle: Working Off the Grid: HTML5 Offline  </content>
@@ -87,7 +87,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/cvlqs</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 11</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 12:00 - 12:50, sessionroom: TBD, sessiontrack: Cloud, sessionlevel: 101, sessiontitle: A Technical Introduction to the Google Prediction API  </content>
@@ -95,7 +95,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/cx0b9</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 12</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 12:00 - 12:50, sessionroom: TBD, sessiontrack: Tech Talks / General, sessionlevel: 101, sessiontitle: Integrating with Google Apps: New APIs, New Features and Best Practices  </content>
@@ -103,7 +103,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/js86d</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Тuesday November 8, sessiontime: 12:50 - 13:50, sessiontrack: Lunch and Office Hours</content>
@@ -111,7 +111,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/d9ney</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 14</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 13:50 - 14:35, sessionroom: TBD, sessiontrack: Android, sessionlevel: 101, sessiontitle: What’s new and important in Android, sessionurl: http://www.google.com/intl/ru/events/developerday/2011/moscow/agenda/session_2000.html</content>
@@ -119,7 +119,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/db1zf</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 15</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 13:50 - 14:35, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5, sessionlevel: 101, sessiontitle: Enter the Third Dimension: Hardware Accelerated Graphics for the Web with WebGL </content>
@@ -127,7 +127,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/dcgjs</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 16</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 13:50 - 14:35, sessionroom: TBD, sessiontrack: Cloud, sessionlevel: 101, sessiontitle: Building Integrated Applications on Google's Cloud Technologies  </content>
@@ -135,7 +135,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/ddv49</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 17</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 13:50 - 14:35, sessionroom: TBD, sessiontrack: Tech Talks / General, sessionlevel: 101, sessiontitle: Finding Your Place in the World: Google Places API  </content>
@@ -143,7 +143,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/d415a</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 18</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 14:40 - 15:25, sessionroom: TBD, sessiontrack: Android, sessionlevel: 101, sessiontitle: High-performance graphics for Android, sessionurl: http://www.google.com/intl/ru/events/developerday/2011/moscow/agenda/session_2000.html</content>
@@ -151,7 +151,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/d5fpr</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 19</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 14:40 - 15:25, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5, sessionlevel: 101, sessiontitle: These Aren't the Sites You're Looking For: Modern HTML5 Web Apps </content>
@@ -159,7 +159,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/d6ua4</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 20</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 14:40 - 15:25, sessionroom: TBD, sessiontrack: Cloud, sessionlevel: 101, sessiontitle: Go on App Engine  </content>
@@ -167,7 +167,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/d88ul</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 21</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 14:40 - 15:25, sessionroom: TBD, sessiontrack: Tech Talks / General, sessionlevel: 101, sessiontitle: OAuth and OpenID for Data Access and Identity in web apps  </content>
@@ -175,7 +175,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/dkvya</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 15:30 - 16:15, sessionroom: TBD, sessiontrack: Android, sessionlevel: 101, sessionurl: http://www.google.com/intl/ru/events/developerday/2011/moscow/agenda/session_2000.html</content>
@@ -183,7 +183,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/jqtlw</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 23</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 15:30 - 16:15, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5, sessionlevel: 101, sessiontitle: Bleeding Edge HTML5  </content>
@@ -191,7 +191,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/jpf1j</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 15:30 - 16:15, sessionroom: TBD, sessiontrack: Cloud, sessionlevel: 101</content>
@@ -199,7 +199,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/dmair</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 25</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 15:30 - 16:15, sessionroom: TBD, sessiontrack: Tech Talks / General, sessionlevel: 101, sessiontitle: Displaying Large Geographic Datasets: Google Fusion Tables  </content>
@@ -207,7 +207,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/dnp34</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Тuesday November 8, sessiontime: 16:15 - 16:45, sessiontrack: Break </content>
@@ -215,7 +215,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/df9om</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 16:45 - 17:15, sessionroom: TBD, sessiontrack: Android, sessionlevel: 101, sessionurl: http://www.google.com/intl/ru/events/developerday/2011/moscow/agenda/session_2000.html</content>
@@ -223,7 +223,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/dgo93</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 16:45 - 17:15, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5, sessionlevel: 101</content>
@@ -231,7 +231,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/djhdx</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 16:45 - 17:15, sessionroom: TBD, sessiontrack: Cloud, sessionlevel: 101</content>
@@ -239,7 +239,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/dw4je</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 30</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 16:45 - 17:15, sessionroom: TBD, sessiontrack: Tech Talks / General, sessionlevel: 101, sessiontitle: VC Panel: Entrepreneurship, Incubation and Venture Capital  </content>
@@ -247,7 +247,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/dxj3v</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 17:20 - 18:05, sessionroom: TBD, sessiontrack: Android, sessionlevel: 101, sessionurl: http://www.google.com/intl/ru/events/developerday/2011/moscow/agenda/session_2000.html</content>
@@ -255,7 +255,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/dyxo8</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 17:20 - 18:05, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5, sessionlevel: 101</content>
@@ -263,7 +263,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/e0c8p</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 33</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 17:20 - 18:05, sessionroom: TBD, sessiontrack: Cloud, sessionlevel: 101, sessiontitle: Ignite, a Series of Lightning Talks </content>
@@ -271,7 +271,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/dqi9q</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday November 8, sessiontime: 17:20 - 18:05, sessionroom: TBD, sessiontrack: Tech Talks / General, sessionlevel: 101</content>
@@ -279,7 +279,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGIyN1ZCRmVZeWZ0bjVpRFBlRTZVc0E/od6/public/basic/drwu7</id>
-		<updated>2011-09-06T23:46:09.186Z</updated>
+		<updated>2011-09-07T13:42:27.668Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Тuesday November 8, sessiontime: 18:10 - 19:00, sessiontrack: GTUG Social Meetup </content>

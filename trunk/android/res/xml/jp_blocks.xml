@@ -16,44 +16,78 @@
   -->
 <blocks>
     <!-- Tuesday, May 10th 2011 -->
-   <!-- <block>
-        <start>2011-11-01T08:00:00.000+09:00</start>
-          <end>2011-11-01T08:59:00.000+09:00</end>
+   <block>
+        <start>2011-11-01T09:00:00.000+09:00</start>
+          <end>2011-11-01T10:00:00.000+09:00</end>
         <title>Registration</title>
         <type>session</type>
     </block>
 
     <block>
-        <start>2011-11-01T09:00:00.000+09:00</start>
-          <end>2011-11-01T10:29:00.000+09:00</end>
+        <start>2011-11-01T10:00:00.000+09:00</start>
+          <end>2011-11-01T12:00:00.000+09:00</end>
         <title>Keynote</title>
         <type>session</type>
     </block>
 
     <block>
-        <start>2011-11-01T10:30:00.000+09:00</start>
-          <end>2011-11-01T10:59:00.000+09:00</end>
-        <title>Break</title>
-        <type>food</type>
-    </block>
-
-    <block>
-        <start>2011-11-01T13:00:00.000+09:00</start>
-          <end>2011-11-01T14:00:00.000+09:00</end>
+        <start>2011-11-01T12:00:00.000+09:00</start>
+          <end>2011-11-01T13:00:00.000+09:00</end>
         <title>Lunch</title>
         <type>food</type>
     </block>
 
-
     <block>
-        <start>2011-11-01T16:00:00.000+09:00</start>
-          <end>2011-11-01T16:29:00.000+09:00</end>
+        <start>2011-11-01T13:45:00.000+09:00</start>
+          <end>2011-11-01T14:00:00.000+09:00</end>
         <title>Break</title>
         <type>food</type>
     </block>
-    -->
-      
-            
+
+
+    <block>
+        <start>2011-11-01T14:45:00.000+09:00</start>
+          <end>2011-11-01T15:00:00.000+09:00</end>
+        <title>Break</title>
+        <type>food</type>
+    </block>
+    
+    <block>
+        <start>2011-11-01T15:45:00.000+09:00</start>
+          <end>2011-11-01T16:00:00.000+09:00</end>
+        <title>Break</title>
+        <type>food</type>
+    </block>    
+
+    <block>
+        <start>2011-11-01T16:45:00.000+09:00</start>
+          <end>2011-11-01T17:00:00.000+09:00</end>
+        <title>Break</title>
+        <type>food</type>
+    </block>         
+ 
+    <block>
+        <start>2011-11-01T17:45:00.000+09:00</start>
+          <end>2011-11-01T18:00:00.000+09:00</end>
+        <title>Break</title>
+        <type>food</type>
+    </block> 
+    
+     <block>
+        <start>2011-11-01T18:00:00.000+09:00</start>
+          <end>2011-11-01T19:15:00.000+09:00</end>
+        <title>Ignite</title>
+        <type>session</type>
+    </block> 
+    
+     <block>
+        <start>2011-11-01T19:15:00.000+09:00</start>
+          <end>2011-11-01T19:30:00.000+09:00</end>
+        <title>Closing Ceremony</title>
+        <type>session</type>
+    </block> 
+    
+               
     <!-- <block>
         <start>2011-11-01T10:30:00.000-07:00</start>
           <end>2011-11-01T18:30:00.000-07:00</end>

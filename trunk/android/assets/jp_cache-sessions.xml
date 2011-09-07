@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic</id>
-	<updated>2011-09-06T23:21:37.271Z</updated>
+	<updated>2011-09-07T13:38:12.518Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>sessions</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE'/>
@@ -11,255 +11,287 @@
 		<name>j.prufrock</name>
 		<email>j.prufrock@gmail.com</email>
 	</author>
-	<openSearch:totalResults>31</openSearch:totalResults>
+	<openSearch:totalResults>35</openSearch:totalResults>
 	<openSearch:startIndex>1</openSearch:startIndex>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ggtvc</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: ???, sessiontitle: Registration</content>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 9:00 - 10:00, sessiontitle: Registration</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ggtvc'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/gffaz</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: ???, sessiontitle: Keynote</content>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 10:00 - 12:00, sessionroom: Hall, sessiontitle: Keynote</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/gffaz'/>
 	</entry>
 	<entry>
-		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/i6mvg</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/g8egu</id>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 4</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00 - 13:45, sessionroom: TBD, sessiontrack: Android, sessiontitle: Android の最新情報, sessiontags: android, sessionabstract: 本セッションでは、最近リリースされた Android の機能の中からデベロッパーの皆さんにとって重要な新機能を中心にご紹介します。</content>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 12:00 - 13:00, sessiontitle: Lunch</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/g8egu'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/i6mvg</id>
+		<updated>2011-09-07T13:38:12.518Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 5</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00 - 13:45, sessionroom: Hall, sessiontrack: Android, sessiontitle: Android の最新情報, sessiontags: android, sessionabstract: 本セッションでは、最近リリースされた Android の機能の中からデベロッパーの皆さんにとって重要な新機能を中心にご紹介します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/i6mvg'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/js86d</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 5</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00 - 13:45, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5, sessiontitle: HTML5 最前線, sessiontags: HTML5, sessionabstract: HTML5 をご存知の方は多いと思いますが、本セッションでは、Chrome とオープンウェブプラットフォームなど、現在開発中の最新技術をいくつかご紹介します。パフォーマンス、リアルタイムのコミュニケーション、システム連携について詳しく掘り下げながら、WebSocket、メッセージング機能、Web Audio API などのリッチメディア API を取り上げます。</content>
+		<title type='text'>Row: 6</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00 - 13:45, sessionroom: Room 4, sessiontrack: Chrome &amp; HTML5, sessiontitle: HTML5 最前線, sessiontags: HTML5, sessionabstract: HTML5 をご存知の方は多いと思いますが、本セッションでは、Chrome とオープンウェブプラットフォームなど、現在開発中の最新技術をいくつかご紹介します。パフォーマンス、リアルタイムのコミュニケーション、システム連携について詳しく掘り下げながら、WebSocket、メッセージング機能、Web Audio API などのリッチメディア API を取り上げます。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/js86d'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/g5la8</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 6</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00 - 13:45, sessionroom: TBD, sessiontrack: Cloud, sessiontitle: App Engine 最新機能, sessionabstract: 本セッションでは、Backends、MapReduce、Full Text Search、Channel API などの強力な最新機能をいくつかご紹介し、ウェブアプリケーションでの実際の活用方法をご紹介します。</content>
+		<title type='text'>Row: 7</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00 - 13:45, sessionroom: Room 1, sessiontrack: Cloud, sessiontitle: App Engine 最新機能, sessiontags: App Engine, sessionabstract: 本セッションでは、Backends、MapReduce、Full Text Search、Channel API などの強力な最新機能をいくつかご紹介し、ウェブアプリケーションでの実際の活用方法をご紹介します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/g5la8'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/gi8ft</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00 - 13:45, sessionroom: TBD</content>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00 - 13:45, sessionroom: Room 3, sessiontitle: TBD, sessionabstract: TBD</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/gi8ft'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/g6zup</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 8</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00 - 13:45, sessionroom: TBD, sessiontrack: Tech Talks / General, sessiontitle: ウェブアプリにおけるデータアクセスと本人認証のための OAuth と OpenID, sessionabstract: ウェブアプリが Google クラウドが管理するユーザーデータにアクセスするために OAuth 2.0 をどのように使用するかを説明します。また、OAuth 2.0 と OpenID Connect を使用した、追加パスワード不要のシームレスなサイト認証についても説明します。実装の容易さとユーザーエクスペリエンスは重要なトピックであり、Google Identity Toolkit と Account Chooser との関連についても議論します。</content>
+		<title type='text'>Row: 9</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:00 - 13:45, sessionroom: Room 2, sessiontrack: Tech Talks / General, sessiontitle: ウェブアプリにおけるデータアクセスと本人認証のための OAuth と OpenID, sessionabstract: ウェブアプリが Google クラウドが管理するユーザーデータにアクセスするために OAuth 2.0 をどのように使用するかを説明します。また、OAuth 2.0 と OpenID Connect を使用した、追加パスワード不要のシームレスなサイト認証についても説明します。実装の容易さとユーザーエクスペリエンスは重要なトピックであり、Google Identity Toolkit と Account Chooser との関連についても議論します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/g6zup'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fzz0k</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1</content>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 13:45 - 14:00, sessiontitle: Break</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fzz0k'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/f29ek</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 10</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00 - 14:45, sessionroom: TBD, sessiontrack: Android, sessiontitle: Android の優れたユーザーエクスペリエンス, sessiontags: android, sessionabstract: 本セッションでは、人気の高い Android アプリケーションの作成方法に焦点をおいて、パフォーマンス、ユーザビリティ、デザイン性を向上させるためのさまざまなテクニックをご紹介します。特に、タブレット端末でユーザーを満足させるアプリケーションの設計について説明します。</content>
+		<title type='text'>Row: 11</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00 - 14:45, sessionroom: Hall, sessiontrack: Android, sessiontitle: Android の優れたユーザーエクスペリエンス, sessiontags: android, sessionabstract: 本セッションでは、人気の高い Android アプリケーションの作成方法に焦点をおいて、パフォーマンス、ユーザビリティ、デザイン性を向上させるためのさまざまなテクニックをご紹介します。特に、タブレット端末でユーザーを満足させるアプリケーションの設計について説明します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/f29ek'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/f3nz1</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 11</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00 - 14:45, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5, sessiontitle: HTML5 のオフライン機能, sessiontags: HTML5, sessionabstract: ユーザーに完璧なオフライン体験を提供することは難しいです。本セッションでは、IndexDB、FileSystem、AppCache、WebSQL などの高度なオフライン機能や、オフラインでシームレスに動作するアプリケーションを構築できるオンラインイベントについてお話します。</content>
+		<title type='text'>Row: 12</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00 - 14:45, sessionroom: Room 2, sessiontrack: Chrome &amp; HTML5, sessiontitle: HTML5 と ChromeVox でアプリケーションのアクセシビリティを向上させよう, sessiontags: HTML5, sessionabstract: インタラクティブかつ動的なウェブアプリを作るとき、ハンディキャップを持つユーザーにも利用しやすいようにどのような工夫をしていますか。Chrome のスクリーンリーダーである ChromeVox は、アプリケーションのアクセシビリティテストでどのように役立つでしょうか。実績のある HTML5 技術を導入することによって、ウェブデベロッパーは、障害者のための支援技術を利用するユーザーにもリッチかつインタラクティブな機能を提供することができます。本セッションでは、最新のブラウザで今すぐ取り組める方法をご紹介します。ARIA の適切な使用に加えて、フォーカス管理、キーボード操作、ChromeVox によるユーザーインターフェースアクセシビリティの簡単なテスト方法などをご説明します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/f3nz1'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fgb2q</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 12</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00 - 14:45, sessionroom: TBD, sessiontrack: Cloud, sessiontitle: Google クラウド技術を駆使した統合アプリケーションの構築, sessionabstract: 本セッションでは、Google クラウド技術を組み合わせて構築されたさまざまなアプリケーションをご紹介します。これらのアプリケーションを通じて、強力なクラウド アプリケーションを開発するために Google Storage、Prediction API、BigQuery、App Engine などのあらゆる技術を統合する方法を説明します。</content>
+		<title type='text'>Row: 13</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00 - 14:45, sessionroom: Room 1, sessiontrack: Cloud, sessiontitle: Google クラウド技術を駆使した統合アプリケーションの構築, sessiontags: cloud, sessionabstract: 本セッションでは、Google クラウド技術を組み合わせて構築されたさまざまなアプリケーションをご紹介します。これらのアプリケーションを通じて、強力なクラウド アプリケーションを開発するために Google Storage、Prediction API、BigQuery、App Engine などのあらゆる技術を統合する方法を説明します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fgb2q'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fhpn7</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00 - 14:45, sessionroom: TBD</content>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00 - 14:45, sessionroom: Room 4, sessiontitle: TBD, sessionabstract: TBD</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fhpn7'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fx5vq</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 14</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00 - 14:45, sessionroom: TBD, sessiontrack: Tech Talks / General, sessiontitle: Google の geo 関連サービスについての最新情報と震災時の活用事例の紹介, sessionabstract: 本セッションでは、Fusion Tables や Places API などの最新の Google geo
+		<title type='text'>Row: 15</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:00 - 14:45, sessionroom: Room 3, sessiontrack: Tech Talks / General, sessiontitle: Google の geo 関連サービスについての最新情報と震災時の活用事例の紹介, sessiontags: geo, sessionabstract: 本セッションでは、Fusion Tables や Places API などの最新の Google geo
 関連サービスを紹介し、Google クライシスレスポンスチームがこれらをどのように使用したかを実例を挙げて解説します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fx5vq'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/g1dl1</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1</content>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 14:45 - 15:00, sessiontitle: Break</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/g1dl1'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cre1l</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 16</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00 - 15:45, sessionroom: TBD, sessiontrack: Android, sessiontitle: デベロッパー向け Android マーケット, sessiontags: android, sessionabstract: Android マーケットは、デベロッパーとエンドユーザーの皆さんの利便性向上のため、改善を続けています。本セッションでは、最近の開発状況や、新しい収益化モデルの活用や最適化されたコンテンツの提供方法、著作権侵害を最小限に留めるための対策、アプリケーションの認知度を高める方法などをご紹介します。</content>
+		<title type='text'>Row: 17</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00 - 15:45, sessionroom: Hall, sessiontrack: Android, sessiontitle: デベロッパー向け Android マーケット, sessiontags: android, sessionabstract: Android マーケットは、デベロッパーとエンドユーザーの皆さんの利便性向上のため、改善を続けています。本セッションでは、最近の開発状況や、新しい収益化モデルの活用や最適化されたコンテンツの提供方法、著作権侵害を最小限に留めるための対策、アプリケーションの認知度を高める方法などをご紹介します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/cre1l'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fj47k</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 17</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00 - 15:45, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5, sessiontitle: デベロッパーツールのティップス・アンド・トリックス</content>
+		<title type='text'>Row: 18</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00 - 15:45, sessionroom: Room 2, sessiontrack: Chrome &amp; HTML5, sessiontitle: HTML5 のオフライン機能, sessiontags: chrome, sessionabstract: ユーザーに完璧なオフライン体験を提供することは難しいです。本セッションでは、IndexDB、FileSystem、AppCache、WebSQL などの高度なオフライン機能や、オフラインでシームレスに動作するアプリケーションを構築できるオンラインイベントについてお話します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fj47k'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/faot2</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 18</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00 - 15:45, sessionroom: TBD, sessiontrack: Cloud, sessiontitle: TBD, sessionabstract: TBD</content>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00 - 15:45, sessionroom: Room 4, sessiontrack: Cloud, sessiontitle: TBD, sessionabstract: TBD</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/faot2'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fewid</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00 - 15:45, sessionroom: TBD</content>
+		<title type='text'>Row: 20</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00 - 15:45, sessionroom: Room 3, sessiontrack: Social, sessiontitle: Google+ と +1 ボタン, sessiontags: social, sessionabstract: 本セッションでは、Google+ プロジェクトをご紹介します。ソフトウェアにどのように現実世界の豊かさを加え、どうやってカジュアルな会話に複数の人々のライブビデオを組み合わるかなど、さまざまな機能を説明します。さらに、+1 ボタンとは何なのか、+1 ボタンがどのようにあなたのサイトを検索結果に反映させるのかについて説明します。+1 ボタンを最大限に活用する方法、ベストプラクティス、分析とレポート、構造化マークアップなど Google+ をビジネスで活用するポイントをご紹介します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fewid'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fvrbd</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 20</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00 - 15:45, sessionroom: TBD, sessiontrack: Tech Talks / General, sessiontitle: Google のクライシス レスポンス, sessionabstract: 2011 年 3 月、日本は非常に大きな地震と津波に襲われました。 本セッションでは、インターネットと関連技術がどのように被災地支援に貢献したかをご説明します。セッション後半では、Google および他社の開発者が震災復興のために始めた ”Hack For Japan” という活動をご紹介します。</content>
+		<title type='text'>Row: 21</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:00 - 15:45, sessionroom: Room 1, sessiontrack: Tech Talks / General, sessiontitle: Google のクライシス レスポンス, sessiontags: crisisresponse, sessionabstract: 2011 年 3 月、日本は非常に大きな地震と津波に襲われました。 本セッションでは、インターネットと関連技術がどのように被災地支援に貢献したかをご説明します。セッション後半では、Google および他社の開発者が震災復興のために始めた ”Hack For Japan” という活動をご紹介します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fvrbd'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ge0qi</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1</content>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 15:45 - 16:00, sessiontitle: Break</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ge0qi'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/chk2m</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 22</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00 - 16:45, sessionroom: TBD, sessiontrack: Android, sessiontitle: 日本における Android の成功事例, sessiontags: android, sessionabstract: 本セッションでは、 Google Developer Relations チームのメンバーと、 Android を活用して成功を収めた日本の開発者の方をご紹介します。</content>
+		<title type='text'>Row: 23</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00 - 16:45, sessionroom: Hall, sessiontrack: Android, sessiontitle: 日本における Android の成功事例, sessiontags: android, sessionabstract: 本セッションでは、 Google Developer Relations チームのメンバーと、 Android を活用して成功を収めた日本の開発者の方をご紹介します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/chk2m'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fkis1</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 23</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00 - 16:45, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5, sessiontitle: HTML5 と ChromeVox でアプリケーションのアクセシビリティを向上させよう, sessionabstract: インタラクティブかつ動的なウェブアプリを作るとき、ハンディキャップを持つユーザーにも利用しやすいようにどのような工夫をしていますか。Chrome のスクリーンリーダーである ChromeVox は、アプリケーションのアクセシビリティテストでどのように役立つでしょうか。実績のある HTML5 技術を導入することによって、ウェブデベロッパーは、障害者のための支援技術を利用するユーザーにもリッチかつインタラクティブな機能を提供することができます。本セッションでは、最新のブラウザで今すぐ取り組める方法をご紹介します。ARIA の適切な使用に加えて、フォーカス管理、キーボード操作、ChromeVox によるユーザーインターフェースアクセシビリティの簡単なテスト方法などをご説明します。</content>
+		<title type='text'>Row: 24</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00 - 16:45, sessionroom: Room 2, sessiontrack: Chrome &amp; HTML5, sessiontitle: 今までにないサイトを作る：HTML5 による最新ウェブアプリ, sessiontags: chrome, sessionabstract: 一世代前のウェブページの姿はもうそこにはありません。昨今のウェブアプリでは、クライアントサイドの MVC JavaScript による開発が活発です。最先端のフレームワークとテクニックを使用した最新ウェブ アプリの構築方法のほか、HTML5 の活用により、ユーザーに喜んでもらえるレスポンスの高いユーザーインターフェースの開発方法をご紹介します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fkis1'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/frjm2</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 24</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00 - 16:45, sessionroom: TBD, sessiontrack: Cloud, sessiontitle: Google Apps : 新しい API、新機能、ベストプラクティス, sessionabstract: Google は Google Apps API の次世代版の構築と既存 API へのリクエストが多かった機能の追加に日々取り組んでいます。本セッションでは、Google Apps の新しい API と機能を紹介するとともに、具体的な使用例やGoogle Apps と統合するためのベストプラクティスをご紹介します。</content>
+		<title type='text'>Row: 25</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00 - 16:45, sessionroom: Room 1, sessiontrack: Cloud, sessiontitle: Google Apps : 新しい API、新機能、ベストプラクティス, sessiontags: apps, sessionabstract: Google は Google Apps API の次世代版の構築と既存 API へのリクエストが多かった機能の追加に日々取り組んでいます。本セッションでは、Google Apps の新しい API と機能を紹介するとともに、具体的な使用例やGoogle Apps と統合するためのベストプラクティスをご紹介します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/frjm2'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fsy6j</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00 - 16:45, sessionroom: TBD</content>
+		<title type='text'>Row: 26</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00 - 16:45, sessionroom: Room 3, sessiontrack: Tech Talks / General, sessiontitle: HTML5 と Flash を比較する: Youtube 動画を高速化するテクノロジー, sessiontags: YouTube, sessionabstract: HTML5 は新しく強力で素晴らしい技術ですが、動画配信の地位を確立した Flash と何が違うのでしょうか。猫動画をさらに高速化できるのはどちらの技術でしょうか。本セッションでは、HTML5 と Youtube がウェブ上の動画配信にどのような変化をもたらすかをご紹介します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fsy6j'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/flxce</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 26</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00 - 16:45, sessionroom: TBD, sessiontrack: Tech Talks / General, sessiontitle: Google のアプリ内課金でウェブアプリをマネタイズしよう, sessionabstract: 優れたウェブ アプリが完成したら、どのように収益化すればよいでしょうか。本セッションは、 In-App Payments API をテーマに、特にウェブアプリとゲームアプリの収益化に焦点をあてます。デモンストレーションと事例を交えながらコンテンツやデジタルサービスの収益化の統合について説明します。また、In-App Payments API の仕組みや HTML や Flash アプリの両方への統合についても説明します。</content>
+		<title type='text'>Row: 27</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:00 - 16:45, sessionroom: Room 4, sessiontrack: Tech Talks / General, sessiontitle: Google のアプリ内課金でウェブアプリをマネタイズしよう, sessionabstract: 優れたウェブ アプリが完成したら、どのように収益化すればよいでしょうか。本セッションは、 In-App Payments API をテーマに、特にウェブアプリとゲームアプリの収益化に焦点をあてます。デモンストレーションと事例を交えながらコンテンツやデジタルサービスの収益化の統合について説明します。また、In-App Payments API の仕組みや HTML や Flash アプリの両方への統合についても説明します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/flxce'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fykg7</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1</content>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 16:45 - 17:00, sessiontitle: Break</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fykg7'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/foqh8</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 28</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00 - 17:45, sessionroom: TBD, sessiontrack: Android, sessiontitle: Android デベロッパー向けの Google TV 情報, sessiontags: GoogleTV, sessionabstract: Honeycomb 版 Google TV により、Android デベロッパーは家庭の大きな画面向けのアプリケーションを作成できるようになりました。よいアプリケーションと優れたアプリケーションの違いは、多くの場合、ユーザー インターフェースの設計に依存します。これは、Android API の適切な利用と同様に重要な要素です。本セッションでは、アプリケーションの使い勝手とパフォーマンスを改善するための事例とベストプラクティスをご紹介します。本セッションは、Google TV や他の Android プラットフォーム向けに優れたアプリケーションを開発するのに役立つでしょう。</content>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00 - 17:45, sessionroom: Room 4, sessiontrack: Android, sessiontitle: TBD, sessionabstract: TBD</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/foqh8'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fnbwv</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00 - 17:45, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5</content>
+		<title type='text'>Row: 30</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00 - 17:45, sessionroom: Room 3, sessiontrack: Android, sessiontitle: Android デベロッパー向けの Google TV 情報, sessiontags: GoogleTV, sessionabstract: Honeycomb 版 Google TV により、Android デベロッパーは家庭の大きな画面向けのアプリケーションを作成できるようになりました。よいアプリケーションと優れたアプリケーションの違いは、多くの場合、ユーザー インターフェースの設計に依存します。これは、Android API の適切な利用と同様に重要な要素です。本セッションでは、アプリケーションの使い勝手とパフォーマンスを改善するための事例とベストプラクティスをご紹介します。本セッションは、Google TV や他の Android プラットフォーム向けに優れたアプリケーションを開発するのに役立つでしょう。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/fnbwv'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/f0uu7</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00 - 17:45, sessionroom: TBD</content>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00 - 17:45, sessionroom: Room 2, sessiontrack: Tech Talks / General, sessiontitle: TBD, sessionabstract: TBD</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/f0uu7'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ezg9q</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 31</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00 - 17:45, sessionroom: TBD, sessiontrack: Cloud, sessiontitle: VC パネル: 起業家精神、起業支援とベンチャーキャピタル, sessionabstract: 起業を考えている方を対象に、投資家を興味を引く方法や、投資前に投資家が何を確認するかについてお伝えします。成功した起業家とベンチャーキャピタルからのお話も伺います。</content>
+		<title type='text'>Row: 32</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00 - 17:45, sessionroom: Hall, sessiontrack: Tech Talks / General, sessiontitle: VC パネル: 起業家精神、起業支援とベンチャーキャピタル, sessionabstract: 起業を考えている方を対象に、投資家を興味を引く方法や、投資前に投資家が何を確認するかについてお伝えします。成功した起業家とベンチャーキャピタルからのお話も伺います。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/ezg9q'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dmair</id>
-		<updated>2011-09-06T23:21:37.271Z</updated>
+		<updated>2011-09-07T13:38:12.518Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 32</title>
-		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00 - 17:45, sessionroom: TBD, sessiontrack: Tech Talks / General, sessiontitle: Google のエンジニアの日常, sessionabstract: Google のソフトウェアエンジニアがどのような環境でサービスを開発しているかをご紹介します。</content>
+		<title type='text'>Row: 33</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:00 - 17:45, sessionroom: Room 1, sessiontrack: Tech Talks / General, sessiontitle: Google のエンジニアの日常, sessionabstract: Google のソフトウェアエンジニアがどのような環境でサービスを開発しているかをご紹介します。</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dmair'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dnp34</id>
+		<updated>2011-09-07T13:38:12.518Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 17:45 - 18:00, sessiontitle: Break</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dnp34'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/df9om</id>
+		<updated>2011-09-07T13:38:12.518Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 18:00 - 19:15, sessionroom: Hall, sessiontitle: Ignite</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/df9om'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dgo93</id>
+		<updated>2011-09-07T13:38:12.518Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Tuesday November 1, sessiontime: 19:15 - 19:30, sessionroom: Hall, sessiontitle: Closing Ceremony, sessionabstract: 「Enlighten us, but make it quick（啓発活動は手短に）」をスローガンとする イグナイト（Ignite） は、15 秒間隔で自動的に切り替えられる 20 枚のスライドを使用して、計 5 分間、プレゼンターがその思いを語るイベントです。Ignite についての詳細は http://www.igniteshow.com をご覧ください。</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od6/public/basic/dgo93'/>
 	</entry>
 </feed>
