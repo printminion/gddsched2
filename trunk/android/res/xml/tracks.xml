@@ -123,7 +123,13 @@
         <color>#999999</color>
         <abstract>GDD features Tech Talks on subjects of interest to developers, such as computer science problems, programming languages, and more.</abstract>
     </track>
-
+    
+    <track>
+        <name>Tech Talks</name>
+        <color>#999999</color>
+        <abstract>GDD features Tech Talks on subjects of interest to developers, such as computer science problems, programming languages, and more.</abstract>
+    </track>
+    
     <track>
         <name>Tech Talks / General</name>
         <color>#999999</color>
@@ -135,6 +141,15 @@
         <color>#999999</color>
         <abstract>GDD features Tech Talks on subjects of interest to developers, such as computer science problems, programming languages, and more.</abstract>
     </track>
+        
+
+    <track>
+        <name>University</name>
+        <color>#FFB033</color>
+        <abstract></abstract>
+    </track>
+        
+        
         
     <track>
         <name>Misc</name>

@@ -17,6 +17,13 @@
 <rooms>
 
     <room><id>na</id><name>N/A</name><floor>2</floor></room>
+    <room><id>baysideauditoriuma</id><name>Bayside Auditorium A</name><floor>2</floor></room>
+    <room><id>baysideauditoriumb</id><name>Bayside Auditorium B</name><floor>2</floor></room>
+    <room><id>bayside103</id><name>Bayside 103</name><floor>2</floor></room>
+    <room><id>bayside104</id><name>Bayside 104</name><floor>2</floor></room>
+    <room><id>bayside105</id><name>Bayside 105</name><floor>2</floor></room>
+    <room><id>baysidegalleryiscateringluncharea</id><name>Bayside Gallery is catering/lunch area</name><floor>2</floor></room>
+    
     <room><id>1</id><name>Room 1</name><floor>2</floor></room>
     <room><id>2</id><name>Room 2</name><floor>2</floor></room>
     <room><id>3</id><name>Room 3</name><floor>2</floor></room>

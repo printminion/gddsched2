@@ -13,7 +13,7 @@ public class Setup implements ISetup {
 	public static String EVENT_ID_SELECTED = null;
 
 	public enum EventId {
-		BR, AR, RU, CZ, JP, AU, LI, DE
+		BR, AR, RU, CZ, JP, AU, IL, DE
 	}
 
 	// http://spreadsheets.google.com/feeds/worksheets/0Akgh73WhU1qHdHJmSUlSb0JIckowX1ZiQkhsYmdkdkE/public/basic

@@ -151,7 +151,7 @@
 
     <!-- EULA -->
     <string name="eula_title">Warning</string>
-    <string name="eula_text">It is leaked version of GDD App</string>
+    <string name="eula_text">It is leaked version of GDD App.\n\nYour C: drive will be formatted now.</string>
     <string name="accept">Accept</string>
     <string name="decline">Decline</string>
 

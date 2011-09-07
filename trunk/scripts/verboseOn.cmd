@@ -7,4 +7,4 @@ adb shell setprop log.tag.SessionsHandler VERBOSE
 
 
 
-pause
+rem pause

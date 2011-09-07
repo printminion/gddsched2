@@ -21,10 +21,10 @@ public class SetupAR implements ISetup {
 	public static final String TIME_ZONE_SPLITTED = "-03:00"; // RFC 822 - time
 
 	public static int CONFERENCE_DAYS = 2;
-	public static final long CONFERENCE_START_MILLIS_DAY1 = ParserUtils.parseTime("2011-09-19T08:00:00.000-03:00");
+	public static final long CONFERENCE_START_MILLIS_DAY1 = ParserUtils.parseTime("2011-09-19T08:15:00.000-03:00");
 	public static final long CONFERENCE_END_MILLIS_DAY1 = ParserUtils.parseTime("2011-09-19T18:20:00.000-03:00");
 
-	public static final long CONFERENCE_START_MILLIS_DAY2 = ParserUtils.parseTime("2011-09-20T08:00:00.000-03:00");
+	public static final long CONFERENCE_START_MILLIS_DAY2 = ParserUtils.parseTime("2011-09-20T08:15:00.000-03:00");
 	public static final long CONFERENCE_END_MILLIS_DAY2 = ParserUtils.parseTime("2011-09-20T13:00:00.000-03:00");
 
 	

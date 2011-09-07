@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic</id>
-	<updated>2011-09-04T11:23:42.150Z</updated>
+	<updated>2011-09-06T22:10:57.214Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>speakers</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E'/>
@@ -11,14 +11,46 @@
 		<name>j.prufrock</name>
 		<email>j.prufrock@gmail.com</email>
 	</author>
-	<openSearch:totalResults>1</openSearch:totalResults>
+	<openSearch:totalResults>5</openSearch:totalResults>
 	<openSearch:startIndex>1</openSearch:startIndex>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/chk2m</id>
-		<updated>2011-09-04T11:23:42.150Z</updated>
+		<updated>2011-09-06T22:10:57.214Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 2</title>
 		<content type='text'>speakertitle: Mano Marks, speakercompany: Google, speakerabstract: Mano has been on Google’s Developer Relations team for the last four years, and is the lead Developer Advocate for Google’s Geo APIs. After work, he collects old maps and new video games., speakerimageurl: http://www.google.com/events/io/2011/static/img/Mano_Marks.png</content>
 		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/chk2m'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/ciyn3</id>
+		<updated>2011-09-06T22:10:57.214Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 3</title>
+		<content type='text'>speakertitle: Ilmari Heikkinen</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/ciyn3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/bamu</id>
+		<updated>2011-09-06T22:10:57.214Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 4</title>
+		<content type='text'>speakertitle: Shannon -jj Behrens, speakerabstract: JJ je "developer advocate" pro YouTube API. Na jjinux.blogpost.com postuje v rámci témat jako jsou Python, Ruby, Linux, open source software, web a méně známé programovací jazyky.</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/bamu'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/ckd7g</id>
+		<updated>2011-09-06T22:10:57.214Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 5</title>
+		<content type='text'>speakertitle: Paul Kinlan</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/ckd7g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/clrrx</id>
+		<updated>2011-09-06T22:10:57.214Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 6</title>
+		<content type='text'>speakertitle: Christian Kurzke</content>
+		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od7/public/basic/clrrx'/>
 	</entry>
 </feed>

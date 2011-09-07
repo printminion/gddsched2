@@ -19,36 +19,36 @@
     <!-- Tuesday, May 10th 2011 -->
     <block>
         <start>2011-09-16T08:00:00.000-03:00</start>
-          <end>2011-09-16T08:59:00.000-03:00</end>
+          <end>2011-09-16T09:00:00.000-03:00</end>
         <title>Credenciamento</title>
         <type>session</type>
     </block>
 
     <block>
         <start>2011-09-16T09:00:00.000-03:00</start>
-          <end>2011-09-16T10:44:00.000-03:00</end>
+          <end>2011-09-16T10:45:00.000-03:00</end>
         <title>Keynote</title>
         <type>session</type>
     </block>
 
     <block>
-        <start>2011-09-16T10:46:00.000-03:00</start>
-          <end>2011-09-16T11:29:00.000-03:00</end>
+        <start>2011-09-16T10:45:00.000-03:00</start>
+          <end>2011-09-16T11:30:00.000-03:00</end>
         <title>Break</title>
         <type>food</type>
     </block>
 
     <block>
-        <start>2011-09-16T13:11:00.000-03:00</start>
-          <end>2011-09-16T14:29:00.000-03:00</end>
+        <start>2011-09-16T13:10:00.000-03:00</start>
+          <end>2011-09-16T14:30:00.000-03:00</end>
         <title>Almoço e Office Hours</title>
         <type>food</type>
     </block>
 
 
     <block>
-        <start>2011-09-16T16:11:00.000-03:00</start>
-          <end>2011-09-16T16:29:00.000-03:00</end>
+        <start>2011-09-16T16:10:00.000-03:00</start>
+          <end>2011-09-16T16:30:00.000-03:00</end>
         <title>Break</title>
         <type>food</type>
     </block>
