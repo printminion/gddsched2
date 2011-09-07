@@ -32,7 +32,13 @@ import com.kupriyanov.android.apps.gddsched.Setup;
 public class SetupHelper {
 	protected static final String TAG = "SetupHelper";
 
-	public static boolean hasChoosedSetup(final Context context) {
+	public static void loadCurrentSetup(final Context context) {
+		Log.d(TAG, "loadCurrentSetup...");
+		
+		hasChosenSetup(context);
+	}
+
+	public static boolean hasChosenSetup(final Context context) {
 		SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(context);
 
 		final String event = sp.getString("setup_event_prefix", "");
@@ -44,7 +50,7 @@ public class SetupHelper {
 		if (event.equals(Setup.EVENT_ID_SELECTED)) {
 			return true;
 		}
-		
+
 		setAcceptedEvent(context, Setup.EventId.valueOf(event));
 
 		return !sp.getString("setup_event_prefix", "").equals("");
@@ -102,37 +108,4 @@ public class SetupHelper {
 		// }.execute();
 	}
 
-	// /**
-	// * Show End User License Agreement.
-	// *
-	// * @param accepted
-	// * True IFF user has accepted license already, which means it can
-	// * be dismissed. If the user hasn't accepted, then the EULA must
-	// * be accepted or the program exits.
-	// * @param activity
-	// * Activity started from.
-	// */
-	// public static void showSetup(final Activity activity) {
-	//
-	// AnalyticsUtils.getInstance(activity).trackPageView("/Setup");
-	//
-	// AlertDialog.Builder builder = new
-	// AlertDialog.Builder(activity).setTitle(R.string.setup_text).setIcon(
-	// android.R.drawable.ic_dialog_info);
-	//
-	// // .setMessage(R.string.setup_text);
-	// //
-	//
-	// builder.setItems(Setup.EVENTS_NAMES, new
-	// DialogInterface.OnClickListener() {
-	// public void onClick(DialogInterface dialog, int item) {
-	// Toast.makeText(activity, Setup.EVENTS_NAMES[item],
-	// Toast.LENGTH_SHORT).show();
-	// setAcceptedEvent(activity, item);
-	// dialog.dismiss();
-	// }
-	// });
-	//
-	// builder.show();
-	// }
 }

@@ -58,6 +58,12 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 		mReceiver = new DetachableResultReceiver(new Handler());
 		mReceiver.setReceiver(this);
 
+		if (!Setup.FEATURE_MULTIEVENT_ON) {
+			startActivity(new Intent(this, Setup.HomeActivityClass));
+			finish();
+			return;
+		}
+
 		checkSetup();
 
 		setContentView(R.layout.activity_setup);
@@ -92,18 +98,15 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 
 	@Override
 	protected void onResume() {
-		// checkSetup();
 		super.onResume();
+
+		SetupHelper.loadCurrentSetup(this);
+
 	}
 
 	private void checkSetup() {
-		if (!Setup.FEATURE_MULTIEVENT_ON) {
-			startActivity(new Intent(this, Setup.HomeActivityClass));
-			finish();
-			return;
-		}
 
-		if (SetupHelper.hasChoosedSetup(this)) {
+		if (SetupHelper.hasChosenSetup(this)) {
 
 			mDialog = ProgressDialog.show(SetupActivity.this, "", getText(R.string.title_loading), true);
 

@@ -59,6 +59,9 @@ public class TagStreamFragment extends Fragment {
         final Intent intent = BaseActivity.fragmentArgumentsToIntent(getArguments());
         mSearchString = intent.getStringExtra(EXTRA_QUERY);
         if (TextUtils.isEmpty(mSearchString)) {
+        	/*
+        	 * use conference ID instead of hashtag by gdd11
+        	 */
             //mSearchString = CONFERENCE_HASHTAG;
             mSearchString = Setup.EVENT_ID_SELECTED;
             
@@ -94,8 +97,7 @@ public class TagStreamFragment extends Fragment {
 //                            + URLEncoder.encode(mSearchString, "UTF-8")
 //                            + "&btnG=Search");
 
-                	mWebView.loadUrl(
-                            "http://gddstream.appspot.com/?event="
+                	mWebView.loadUrl(Setup.CONFERENCE_STREAM
                             + URLEncoder.encode(mSearchString, "UTF-8")
                             + "&btnG=Search");
                     
