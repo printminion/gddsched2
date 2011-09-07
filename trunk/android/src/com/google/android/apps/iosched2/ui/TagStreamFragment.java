@@ -59,7 +59,9 @@ public class TagStreamFragment extends Fragment {
         final Intent intent = BaseActivity.fragmentArgumentsToIntent(getArguments());
         mSearchString = intent.getStringExtra(EXTRA_QUERY);
         if (TextUtils.isEmpty(mSearchString)) {
-            mSearchString = CONFERENCE_HASHTAG;
+            //mSearchString = CONFERENCE_HASHTAG;
+            mSearchString = Setup.EVENT_ID_SELECTED;
+            
         }
         if (!mSearchString.startsWith("#")) {
             mSearchString = "#" + mSearchString;
@@ -86,11 +88,18 @@ public class TagStreamFragment extends Fragment {
                 mWebView.getSettings().setJavaScriptEnabled(true);
                 mWebView.getSettings().setJavaScriptCanOpenWindowsAutomatically(false);
                 try {
-                    mWebView.loadUrl(
-                            "http://www.google.com/search?tbs="
-                            + "mbl%3A1&hl=en&source=hp&biw=1170&bih=668&q="
+//                    mWebView.loadUrl(
+//                            "http://www.google.com/search?tbs="
+//                            + "mbl%3A1&hl=en&source=hp&biw=1170&bih=668&q="
+//                            + URLEncoder.encode(mSearchString, "UTF-8")
+//                            + "&btnG=Search");
+
+                	mWebView.loadUrl(
+                            "http://gddstream.appspot.com/?event="
                             + URLEncoder.encode(mSearchString, "UTF-8")
                             + "&btnG=Search");
+                    
+                    
                 } catch (UnsupportedEncodingException e) {
                     Log.e(TAG, "Could not construct the realtime search URL", e);
                 }

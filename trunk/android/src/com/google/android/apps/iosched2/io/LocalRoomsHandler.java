@@ -20,6 +20,7 @@ import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched2.provider.ScheduleContract;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Rooms;
 import com.google.android.apps.iosched2.util.Lists;
+import com.google.android.apps.iosched2.util.ParserUtils;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
@@ -83,7 +84,9 @@ public class LocalRoomsHandler extends XmlHandler {
             } else if (type == TEXT) {
                 final String text = parser.getText();
                 if (Tags.ID.equals(tag)) {
-                    builder.withValue(Rooms.ROOM_ID, text);
+                    
+                	builder.withValue(Rooms.ROOM_ID, ParserUtils.sanitizeId(text));
+                    
                 } else if (Tags.NAME.equals(tag)) {
                     builder.withValue(Rooms.ROOM_NAME, text);
                 } else if (Tags.FLOOR.equals(tag)) {

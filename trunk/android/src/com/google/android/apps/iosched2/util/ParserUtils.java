@@ -84,6 +84,8 @@ public class ParserUtils {
      */
     public static String sanitizeId(String input, boolean stripParen) {
         if (input == null) return null;
+        if (input.length() == 0) return "";
+        
         if (stripParen) {
             // Strip out all parenthetical statements when requested.
             input = sParenPattern.matcher(input).replaceAll("");
@@ -91,11 +93,12 @@ public class ParserUtils {
         
         final String str = sSanitizePattern.matcher(input.toLowerCase()).replaceAll("");
         
-        if (str.length() == 0) {
+        
+//        if (input.length() - str.length() > 2) {
         	return md5(str);
-        } else {
-        	return str;
-        }
+//        } else {
+//        	return str;
+//        }
     }
     
     public static String md5(String s) 
