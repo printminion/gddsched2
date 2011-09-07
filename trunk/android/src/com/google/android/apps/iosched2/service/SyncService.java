@@ -90,7 +90,7 @@ public class SyncService extends IntentService {
     private static final String ENCODING_GZIP = "gzip";
 
     private static final int VERSION_NONE = 0;
-    private static final int VERSION_CURRENT = 11;
+    private static final int VERSION_CURRENT = Setup.VERSION_CURRENT;
 
     private LocalExecutor mLocalExecutor;
     private RemoteExecutor mRemoteExecutor;
