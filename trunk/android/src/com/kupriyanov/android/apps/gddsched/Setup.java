@@ -56,6 +56,6 @@ public class Setup implements ISetup {
 
 	public static String CONTENT_AUTHORITY = "com.google.android.apps.gddsched";// com.kupriyanov.android.apps.gddsched";
 
-	public static String ANALYTICS_CODE = "UACODEDUMMY"; // INSERT_YOUR_ANALYTICS_UA_CODE_HERE
+	public static String ANALYTICS_CODE = "UA-25535360-1"; // INSERT_YOUR_ANALYTICS_UA_CODE_HERE
 
 }

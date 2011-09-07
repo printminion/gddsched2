@@ -107,11 +107,11 @@ public class AnalyticsUtils {
             protected Void doInBackground(Void... voids) {
                 try {
                     mTracker.trackEvent(category, action, label, value);
-                    Log.d(TAG, "iosched Analytics trackEvent: "
+                    Log.d(TAG, "gddsched Analytics trackEvent: "
                             + category + " / " + action + " / " + label + " / " + value);
                 } catch (Exception e) {
                     // We don't want to crash if there's an Analytics library exception.
-                    Log.w(TAG, "iosched Analytics trackEvent error: "
+                    Log.w(TAG, "gddsched Analytics trackEvent error: "
                             + category + " / " + action + " / " + label + " / " + value, e);
                 }
                 return null;
@@ -127,10 +127,10 @@ public class AnalyticsUtils {
             protected Void doInBackground(Void... voids) {
                 try {
                     mTracker.trackPageView(path);
-                    Log.d(TAG, "iosched Analytics trackPageView: " + path);
+                    Log.d(TAG, "gddsched Analytics trackPageView: " + path);
                 } catch (Exception e) {
                     // We don't want to crash if there's an Analytics library exception.
-                    Log.w(TAG, "iosched Analytics trackPageView error: " + path, e);
+                    Log.w(TAG, "gddsched Analytics trackPageView error: " + path, e);
                 }
                 return null;
             }
