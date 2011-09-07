@@ -34,6 +34,9 @@ import android.net.Uri;
 import android.text.format.Time;
 
 import java.io.InputStream;
+import java.math.BigInteger;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
 import java.util.Set;
 import java.util.regex.Pattern;
@@ -85,8 +88,33 @@ public class ParserUtils {
             // Strip out all parenthetical statements when requested.
             input = sParenPattern.matcher(input).replaceAll("");
         }
-        return sSanitizePattern.matcher(input.toLowerCase()).replaceAll("");
+        
+        final String str = sSanitizePattern.matcher(input.toLowerCase()).replaceAll("");
+        
+        if (str.length() == 0) {
+        	return md5(str);
+        } else {
+        	return str;
+        }
     }
+    
+    public static String md5(String s) 
+    {
+        MessageDigest digest;
+        try 
+        {
+            digest = MessageDigest.getInstance("MD5");
+            digest.update(s.getBytes(),0,s.length());
+            String hash = new BigInteger(1, digest.digest()).toString(16);
+            return hash;
+        } 
+        catch (NoSuchAlgorithmException e) 
+        {
+            e.printStackTrace();
+        }
+        return "";
+    }
+    
 
     /**
      * Split the given comma-separated string, returning all values.
