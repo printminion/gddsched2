@@ -21,6 +21,7 @@ import com.google.android.apps.iosched2.provider.ScheduleContract;
 import com.google.android.apps.iosched2.util.ActivityHelper;
 import com.google.android.apps.iosched2.util.AnalyticsUtils;
 import com.google.android.apps.iosched2.util.NotifyingAsyncQueryHandler;
+import com.google.android.apps.iosched2.util.SetupHelper;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Context;
@@ -61,6 +62,8 @@ public class VendorsFragment extends ListFragment implements
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+		SetupHelper.loadCurrentSetup(getActivity());
+
         mHandler = new NotifyingAsyncQueryHandler(getActivity().getContentResolver(), this);
         reloadFromArguments(getArguments());
     }
@@ -195,6 +198,8 @@ public class VendorsFragment extends ListFragment implements
     @Override
     public void onResume() {
         super.onResume();
+		SetupHelper.loadCurrentSetup(getActivity());
+
         getActivity().getContentResolver().registerContentObserver(
                 ScheduleContract.Vendors.CONTENT_URI, true, mVendorChangesObserver);
         if (mCursor != null) {

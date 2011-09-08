@@ -21,6 +21,7 @@ import com.google.android.apps.iosched2.provider.ScheduleContract;
 import com.google.android.apps.iosched2.util.ActivityHelper;
 import com.google.android.apps.iosched2.util.AnalyticsUtils;
 import com.google.android.apps.iosched2.util.NotifyingAsyncQueryHandler;
+import com.google.android.apps.iosched2.util.SetupHelper;
 import com.google.android.apps.iosched2.util.UIUtils;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
@@ -67,6 +68,8 @@ public class SessionsFragment extends ListFragment implements
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+		SetupHelper.loadCurrentSetup(getActivity());
+
         mHandler = new NotifyingAsyncQueryHandler(getActivity().getContentResolver(), this);
         reloadFromArguments(getArguments());
     }
@@ -196,6 +199,8 @@ public class SessionsFragment extends ListFragment implements
     @Override
     public void onResume() {
         super.onResume();
+		SetupHelper.loadCurrentSetup(getActivity());
+
         mMessageQueueHandler.post(mRefreshSessionsRunnable);
         getActivity().getContentResolver().registerContentObserver(
                 ScheduleContract.Sessions.CONTENT_URI, true, mSessionChangesObserver);

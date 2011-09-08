@@ -19,6 +19,7 @@ package com.google.android.apps.iosched2.ui;
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Sessions;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Vendors;
+import com.google.android.apps.iosched2.util.SetupHelper;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
@@ -51,6 +52,8 @@ public class StarredActivity extends BaseMultiPaneActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+		SetupHelper.loadCurrentSetup(this);
+
         setContentView(R.layout.activity_starred);
         getActivityHelper().setupActionBar(getTitle(), 0);
 
@@ -182,5 +185,10 @@ public class StarredActivity extends BaseMultiPaneActivity {
         if (mVendorsFragment != null) {
             mVendorsFragment.clearCheckedPosition();
         }
+    }
+    @Override
+    protected void onResume() {
+    	super.onResume();
+		SetupHelper.loadCurrentSetup(this);
     }
 }

@@ -24,6 +24,7 @@ import com.google.android.apps.iosched2.util.BitmapUtils;
 import com.google.android.apps.iosched2.util.CatchNotesHelper;
 import com.google.android.apps.iosched2.util.FractionalTouchDelegate;
 import com.google.android.apps.iosched2.util.NotifyingAsyncQueryHandler;
+import com.google.android.apps.iosched2.util.SetupHelper;
 import com.google.android.apps.iosched2.util.UIUtils;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
@@ -105,6 +106,8 @@ public class SessionDetailFragment extends Fragment implements
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+		SetupHelper.loadCurrentSetup(getActivity());
+
         final Intent intent = BaseActivity.fragmentArgumentsToIntent(getArguments());
         mSessionUri = intent.getData();
         mTrackUri = resolveTrackUri(intent);
@@ -126,6 +129,8 @@ public class SessionDetailFragment extends Fragment implements
     @Override
     public void onResume() {
         super.onResume();
+		SetupHelper.loadCurrentSetup(getActivity());
+
         updateNotesTab();
 
         // Start listening for time updates to adjust "now" bar. TIME_TICK is

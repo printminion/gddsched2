@@ -19,6 +19,7 @@ package com.google.android.apps.iosched2.ui;
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Sessions;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Vendors;
+import com.google.android.apps.iosched2.util.SetupHelper;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.app.SearchManager;
@@ -54,6 +55,7 @@ public class SearchActivity extends BaseMultiPaneActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		SetupHelper.loadCurrentSetup(this);
 
 		Intent intent = getIntent();
 		mQuery = intent.getStringExtra(SearchManager.QUERY);
@@ -218,5 +220,11 @@ public class SearchActivity extends BaseMultiPaneActivity {
 		if (mVendorsFragment != null) {
 			mVendorsFragment.clearCheckedPosition();
 		}
+	}
+	
+	@Override
+	protected void onResume() {
+		SetupHelper.loadCurrentSetup(this);
+		super.onResume();
 	}
 }

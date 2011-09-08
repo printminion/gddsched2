@@ -20,7 +20,14 @@
     <room><id>red</id><name>Red</name><floor>2</floor></room>
     <room><id>yellow</id><name>Yellow</name><floor>2</floor></room>
     <room><id>blue</id><name>Blue</name><floor>2</floor></room>
-    
+   
+    <room><id>verde</id><name>Verde</name><floor>2</floor></room>
+    <room><id>vermelha</id><name>Vermelha</name><floor>2</floor></room>
+    <room><id>azul</id><name>Azul</name><floor>2</floor></room>
+    <room><id>amarela</id><name>Amarela</name><floor>2</floor></room>
+   
+   
+  
     <room><id>na</id><name>N/A</name><floor>2</floor></room>
     <room><id>tbd</id><name>TBD</name><floor>2</floor></room>
 		<room><id>1</id><name>Room 1</name><floor>2</floor></room>

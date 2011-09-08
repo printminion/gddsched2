@@ -27,6 +27,7 @@ import com.google.android.apps.iosched2.util.Maps;
 import com.google.android.apps.iosched2.util.MotionEventUtils;
 import com.google.android.apps.iosched2.util.NotifyingAsyncQueryHandler;
 import com.google.android.apps.iosched2.util.ParserUtils;
+import com.google.android.apps.iosched2.util.SetupHelper;
 import com.google.android.apps.iosched2.util.UIUtils;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
@@ -136,9 +137,11 @@ public class ScheduleFragment extends Fragment implements
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+		SetupHelper.loadCurrentSetup(getActivity());
+
         mHandler = new NotifyingAsyncQueryHandler(getActivity().getContentResolver(), this);
         setHasOptionsMenu(true);
-        AnalyticsUtils.getInstance(getActivity()).trackPageView("/Schedule");
+        AnalyticsUtils.getInstance(getActivity()).trackPageView("/Schedule/" + Setup.EVENT_ID_SELECTED);
     }
 
     @Override
@@ -247,6 +250,8 @@ public class ScheduleFragment extends Fragment implements
     @Override
     public void onResume() {
         super.onResume();
+
+		SetupHelper.loadCurrentSetup(getActivity());
 
         // Since we build our views manually instead of using an adapter, we
         // need to manually requery every time launched.

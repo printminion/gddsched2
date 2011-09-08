@@ -10,7 +10,7 @@ public class Setup implements ISetup {
 	/*
 	 * update it on the blocks and Rooms update
 	 */
-	public static final int VERSION_CURRENT = 19;
+	public static final int VERSION_CURRENT = 20;
 
 	public static final String CONFERENCE_STREAM = "http://gddstream.appspot.com/?event=";
 
