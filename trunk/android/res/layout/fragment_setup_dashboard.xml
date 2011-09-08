@@ -20,7 +20,7 @@
 
     <Button android:id="@+id/home_btn_sao_pulo"
         style="@style/DashboardButton"
-        android:text="@string/btn_sao_pulo"
+        android:text="@string/btn_sao_paulo"
         android:drawableTop="@drawable/home_btn_sao_paulo" />
         
     <Button android:id="@+id/home_btn_buenos_aires"

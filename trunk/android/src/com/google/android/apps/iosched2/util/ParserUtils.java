@@ -21,6 +21,7 @@ import com.google.android.apps.iosched2.provider.ScheduleContract;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Blocks;
 import com.google.android.apps.iosched2.provider.ScheduleContract.SyncColumns;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Tracks;
+import com.kupriyanov.android.apps.gddsched.Setup;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
@@ -48,7 +49,7 @@ public class ParserUtils {
     // TODO: consider refactor to HandlerUtils?
 
     // TODO: localize this string at some point
-    public static final String BLOCK_TITLE_BREAKOUT_SESSIONS = "Breakout sessions";
+	public static final String BLOCK_TITLE_BREAKOUT_SESSIONS = Setup.BLOCK_TITLE_BREAKOUT_SESSIONS;// "Breakout sessions";
 
     public static final String BLOCK_TYPE_FOOD = "food";
     public static final String BLOCK_TYPE_SESSION = "session";

@@ -12,6 +12,7 @@ public interface ISetup {
 	public static int ROOMS_XML = xml.rooms;
 
 	public static String EVENT_ID_SELECTED = null;
+	public static String BLOCK_TITLE_BREAKOUT_SESSIONS = "Breakout sessions";
 
 	public static String WORKSHEETS_URL = "";// "http://spreadsheets.google.com/feeds/worksheets/0Akgh73WhU1qHdHJmSUlSb0JIckowX1ZiQkhsYmdkdkE/public/basic";
 

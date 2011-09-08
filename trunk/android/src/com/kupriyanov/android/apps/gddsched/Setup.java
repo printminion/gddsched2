@@ -14,6 +14,8 @@ public class Setup implements ISetup {
 
 	public static final String CONFERENCE_STREAM = "http://gddstream.appspot.com/?event=";
 
+	public static String BLOCK_TITLE_BREAKOUT_SESSIONS = "Breakout sessions";
+
 	public static int BLOCKS_XML = xml.blocks;
 	public static int ROOMS_XML = xml.rooms;
 

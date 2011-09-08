@@ -60,7 +60,7 @@
 
 
 
-    <string name="btn_sao_pulo">São Paulo</string>
+    <string name="btn_sao_paulo">São Paulo</string>
 	<string name="btn_buenos_aires">Buenos Aires</string>
 	<string name="btn_moscow">Moscow</string>
 	<string name="btn_prague">Prague</string>
@@ -155,8 +155,13 @@
     <string name="accept">Accept</string>
     <string name="decline">Decline</string>
 
+
     <!-- SETUP -->
-    <string name="setup_title">Setup</string>
-    <string name="setup_text">Choose your GDD location</string>
+    <string name="setup_confirm_title">Confirm location</string>
+    <string name="setup_confirm_text">You are going to Google Developer Day in <xliff:g id="city">%1$s</xliff:g>.\n\nIs it right?</string>
+    <string name="setup_accept">Accept</string>
+    <string name="setup_decline">Decline</string>
+
+
 
 </resources>

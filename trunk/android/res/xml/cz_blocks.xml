@@ -33,7 +33,7 @@
     <block>
         <start>2011-10-18T10:30:00.000+02:00</start>
           <end>2011-10-18T11:00:00.000+02:00</end>
-        <title>Přestávka</title>
+        <title>Coffee Break</title>
         <type>food</type>
     </block>
 
@@ -48,20 +48,20 @@
     <block>
         <start>2011-10-18T16:00:00.000+02:00</start>
           <end>2011-10-18T16:30:00.000+02:00</end>
-        <title>Break</title>
+        <title>Přestávka</title>
         <type>food</type>
     </block>
     
 
     <block>
         <start>2011-10-18T18:30:00.000+02:00</start>
-          <end>2011-10-18T18:45:00.000+02:00</end>
+          <end>2011-10-18T19:00:00.000+02:00</end>
         <title>Shrnutí</title>
         <type>session</type>
     </block>
     
     <block>
-        <start>2011-10-18T18:45:00.000+02:00</start>
+        <start>2011-10-18T19:00:00.000+02:00</start>
           <end>2011-10-18T21:00:00.000+02:00</end>
         <title>Párty</title>
         <type>food</type>

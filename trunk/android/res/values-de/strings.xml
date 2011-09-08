@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright 2011 Google Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+<string name="title_schedule">Agenda</string>
+<string name="title_starred">Favoriten</string>
+<string name="title_tracks">Vortragsreihen</string>
+<string name="title_tagstream">Echtzeit Stream</string>
+
+<string name="title_session_tracks">Vortragsreihen</string>
+
+
+
+<string name="btn_schedule">Agenda</string>
+<string name="btn_starred">Favoriten</string>
+
+
+
+
+
+
+
+<string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> in Raum <xliff:g id="room">%2$s</xliff:g></string>
+
+
+<string name="all_sessions_title">Alle Sessions</string>
+
+
+
+
+<string name="session_summary">Zusammenfassung</string>
+<string name="session_notes">Notizen</string>
+<string name="session_speakers">Vortragende</string>
+
+
+
+
+
+
+
+
+
+
+
+
+<plurals name="whats_on_countdown_title">
+<item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\nbis GDD %3$s</item>
+<item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> Tag, <xliff:g id="remaining_time">%2$s</xliff:g>\nbis GDD %3$s</item>
+<item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> Tage, <xliff:g id="remaining_time">%2$s</xliff:g>\nbis GDD %3$s</item>
+</plurals>
+
+<string name="whats_on_stream_title">Echtzeit \nStream</string>
+
+
+
+<!-- Notes integration -->
+
+
+<!-- EULA -->
+
+
+<!-- SETUP -->
+
+
+
+</resources>

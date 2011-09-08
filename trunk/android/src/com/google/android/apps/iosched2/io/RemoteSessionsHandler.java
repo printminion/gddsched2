@@ -189,10 +189,17 @@ public class RemoteSessionsHandler extends XmlHandler {
 				final long startTime = parseTime(date, timeStart);
 				final long endTime = parseTime(date, timeEnd);
 
+//				final String blockId = ParserUtils.findOrCreateBlock(
+//						ParserUtils.BLOCK_TITLE_BREAKOUT_SESSIONS,
+//						ParserUtils.BLOCK_TYPE_SESSION, startTime, endTime,
+//						batch, resolver);
+//				
 				final String blockId = ParserUtils.findOrCreateBlock(
 						ParserUtils.BLOCK_TITLE_BREAKOUT_SESSIONS,
 						ParserUtils.BLOCK_TYPE_SESSION, startTime, endTime,
 						batch, resolver);
+				
+				
 				builder.withValue(Sessions.BLOCK_ID, blockId);
 
 				// Assign room

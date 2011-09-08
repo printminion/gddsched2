@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright 2011 Google Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+<string name="title_schedule">Agenda</string>
+<string name="title_sessions">Prednášky</string>
+<string name="title_starred">S hvezdickou</string>
+<string name="title_tracks">Tracky</string>
+
+<string name="title_session_tracks">Tracky</string>
+
+
+
+<string name="btn_schedule">Agenda</string>
+<string name="btn_sessions">Prednášky</string>
+<string name="btn_starred">S hvezdickou</string>
+
+
+
+
+
+
+
+<string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> v místnosti <xliff:g id="room">%2$s</xliff:g></string>
+
+
+<string name="all_sessions_title">Všechny prednášky</string>
+
+
+
+
+<string name="session_summary">Obsah</string>
+<string name="session_notes">Poznámky</string>
+<string name="session_links">Odkazy</string>
+<string name="session_speakers">Recník</string>
+
+<string name="block_title_breakout_session">Klikni pro seznam prednášek</string>
+
+
+
+<string name="session_link_main">Jdi na oficiální web</string>
+<string name="session_link_feedback">Ohodnot tuto prednášku</string>
+<string name="session_link_notes">Poznámky</string>
+
+<string name="search_sessions">Prednášky</string>
+
+<string name="starred_sessions">Prednášky</string>
+
+
+
+
+
+
+<plurals name="whats_on_countdown_title">
+<item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
+<item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> day, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
+<item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> days, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
+</plurals>
+
+
+
+
+<!-- Notes integration -->
+
+
+<!-- EULA -->
+
+
+<!-- SETUP -->
+
+
+
+</resources>
