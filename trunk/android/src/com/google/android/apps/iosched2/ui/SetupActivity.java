@@ -67,7 +67,7 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 		checkSetup();
 
 		setContentView(R.layout.activity_setup);
-		getActivityHelper().setActionBarTitle(getString(R.string.setup_text));
+		getActivityHelper().setActionBarTitle("");
 
 		if (Setup.FEATURE_EULA_ON) {
 			if (!EulaHelper.hasAcceptedEula(this)) {
@@ -84,7 +84,7 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 			@Override
 			public void setupSelected(Setup.EventId eventId) {
 
-				Toast.makeText(getApplicationContext(), "setupSelected:" + eventId, Toast.LENGTH_SHORT).show();
+//				Toast.makeText(getApplicationContext(), "setupSelected:" + eventId, Toast.LENGTH_SHORT).show();
 
 				SetupHelper.setAcceptedEvent(getApplicationContext(), eventId);
 

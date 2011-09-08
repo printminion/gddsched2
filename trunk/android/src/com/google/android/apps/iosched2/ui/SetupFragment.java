@@ -16,7 +16,10 @@
 
 package com.google.android.apps.iosched2.ui;
 
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -25,184 +28,112 @@ import android.view.ViewGroup;
 
 import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched2.util.AnalyticsUtils;
+import com.google.android.apps.iosched2.util.SetupHelper;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 public class SetupFragment extends Fragment {
 
 	private onSetupSelectedListener mListener;
-	
+
 	public interface onSetupSelectedListener {
 		void setupSelected(Setup.EventId setupId);
 	}
-	
-    public void fireTrackerEvent(String label) {
-        AnalyticsUtils.getInstance(getActivity()).trackEvent(
-                "Setup Screen Dashboard", "Click", label, 0);
-    }
 
-    @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-            Bundle savedInstanceState) {
-        View root = inflater.inflate(R.layout.fragment_setup_dashboard, container);
+	public void fireTrackerEvent(String label) {
+		AnalyticsUtils.getInstance(getActivity()).trackEvent("Setup Screen Dashboard", "Click", label, 0);
+	}
 
-        
-//        this.onActivityResult(requestCode, resultCode, data)
-        
-        // Attach event handlers
-        root.findViewById(R.id.home_btn_sao_pulo).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                fireTrackerEvent("Setup/BR");
-                mListener.setupSelected(Setup.EventId.BR);
-            }
-            
-        });
+	@Override
+	public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+		View root = inflater.inflate(R.layout.fragment_setup_dashboard, container);
 
-        
-        root.findViewById(R.id.home_btn_buenos_aires).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                fireTrackerEvent("Setup/AR");
-                mListener.setupSelected(Setup.EventId.AR);
-            }
-            
-        });
-        
-        root.findViewById(R.id.home_btn_moscow).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                fireTrackerEvent("Setup/RU");
-                mListener.setupSelected(Setup.EventId.RU);
-            }
-            
-        });
-        
-        root.findViewById(R.id.home_btn_prague).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                fireTrackerEvent("Setup/CZ");
-                mListener.setupSelected(Setup.EventId.CZ);
-            }
-            
-        });
-        
-        root.findViewById(R.id.home_btn_tokyo).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                fireTrackerEvent("Setup/JP");
-                mListener.setupSelected(Setup.EventId.JP);
-            }
-            
-        });
-        
-        root.findViewById(R.id.home_btn_sydney).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                fireTrackerEvent("Setup/AU");
-                mListener.setupSelected(Setup.EventId.AU);
-            }
-            
-        });
-        
-        root.findViewById(R.id.home_btn_tel_aviv).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                fireTrackerEvent("Setup/IL");
-                mListener.setupSelected(Setup.EventId.IL);
-            }
-            
-        });
-        
-        root.findViewById(R.id.home_btn_berlin).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View view) {
-                fireTrackerEvent("Setup/DE");
-                mListener.setupSelected(Setup.EventId.DE);
-            }
-            
-        });
+		// this.onActivityResult(requestCode, resultCode, data)
 
-//        root.findViewById(R.id.home_btn_sessions).setOnClickListener(new View.OnClickListener() {
-//            public void onClick(View view) {
-//                fireTrackerEvent("Sessions");
-//                // Launch sessions list
-//                if (UIUtils.isHoneycombTablet(getActivity())) {
-//                    //startActivity(new Intent(getActivity(), SessionsMultiPaneActivity.class));
-//                    startActivity(new Intent(getActivity(), Setup.SessionsMultiPaneActivityClass));
-//                    
-//                } else {
-//                    final Intent intent = new Intent(Intent.ACTION_VIEW,
-//                            ScheduleContract.Tracks.CONTENT_URI);
-//                    intent.putExtra(Intent.EXTRA_TITLE, getString(R.string.title_session_tracks));
-//                    intent.putExtra(TracksFragment.EXTRA_NEXT_TYPE,
-//                            TracksFragment.NEXT_TYPE_SESSIONS);
-//                    startActivity(intent);
-//                }
-//
-//            }
-//        });
-//
-//        root.findViewById(R.id.home_btn_starred).setOnClickListener(new View.OnClickListener() {
-//            public void onClick(View view) {
-//                fireTrackerEvent("Starred");
-//                // Launch list of sessions and vendors the user has starred
-//                //startActivity(new Intent(getActivity(), StarredActivity.class));
-//                startActivity(new Intent(getActivity(), Setup.StarredActivityClass));
-//                
-//            }
-//        });
-//
-//        if (!Setup.FEATURE_VENDORS_ON) {
-//        	root.findViewById(R.id.home_btn_vendors).setVisibility(View.INVISIBLE);
-//        }
-//        
-//        root.findViewById(R.id.home_btn_vendors).setOnClickListener(new View.OnClickListener() {
-//            public void onClick(View view) {
-//                fireTrackerEvent("Sandbox");
-//                // Launch vendors list
-//                if (UIUtils.isHoneycombTablet(getActivity())) {
-//                    //startActivity(new Intent(getActivity(), VendorsMultiPaneActivity.class));
-//                    startActivity(new Intent(getActivity(), Setup.VendorsMultiPaneActivityClass));
-//                    
-//                } else {
-//                    final Intent intent = new Intent(Intent.ACTION_VIEW,
-//                            ScheduleContract.Tracks.CONTENT_URI);
-//                    intent.putExtra(Intent.EXTRA_TITLE, getString(R.string.title_vendor_tracks));
-//                    intent.putExtra(TracksFragment.EXTRA_NEXT_TYPE,
-//                            TracksFragment.NEXT_TYPE_VENDORS);
-//                    startActivity(intent);
-//                }
-//            }
-//        });
-//
-//        if (!Setup.FEATURE_MAP_ON) {
-//        	root.findViewById(R.id.home_btn_map).setVisibility(View.INVISIBLE);
-//        }
-//        
-//        root.findViewById(R.id.home_btn_map).setOnClickListener(new View.OnClickListener() {
-//            public void onClick(View view) {
-//                // Launch map of conference venue
-//                fireTrackerEvent("Map");
-//                startActivity(new Intent(getActivity(),
-//                        UIUtils.getMapActivityClass(getActivity())));
-//            }
-//        });
-//
-//        if (!Setup.FEATURE_ANNOUNCEMENTS_ON) {
-//        	root.findViewById(R.id.home_btn_announcements).setVisibility(View.INVISIBLE);
-//        }
-//        
-//        root.findViewById(R.id.home_btn_announcements).setOnClickListener(
-//                new View.OnClickListener() {
-//                    public void onClick(View view) {
-//                        // splicing in tag streamer
-//                        fireTrackerEvent("Bulletin");
-//                        //Intent intent = new Intent(getActivity(), BulletinActivity.class);
-//                        Intent intent = new Intent(getActivity(), Setup.BulletinActivityClass);
-//                        
-//                        startActivity(intent);
-//                    }
-//                });
+		// Attach event handlers
+		root.findViewById(R.id.home_btn_sao_pulo).setOnClickListener(new View.OnClickListener() {
+			public void onClick(View view) {
+				validateSetting("Setup/BR", Setup.EventId.BR, R.string.btn_sao_paulo);
+			}
 
-        return root;
-    }
-    
-    public void onSetupSelected(Context mContext, onSetupSelectedListener mListener) {
-    	this.mListener = mListener;
-    }
-    
-    
-    
+		});
+
+		root.findViewById(R.id.home_btn_buenos_aires).setOnClickListener(new View.OnClickListener() {
+			public void onClick(View view) {
+				validateSetting("Setup/AR", Setup.EventId.AR, R.string.btn_buenos_aires);
+			}
+
+		});
+
+		root.findViewById(R.id.home_btn_moscow).setOnClickListener(new View.OnClickListener() {
+			public void onClick(View view) {
+				validateSetting("Setup/RU", Setup.EventId.RU, R.string.btn_moscow);
+			}
+
+		});
+
+		root.findViewById(R.id.home_btn_prague).setOnClickListener(new View.OnClickListener() {
+			public void onClick(View view) {
+				validateSetting("Setup/CZ", Setup.EventId.CZ, R.string.btn_prague);
+			}
+
+		});
+
+		root.findViewById(R.id.home_btn_tokyo).setOnClickListener(new View.OnClickListener() {
+			public void onClick(View view) {
+				validateSetting("Setup/JP", Setup.EventId.JP, R.string.btn_tokyo);
+			}
+
+		});
+
+		root.findViewById(R.id.home_btn_sydney).setOnClickListener(new View.OnClickListener() {
+			public void onClick(View view) {
+				validateSetting("Setup/AU", Setup.EventId.AU, R.string.btn_sydney);
+			}
+
+		});
+
+		root.findViewById(R.id.home_btn_tel_aviv).setOnClickListener(new View.OnClickListener() {
+			public void onClick(View view) {
+				validateSetting("Setup/IL", Setup.EventId.IL, R.string.btn_tel_aviv);
+			}
+
+		});
+
+		root.findViewById(R.id.home_btn_berlin).setOnClickListener(new View.OnClickListener() {
+			public void onClick(View view) {
+				validateSetting("Setup/DE", Setup.EventId.DE, R.string.btn_berlin);
+			}
+
+		});
+
+		return root;
+	}
+
+	public void onSetupSelected(Context mContext, onSetupSelectedListener mListener) {
+		this.mListener = mListener;
+	}
+
+	protected void validateSetting(final String trackerEvent, final Setup.EventId eventId, final int cityId) {
+
+		AlertDialog.Builder eventConfirmation = new AlertDialog.Builder(getActivity())
+				.setTitle(R.string.setup_confirm_title)
+				.setIcon(android.R.drawable.ic_dialog_info)
+				.setMessage(getString(R.string.setup_confirm_text, getText(cityId)));
+
+		eventConfirmation.setPositiveButton(R.string.setup_accept,
+				new android.content.DialogInterface.OnClickListener() {
+					public void onClick(DialogInterface dialog, int which) {
+						fireTrackerEvent(trackerEvent);
+						mListener.setupSelected(eventId);
+						dialog.dismiss();
+					}
+				}).setNegativeButton(R.string.setup_decline, new android.content.DialogInterface.OnClickListener() {
+			public void onClick(DialogInterface dialog, int which) {
+				dialog.cancel();
+			}
+		});
+
+		eventConfirmation.show();
+	}
+
 }
