@@ -195,7 +195,7 @@ public class RemoteSessionsHandler extends XmlHandler {
 //						batch, resolver);
 //				
 				final String blockId = ParserUtils.findOrCreateBlock(
-						ParserUtils.BLOCK_TITLE_BREAKOUT_SESSIONS,
+						Setup.BLOCK_TITLE_BREAKOUT_SESSIONS,
 						ParserUtils.BLOCK_TYPE_SESSION, startTime, endTime,
 						batch, resolver);
 				
