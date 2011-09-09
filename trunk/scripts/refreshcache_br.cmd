@@ -1,6 +1,6 @@
 @echo off
 
-echo get data for data...
+echo get data for brazil...
 
 cd %~dp0
 

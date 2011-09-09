@@ -62,10 +62,6 @@ limitations under the License.
 <string name="starred_sessions">Prednášky</string>
 
 
-
-
-
-
 <plurals name="whats_on_countdown_title">
 <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
 <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> day, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>

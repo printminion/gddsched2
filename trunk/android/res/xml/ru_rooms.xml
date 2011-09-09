@@ -21,16 +21,24 @@
     <room><id>yellow</id><name>Yellow</name><floor>2</floor></room>
     <room><id>blue</id><name>Blue</name><floor>2</floor></room>
     
+    
+    <room><id>greenru</id><name>зеленая</name><floor>2</floor></room>
+    <room><id>redru</id><name>красная</name><floor>2</floor></room>
+    <room><id>yellowru</id><name>желтая</name><floor>2</floor></room>
+    <room><id>blueru</id><name>синяя</name><floor>2</floor></room>
+    
     <room><id>na</id><name>N/A</name><floor>2</floor></room>
     <room><id>tbd</id><name>TBD</name><floor>2</floor></room>
-		<room><id>1</id><name>Room 1</name><floor>2</floor></room>
-    <room><id>2</id><name>Room 2</name><floor>2</floor></room>
-    <room><id>3</id><name>Room 3</name><floor>2</floor></room>
-    <room><id>4</id><name>Room 4</name><floor>2</floor></room>
-    <room><id>5</id><name>Room 5</name><floor>2</floor></room>
-    <room><id>6</id><name>Room 6</name><floor>2</floor></room>
-    <room><id>7</id><name>Room 7</name><floor>2</floor></room>
-    <room><id>8</id><name>Room 8</name><floor>2</floor></room>
+
+
+	<room><id>1</id><name>зал 1</name><floor>2</floor></room>
+    <room><id>2</id><name>зал 2</name><floor>2</floor></room>
+    <room><id>3</id><name>зал 3</name><floor>2</floor></room>
+    <room><id>4</id><name>зал 4</name><floor>2</floor></room>
+    <room><id>5</id><name>зал 5</name><floor>2</floor></room>
+    <room><id>6</id><name>зал 6</name><floor>2</floor></room>
+    <room><id>7</id><name>зал 7</name><floor>2</floor></room>
+    <room><id>8</id><name>зал 8</name><floor>2</floor></room>
     <room><id>9</id><name>Room 9</name><floor>2</floor></room>
     <room><id>10</id><name>Room 10</name><floor>2</floor></room>
     <room><id>11</id><name>Room 11</name><floor>3</floor></room>
