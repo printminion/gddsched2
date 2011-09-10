@@ -16,18 +16,30 @@ limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+<string name="description_home">Главная</string>
 <string name="description_search">Поиск</string>
 <string name="description_map">Карта</string>
 <string name="description_refresh">Обновить</string>
 <string name="description_share">Поделиться</string>
 <string name="description_export">Экспорт</string>
 <string name="description_star">Закладки</string>
-
+<string name="description_now">Перейти на текущую</string>
+<string name="title_now_playing">Текущая</string>
 <string name="title_schedule">Расписание</string>
 <string name="title_sessions">Сессии</string>
 <string name="title_session_detail">Информация о сессии</string>
+<string name="title_starred">Помеченные</string>
+<string name="title_tracks">Треки</string>
+<string name="title_vendors">Песочница</string>
+<string name="title_vendor_detail">Информация о компании</string>
+<string name="title_map">Карта</string>
+<string name="title_tagstream">Трансляция в реальном времени</string>
+<string name="title_bulletin">Бюллетень</string>
 
+<string name="title_session_tracks">Треки сессии</string>
+<string name="title_vendor_tracks">Участники песочницы</string>
 
+<string name="title_share">Поделиться</string>
 
 <string name="title_search">Поиск</string>
 <string name="title_search_query">Искать <xliff:g id="query">%1$s</xliff:g></string>
@@ -36,9 +48,10 @@ limitations under the License.
 <string name="btn_map">Карта</string>
 <string name="btn_sessions">Сессии</string>
 <string name="btn_starred">Закладки</string>
+<string name="btn_vendors">Песочница</string>
+<string name="btn_announcements">Бюллетень</string>
 
-
-<string name="title_setup">Выберите место Google Developer Day</string>
+<string name="title_setup">Выберите место проведения GDD</string>
 <string name="title_loading">Загрузка. Пожалуйста, подождите ...</string>
 
 
@@ -52,15 +65,23 @@ limitations under the License.
 <string name="btn_tel_aviv">Тель-Авив</string>
 <string name="btn_berlin">Берлин</string>
 
+<string name="toast_sync_error">Ошибка синхронизации: <xliff:g id="error">%1$s</xliff:g></string>
 
+<string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> в <xliff:g id="room">%2$s</xliff:g></string>
+<string name="session_moderator_status"><xliff:g id="questions">%1$s</xliff:g> вопросов отправлено и <xliff:g id="votes">%2$s</xliff:g> голосов.</string>
 
+<string name="all_sandbox_title">Все компании</string>
+<string name="all_sandbox_subtitle">Нажмите, чтобы отфильтровать  компании</string>
 
 <string name="all_sessions_title">Все сессии</string>
+<string name="all_sessions_subtitle">Нажмите, чтобы отфильтровать  сессии по трекам</string>
 
 <string name="empty_sessions">Сессий не найдено</string>
 <string name="empty_session_detail">Нет информации о сессии</string>
 
+<string name="empty_vendors">Нет информации о песочнице</string>
 
+<string name="empty_search">Поиск не дал результатов</string>
 <string name="empty_links">Нет ссылок</string>
 
 <string name="session_summary">Аннотация</string>
@@ -69,23 +90,36 @@ limitations under the License.
 <string name="session_requirements">Требования</string>
 <string name="session_speakers">Докладчики</string>
 
-<string name="block_title_breakout_session">Секционные заседания</string>
+<string name="block_title_breakout_session">Секции</string>
 
 
+<string name="tag_stream">Стрим</string>
 
 <string name="session_link_main">Ссылка</string>
-<string name="session_link_moderator">Задавай вопрос</string>
-<string name="session_link_feedback">Отзыв о этой сессии</string>
+<string name="session_link_moderator">Задать вопрос</string>
+<string name="session_link_youtube">видео YouTube</string>
+<string name="session_link_pdf">Слайды(PDF)</string>
+<string name="session_link_feedback">Отзыв об этой секции</string>
+<string name="session_link_notes">Официальные заметки</string>
 
 <string name="search_sessions">Сессии</string>
+<string name="search_vendors">Песочница</string>
 
 <string name="starred_sessions">Сессии</string>
+<string name="starred_vendors">Песочница</string>
 
+<string name="search_label">GDD</string>
 <string name="search_hint">Ключевые слова сессии</string>
 
+<string name="share_template">Проверка \'<xliff:g id="title">%1$s</xliff:g>\' на <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
 
+<string name="moderator_header">Модератор</string>
 
+<string name="dialog_moderator_title">Google Moderator</string>
+<string name="dialog_moderator_message">Официальное приложение Google Moderator доступно в Маркете. Установите его или продолжите пользоваться встроенным браузером.</string>
 
+<string name="dialog_moderator_web">Использовать браузер</string>
+<string name="dialog_moderator_market">Посетить Маркет</string>
 
 <plurals name="whats_on_countdown_title">
 <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\nдо GDD %3$s</item>
@@ -93,18 +127,23 @@ limitations under the License.
 <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> дней, <xliff:g id="remaining_time">%2$s</xliff:g>\nдо GDD %3$s</item>
 </plurals>
 
+<string name="whats_on_stream_title">Трансляция в\nреальном времени</string>
 <string name="whats_on_now_playing_title">Сейчас идет</string>
 <string name="whats_on_thank_you_title">Увидимся в следующем году!</string>
 
+<string name="permission_write">Изменить расписание GDD</string>
 
 <string name="toast_now_not_visible">Нажмите на эту кнопку во время GDD для отображения текущего времени.</string>
 
 <!-- Notes integration -->
 <string name="notes_catch_powered_by">Заметки powered by <a href="http://www.catch.com/">Catch.com</a>.</string>
-<string name="notes_catch_market_title">Инсталлировать Catch Notes</string>
+<string name="notes_catch_market_title">Установить Catch Notes</string>
+<string name="notes_catch_market_subtitle">Вы можете сохранять заметки к GDD, используя последнюю версию Catch Notes, доступную на Android Маркете.</string>
 <string name="notes_catch_new_title">Создать заметку</string>
 <string name="notes_catch_view_title">Посмотреть заметки к сессии</string>
+<string name="toast_notes_error_invoking">Ошибка вызова Catch Notes</string>
 
+<string name="note_template">Сессии: <xliff:g id="title">%1$s</xliff:g>\n\n\n\n__________\nTags: <xliff:g id="hashtags">%2$s</xliff:g></string>
 
 <!-- EULA -->
 <string name="accept">Принять</string>
@@ -112,8 +151,8 @@ limitations under the License.
 
 
 <!-- SETUP -->
-<string name="setup_confirm_title">Подверди</string>
-<string name="setup_confirm_text">Ты идешь на Google Developer Day в <xliff:g id="city">%1$s</xliff:g>.\n\nЭто так?</string>
+<string name="setup_confirm_title">Подвердите</string>
+<string name="setup_confirm_text">Вы идете на Google Developer Day в г. <xliff:g id="city">%1$s</xliff:g>.\n\nЭто так?</string>
 <string name="setup_accept">Да</string>
 <string name="setup_decline">Нет</string>
 

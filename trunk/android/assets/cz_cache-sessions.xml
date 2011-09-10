@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic</id>
-	<updated>2011-09-08T12:40:47.001Z</updated>
+	<updated>2011-09-10T11:05:22.298Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>sessions</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E'/>
@@ -15,7 +15,7 @@
 	<openSearch:startIndex>1</openSearch:startIndex>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/i6mvg</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 08:00 - 09:00, sessionroom: N/A
@@ -27,7 +27,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/cpzh4</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 09:00 - 10:30, sessionroom: N/A
@@ -39,7 +39,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/cre1l</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 10:30 - 11:00, sessionroom: N/A
@@ -51,7 +51,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/chk2m</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 5</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 11:00 - 12:00, sessionroom: Meridian, sessionproduct: Android, sessiontrack: Android, sessionlevel: 201, sessiontitle: Zlepšování User Experience uživatelů Android, sessionabstract: Tato přednáška se zaměří na to, jak vytvářet aplikace pro Android, se kterými jsou uživatelé spokojeni. Prozkoumá řadu technik pro zvýšení výkonu, použitelnosti a vizuální přitažlivosti. Zejména se bude zabývat navrhováním aplikací, které potěší uživatele v prostředí tabletů., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_2001.html</content>
@@ -59,7 +59,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/ciyn3</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 6</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 11:00 - 12:00, sessionroom: Aquarius + Taurus, sessionproduct: Cloud, sessiontrack: Cloud, sessionlevel: 201, sessiontitle: Google App Engine: Přehled &amp; Update, sessionabstract: Google App Engine je vývojářská a cloudová platforma, která vám umožňuje vytvářet a implementovat webové (ale i "ne-webové") aplikace v rámci škálovatelné infrastruktury Google navržené pro silný provoz. Pro ty z vás, kteří se s App Engine ještě nesetkali, tato přednáška bude sloužit jako srozumitelný průvodce touto technologií a ukáže vám, kam patří. Uvidíte základní technologické nástroje a komponenty App Engine a také se podíváte na několik case studies využití. Pro současné uživatele App Engine bude připraven přehled nejnovějších nástrojů a chystaných změn a vylepšení., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_3001.html</content>
@@ -67,7 +67,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/ckd7g</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 7</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 11:00 - 12:00, sessionroom: Leo + Virgo, sessionproduct: Chrome, HTML5, sessiontrack: Chrome &amp; HTML5, sessionlevel: 201, sessiontitle: Tohle nejsou weby, které hledáte: Moderní webové aplikace v HTML5, sessionspeakers: Ilmari Heikkinen, sessionabstract: Moderní weby jsou bohaté, interaktivní aplikace které vypadají zcela jinak než soukromé stránky vaší matky. Podíváte se na nejnovější techniky, nové frameworky a způsoby jak využít HTML5 a vytvořit tak zcela novou úroveň webové aplikací, které potěší a ohromí uživatele., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_1003.html</content>
@@ -75,7 +75,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/clrrx</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 8</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 11:00 - 12:00, sessionroom: Stella, sessionproduct: YouTube, HTML5, sessiontrack: Různé, sessionlevel: 201, sessiontitle: Podívejte se do zákulisí YouTube Live Streaming API , sessionspeakers: Shannon -jj Behrens, sessionabstract: YouTube Live Streaming API vám umožní plánovat a objevovat přímé přenosy akcí. Dozvíte se více o této platformě a také o tom, jaké výhody vám může v rámci vašich aplikací nabídnout., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_6000.html</content>
@@ -83,7 +83,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/cztg3</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 9</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 11:00 - 12:00, sessionroom: Tycho + Kepler, sessionproduct: Geo, sessiontrack: Geo, sessionlevel: 201, sessiontitle: Jak najít své místo na světě: Google Places API, sessionspeakers: Mano Marks, sessionabstract: Na konferenci Google I/O společnost Google uvedla Places API, nové API, které umožňuje najít restaurace, bary, nemocnice, kostely, budovy státních úřadů a další druhy firem, orientačních bodů nebo míst. Díky milionům záznamů vám Places API umožňuje nejen využívat naše data, ale také přidávat vlastní a řídit, jak funguje vyhledávání. Přijďte si poslechnout, jak vytvořit vlastní mapu nové generace, včetně vytvoření funkcí pro přihlášení na místě a mobilních funkcí., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_5000.html</content>
@@ -91,7 +91,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/d180g</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 10</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 12:00pm - 13:00, sessionroom: Meridian, sessionproduct: Android, sessiontrack: Android, sessionlevel: 201, sessiontitle: Co je nového a důležitého v Androidu, sessionabstract: Tato přednáška představuje to nejdůležitější z hlediska vývojářů v nejnověji vydaných verzích softwaru Android., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_2004.html</content>
@@ -99,7 +99,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/cssly</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 11</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 12:00pm - 13:00, sessionroom: Aquarius + Taurus, sessionproduct: Cloud, sessiontrack: Cloud, sessionlevel: 201, sessiontitle: Tvorba integrovaných aplikací na cloudových technologiích Google, sessionabstract: Tento seminář se bude zabývat řadou různých aplikací, které byly vytvořeny pomocí kombinace cloudových technologií Google. Představené aplikace ukáží, jak společně integrovat všechny technologie včetně Google Storage, Prediction API, BigQuery a App Engine za účelem vytvoření výkonných cloudových aplikací., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_3002.html</content>
@@ -107,7 +107,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/cu76f</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 12</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 12:00pm - 13:00, sessionroom: Stella, sessionproduct: Chrome, HTML5, sessiontrack: Chrome &amp; HTML5, sessionlevel: 101, sessiontitle: Zpřístupnění vašich webových aplikací pomocí HTML5 a ChromeVox, sessionspeakers: Paul Kinlan, sessionabstract: Když vytváříte webové aplikace, které jsou interaktivní a dynamické, jak je zpřístupníte uživatelům s postiženým? Jak vám může ChromeVox, program pro čtení obrazovky pro Chrome, pomoci v testování aplikací z hlediska přístupnosti? Díky osvědčeným technikám HTML5 mohou weboví vývojáři poskytovat zážitky, které jsou stejně bohaté a interaktivní pro lidi využívající asistenční technologie. Tato přednáška se zaměří především na způsoby, které dnes fungují s posledními verzemi prohlížečů. Budeme se zabývat správným použitím standardu ARIA a také řízením pozornosti, navigací pomocí klávesnice a jednoduchým testováním uživatelského rozhraní z hlediska přístupnosti pomocí nástroje ChromeVox., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_1000.html</content>
@@ -115,7 +115,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/cvlqs</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 13</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 12:00pm - 13:00, sessionroom: Leo + Virgo, sessionproduct: Google Apps, sessiontrack: Různé, sessionlevel: 201, sessiontitle: Integrace do Google Apps: Nové API, nové funkce a nejlepší postupy, sessionabstract: Pilně pracujeme na tvorbě API nové generace pro Google Apps a přidávání některých často žádaných funkcí do stávajících API. V této přednášce tyto nové API a funkce představíme, probereme případy použití, k jejichž řešení jsou určeny, a nabídneme nejlepší postupy pro integraci do Google Apps., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_7000.html</content>
@@ -123,7 +123,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/cx0b9</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 14</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 12:00pm - 13:00, sessionroom: Tycho + Kepler, sessionproduct: Geo, sessiontrack: Geo, sessionlevel: 201, sessiontitle: Zobrazování velkých geografických datasetů: Google Fusion Tables, sessionabstract: Google Fusion Tables umožňují nahrávat, ukládat a vyhledávat velká množství geografických dat. Naučte se svá data umisťovat do cloudu a snadno integrovat výkonné mapové datové sady do aplikací z Maps API., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_5001.html</content>
@@ -131,7 +131,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/d9ney</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 13:00 - 14:00, sessionroom: N/A
@@ -143,7 +143,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/db1zf</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 16</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 14:00 - 15:00, sessionroom: Stella, sessionproduct: Android, sessiontrack: Android, sessionlevel: 201, sessiontitle: Google TV: Vývojáři pro Android vítáni, sessionspeakers: Christian Kurzke, sessionabstract: Díky službě Google TV mohou nyní vývojáři pro Android ve verzi Honeycomb vytvářet aplikace pro největší obrazovku v domácnosti! Rozdíl mezi dobrou a skvělou aplikací pro Google TV často závisí stejně tak na vzhledu uživatelského rozhraní, jako na správném použití API pro Android. V tomto semináři představíme příklady a nejlepší postupy, jak zlepšit použitelnost a výkon aplikací, díky čemuž vznikají vynikající aplikace pro Google TV a ostatní platformy Android., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_2002.html</content>
@@ -151,7 +151,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/dcgjs</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 17</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 14:00 - 15:00, sessionroom: Aquarius + Taurus, sessionproduct: Cloud, sessiontrack: Cloud, sessionlevel: 201, sessiontitle: Jak vytvořit bombastické sociální hry v cloudu, sessionabstract: Naučte se programovat pomocí multiplatformové technologie Open Source Gaming spolu s cloudovými a sociálními technologiemi Google, abyste vytvořili sociální hry, které mohou fungovat na více platformách a být integrovány do Google+., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_3005.html</content>
@@ -159,7 +159,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/ddv49</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 18</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 14:00 - 15:00, sessionroom: Tycho + Kepler, sessionproduct: Chrome, HTML5, sessiontrack: Chrome &amp; HTML5, sessionlevel: 201, sessiontitle: Práce mimo sítě: HTML5 offline, sessionspeakers: Ilmari Heikkinen, sessionabstract: Poskytovat uživatelům dokonalé zážitky offline je obtížné. V tomto semináři se budeme zabývat pokročilými offline možnostmi, které přináší IndexedDB, FileSystem, AppCache, WebSQL a další, a online událostmi pro tvorbu skvělých aplikací, které bezvadně fungují offline., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_1001.html</content>
@@ -167,7 +167,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/d415a</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 19</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 14:00 - 15:00, sessionroom: Leo + Virgo, sessionproduct: Jiné, sessiontrack: Různé, sessionlevel: 201, sessiontitle: OAuth a OpenID pro přístup k datům a identitám ve webových aplikacích, sessionabstract: Dozvíte se, jak mohou webové aplikace využívat OAuth 2.0 pro přístup k uživatelským datům uloženým v cloudu Google pro vylepšení funkcí aplikace. Rovněž se budeme zabývat využitím OAuth 2.0 a OpenID Connect k umožnění bezproblémové autentizace na webu bez nutnosti dalších hesel. Důležitými tématy jsou snadnost implementace a UX, které probereme v kontextu Google Identity Toolkit a Account Chooser., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_8000.html</content>
@@ -175,7 +175,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/d5fpr</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 20</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 14:00 - 15:00, sessionroom: Meridian, sessionproduct: Google+, sessiontrack: Geo, sessionlevel: 101, sessiontitle: Google+ a tlačítko +1, sessionabstract: V této přednášce se zaměříme na to, jak Google+ obohacuje software o možnosti sdílení jako ve skutečném životě v kombinaci s možností se spojit pomocí video chatu pro více osob (a nejen to). Poté se zaměříme na to, co je tlačítko +1 jak umožňuje stránkám vyniknout při vyhledávání. Ukážeme také, jak vytěžit maximum z tlačítka +1, případových studií, analytických a reportingových nástrojů a strukturovaného markup jazyka. V závěru se také trošku podíváme na Google+ a společnosti., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_4000.html</content>
@@ -183,7 +183,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/d6ua4</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 21</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 15:00 - 16:00, sessionroom: Leo + Virgo, sessionproduct: Android, sessiontrack: Android, sessionlevel: 201, sessiontitle: Android Market pro vývojáře, sessionabstract: Android Market prochází neustálými změnami, aby nabízel lepší zkušenosti pro vývojáře i koncové uživatele. Tato přednáška se bude zabývat nejnovějším vývojem a podrobně představí techniky pro využívání služby Android Market k uplatnění nových modelů vydělávání peněz, poskytování optimalizovaného obsahu, minimalizaci pirátství a maximalizaci viditelnosti aplikací., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_2000.html</content>
@@ -191,7 +191,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/d88ul</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 22</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 15:00 - 16:00, sessionroom: Stella, sessionproduct: Cloud, sessiontrack: Cloud, sessionlevel: 301, sessiontitle: Tvorba robustních, redundantních, spolehlivých webových aplikací v úložišti High Replication Datastore, sessionabstract: High Replication Datastore nástroje Google App Engine umožňuje vývojářům tvořit robustní, spolehlivé aplikace, které pokrývají více datových center, a poskytuje silnou datovou konzistenci bez ztrát dat. Tento seminář se bude zabývat následujícími tématy: (1) Důkladný přehled distribuovaného úložiště High Replication Datastore používaného společností Google, (2) Entity a skupiny entit úložiště bez schématu/s hierarchickou strukturou, (3) Pokyny pro navržení robustní udržitelné strategie škálovatelných dat., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_3006.html</content>
@@ -199,7 +199,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/dkvya</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 23</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 15:00 - 16:00, sessionroom: Tycho + Kepler, sessionproduct: Chrome, HTML5, WebGL, sessiontrack: Chrome &amp; HTML5, sessionlevel: 201, sessiontitle: Vstupte do třetího rozměru: Hardwarově urychlená grafika pro web pomocí WebGL, sessionabstract: WebGL přináší do prohlížeče výkon GPU. Hry a aplikace mohou nyní díky využití grafického procesoru dosahovat úžasného hardwarově urychleného grafického výkonu (ve 3D i 2D). Naučte se základy programování 3D pro web a práci s knihovnami a sadami nástrojů, díky kterým je WebGL pro javascriptové vývojáře přístupné a snadné., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_1006.html</content>
@@ -207,7 +207,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/jqtlw</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 24</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 15:00 - 16:00, sessionroom: Meridian, sessionproduct: Business, sessiontrack: Různé, sessionlevel: N/A, sessiontitle: Panel investorů: Podnikání, inkubace a investiční kapitál, sessionabstract: Máte nápad a chcete založit společnost? Dozvíte se, jak přilákat investory a co chtějí vidět, než vám vypíší sek. Uslyšíte informace od podnikatelů, kteří získali peníze, a investorů, kteří jim finance poskytli., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_8004.html</content>
@@ -215,7 +215,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/jpf1j</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 25</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 15:00 - 16:00, sessionroom: Aquarius + Taurus, sessiontrack: Geo, sessionlevel: Bude upřesněno, sessiontitle: Bude upřesněno 1, sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_9011.html</content>
@@ -223,7 +223,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/dmair</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 16:00 - 16:30, sessionroom: N/A
@@ -234,7 +234,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/dnp34</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 27</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 16:30 - 17:30, sessionroom: Leo + Virgo, sessionproduct: Android, sessiontrack: Android, sessionlevel: 201, sessiontitle: Vysoce výkonná grafika pro Android, sessionabstract: Architektura Androidu nabízí vývojářům široký výběr možností, jak uživatelům poskytnout bohatou, poutavou, interaktivní grafiku. Tato přednáška tyto možnosti prozkoumá, včetně schopností 2D a 3D grafiky dostupných prostřednictvím nástrojů Dalvik, Renderscript a použití NDK., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_9008.html</content>
@@ -242,7 +242,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/df9om</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 28</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 16:30 - 17:30, sessionroom: Aquarius + Taurus, sessionproduct: Cloud, sessiontrack: Cloud, sessionlevel: 301, sessiontitle: Workshop: App Engine, sessionabstract: Během tohoto workshopu se uživatelé znalí Google API rychle naučí způsoby jak vytvořit aplikace na této platformě na příkladu jednoduché, ale skutečné webové aplikace - zcela od základů. Na základě online tutoriálu bude celý příklad probrán více do hloubky stejně jako možnosti jak rozšířit aplikace za rámec dokumentace App Engine. Tento workshop bude obsahovat paralelní ukázky kódování pro Javu a Python. Materiály lze nalézt na http://goo.gl/1wQxG. JE POTŘEBA SI PŘINÉST LAPTOP!, sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_3004.html</content>
@@ -250,7 +250,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/dgo93</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 29</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 16:30 - 17:30, sessionroom: Meridian, sessionproduct: Chrome, HTML5, sessiontrack: Chrome &amp; HTML5, sessionlevel: 201, sessiontitle: Porodní bolesti HTML5, sessionabstract: O HTML5 jsem určitě už slyšeli:-) Ale co je nového? Tématem této přednášky budou některé "porodní bolesti" této nové pokročilé technologie v prohlížeči Chrome a na platformě otevřeného webu. Budeme se zabývat výkonem, komunikací v reálném čase a systémovou integrací a pokryjeme WebSockets, zasílání zpráv a multimediální API jako například Web Audio API., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_1002.html</content>
@@ -258,7 +258,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/djhdx</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 30</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 16:30 - 17:30, sessionroom: Stella, sessionproduct: Google Apps, sessiontrack: Různé, sessionlevel: 201, sessiontitle: Podnikové workflow pomocí Apps Script, sessionabstract: Google Apps Script je skriptovací jazyk určení pro cloud a poskytuje jednoduchý způsob jak automatizovat procesy v produktech Google i produktech třetích stran. Tato přednáška se zaměří na reálné příklady a ukázky kódu, na kterých budou ukázány příklady toho, jak může Apps Script a jeho nejnovější vlastnosti automatizovat podnikové workflow., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_7002.html</content>
@@ -266,7 +266,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/dw4je</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 31</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 16:30 - 17:30, sessionroom: Tycho + Kepler, sessionproduct: Bude upřesněno, sessiontrack: Geo, sessionlevel: Bude upřesněno, sessiontitle: Bude upřesněno 2, sessionabstract: Bude upřesněno, sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_9010.html</content>
@@ -274,7 +274,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/dxj3v</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 32</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 17:30 - 18:30, sessionroom: Meridian, sessionproduct: Bude upřesněno, sessiontrack: Android, sessionlevel: N/A, sessiontitle: Ignite - série 5-minutových inspirujících přednášek, sessionabstract: Zaujměte nás, ale udělejte to rychle. Ignite je akce pro geeky, kde se přednášející dělí o své osobní a profesní záliby, snaží se zaujmout či inspirovat. Mají na to 20 snímků, které se každých 15 vteřin nemilosrdně posouvají., sessionurl: http://www.google.com/intl/cz/events/developerday/2011/prague/agenda/session_8001.html</content>
@@ -282,7 +282,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/js86d</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 33</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 17:30 - 18:30, sessionroom: Leo + Virgo, sessionproduct: N/A
@@ -291,7 +291,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/dtbek</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 18:30 - 19:00, sessionroom: N/A
@@ -303,7 +303,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/od6/public/basic/dupz1</id>
-		<updated>2011-09-08T12:40:47.001Z</updated>
+		<updated>2011-09-10T11:05:22.298Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Tuesday October 18, sessiontime: 19:00 - 21:00, sessionroom: N/A

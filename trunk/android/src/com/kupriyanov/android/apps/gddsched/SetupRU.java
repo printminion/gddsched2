@@ -14,6 +14,8 @@ public class SetupRU implements ISetup {
 	public static final String WORKSHEETS_URL = "http://spreadsheets.google.com/feeds/worksheets/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/public/basic";
 	public static TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("Europe/Moscow");
 
+	public static String BLOCK_TITLE_BREAKOUT_SESSIONS = "Сессии";
+	
 	/*
 	 * http://snipplr.com/view/23131/timezone-enum/
 	 */

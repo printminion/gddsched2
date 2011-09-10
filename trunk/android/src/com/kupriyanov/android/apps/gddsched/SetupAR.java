@@ -13,7 +13,8 @@ public class SetupAR implements ISetup {
 
 	public static final String WORKSHEETS_URL = "http://spreadsheets.google.com/feeds/worksheets/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/public/basic";
 	public static TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("America/Buenos_Aires");
-
+	public static String BLOCK_TITLE_BREAKOUT_SESSIONS = "Breakout sessions";
+	
 	/*
 	 *  http://snipplr.com/view/23131/timezone-enum/
 	 */

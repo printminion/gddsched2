@@ -17,64 +17,142 @@ limitations under the License.
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
 
+
+<string name="description_home">Home</string>
+<string name="description_search">Suchen</string>
+<string name="description_map">Karte</string>
+<string name="description_refresh">Neu laden</string>
+<string name="description_share">Teilen</string>
+<string name="description_export">Exportieren</string>
+<string name="description_star">Markierung</string>
+<string name="description_now">Was läuft jetzt?</string>
+<string name="title_now_playing">Jetzt live</string>
 <string name="title_schedule">Agenda</string>
+<string name="title_sessions">Sessions</string>
+<string name="title_session_detail">Session-Details</string>
 <string name="title_starred">Favoriten</string>
 <string name="title_tracks">Vortragsreihen</string>
-<string name="title_tagstream">Echtzeit Stream</string>
+<string name="title_vendors">Sandbox</string>
+<string name="title_vendor_detail">Informationen zur Firma</string>
+<string name="title_map">Karte</string>
+<string name="title_tagstream">Echtzeit-Stream</string>
+<string name="title_bulletin">Bulletin</string>
 
 <string name="title_session_tracks">Vortragsreihen</string>
+<string name="title_vendor_tracks">Sandbox-Pods</string>
 
+<string name="title_share">Teilen</string>
 
+<string name="title_search">Suchen</string>
+<string name="title_search_query">Suchen nach \'<xliff:g id="query">%1$s</xliff:g>\'</string>
 
 <string name="btn_schedule">Agenda</string>
+<string name="btn_map">Karte</string>
+<string name="btn_sessions">Sessions</string>
 <string name="btn_starred">Favoriten</string>
+<string name="btn_vendors">Sandbox</string>
+<string name="btn_announcements">Bulletin</string>
 
 
+<string name="title_setup">Veranstaltungsort aussuchen</string>
+<string name="title_loading">Seite lädt. Bitte warten...</string>
 
 
+<string name="btn_sao_paulo">São Paulo</string>
+<string name="btn_buenos_aires">Buenos Aires</string>
+<string name="btn_moscow">Moskau</string>
+<string name="btn_prague">Prag</string>
+<string name="btn_tokyo">Tokyo</string>
+<string name="btn_sydney">Sydney</string>
+<string name="btn_tel_aviv">Tel Aviv </string>
+<string name="btn_berlin">Berlin</string>
+<string name="toast_sync_error">Sync-Fehler: <xliff:g id="error">%1$s</xliff:g>	</string>
 
+<string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> in <xliff:g id="room">%2$s</xliff:g></string>
 
+<string name="session_moderator_status"><xliff:g id="questions">%1$s</xliff:g> Fragen eingereicht und <xliff:g id="votes">%2$s</xliff:g> Stimmen gezählt.</string>
 
-<string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> in Raum <xliff:g id="room">%2$s</xliff:g></string>
-
+<string name="all_sandbox_title">Alle Firmen</string>
+<string name="all_sandbox_subtitle">Anklicken, um Aussteller nach Sandbox-Pod zu filtern.</string>
 
 <string name="all_sessions_title">Alle Sessions</string>
+<string name="all_sessions_subtitle">Anklicken und Sessions nach Vortragsreihen filtern.</string>
 
+<string name="empty_sessions">Keine Sessions gefunden.</string>
+<string name="empty_session_detail">Keine Details zur Session gefunden.</string>
 
+<string name="empty_vendors">Keine Sanbox-Ergebnisse gefunden.</string>
 
+<string name="empty_search">Keine Suchergebnisse gefunden.</string>
+<string name="empty_links">Keine Links verfügbar.</string>
 
 <string name="session_summary">Zusammenfassung</string>
 <string name="session_notes">Notizen</string>
+<string name="session_links">Links</string>
+<string name="session_requirements">Voraussetzungen</string>
 <string name="session_speakers">Vortragende</string>
 
+<string name="block_title_breakout_session">Vortrag</string>
 
 
+<string name="tag_stream">Echtzeit-Stream</string>
 
-
-
-
-
-
-
-
-
+<string name="session_link_main">Web-Link</string>
+<string name="session_link_moderator">Fragen stellen</string>
+<string name="session_link_youtube">YouTube-Videos</string>
+<string name="session_link_pdf">Slides (PDF)</string>
+<string name="session_link_feedback">Feeback zu dieser Session</string>
+<string name="session_link_notes">Offizielle Notizen</string>
 <plurals name="whats_on_countdown_title">
 <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\nbis GDD %3$s</item>
 <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> Tag, <xliff:g id="remaining_time">%2$s</xliff:g>\nbis GDD %3$s</item>
 <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> Tage, <xliff:g id="remaining_time">%2$s</xliff:g>\nbis GDD %3$s</item>
 </plurals>
+<string name="search_sessions">Sessions</string>
+<string name="search_vendors">Sandbox</string>
 
-<string name="whats_on_stream_title">Echtzeit \nStream</string>
+<string name="starred_sessions">Sessions</string>
+<string name="starred_vendors">Sandbox</string>
+<string name="search_label">GDD</string>
+<string name="search_hint">Session Keywords</string>
 
+<string name="share_template">Checking out \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
 
+<string name="moderator_header">Moderator</string>
+
+<string name="dialog_moderator_title">Google Moderator</string>
+<string name="dialog_moderator_message">Die offizielle Google Moderator App ist in Ihrem Land verfügbar. Möchten Sie die App installieren oder den Browser nutzen?</string>
+
+<string name="dialog_moderator_web">Browser nutzen</string>
+<string name="dialog_moderator_market">Market öffnen</string>
+
+<string name="whats_on_stream_title">Echtzeit-\nStream</string>
+<string name="whats_on_now_playing_title">Jetzt live</string>
+<string name="whats_on_thank_you_title">Bis zum nächsten Jahr! </string>
+
+<string name="permission_write">Daten der GDD-Agenda ändern</string>
+
+<string name="toast_now_not_visible">Diesen Knopf drücken, um die aktuelle Uhrzeit zu sehen.</string>
 
 <!-- Notes integration -->
+<string name="notes_catch_powered_by">Notizen wird unterstützt von <a href="http://www.catch.com/">Catch.com</a>.</string>
+<string name="notes_catch_market_title">Catch Notes installieren.</string>
+<string name="notes_catch_market_subtitle">Mit der neuesten Version von Catch Notes (verfügbar im Android Market) können Sie während der Session Notizen schreiben.</string>
+<string name="notes_catch_new_title">Neue Notiz erstellen.</string>
+<string name="notes_catch_view_title">Notzen der Vortragsreihe ansehen.</string>
+<string name="toast_notes_error_invoking">Fehler beim Abrufen von Catch Notes.</string>
 
+<string name="note_template">Session: <xliff:g id="title">%1$s</xliff:g>\n\n\n\n__________\nTags: <xliff:g id="hashtags">%2$s</xliff:g></string>
 
 <!-- EULA -->
 
 
+
 <!-- SETUP -->
+<string name="setup_confirm_title">Veranstaltungsort bestätigen.</string>
+<string name="setup_confirm_text">Sie besuchen den Google Developer Day in <xliff:g id="city">%1$s</xliff:g>.\n\nStimmt das?</string>
+<string name="setup_accept">Ja</string>
+<string name="setup_decline">Nein</string>
 
 
 

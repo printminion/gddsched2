@@ -132,7 +132,7 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 	@Override
 	public void onBackPressed() {
 
-		Toast.makeText(getApplicationContext(), "Please select desired event", Toast.LENGTH_LONG).show();
+		Toast.makeText(getApplicationContext(), getText(R.string.setup_skip_warning), Toast.LENGTH_SHORT).show();
 
 	}
 

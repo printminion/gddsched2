@@ -99,7 +99,7 @@ public class TagStreamFragment extends Fragment {
 
                 	mWebView.loadUrl(Setup.CONFERENCE_STREAM
                             + URLEncoder.encode(mSearchString, "UTF-8")
-                            + "&btnG=Search");
+                            + "&method=gdd.stream");
                     
                     
                 } catch (UnsupportedEncodingException e) {

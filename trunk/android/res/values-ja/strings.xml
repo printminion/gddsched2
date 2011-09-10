@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright 2011 Google Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+
+<string name="description_home">ホーム</string>
+<string name="description_search">検索</string>
+<string name="description_map">地図</string>
+<string name="description_refresh">更新</string>
+<string name="description_share">共有</string>
+<string name="description_export">エクスポート</string>
+<string name="description_star">スター</string>
+<string name="description_now">ただ今進行中のセッションを表示</string>
+
+<string name="title_now_playing">再生中</string>
+<string name="title_schedule">スケジュール</string>
+<string name="title_sessions">セッション</string>
+<string name="title_session_detail">セッション情報</string>
+<string name="title_starred">スター付き</string>
+<string name="title_tracks">トラック</string>
+<string name="title_vendors">サンドボックス</string>
+<string name="title_vendor_detail">会社情報</string>
+<string name="title_map">地図</string>
+<string name="title_tagstream">リアルタイムストリーム</string>
+<string name="title_bulletin">お知らせ</string>
+
+<string name="title_session_tracks">セッショントラック</string>
+<string name="title_vendor_tracks">サンドボックスポッド</string>
+
+<string name="title_share">共有</string>
+
+<string name="title_search">検索</string>
+<string name="title_search_query">\'<xliff:g id="query">%1$s</xliff:g>\' を検索する</string>
+
+<string name="btn_schedule">スケジュール</string>
+<string name="btn_map">地図</string>
+<string name="btn_sessions">セッション</string>
+<string name="btn_starred">スター付き</string>
+<string name="btn_vendors">サンドボックス</string>
+<string name="btn_announcements">お知らせ</string>
+
+
+<string name="title_setup">Google Developer Day の場所を選択</string>
+<string name="title_loading">ロード中、少々お待ちください</string>
+
+
+
+<string name="btn_sao_paulo">サンパウロ</string>
+<string name="btn_buenos_aires">ブエノスアイレス</string>
+<string name="btn_moscow">モスクワ</string>
+<string name="btn_prague">プラハ</string>
+<string name="btn_tokyo">東京</string>
+<string name="btn_sydney">シドニー</string>
+<string name="btn_tel_aviv">テルアビブ</string>
+<string name="btn_berlin">ベルリン</string>
+
+<string name="toast_sync_error">同期エラー: <xliff:g id="error">%1$s</xliff:g></string>
+
+<string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> in <xliff:g id="room">%2$s</xliff:g></string>
+<string name="session_moderator_status">質問 <xliff:g id="questions">%1$s</xliff:g> 件、 投票 <xliff:g id="votes">%2$s</xliff:g> 票</string>
+
+<string name="all_sandbox_title">すべての企業</string>
+<string name="all_sandbox_subtitle">ポッドのサンドボックス出展社別に探す</string>
+
+<string name="all_sessions_title">すべてのセッション</string>
+<string name="all_sessions_subtitle">トラック別でセッションを探す</string>
+
+<string name="empty_sessions">セッション情報が見つかりません</string>
+<string name="empty_session_detail">セッションの詳細情報が見つかりません</string>
+
+<string name="empty_vendors">該当するものが見つかりません</string>
+
+<string name="empty_search">条件に一致するものが見つかりません</string>
+<string name="empty_links">リンクがありません</string>
+
+<string name="session_summary">要約</string>
+<string name="session_notes">ノート</string>
+<string name="session_links">リンク</string>
+<string name="session_requirements">要件</string>
+<string name="session_speakers">スピーカー</string>
+
+<string name="block_title_breakout_session">ブレイクアウトセッション</string>
+
+
+<string name="tag_stream">リアルタイムストリーム</string>
+
+<string name="session_link_main">ウェブリンク</string>
+<string name="session_link_moderator">質問する</string>
+<string name="session_link_youtube">YouTube 動画</string>
+<string name="session_link_pdf">スライド (PDF)</string>
+<string name="session_link_feedback">セッションへのフィードバック</string>
+<string name="session_link_notes">公式ノート</string>
+
+<string name="search_sessions">セッション</string>
+<string name="search_vendors">サンドボックス</string>
+
+<string name="starred_sessions">セッション</string>
+<string name="starred_vendors">サンドボックス</string>
+
+<string name="search_label">GDD</string>
+<string name="search_hint">セッションキーワード</string>
+
+<string name="share_template">チェックアウト \'<xliff:g id="title">%1$s</xliff:g>\' ： <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
+
+<string name="moderator_header">モデレーター</string>
+
+<string name="dialog_moderator_title">Google モデレーター</string>
+<string name="dialog_moderator_message">公式の Google モデレーター アプリをマーケットから入手することができます。アプリケーションをインストールしますか？　またはブラウザを利用しますか？</string>
+
+<string name="dialog_moderator_web">ブラウザで見る</string>
+<string name="dialog_moderator_market">マッケートへアクセス</string>
+
+<plurals name="whats_on_countdown_title">
+<item quantity="zero">あと<xliff:g id="remaining_time">%2$s</xliff:g>\n時間で GDD %3$s</item>
+<item quantity="one">あと<xliff:g id="number_of_days">%1$s</xliff:g> 日で, <xliff:g id="remaining_time">%2$s</xliff:g>\n時間で GDD %3$s</item>
+<item quantity="other">あと<xliff:g id="number_of_days">%1$s</xliff:g> 日で, <xliff:g id="remaining_time">%2$s</xliff:g>\n時間で GDD %3$s</item></plurals>
+
+<string name="whats_on_stream_title">リアルタイムストリーム</string>
+<string name="whats_on_now_playing_title">再生中</string>
+<string name="whats_on_thank_you_title">来年、お会いしましょう</string>
+
+<string name="permission_write">GDD スケジュールデータを変更する</string>
+
+<string name="toast_now_not_visible">このボタンをクリックすると GDD 当日に現在時刻が表示されます</string>
+
+<!-- Notes integration -->
+<string name="notes_catch_powered_by">ノートは <a href="http://www.catch.com/">Catch.com</a> が提供</string>
+<string name="notes_catch_market_title">Catch Notes をインストール</string>
+<string name="notes_catch_market_subtitle">Android Market から入手できる Catch Notesの最新バージョンを利用して、GDD のセッションのメモをとることができます。</string>
+<string name="notes_catch_new_title">新しいノートを作成する</string>
+<string name="notes_catch_view_title">トラックノートを見る</string>
+<string name="toast_notes_error_invoking">Catch Notes 起動中にエラーが発生しました。</string>
+
+<string name="note_template">セッション: <xliff:g id="title">%1$s</xliff:g>\n\n\n\n__________\nタグ: <xliff:g id="hashtags">%2$s</xliff:g></string>
+
+<!-- EULA -->
+
+
+
+<!-- SETUP -->
+<string name="setup_confirm_title">場所を確認</string>
+<string name="setup_confirm_text">Google Developer Day  <xliff:g id="city">%1$s</xliff:g>.\n\n に移動します。よろしいですか？</string>
+<string name="setup_accept">同意</string>
+<string name="setup_decline">拒否</string>
+
+
+
+</resources>

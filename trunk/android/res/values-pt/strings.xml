@@ -16,47 +16,88 @@ limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+<string name="description_home">Home</string>
+<string name="description_search">Busca</string>
+<string name="description_map">Mapa</string>
+<string name="description_refresh">Atualizar</string>
+<string name="description_share">Compartilhar</string>
+<string name="description_export">Exportar</string>
+<string name="description_star">Marcar</string>
 
 <string name="title_schedule">Agenda</string>
-<string name="title_sessions">Sessõe</string>
+<string name="title_sessions">Sessões</string>
+<string name="title_session_detail">Informação sobre a Sessão</string>
 <string name="title_starred">Favorito</string>
+<string name="title_tracks">Trilhas</string>
+<string name="title_vendor_detail">Informação sobre a Companhia</string>
+<string name="title_map">Mapa</string>
+<string name="title_bulletin">Boletim</string>
 
+<string name="title_session_tracks">Trilhas</string>
 
+<string name="title_share">Compartilhar</string>
 
+<string name="title_search">Buscar</string>
+<string name="title_search_query">Buscar por \'<xliff:g id="query">%1$s</xliff:g>\'</string>
 
 <string name="btn_schedule">Agenda</string>
-<string name="btn_sessions">Sessõe</string>
-<string name="btn_starred">Favorito</string>
+<string name="btn_map">Mapa</string>
+<string name="btn_sessions">Sessões</string>
+<string name="btn_starred">Favoritos</string>
+<string name="btn_announcements">Boletim</string>
+
+
+<string name="title_setup">Escolha o seu Google Developer Day</string>
+<string name="title_loading">Carregando. Por favor aguarde...</string>
 
 
 
 
-
-
+<string name="toast_sync_error">Erro de sincronização: <xliff:g id="error">%1$s</xliff:g></string>
 
 <string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> na sala <xliff:g id="room">%2$s</xliff:g></string>
+<string name="session_moderator_status"><xliff:g id="questions">%1$s</xliff:g> perguntas enviadas e <xliff:g id="votes">%2$s</xliff:g> votos.</string>
+
+<string name="all_sandbox_title">Todas as empresas</string>
+
+<string name="all_sessions_title">Todas as sessões</string>
+<string name="all_sessions_subtitle">Aperte para filtrar sessões por trilha</string>
+
+<string name="empty_sessions">Nenhuma sessão encontrada</string>
+<string name="empty_session_detail">Detalhes da sessão não encontrados</string>
 
 
-<string name="all_sessions_title">Todas as sessõe</string>
+<string name="empty_search">Não foram encontrados resultados para a busca</string>
+<string name="empty_links">Nenhum link disponível</string>
+
+<string name="session_summary">Resumo</string>
+<string name="session_notes">Notas</string>
+<string name="session_requirements">Requisitos</string>
+<string name="session_speakers">Palestrantes</string>
+
+<string name="block_title_breakout_session">Sessões </string>
 
 
+<string name="tag_stream">Realtime stream para</string>
 
+<string name="session_link_main">Link</string>
+<string name="session_link_moderator">Fazer perguntas</string>
+<string name="session_link_youtube">Video YouTube</string>
+<string name="session_link_feedback">Feedback para esta sessão</string>
+<string name="session_link_notes">Notas oficiais</string>
 
-<string name="session_notes">Nota</string>
-<string name="session_speakers">Palestrante</string>
-
-
-
-
-
-<string name="search_sessions">Sessõe</string>
+<string name="search_sessions">Sessões</string>
 
 <string name="starred_sessions">Sessõe</string>
 
+<string name="search_hint">Palavras chave da sessão</string>
 
 
 
+<string name="dialog_moderator_message">O aplicativo oficial do Google Moderator está disponível no Market. Você gostaria de instalá-lo ou continuar usando o browser?</string>
 
+<string name="dialog_moderator_web">Usar browser</string>
+<string name="dialog_moderator_market">Visitar Market</string>
 
 <plurals name="whats_on_countdown_title">
 <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\naté GDD %3$s</item>
@@ -64,16 +105,31 @@ limitations under the License.
 <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> dia, <xliff:g id="remaining_time">%2$s</xliff:g>\naté GDD %3$s</item>
 </plurals>
 
+<string name="whats_on_thank_you_title">Até o ano que vem!</string>
 
+<string name="permission_write">Modificar dados da agenda do GDD</string>
 
+<string name="toast_now_not_visible">Aperte este botão durante o GDD para mostrar o horário atual.</string>
 
 <!-- Notes integration -->
+<string name="notes_catch_powered_by">Powered by <a href="http://www.catch.com/">Catch.com</a>.</string>
+<string name="notes_catch_market_title">Instalar Catch Notes</string>
+<string name="notes_catch_market_subtitle">Você pode tomar notas para as sessões do GDD utilizando a ultima versão do Catch Notes disponível no Android Market.</string>
+<string name="notes_catch_new_title">Criar uma nova nota.</string>
+<string name="notes_catch_view_title">Ver as notas da trilha</string>
+<string name="toast_notes_error_invoking">Erro ao chamar o Catch Notes.</string>
 
+<string name="note_template">Sessão: <xliff:g id="title">%1$s</xliff:g>\n\n\n\n__________\nTags: <xliff:g id="hashtags">%2$s</xliff:g></string>
 
 <!-- EULA -->
+<string name="eula_title">Atenção</string>
+<string name="accept">Aceitar</string>
+<string name="decline">Declinar</string>
 
 
 <!-- SETUP -->
+<string name="setup_confirm_title">Confirme o GDD</string>
+<string name="setup_confirm_text">Você está indo para o Google Developer Day em <xliff:g id="city">%1$s</xliff:g>.\n\nEstá correto?</string>
 
 
 

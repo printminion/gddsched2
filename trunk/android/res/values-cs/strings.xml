@@ -17,67 +17,130 @@ limitations under the License.
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
 
+
+<string name="description_home">Domů</string>
+<string name="description_search">Hledat</string>
+<string name="description_map">Mapa</string>
+<string name="description_refresh">Obnovit</string>
+<string name="description_share">Sdílet</string>
+<string name="description_export">Export</string>
+<string name="description_star">Hvězdička</string>
+<string name="description_now">Právě teď</string>
+
+<string name="title_now_playing">Nyní běží</string>
 <string name="title_schedule">Agenda</string>
-<string name="title_sessions">Prednášky</string>
-<string name="title_starred">S hvezdickou</string>
-<string name="title_tracks">Tracky</string>
+<string name="title_sessions">Přednášky</string>
+<string name="title_session_detail">Informace o přednášce</string>
+<string name="title_starred">S hvězdičkou</string>
+<string name="title_tracks">Téma</string>
+<string name="title_vendor_detail">Informace o společnoti</string>
+<string name="title_map">Mapa</string>
+<string name="title_tagstream">Živý stream</string>
+<string name="title_bulletin">Bulletin</string>
 
-<string name="title_session_tracks">Tracky</string>
+<string name="title_session_tracks">Téma</string>
 
+<string name="title_share">Sdílet pomocí</string>
 
+<string name="title_search">Vyhledat</string>
+<string name="title_search_query">Výsledky pro \'<xliff:g id="query">%1$s</xliff:g>\'</string>
 
 <string name="btn_schedule">Agenda</string>
-<string name="btn_sessions">Prednášky</string>
-<string name="btn_starred">S hvezdickou</string>
+<string name="btn_map">Mapa</string>
+<string name="btn_sessions">Přednášky</string>
+<string name="btn_starred">S hvězdičkou</string>
+<string name="btn_announcements">Bulletin</string>
 
 
+<string name="title_setup">Na který GDD jdete?</string>
+<string name="title_loading">Nahrávám. Prosím čekejte...</string>
 
 
-
-
+<string name="toast_sync_error">Chyba synchronizace: <xliff:g id="error">%1$s</xliff:g></string>
 
 <string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> v místnosti <xliff:g id="room">%2$s</xliff:g></string>
+<string name="session_moderator_status"><xliff:g id="questions">%1$s</xliff:g> otázek a <xliff:g id="votes">%2$s</xliff:g> hlasování zasláno.</string>
 
+<string name="all_sandbox_title">Všechny společnosti</string>
 
 <string name="all_sessions_title">Všechny prednášky</string>
+<string name="all_sessions_subtitle">Vyber přednášky podle tématu</string>
+
+<string name="empty_sessions">Žádné přednášky</string>
+<string name="empty_session_detail">Žádné informace o přednáškách</string>
 
 
-
+<string name="empty_search">Žádné výsledky hledání</string>
+<string name="empty_links">Nejsou dostupné žádné odkazy</string>
 
 <string name="session_summary">Obsah</string>
 <string name="session_notes">Poznámky</string>
 <string name="session_links">Odkazy</string>
-<string name="session_speakers">Recník</string>
+<string name="session_requirements">Požadavky</string>
+<string name="session_speakers">Řečník</string>
 
-<string name="block_title_breakout_session">Klikni pro seznam prednášek</string>
+<string name="block_title_breakout_session">Zobraz seznam přednášek</string>
 
 
+<string name="tag_stream">Živý stream pro</string>
 
 <string name="session_link_main">Jdi na oficiální web</string>
-<string name="session_link_feedback">Ohodnot tuto prednášku</string>
+<string name="session_link_moderator">Zeptej se</string>
+<string name="session_link_youtube">YouTube video</string>
+<string name="session_link_pdf">Snímky (PDF)</string>
+<string name="session_link_feedback">Ohodnoť tuto prednášku</string>
 <string name="session_link_notes">Poznámky</string>
 
-<string name="search_sessions">Prednášky</string>
+<string name="search_sessions">Přednášky</string>
 
-<string name="starred_sessions">Prednášky</string>
+<string name="starred_sessions">Přednášky</string>
+
+<string name="search_label">GDD</string>
+<string name="search_hint">Klíčová slova</string>
+<string name="share_template">Checking out \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
 
 
-<plurals name="whats_on_countdown_title">
+ <plurals name="whats_on_countdown_title">
 <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
 <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> day, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
 <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> days, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
 </plurals>
+  
+<string name="moderator_header">Moderátor</string>
+
+<string name="dialog_moderator_title">Google moderátor</string>
+<string name="dialog_moderator_message">Oficiální aplikace Google Moderator je dostupná na Android Market, chcete ji nainstalovat nebo i nadále používat běžný prohlížeč?</string>
+
+<string name="dialog_moderator_web">Zůstat v prohlížeči</string>
+<string name="dialog_moderator_market">Jít na Market</string>
 
 
+<string name="whats_on_stream_title">Živý stream</string>
+<string name="whats_on_now_playing_title">Nyní běží</string>
+<string name="whats_on_thank_you_title">Na shledanou příští rok</string>
 
+<string name="permission_write">Uprav data programu GDD</string>
+<string name="toast_now_not_visible">Během GDD vám toto tlačítko ukáže aktuální čas.</string>
 
 <!-- Notes integration -->
+<string name="notes_catch_powered_by">Poznámky fungují pomocí <a href="http://www.catch.com/">Catch.com</a>.</string>
+<string name="notes_catch_market_title">Instalovat Catch Notes</string>
+<string name="notes_catch_market_subtitle">Poznámky k přednáškám na GDD můžete přidat pomocí nejnovější verze Catch Notes, která je dostupná na Android Market.</string>
+<string name="notes_catch_new_title">Vytvořit novou poznámku</string>
+<string name="notes_catch_view_title">Zobrazit poznámky k tématu</string>
+<string name="toast_notes_error_invoking">Chyba vyvolání Catch Notes.</string>
 
+<string name="note_template">Přednáška: <xliff:g id="title">%1$s</xliff:g>nnnn__________nTags: <xliff:g id="hashtags">%2$s</xliff:g></string>
 
 <!-- EULA -->
 
 
+
 <!-- SETUP -->
+<string name="setup_confirm_title">Potvrdit město</string>
+<string name="setup_confirm_text">Jde te na Google Developer Day 2011 v městě:  <xliff:g id="city">%1$s</xliff:g>.nnIs , je to tak?</string>
+<string name="setup_accept">Přijmout</string>
+<string name="setup_decline">Odmítnout</string>
 
 
 

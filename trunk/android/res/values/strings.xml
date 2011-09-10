@@ -92,6 +92,7 @@
     <string name="session_notes">Notes</string>
     <string name="session_links">Links</string>
     <string name="session_requirements">Requirements</string>
+    <string name="session_level">Level</string>
     <string name="session_speakers">Speakers</string>
     
     <string name="block_title_breakout_session">Breakout sessions</string>
@@ -159,8 +160,11 @@
     <!-- SETUP -->
     <string name="setup_confirm_title">Confirm location</string>
     <string name="setup_confirm_text">You are going to Google Developer Day in <xliff:g id="city">%1$s</xliff:g>.\n\nIs it right?</string>
-    <string name="setup_accept">Accept</string>
-    <string name="setup_decline">Decline</string>
+    <string name="setup_accept">Yes</string>
+    <string name="setup_decline">No</string>
+    <string name="setup_skip_warning">Please select desired event</string>
+
+
 
 
 

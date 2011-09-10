@@ -3,6 +3,7 @@ package com.kupriyanov.android.apps.gddsched;
 import java.util.Locale;
 import java.util.TimeZone;
 
+import com.google.android.apps.gddsched.R.string;
 import com.google.android.apps.gddsched.R.xml;
 import com.google.android.apps.iosched2.util.ParserUtils;
 
@@ -12,8 +13,10 @@ public interface ISetup {
 	public static int ROOMS_XML = xml.rooms;
 
 	public static String EVENT_ID_SELECTED = null;
+
 	public static String BLOCK_TITLE_BREAKOUT_SESSIONS = "Breakout sessions";
 
+	
 	public static String WORKSHEETS_URL = "";// "http://spreadsheets.google.com/feeds/worksheets/0Akgh73WhU1qHdHJmSUlSb0JIckowX1ZiQkhsYmdkdkE/public/basic";
 
 	public static TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("America/Sao_Paulo");
@@ -31,9 +34,6 @@ public interface ISetup {
 
 	public static Locale LOCALE = new Locale("pt", "BR");
 
-	// public static final Locale LOCALE = Locale.US;
-	// public static final Locale LOCALE = Locale.GERMANY;
-
 	public static String EVENT_YEAR = "2011";
 	// public static final String DATETIME_FORMAT = "EEEE MMM d yyyy h:mma Z";
 	public static final String DATETIME_FORMAT = "dd.MM.yyyy HH:mm Z";
@@ -46,7 +46,7 @@ public interface ISetup {
 	public static boolean FEATURE_VENDORS_ON = false;
 	public static boolean FEATURE_OFFICEHOURS_ON = false;
 	public static boolean FEATURE_MAP_ON = false;
-	public static boolean FEATURE_EULA_ON = true;
+	public static boolean FEATURE_EULA_ON = false;
 	public static boolean FEATURE_ANNOUNCEMENTS_ON = false;
 	public static boolean FEATURE_MULTIEVENT_ON = true;
 
@@ -54,7 +54,7 @@ public interface ISetup {
 
 	public static int CONFERENCE_DAYS = 1;
 
-	public static String EVENT_PREFIX = ""; // br-
+	public static String EVENT_PREFIX = ""; // e.g "br-"
 	public static String EVENT_PACKAGE_NAME = "gddsched";
 
 	public static String SETUP_PACKAGE_NAME = "com.kupriyanov.android.apps.gddsched";
@@ -123,6 +123,9 @@ public interface ISetup {
 	public static final String CONTENT_ITEM_TYPE_VENDOR = "vnd.android.cursor.item/vnd." + EVENT_PACKAGE_NAME
 			+ ".vendor";
 
-	public static String ANALYTICS_CODE = "UACODE"; // INSERT_YOUR_ANALYTICS_UA_CODE_HERE
+	/*
+	 * TODO: INSERT_YOUR_ANALYTICS_UA_CODE_HERE
+	 */
+	public static String ANALYTICS_CODE = "UACODE"; 
 
 }

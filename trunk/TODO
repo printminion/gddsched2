@@ -85,3 +85,12 @@ http://www.timeanddate.com/counters/customcounter.html?msg=&day=19&month=09&year
 * fixed JP titles
 
 *chek AR non sessions
+
+gddglb.Feed.init('http://gdd-2011.appspot.com/twitter/get?locale=BR&callback=gddglb.Feed.twitter', 290)
+gddglb.Feed.init('http://gdd-2011.appspot.com/twitter/get?locale=AR&callback=gddglb.Feed.twitter', 290)
+gddglb.Feed.init('http://gdd-2011.appspot.com/twitter/get?locale=RU&callback=gddglb.Feed.twitter', 290)
+gddglb.Feed.init('http://gdd-2011.appspot.com/twitter/get?locale=CZ&callback=gddglb.Feed.twitter', 290)
+gddglb.Feed.init('http://gdd-2011.appspot.com/twitter/get?locale=JP&callback=gddglb.Feed.twitter', 290)
+AU
+gddglb.Feed.init('http://gdd-2011.appspot.com/twitter/get?locale=IL&callback=gddglb.Feed.twitter', 290)
+DE
