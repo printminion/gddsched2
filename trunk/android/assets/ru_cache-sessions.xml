@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic</id>
-	<updated>2011-09-08T22:33:30.229Z</updated>
+	<updated>2011-09-10T17:43:37.044Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>sessions</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE'/>
@@ -15,7 +15,7 @@
 	<openSearch:startIndex>1</openSearch:startIndex>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/f6h3v</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 08:00 - 09:00, sessiontitle: Регистрация</content>
@@ -23,7 +23,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/f52je</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 09:00 - 10:45, sessiontitle: Открытие конференции</content>
@@ -31,7 +31,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/js86d</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 10:45 - 11:15, sessiontitle: Перерыв </content>
@@ -39,7 +39,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/i6mvg</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 5</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 11:15 - 12:00, sessionroom: TBD, sessionproduct: Android Market, sessiontrack: Android, sessionlevel: 101, sessiontitle: Android Market для разработчиков  , sessionabstract: Чтобы улучшить работу пользователей и разработчиков с Android Market, мы постоянно проводим изменения и внедряем улучшения в Android Market. В этом докладе Вы узнаете о последних улучшениях, а также о том, как использовать Android Market для реализации новых схем монетезации, сминимизировать риски пиратства, и улучшить видимость приложения в результатах поиска в Android Market., sessionurl: http://www.google.com/intl/ru/events/developerday/2011/moscow/agenda/session_2000.html</content>
@@ -47,7 +47,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/cpzh4</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 6</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 11:15 - 12:00, sessionroom: TBD, sessionproduct: HTML5, ChromeVox, sessiontrack: Chrome &amp; HTML5, sessionlevel: 101, sessiontitle: Сделайте Ваши веб-приложения удобными для пользователей с ограниченными возможностями с помощью HTML5 и ChromeVox, sessionabstract: Как Вы делаете Ваши интерактивные и динамичные веб-приложения доступными для пользователей с ограниченными возможностями? Как может ChromeVox, встроенный синтезатор речи Chrome, который воспроизводит информацию прямо с экрана, помочь Вам протестировать приложения? Вы знаете, что веб-разработчики могут создать веб-сайты, праткически такие же богатые и интерактивные для пользователей с ограниченными возможностями, с помощью HTML5? В этом докладе речь пойдет о том, какие методики и подходы работают уже сегодня. Мы расскажем о правильном использовании ARIA подхода вместе с управлением вниманием пользователя, навигации с помощью клавиатуры и о простом тестировании на доступность сайта людям с ограниченными возможностями с помощью ChromeVox.</content>
@@ -55,7 +55,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/cre1l</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 7</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 11:15 - 12:00, sessionroom: TBD, sessionproduct: Prediction API, sessiontrack: Облачная платформа, sessionlevel: 101, sessiontitle: Введение в технологии машинного обучения: Google Prediction API, sessionabstract: Интерфейсы Google Prediction API позволяют Вам создавать приложения, которые автоматизируют повторяющиеся действия, выделяют главное, и рекомендуют полезный контент. В этом докладе мы расскажем введение в Prediction API, покажем некоторые из самых последних возможностей, продемонстрируем несколько примеров использования Prediction API, включая анализ кода приложения, прогнозирующего настроения группы пользователей на основе их твитов в Twitter-е.</content>
@@ -63,7 +63,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/chk2m</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 8</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 11:15 - 12:00, sessionroom: TBD, sessionproduct: YouTube Live Streaming API, sessiontrack: Технические и общие доклады, sessionlevel: 101, sessiontitle: Первое знакомство с YouTube Live Streaming API, sessionabstract: Интерфейсы YouTube Live Streaming API помогут Вам спланировать и найти прямые видео-трансляции мировых событий. Узнайте о платформе и продумайте, как Вы сможете расширить функционал Ваших приложений с помощью прямых видео-трансляций YouTube.</content>
@@ -71,7 +71,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/ciyn3</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 9</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 11:15 - 12:00, sessionroom: TBD, sessionproduct: GTUG, sessiontrack: GTUG, sessionlevel: 101, sessiontitle: GTUG, sessiontags: GTUG, sessionabstract: TBA</content>
@@ -79,7 +79,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/ezg9q</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 10</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 12:00 - 12:50, sessionroom: TBD, sessionproduct: Android, sessiontrack: Android, sessiontitle: Достигая совершенства в проектировании пользовательского взаимодействия в Android  , sessionabstract: В этом докладе Вы узнаете о том, как создавать приложения Android, сделающие пользователей довольными. Мы расскажем о нескольких методиках улучшения производительности, юзабилити и дизайна итерфейса приложений. Мы также расскажем о том, как проектировать потрясающие приложения для планшетных компьютеров.</content>
@@ -87,7 +87,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/f0uu7</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 11</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 12:00 - 12:50, sessionroom: TBD, sessionproduct: HTML5, sessiontrack: Chrome &amp; HTML5, sessiontitle: Работая без доступа к сети: Offline-возможности HTML5  , sessionabstract: Предоставить пользователям возможность удобно работать с веб-приложением без доступа к сети - это, конечно, трудная задача. В этом докладе мы расскажем о тех возможностях HTML5, которые помогут Вам создать оффлайн-режим для Ваших веб-приложений: IndexedDB, FileSystem, AppCache, WebSQL и offline/online-события.</content>
@@ -95,7 +95,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/f9a8p</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 12</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 12:00 - 12:50, sessionroom: TBD, sessionproduct: AppEngine, Backends, MapReduce, Channel API, sessiontrack: Облачная платформа, sessiontitle: Используем новейшие возможности App Engine   , sessionabstract: В этом докладе Вы узнаете о самых новых и потрясающих возможностях AppEngine, включая Backends, MapReduce, полнотекстовый поиск и Channel API, и увидите их в действии в реальных веб-приложениях.</content>
@@ -103,7 +103,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/f29ek</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 13</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 12:00 - 12:50, sessionroom: TBD, sessionproduct: Google Apps Script, JavaScript, sessiontrack: Технические и общие доклады, sessiontitle: Автоматизация бизнес-процессов с помощью Apps Script , sessionabstract: Google Apps Script - это облачный скриптовый язык на базе JavaScript, который позволяет автоматизировать бизнес-процессы, использующие продукты Google и сторонние сервисы. В этом докладе будет дан подробный обзор реальных примеров использования и показан код, демонстрирующий подходы и методики автоматизации бизнес-процессов компаний.</content>
@@ -111,7 +111,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/f7vo8</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 12:00 - 12:50, sessionroom: TBD</content>
@@ -119,7 +119,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/ckd7g</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 12:50 - 13:50, sessiontrack: Обед</content>
@@ -127,7 +127,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/clrrx</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 16</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 13:50 - 14:35, sessionroom: TBD, sessionproduct: Google TV , sessiontrack: Android, sessiontitle: Google TV: готов для Android-разработчиков  , sessionabstract: Благодаря появлению новой версии Google TV на базе Honeycomb, Android-разработчики теперь могут создавать приложения для самого большого экрана в доме! Очень часто различие между хорошим и великолепным Google TV приложением кроется не только в тонкостях использования Android APIs, но и в тонкостях проектирования пользовательских интерфейсов. В этом докладе мы приведем примеры и расскажем об успешных методиках улучшения производительности и пользовательского опыта приложений для Google TV.</content>
@@ -135,7 +135,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/cztg3</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 17</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 13:50 - 14:35, sessionroom: TBD, sessionproduct: HTML5, sessiontrack: Chrome &amp; HTML5, sessiontitle: На фронтире с HTML5, sessionabstract: Вы наверняка уже слышали про HTML5, но что тут действительно нового? В этом докладе мы расскажем о самых новейших возможностях HTML5, поддерживаемых браузером Chrome и открытым вебом. Вы узнаете о том, как создавать производительные приложения, системы общения в режиме реального время, объединять различные системы с помозью таких технологий, как WebSockets, messaging и богатых мультимедийных APIs типа Web Audio API.</content>
@@ -143,7 +143,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/d180g</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 18</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 13:50 - 14:35, sessionroom: TBD, sessionproduct: Google Storage, Prediction API, BigQuery, App Engine, sessiontrack: Облачная платформа, sessiontitle: Создание интегрированных приложений на основе облачной инфраструктуры Google  , sessionabstract: В этом докладе мы расскажем вам о серии разных приложений, созданных на основе комбинации облачных технологий Google. Эти приложения продемонстрируют Вам то, как интегрировать эти технологии в Ваши разработки, - Google Storage, Prediction API, BigQuery и App Engine, чтобы создавать богатые облачные решения.</content>
@@ -151,7 +151,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/cssly</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 19</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 13:50 - 14:35, sessionroom: TBD, sessionproduct: Administrative APIs, Google Apps, sessiontrack: Технические и общие доклады, sessiontitle: Интерфейсы Administrative APIs для компаний, использующих Google Apps  , sessionabstract: Интерфейсы Administrative APIs дают возможность пользователям мигрировать на Google Apps, интегрируясь с существующими внутренними и облачными системами и обеспечивая прозрачную аутентификацию пользователей. В этом докладе мы расскажем о реальных случаях применения этих интерфейсов: Provisioning, Email Settings, Email Migration, SAML SSO, Reporting и Audit.</content>
@@ -159,7 +159,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/cu76f</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 13:50 - 14:35, sessionroom: TBD</content>
@@ -167,7 +167,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/cvlqs</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 21</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 14:40 - 15:25, sessionroom: TBD, sessionproduct: Android, Renderscript, sessiontrack: Android, sessiontitle: Высоко-производительная графика в Android, sessionabstract: Платформа Android предоставляет разработчикам широкие возможности создания интерактивных, графически богатых приложений для пользователей. В этом докладе мы расскажем об этих возможностях, включая 2D и 3D-графику, доступную через Dalvik, Renderscript и NDK.</content>
@@ -175,7 +175,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/cx0b9</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 22</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 14:40 - 15:25, sessionroom: TBD, sessionproduct: GWT, HTML5, sessiontrack: Chrome &amp; HTML5, sessiontitle: GWT: разработка и оптимизация сложных HTML5-приложений, sessionabstract: У GWT (Google Web Toolkit) есть много сильных сторон, позволяющих разработчикам создавать сложные HTML5-приложения и игры наподобие Angry Birds. Узнайте, как оптимизировать Ваше GWT-приложения, использовать возможности HTML5 и быть более продуктивными.</content>
@@ -183,7 +183,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/d9ney</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 23</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 14:40 - 15:25, sessionroom: TBD, sessionproduct: App Engine, sessiontrack: Облачная платформа, sessiontitle: App Engine: курс молодого бойца (лабораторная работа), sessionabstract: В этой лабораторной работе разработчики, уже знакомые с Google APIs, но незнакомые с App Engine, смогут быстро научиться создавать приложения на базе этой платформы путем создания простого, но настоящего веб-приложения с нуля. Используя онлайн-руководство, участники смогут разработать это приложения, действуя согласно пошаговым инструкциям, и затем расширить его функционал, используя все документированные возможности Google App Engine. Эта лабораторная работа будет состоять из двух параллельных треков - Java и Python.</content>
@@ -191,7 +191,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/db1zf</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 24</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 14:40 - 15:25, sessionroom: TBD, sessionproduct: Ignite, sessiontrack: Технические и общие доклады, sessiontitle: Ignite - серия кратких выступлений, sessionabstract: Удивите нас, но сделайте это быстро! Ignite - это мероприятие для гиков, где каждый докладчик делится своими знаниями и опытом, накопленными как в процессе работы, так и в процессе хобби. У каждого докладчика будет по 20 слайдов, каждый из которых сменяется следующим через 15 секунд, т.е. каждое выступление будет идти ровно по 5 минут.</content>
@@ -199,7 +199,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/dcgjs</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 14:40 - 15:25, sessionroom: TBD</content>
@@ -207,7 +207,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/ddv49</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 26</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 15:30 - 16:15, sessionroom: TBD, sessionproduct: Android, sessiontrack: Android, sessiontitle: Что нового и важного в Android, sessionabstract: В этом докладе мы расскажем Вам о новинках в последнем релизе Android с точки зрения разработчика.</content>
@@ -215,7 +215,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/d415a</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 27</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 15:30 - 16:15, sessionroom: TBD, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessiontitle: Инструменты Chrome для разработчиков: полезные советы, sessionabstract: Опытный ли Вы веб-разработчик или же новичок, Вам стоит узнать о новейших возможностях лучшего друга веб-разработчика, Chrome Dev Tools. Обновляйте CSS стили на лету, получайте информацию об отличиях между оригинальными и измененными файлами, пользуйтесь удаленной отладкой. Устанавливайте точки ожидания останова (breakpoints) везде, где это необходимо, и разбирайтесь в глубинах сетевого стека, чтобы найти причины падения производительности ваших приложений.</content>
@@ -223,7 +223,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/d5fpr</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 28</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 15:30 - 16:15, sessionroom: TBD, sessionproduct: OAuth, OpenID, sessiontrack: Облачная платформа, sessiontitle: OAuth и OpenID для доступа к данным и идентификации пользователей в веб-приложениях, sessionabstract: Узнайте, как веб-приложения могут использовать OAuth 2.0, чтобы получить доступ к облачной инфраструктуре Google и расширить свой функционал с помощью облачных сервисов Google. Мы также расскажем о том, как использовать комбинацию OAuth 2.0 и OpenID Connect, чтобы сделать бесшовную аутентификацию на сайте, не требуя дополнительных паролей. Мы расскажем о простоте внедрения и продуманности интерфейса аутентификации в рамках Google Identity Toolkit и Account Chooser.</content>
@@ -231,7 +231,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/d6ua4</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 29</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 15:30 - 16:15, sessionroom: TBD, sessionproduct: AdMob, sessiontrack: Технические и общие доклады, sessiontitle: Как заработать на разработке мобильных приложений, sessionabstract: Воспользуйтесь правильными инструментами, чтобы поднять Ваше мобильное приложение на новый уровень. Узнайте, как с помощью AdMob и Google Вы можете заработать больше денег на Вашем приложений, как увеличить количество установок и получить полную картину положения Вашего приложения на рынке мобильных приложений.</content>
@@ -239,7 +239,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/d88ul</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 15:30 - 16:15, sessionroom: TBD</content>
@@ -247,7 +247,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/dkvya</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 12:50 - 13:50, sessiontrack: Обед</content>
@@ -255,7 +255,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/jqtlw</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 16:45 - 17:15, sessionroom: TBD, sessiontrack: Android</content>
@@ -263,7 +263,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/jpf1j</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 16:45 - 17:15, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5</content>
@@ -271,7 +271,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/dmair</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 16:45 - 17:15, sessionroom: TBD, sessiontrack: Облачная платформа</content>
@@ -279,7 +279,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/dnp34</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 35</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 16:45 - 17:15, sessionroom: TBD, sessionproduct: VC, sessiontrack: Технические и общие доклады, sessiontitle: VC Panel: стартапы, инкубаторы и венчурный капитал, sessionabstract: У Вас есть потрясающая идея и Вы мечтаете начать собственный бизнес? Узнайте, как привлечь внимание инвесторов и узнайте, что они хотят увидеть, прежде чем будут готовы выплатить Вам первый транш инвестиций. Вы сможете узнать о реальном опыте привлечения инвестиций от основателей стартапов, которые их уже получили, и от представителей самих венчурных фондов, которые проинвестировали в ИТ-стартапы.</content>
@@ -287,7 +287,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/dgo93</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 16:45 - 17:15, sessionroom: TBD</content>
@@ -295,7 +295,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/djhdx</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 17:20 - 18:05, sessionroom: TBD, sessiontrack: Android</content>
@@ -303,7 +303,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/dw4je</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 17:20 - 18:05, sessionroom: TBD, sessiontrack: Chrome &amp; HTML5</content>
@@ -311,7 +311,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/dxj3v</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 17:20 - 18:05, sessionroom: TBD, sessiontrack: Облачная платформа</content>
@@ -319,7 +319,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/dyxo8</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 40</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 17:20 - 18:05, sessionroom: TBD, sessionproduct: Google Apps APIs, sessiontrack: Технические и общие доклады, sessiontitle: Интеграция с Google Apps: новые интерфейсы API, новые возможности и практические советы, sessionabstract: Мы неустанно работаем над новой версией Google Apps APIs и постоянно добавляем наиболее часто запрашиваемые возможности к существующим интерфейсам APIs. В этом докладе мы расскажем Вам о новых интерфейсах Google Apps APIs и о новых возможностях, обсудим задачи, для решения которых они были спроектированы и поделимся нашим опытом интеграции с Google APIs.</content>
@@ -327,7 +327,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/e0c8p</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 17:20 - 18:05, sessionroom: TBD</content>
@@ -335,7 +335,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od6/public/basic/dqi9q</id>
-		<updated>2011-09-08T22:33:30.229Z</updated>
+		<updated>2011-09-10T17:43:37.044Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Monday October 10, sessiontime: 12:50 - 13:50, sessiontrack: Закрытие конференции</content>

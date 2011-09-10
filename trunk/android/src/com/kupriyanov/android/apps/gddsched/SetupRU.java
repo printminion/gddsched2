@@ -32,7 +32,7 @@ public class SetupRU implements ISetup {
 
 	public static final String CONFERNCE_URL = "http://www.google.com/events/developerday/2011/moscow/";
 
-	public static final String CONFERENCE_HASHTAG = "#gdd11";
+	public static final String CONFERENCE_HASHTAG = "#gdd11 #gddru";
 
 	public static final boolean FEATURE_VENDORS_ON = false;
 	public static final boolean FEATURE_OFFICEHOURS_ON = false;

@@ -32,6 +32,7 @@ import android.widget.FrameLayout;
 import android.widget.TabHost;
 import android.widget.TabWidget;
 import android.widget.TextView;
+import android.widget.Toast;
 
 /**
  * An activity that shows session and sandbox search results. This activity can
@@ -59,14 +60,15 @@ public class SearchActivity extends BaseMultiPaneActivity {
 
 		Intent intent = getIntent();
 		mQuery = intent.getStringExtra(SearchManager.QUERY);
-
+		doEasterEgg(mQuery);
+		
 		setContentView(R.layout.activity_search);
 
 		getActivityHelper().setupActionBar(getTitle(), 0);
 		final CharSequence title = getString(R.string.title_search_query,
 				mQuery);
 		getActivityHelper().setActionBarTitle(title);
-
+		
 		mTabHost = (TabHost) findViewById(android.R.id.tabhost);
 		mTabWidget = (TabWidget) findViewById(android.R.id.tabs);
 		mTabHost.setup();
@@ -96,7 +98,9 @@ public class SearchActivity extends BaseMultiPaneActivity {
 	public void onNewIntent(Intent intent) {
 		setIntent(intent);
 		mQuery = intent.getStringExtra(SearchManager.QUERY);
-
+		
+		doEasterEgg(mQuery);
+		
 		final CharSequence title = getString(R.string.title_search_query,
 				mQuery);
 		getActivityHelper().setActionBarTitle(title);
@@ -104,7 +108,23 @@ public class SearchActivity extends BaseMultiPaneActivity {
 		mTabHost.setCurrentTab(0);
 
 		mSessionsFragment.reloadFromArguments(getSessionsFragmentArguments());
-		mVendorsFragment.reloadFromArguments(getVendorsFragmentArguments());
+		
+		if (Setup.FEATURE_VENDORS_ON) {
+			mVendorsFragment.reloadFromArguments(getVendorsFragmentArguments());
+		}
+	}
+	
+	/**
+	 * here is possibility to thank everybody
+	 * @param query
+	 */
+	private void doEasterEgg(String query) {
+		if (query == null) return;
+		
+		if (query.equals("about")) {
+			Toast.makeText(getApplicationContext(), "Thanks to the GDD team who make it possible.\nGreetings from m.kupriyanov aka @rusenreaktor ;)", Toast.LENGTH_SHORT).show();
+		}
+		
 	}
 
 	/**

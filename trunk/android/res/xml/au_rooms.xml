@@ -16,7 +16,13 @@
   -->
 <rooms>
 
-    <room><id>na</id><name>N/A</name><floor>2</floor></room>
+    <room><id>Bayside Auditorium A</id><name>Bayside Auditorium A</name><floor>2</floor></room>
+    <room><id>Bayside Auditorium B</id><name>Bayside Auditorium B</name><floor>2</floor></room>
+    <room><id>Bayside 103</id><name>Bayside 103</name><floor>2</floor></room>
+    <room><id>Bayside 104</id><name>Bayside 104</name><floor>2</floor></room>
+    <room><id>Bayside 105</id><name>Bayside 105</name><floor>2</floor></room>
+    <room><id>Bayside Gallery is catering/lunch area</id><name>Bayside Gallery is catering/lunch area</name><floor>2</floor></room>
+    
     <room><id>baysideauditoriuma</id><name>Bayside Auditorium A</name><floor>2</floor></room>
     <room><id>baysideauditoriumb</id><name>Bayside Auditorium B</name><floor>2</floor></room>
     <room><id>bayside103</id><name>Bayside 103</name><floor>2</floor></room>
@@ -24,7 +30,26 @@
     <room><id>bayside105</id><name>Bayside 105</name><floor>2</floor></room>
     <room><id>baysidegalleryiscateringluncharea</id><name>Bayside Gallery is catering/lunch area</name><floor>2</floor></room>
     
-    <room><id>1</id><name>Room 1</name><floor>2</floor></room>
+    <!-- standard names -->
+    <room><id>green</id><name>Green</name><floor>2</floor></room>
+    <room><id>red</id><name>Red</name><floor>2</floor></room>
+    <room><id>yellow</id><name>Yellow</name><floor>2</floor></room>
+    <room><id>blue</id><name>Blue</name><floor>2</floor></room>
+    
+    <room><id>Green</id><name>Green</name><floor>2</floor></room>
+    <room><id>Red</id><name>Red</name><floor>2</floor></room>
+    <room><id>Yellow</id><name>Yellow</name><floor>2</floor></room>
+    <room><id>Blue</id><name>Blue</name><floor>2</floor></room>
+    
+    <room><id>na</id><name>N/A</name><floor>2</floor></room>
+    <room><id>tbd</id><name>TBD</name><floor>2</floor></room>
+		<room><id>hall</id><name>Hall</name><floor>2</floor></room>
+	
+		<room><id>N/A</id><name>N/A</name><floor>2</floor></room>
+    <room><id>TBD</id><name>TBD</name><floor>2</floor></room>
+		<room><id>Hall</id><name>Hall</name><floor>2</floor></room>
+	
+		<room><id>1</id><name>Room 1</name><floor>2</floor></room>
     <room><id>2</id><name>Room 2</name><floor>2</floor></room>
     <room><id>3</id><name>Room 3</name><floor>2</floor></room>
     <room><id>4</id><name>Room 4</name><floor>2</floor></room>
@@ -34,10 +59,32 @@
     <room><id>8</id><name>Room 8</name><floor>2</floor></room>
     <room><id>9</id><name>Room 9</name><floor>2</floor></room>
     <room><id>10</id><name>Room 10</name><floor>2</floor></room>
-    <room><id>tbd</id><name>TBD</name><floor>3</floor></room>
+    <room><id>11</id><name>Room 11</name><floor>3</floor></room>
+    
+    <room><id>room1</id><name>Room 1</name><floor>2</floor></room>
+    <room><id>room2</id><name>Room 2</name><floor>2</floor></room>
+    <room><id>room3</id><name>Room 3</name><floor>2</floor></room>
+    <room><id>room4</id><name>Room 4</name><floor>2</floor></room>
+    <room><id>room5</id><name>Room 5</name><floor>2</floor></room>
+    <room><id>room6</id><name>Room 6</name><floor>2</floor></room>
+    <room><id>room7</id><name>Room 7</name><floor>2</floor></room>
+    <room><id>room8</id><name>Room 8</name><floor>2</floor></room>
+    <room><id>room9</id><name>Room 9</name><floor>2</floor></room>
+    <room><id>room10</id><name>Room 10</name><floor>2</floor></room>
+    <room><id>room11</id><name>Room 11</name><floor>3</floor></room>
+
+    <room><id>Room 1</id><name>Room 1</name><floor>2</floor></room>
+    <room><id>Room 2</id><name>Room 2</name><floor>2</floor></room>
+    <room><id>Room 3</id><name>Room 3</name><floor>2</floor></room>
+    <room><id>Room 4</id><name>Room 4</name><floor>2</floor></room>
+    <room><id>Room 5</id><name>Room 5</name><floor>2</floor></room>
+    <room><id>Room 6</id><name>Room 6</name><floor>2</floor></room>
+    <room><id>Room 7</id><name>Room 7</name><floor>2</floor></room>
+    <room><id>Room 8</id><name>Room 8</name><floor>2</floor></room>
+    <room><id>Room 9</id><name>Room 9</name><floor>2</floor></room>
+    <room><id>Room 10</id><name>Room 10</name><floor>2</floor></room>
+    <room><id>Room 11</id><name>Room 11</name><floor>3</floor></room>
 
     <room><id>lunchroom</id><name>Lunch Room</name><floor>1</floor></room>
-   <!--  <room><id>officehoursfloor2</id><name>Office Hours Floor 2</name><floor>2</floor></room>
-    <room><id>officehoursfloor3</id><name>Office Hours Floor 3</name><floor>3</floor></room> -->
 
 </rooms>

@@ -189,7 +189,8 @@ public class SessionDetailFragment extends Fragment implements
 
         mAbstract = (TextView) mRootView.findViewById(R.id.session_abstract);
         mRequirements = (TextView) mRootView.findViewById(R.id.session_requirements);
-
+        mLevel = (TextView) mRootView.findViewById(R.id.session_level);
+        
         setupSummaryTab();
         setupNotesTab();
         setupLinksTab();
@@ -336,7 +337,7 @@ public class SessionDetailFragment extends Fragment implements
             }
             
             final View levelBlock = mRootView.findViewById(R.id.session_level_block);
-            final String sessionLevel = cursor.getString(SessionsQuery.REQUIREMENTS);
+            final String sessionLevel = cursor.getString(SessionsQuery.LEVEL);
             if (!TextUtils.isEmpty(sessionLevel)) {
                 UIUtils.setTextMaybeHtml(mLevel, sessionLevel);
                 levelBlock.setVisibility(View.VISIBLE);
