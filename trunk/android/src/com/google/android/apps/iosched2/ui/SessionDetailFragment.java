@@ -95,6 +95,8 @@ public class SessionDetailFragment extends Fragment implements
     
     private TextView mAbstract;
     private TextView mRequirements;
+    private TextView mLevel;
+    
 
     private NotifyingAsyncQueryHandler mHandler;
 
@@ -332,7 +334,17 @@ public class SessionDetailFragment extends Fragment implements
             } else {
                 requirementsBlock.setVisibility(View.GONE);
             }
-
+            
+            final View levelBlock = mRootView.findViewById(R.id.session_level_block);
+            final String sessionLevel = cursor.getString(SessionsQuery.REQUIREMENTS);
+            if (!TextUtils.isEmpty(sessionLevel)) {
+                UIUtils.setTextMaybeHtml(mLevel, sessionLevel);
+                levelBlock.setVisibility(View.VISIBLE);
+                mHasSummaryContent = true;
+            } else {
+            	levelBlock.setVisibility(View.GONE);
+            }
+            
             // Show empty message when all data is loaded, and nothing to show
             if (mSpeakersCursor && !mHasSummaryContent) {
                 mRootView.findViewById(android.R.id.empty).setVisibility(View.VISIBLE);
