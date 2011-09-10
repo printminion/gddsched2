@@ -72,7 +72,13 @@ public class SearchActivity extends BaseMultiPaneActivity {
 		mTabHost.setup();
 
 		setupSessionsTab();
-		setupVendorsTab();
+		
+		/*
+		 * removed vendors
+		 */
+		if (Setup.FEATURE_VENDORS_ON) {
+			setupVendorsTab();
+		}
 	}
 
 	@Override
@@ -159,14 +165,9 @@ public class SearchActivity extends BaseMultiPaneActivity {
 		}
 
 		// Vendors content comes from reused activity
-		/*
-		 * removed vendors
-		 */
-		if (Setup.FEATURE_VENDORS_ON) {
 			mTabHost.addTab(mTabHost.newTabSpec(TAG_VENDORS)
 					.setIndicator(buildIndicator(R.string.starred_vendors))
 					.setContent(R.id.fragment_vendors));
-		}
 	}
 
 	private Bundle getSessionsFragmentArguments() {
