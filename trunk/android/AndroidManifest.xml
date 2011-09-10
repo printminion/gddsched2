@@ -6,10 +6,14 @@
 	OR CONDITIONS OF ANY KIND, either express or implied. See the License for 
 	the specific language governing permissions and limitations under the License. -->
 
+<!-- 
+	Please change also Setup.VERSION_CURRENT to be sure database changes will also occur	
+-->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	package="com.google.android.apps.gddsched" android:versionCode="22"
 	android:versionName="1.0" android:installLocation="auto">
-
+	
 	<uses-sdk android:minSdkVersion="7" android:targetSdkVersion="11" />
 
 	<permission
