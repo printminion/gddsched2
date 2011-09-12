@@ -149,9 +149,11 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 		case SyncService.STATUS_FINISHED: {
 			Log.v(TAG, "onReceiveResult:STATUS_FINISHED");
 
-			mDialog.dismiss();
-			mDialog = null;
-
+			if (mDialog != null) {
+				mDialog.dismiss();
+				mDialog = null;
+			}
+			
 			startActivity(new Intent(this, Setup.HomeActivityClass));
 			finish();
 

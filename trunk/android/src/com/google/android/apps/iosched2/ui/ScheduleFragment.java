@@ -77,8 +77,11 @@ public class ScheduleFragment extends Fragment implements
     /**
      * Flags used with {@link android.text.format.DateUtils#formatDateRange}.
      */
+    /*
+     * removed FORMAT_ABBREV_WEEKDAY because "Fri." in portugesse "sex"
+     */
     private static final int TIME_FLAGS = DateUtils.FORMAT_SHOW_DATE
-            | DateUtils.FORMAT_SHOW_WEEKDAY | DateUtils.FORMAT_ABBREV_WEEKDAY;
+            | DateUtils.FORMAT_SHOW_WEEKDAY;// | DateUtils.FORMAT_ABBREV_WEEKDAY;
 
     private static final long TUE_START = Setup.CONFERENCE_START_MILLIS_DAY1; //ParserUtils.parseTime("2011-05-10T00:00:00.000-07:00");
     private static final long WED_START = Setup.CONFERENCE_START_MILLIS_DAY2; //ParserUtils.parseTime("2011-05-11T00:00:00.000-07:00");

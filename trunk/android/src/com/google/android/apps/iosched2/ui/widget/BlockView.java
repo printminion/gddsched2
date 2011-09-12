@@ -36,8 +36,8 @@ import java.util.TimeZone;
  */
 public class BlockView extends Button {
     private static final int TIME_STRING_FLAGS = DateUtils.FORMAT_SHOW_DATE
-            | DateUtils.FORMAT_SHOW_WEEKDAY | DateUtils.FORMAT_ABBREV_WEEKDAY |
-            DateUtils.FORMAT_SHOW_TIME | DateUtils.FORMAT_ABBREV_TIME;
+            | DateUtils.FORMAT_SHOW_WEEKDAY |
+            DateUtils.FORMAT_SHOW_TIME | DateUtils.FORMAT_ABBREV_TIME; //| DateUtils.FORMAT_ABBREV_WEEKDAY
 
     private final String mBlockId;
     private final String mTitle;

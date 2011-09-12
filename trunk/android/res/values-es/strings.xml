@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright 2011 Google Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+<string name="description_home">Principal</string>
+<string name="description_search">Búsqueda</string>
+<string name="description_map">Mapa</string>
+<string name="description_refresh">Actualizar</string>
+<string name="description_share">Compartir</string>
+<string name="description_export">Exportar</string>
+<string name="description_star">Iniciar</string>
+<string name="description_now">Ir Ahora</string>
+
+<string name="title_now_playing">Jugando Ahora</string>
+<string name="title_schedule">Agenda</string>
+<string name="title_sessions">Sesiones</string>
+<string name="title_session_detail">Información de Sesiones</string>
+<string name="title_starred">Favorito</string>
+<string name="title_tracks">Pistas</string>
+<string name="title_vendors">Sandbox</string>
+<string name="title_vendor_detail">Información de la Compañia</string>
+<string name="title_map">Mapa</string>
+<string name="title_tagstream">Flujo en Tiempo Real</string>
+<string name="title_bulletin">Boletín</string>
+
+<string name="title_session_tracks">Pistas de la Sesión</string>
+
+<string name="title_share">Compartir utilización</string>
+
+<string name="title_search">Búsqueda</string>
+
+<string name="btn_schedule">Agenda</string>
+<string name="btn_map">Mapa</string>
+<string name="btn_sessions">Sesiones</string>
+<string name="btn_starred">Favorito</string>
+<string name="btn_vendors">Sandbox</string>
+<string name="btn_announcements">Boletin</string>
+
+
+<string name="title_setup">Elija la localización de su Google Developer Day</string>
+<string name="title_loading">Cargando. Por favor espere...</string>
+
+
+
+<string name="btn_sao_paulo">Sao Paulo</string>
+<string name="btn_buenos_aires">Buenos Aires</string>
+<string name="btn_moscow">Moscow</string>
+<string name="btn_prague">Prague</string>
+<string name="btn_tokyo">Tokyo</string>
+<string name="btn_sydney">Sydney</string>
+<string name="btn_tel_aviv">Tel-Aviv</string>
+<string name="btn_berlin">Berlin</string>
+
+<string name="toast_sync_error">Error de sincronización: <xliff:g id="error">%1$s</xliff:g></string>
+
+<string name="session_subtitle"><xliff:g id="time">%1$s</xliff:g> en <xliff:g id="room">%2$s</xliff:g></string>
+<string name="session_moderator_status"><xliff:g id="questions">%1$s</xliff:g> preguntas realizadas y <xliff:g id="votes">%2$s</xliff:g> votos emitidos.</string>
+
+<string name="all_sandbox_title">Todas las Compañias</string>
+
+<string name="all_sessions_title">Todas las sesiones</string>
+
+<string name="empty_sessions">No se encontraron sesiones</string>
+<string name="empty_session_detail">No se encontraron detalles de la sesión</string>
+
+<string name="empty_vendors">No se encontraron resultados sandox</string>
+
+<string name="empty_search">No se encontrarol resultados de búsqueda</string>
+<string name="empty_links">No existen vínculos disponibles</string>
+
+<string name="session_summary">Resumen</string>
+<string name="session_notes">Notas</string>
+<string name="session_links">Vínculos</string>
+<string name="session_requirements">Requerimientos</string>
+<string name="session_level">Nivel</string>
+<string name="session_speakers">Orador</string>
+
+<string name="block_title_breakout_session">Sesiones Grupales</string>
+
+
+<string name="tag_stream">Flujo en tiempo real para</string>
+
+<string name="session_link_main">Vínculo Web</string>
+<string name="session_link_moderator">Hacer Preguntas</string>
+<string name="session_link_youtube">Vídeo You Tube</string>
+<string name="session_link_pdf">Presentaciones (PDF)</string>
+<string name="session_link_feedback">Comentarios en esta sesión.</string>
+<string name="session_link_notes">NotasOficiales</string>
+
+<string name="search_sessions">Sesiones</string>
+<string name="search_vendors">Sandbox</string>
+
+<string name="starred_sessions">Sesiones</string>
+<string name="starred_vendors">Sandbox</string>
+
+<string name="search_label">GDD</string>
+<string name="search_hint">Palabras claves de la sesión</string>
+
+<string name="share_template">Dale un vistazo a\'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
+
+<string name="moderator_header">Moderador</string>
+
+<string name="dialog_moderator_title">Google Moderator</string>
+
+<string name="dialog_moderator_web">Utilice el Navegador</string>
+<string name="dialog_moderator_market">Visite el Market</string>
+
+<plurals name="whats_on_countdown_title">
+<item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
+<item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> day, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
+<item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> days, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
+</plurals>
+
+<string name="whats_on_stream_title">TiempoReal\nFlujo</string>
+<string name="whats_on_now_playing_title">Jugando Ahora</string>
+<string name="whats_on_thank_you_title">Nos vemos el próximo Año!</string>
+
+<string name="permission_write">Modificar los datos de agenda de GDD</string>
+
+<string name="toast_now_not_visible">Pulse este botón durante GDD para mostrar la hora actual.</string>
+
+<!-- Notes integration -->
+<string name="notes_catch_powered_by">Las notas son Desarrollado por <a href="http://www.catch.com/">Catch.com</a>.</string>
+<string name="notes_catch_market_title">Instalar las notas capturadas.</string>
+<string name="notes_catch_market_subtitle">Puede tomar notas de las sesiones en GDD, utilizando la última versión de "Catch Notes", disponible en Android Market.</string>
+<string name="notes_catch_new_title">Crear una nueva nota.</string>
+<string name="notes_catch_view_title">Ver las notas de la pista</string>
+<string name="toast_notes_error_invoking">Error invocando las notas de la captura.</string>
+
+<string name="note_template">Sesión: <xliff:g id="title">%1$s</xliff:g>\n\n\n\n__________\nTags: <xliff:g id="hashtags">%2$s</xliff:g></string>
+
+<!-- EULA -->
+<string name="eula_title">Advertencia</string>
+<string name="accept">Aceptar</string>
+<string name="decline">Declinar</string>
+
+
+<!-- SETUP -->
+<string name="setup_confirm_title">Confirmar la localidad</string>
+<string name="setup_confirm_text">Usted irá Google Developer Day en  <xliff:g id="city">%1$s</xliff:g>.\n\n correcto?</string>
+<string name="setup_accept">Si</string>
+<string name="setup_decline">No</string>
+<string name="setup_skip_warning">Por favor, seleccionar el evento deseado</string>
+
+
+
+
+
+</resources>

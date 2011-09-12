@@ -64,7 +64,7 @@ public class UIUtils {
 
     /** Flags used with {@link DateUtils#formatDateRange}. */
     private static final int TIME_FLAGS = DateUtils.FORMAT_SHOW_TIME
-            | DateUtils.FORMAT_SHOW_WEEKDAY | DateUtils.FORMAT_ABBREV_WEEKDAY;
+            | DateUtils.FORMAT_SHOW_WEEKDAY; //| DateUtils.FORMAT_ABBREV_WEEKDAY
 
     /** {@link StringBuilder} used for formatting time block. */
     private static StringBuilder sBuilder = new StringBuilder(50);
