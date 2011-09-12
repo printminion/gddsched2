@@ -16,7 +16,7 @@
 <view
     class="com.google.android.apps.iosched2.ui.widget.ObservableScrollView"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:iosched="http://schemas.android.com/apk/res/com.google.android.apps.gddsched"
+    xmlns:iosched="http://schemas.android.com/apk/res/gdd11.app"
     android:id="@+id/blocks_scroll"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"

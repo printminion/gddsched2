@@ -16,7 +16,6 @@
 
 package com.google.android.apps.iosched2.provider;
 
-import com.google.android.apps.gddsched.service.SyncService;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Blocks;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Rooms;
 import com.google.android.apps.iosched2.provider.ScheduleContract.SearchSuggest;
@@ -46,6 +45,8 @@ import android.net.Uri;
 import android.os.ParcelFileDescriptor;
 import android.provider.BaseColumns;
 import android.util.Log;
+
+import gdd11.app.service.SyncService;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

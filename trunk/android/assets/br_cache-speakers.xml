@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic</id>
-	<updated>2011-09-08T10:43:54.588Z</updated>
+	<updated>2011-09-12T16:53:35.851Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>speakers</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc'/>
@@ -15,7 +15,7 @@
 	<openSearch:startIndex>1</openSearch:startIndex>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/chk2m</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 2</title>
 		<content type='text'>speakertitle: Dan Galpin, speakercompany: Google, speakerimageurl: http://sites.google.com/site/developeradvocates/image/dan_galpin.png, speakerurl: https://plus.google.com/105593270217665985575/</content>
@@ -23,7 +23,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/ciyn3</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 3</title>
 		<content type='text'>speakertitle: Bruno Oliveira, speakercompany: Google, speakerabstract: Bruno é engenheiro de Developer Relations nas equipes de Android e Orkut. Baseado em São Paulo, ele trabalha com os desenvolvedores para aumentar e fortalecer a comunidade ao redor das tecnologias do Google, com ênfase em aumentar o envolvimento de desenvolvedores brasileiros e ajudá-los a criar aplicativos de alta qualidade no Android e no Orkut., speakerimageurl: http://sites.google.com/site/developeradvocates/image/bruno_oliveira.png, speakerurl: https://plus.google.com/102451193315916178828</content>
@@ -31,7 +31,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/bamu</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 4</title>
 		<content type='text'>speakertitle: Les Vogel, speakercompany: Google, speakerabstract: Les é um Developer Programs Engineer para Google TV. Ele trabalha próximo a desenvolvedores, escrevendo códigos de exemplo e os ajudando a trazer aplicativos ricos e interessantes para o mercado., speakerimageurl: http://sites.google.com/site/developeradvocates/image/les_vogel.png, speakerurl: https://plus.google.com/100838318974719130475/posts</content>
@@ -39,7 +39,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/ckd7g</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 5</title>
 		<content type='text'>speakertitle: Rachel Shearer, speakercompany: Google, speakerabstract: Rachel é uma engenheira de software do time de Engenharia de Acessibilidade do Google. Ela trabalha com o leitor de tela ChomeVox e com acessibilidade nos aplicativos web do Google e em bibliotecas compartilhadas., speakerurl: https://plus.google.com/109888479311908919840/posts</content>
@@ -47,7 +47,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/clrrx</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 6</title>
 		<content type='text'>speakertitle: Pete LePage, speakercompany: Google, speakerabstract: Pete é um Developer Advocate para a Chrome Web Store e ele adora a web aberta. Ele recentemente descobriu que HTML5 e CSS3 são muito mais bonitos que um conjunto de tags "blink", "marquee" e "font"., speakerimageurl: https://sites.google.com/site/developeradvocates/image/pete_lepage.png, speakerurl: https://plus.google.com/117555368223516714643/posts</content>
@@ -55,7 +55,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/cyevm</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 7</title>
 		<content type='text'>speakertitle: Paul Irish, speakercompany: Google, speakerabstract: Paul é responsável pelo relacionamento com desenvolvedores de Chrome e jQuery. Ele mantem o HTML5 Boilerplate, a bibilioteca de detecção de features Modernizr e outros projetos open source. Além disso ele é um grande fã de sorvete italiano., speakerimageurl: http://sites.google.com/site/developeradvocates/image/paul_irish.png, speakerurl: https://plus.google.com/113127438179392830442/posts</content>
@@ -63,7 +63,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/wd55</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 8</title>
 		<content type='text'>speakertitle: Chris Schalk, speakercompany: Google, speakerabstract: Chris é um Developer Advocate que trabalha com App Engine e outras tecnologias Cloud do Google. Antes de trabalhar no Google, Chris era Gerente de Produto na Oracle e também foi co-autor do livro "JSF: The Complete Reference", speakerimageurl: http://sites.google.com/site/developeradvocates/image/chris_schalk.png, speakerurl: https://plus.google.com/104599745903075924418/posts</content>
@@ -71,7 +71,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/cp7b</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 9</title>
 		<content type='text'>speakertitle: Andrés Ferraté, speakercompany: Google, speakerabstract: Andrés é o gerente do time de Geo Developer Relations. Antes de se juntar ao time de Geo, ele ajudava desenvolvedores a desenvolver aplicativos interessantes para Google TV e Google Wave. Sua missão é assegurar o sucesso de desenvolvedores Geo., speakerimageurl: http://sites.google.com/site/developeradvocates/image/andres_ferrate.png, speakerurl: https://plus.google.com/113734550334076793987</content>
@@ -79,7 +79,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/cztg3</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 10</title>
 		<content type='text'>speakertitle: Wesley Chun, speakercompany: Google, speakerabstract: Wesley Chun, MSCS, é um arquiteto, autor de bestsellers sobre Phyton e Developer Advocate no Google. Há mais de 25 anos ele vem desenvolvendo, escrevendo e dando aulas e foi um dos engenheiros originais do Yahoo!Mail., speakerimageurl: http://sites.google.com/site/developeradvocates/image/wesley_chun.png, speakerurl: https://plus.google.com/102108625619739868700/posts</content>
@@ -87,7 +87,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/d180g</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 11</title>
 		<content type='text'>speakertitle: Steve Bazyl, speakercompany: Google, speakerabstract: Steve é um Developer Advocate que trabalha com Google Apps e o Google Apps Marketplace. Ele gosta muito de ajudar desenvolvedores a encontrar formas de integrar seus aplicativos e trazer valor agregado para seus usuários., speakerimageurl: http://sites.google.com/site/developeradvocates/image/steve_bazyl.png, speakerurl: https://plus.google.com/103354693083460731603/posts</content>
@@ -95,7 +95,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/d2mkx</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 12</title>
 		<content type='text'>speakertitle: Jarek Wilkiewicz, speakercompany: Google, speakerabstract: Jarek é um Developer Advocate do YouTube e seu foco é ajudar parceiros a implementar aplicações incríveis usando as APIs do YouTube. Ele é ex-aluno das universidades de Carnegie Mellon e de Memphis., speakerimageurl: http://sites.google.com/site/developeradvocates/image/jarek_wilkiewicz.png, speakerurl: https://plus.google.com/115372405214595182619/posts?hl=en</content>
@@ -103,7 +103,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/e3ro</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 13</title>
 		<content type='text'>speakertitle: Saurabh Gupta, speakercompany: Google, speakerimageurl: http://sites.google.com/site/developeradvocates/image/saurabh_gupta.png, speakerurl: https://plus.google.com/105831704374179338116</content>
@@ -111,7 +111,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/cssly</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 14</title>
 		<content type='text'>speakertitle: Peter Fernandez, speakercompany: Google, speakerabstract: Peter gerencia as operações de venda de anúncios para dispositivos móveis na América Latina. Anteriormente ele gerenciava as vendas na América Latina da AdMob, uma companhia adquirida pelo Google em 2010.</content>
@@ -119,7 +119,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/cu76f</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 15</title>
 		<content type='text'>speakertitle: Simon Olson, speakercompany: Google, speakerabstract: Simon works in Google's New Business Development Group. Prior to Google, Simon was a venture capitalist at FIR Capital. His achievements include the sale of Akwan, the partnership with Draper Fisher Jurvetson, and the first venture blog in Brazil., speakerimageurl: https://lh5.googleusercontent.com/-e-pB8H12PoY/AAAAAAAAAAI/AAAAAAAAABs/y5CmXniblEk/photo.jpg?sz=200, speakerurl: https://plus.google.com/107995692640491233736/about</content>
@@ -127,7 +127,7 @@
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudHRlMi1WRjl3TWFOOFZDeGxhS3Bndmc/od7/public/basic/cvlqs</id>
-		<updated>2011-09-08T10:43:54.588Z</updated>
+		<updated>2011-09-12T16:53:35.851Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 16</title>
 		<content type='text'>speakertitle: Timothy Jordan, speakercompany: Google, speakerabstract: Timothy é um Developer Advocate do Google trabalhando no projeto Google+. Ele adora resolver problemas e acredita em melhorar a vida através da ciência e das artes., speakerimageurl: http://sites.google.com/site/developeradvocates/image/timothy_jordan.jpg, speakerurl: https://plus.google.com/113751353481962008916/posts</content>

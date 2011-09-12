@@ -16,6 +16,8 @@
 
 package com.google.android.apps.iosched2.util;
 
+import gdd11.app.R;
+
 import java.util.Formatter;
 import java.util.List;
 import java.util.Locale;
@@ -42,7 +44,6 @@ import android.text.method.LinkMovementMethod;
 import android.text.style.StyleSpan;
 import android.widget.TextView;
 
-import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Blocks;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Rooms;
 import com.kupriyanov.android.apps.gddsched.Setup;

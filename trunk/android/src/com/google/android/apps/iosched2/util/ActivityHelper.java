@@ -16,7 +16,8 @@
 
 package com.google.android.apps.iosched2.util;
 
-import com.google.android.apps.gddsched.R;
+import gdd11.app.R;
+
 import com.google.android.apps.iosched2.ui.HomeActivity;
 import com.kupriyanov.android.apps.gddsched.Setup;
 

@@ -16,7 +16,6 @@
 
 package com.google.android.apps.iosched2.util;
 
-import com.google.android.apps.gddsched.service.SyncService;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -32,6 +31,8 @@ import android.os.AsyncTask;
 import android.os.Environment;
 import android.text.TextUtils;
 import android.util.Log;
+
+import gdd11.app.service.SyncService;
 
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -16,6 +16,8 @@
 
 package com.google.android.apps.iosched2.ui;
 
+import gdd11.app.R;
+import gdd11.app.service.SyncService;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
@@ -26,8 +28,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.google.android.apps.gddsched.R;
-import com.google.android.apps.gddsched.service.SyncService;
 import com.google.android.apps.iosched2.util.DetachableResultReceiver;
 import com.google.android.apps.iosched2.util.SetupHelper;
 

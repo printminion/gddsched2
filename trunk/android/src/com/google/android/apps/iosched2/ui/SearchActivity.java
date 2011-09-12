@@ -16,7 +16,8 @@
 
 package com.google.android.apps.iosched2.ui;
 
-import com.google.android.apps.gddsched.R;
+import gdd11.app.R;
+
 import com.google.android.apps.iosched2.provider.ScheduleContract.Sessions;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Vendors;
 import com.google.android.apps.iosched2.util.SetupHelper;

@@ -16,7 +16,6 @@
 
 package com.google.android.apps.iosched2.ui;
 
-import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched2.util.AnalyticsUtils;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
@@ -33,6 +32,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+
+import gdd11.app.R;
 
 import java.util.regex.Pattern;
 

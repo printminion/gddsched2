@@ -1,10 +1,11 @@
 package com.kupriyanov.android.apps.gddsched;
 
+import gdd11.app.R.string;
+import gdd11.app.R.xml;
+
 import java.util.Locale;
 import java.util.TimeZone;
 
-import com.google.android.apps.gddsched.R.string;
-import com.google.android.apps.gddsched.R.xml;
 import com.google.android.apps.iosched2.util.ParserUtils;
 
 public interface ISetup {
@@ -55,11 +56,11 @@ public interface ISetup {
 	public static int CONFERENCE_DAYS = 1;
 
 	public static String EVENT_PREFIX = ""; // e.g "br-"
-	public static String EVENT_PACKAGE_NAME = "gddsched";
+	public static String EVENT_PACKAGE_NAME = "gdd11.app";
 
 	public static String SETUP_PACKAGE_NAME = "com.kupriyanov.android.apps.gddsched";
 
-	public static String CONTENT_AUTHORITY = "com.google.android.apps." + EVENT_PACKAGE_NAME;// com.kupriyanov.android.apps.gddsched";
+	public static String CONTENT_AUTHORITY = "gdd11.app";// com.kupriyanov.android.apps.gddsched";
 
 	public static String EXTRA_TRACK = CONTENT_AUTHORITY + ".extra.TRACK";
 	public static String EXTRA_STATUS_RECEIVER = CONTENT_AUTHORITY + ".extra.STATUS_RECEIVER";// "com.google.android.iosched.extra.STATUS_RECEIVER"
@@ -73,34 +74,34 @@ public interface ISetup {
 	/*
 	 * Define Activities listed in Manifest + called vie Intents
 	 */
-	public static final Class<?> HomeActivityClass = com.google.android.apps.gddsched.ui.HomeActivity.class;
-	public static final Class<?> BulletinActivityClass = com.google.android.apps.gddsched.ui.BulletinActivity.class;
-	public static final Class<?> TagStreamActivityClass = com.google.android.apps.gddsched.ui.TagStreamActivity.class;
-	public static final Class<?> StarredActivityClass = com.google.android.apps.gddsched.ui.StarredActivity.class;
-	public static final Class<?> SearchActivityClass = com.google.android.apps.gddsched.ui.SearchActivity.class;
-	public static final Class<?> ScheduleActivityClass = com.google.android.apps.gddsched.ui.phone.ScheduleActivity.class;
-	public static final Class<?> TracksActivityClass = com.google.android.apps.gddsched.ui.phone.TracksActivity.class;
-	public static final Class<?> SessionsActivityClass = com.google.android.apps.gddsched.ui.phone.SessionsActivity.class;
-	public static final Class<?> SessionDetailActivityClass = com.google.android.apps.gddsched.ui.phone.SessionDetailActivity.class;
-	public static final Class<?> VendorsActivityClass = com.google.android.apps.gddsched.ui.phone.VendorsActivity.class;
-	public static final Class<?> VendorDetailActivityClass = com.google.android.apps.gddsched.ui.phone.VendorDetailActivity.class;
-	public static final Class<?> MapActivityClass = com.google.android.apps.gddsched.ui.phone.MapActivity.class;
-	public static final Class<?> SessionsMultiPaneActivityClass = com.google.android.apps.gddsched.ui.tablet.SessionsMultiPaneActivity.class;
-	public static final Class<?> VendorsMultiPaneActivityClass = com.google.android.apps.gddsched.ui.tablet.VendorsMultiPaneActivity.class;
-	public static final Class<?> ScheduleMultiPaneActivityClass = com.google.android.apps.gddsched.ui.tablet.ScheduleMultiPaneActivity.class;
-	public static final Class<?> MapMultiPaneActivityClass = com.google.android.apps.gddsched.ui.tablet.MapMultiPaneActivity.class;
-	public static final Class<?> NowPlayingMultiPaneActivityClass = com.google.android.apps.gddsched.ui.tablet.NowPlayingMultiPaneActivity.class;
+	public static final Class<?> HomeActivityClass = gdd11.app.ui.HomeActivity.class;
+	public static final Class<?> BulletinActivityClass = gdd11.app.ui.BulletinActivity.class;
+	public static final Class<?> TagStreamActivityClass = gdd11.app.ui.TagStreamActivity.class;
+	public static final Class<?> StarredActivityClass = gdd11.app.ui.StarredActivity.class;
+	public static final Class<?> SearchActivityClass = gdd11.app.ui.SearchActivity.class;
+	public static final Class<?> ScheduleActivityClass = gdd11.app.ui.phone.ScheduleActivity.class;
+	public static final Class<?> TracksActivityClass = gdd11.app.ui.phone.TracksActivity.class;
+	public static final Class<?> SessionsActivityClass = gdd11.app.ui.phone.SessionsActivity.class;
+	public static final Class<?> SessionDetailActivityClass = gdd11.app.ui.phone.SessionDetailActivity.class;
+	public static final Class<?> VendorsActivityClass = gdd11.app.ui.phone.VendorsActivity.class;
+	public static final Class<?> VendorDetailActivityClass = gdd11.app.ui.phone.VendorDetailActivity.class;
+	public static final Class<?> MapActivityClass = gdd11.app.ui.phone.MapActivity.class;
+	public static final Class<?> SessionsMultiPaneActivityClass = gdd11.app.ui.tablet.SessionsMultiPaneActivity.class;
+	public static final Class<?> VendorsMultiPaneActivityClass = gdd11.app.ui.tablet.VendorsMultiPaneActivity.class;
+	public static final Class<?> ScheduleMultiPaneActivityClass = gdd11.app.ui.tablet.ScheduleMultiPaneActivity.class;
+	public static final Class<?> MapMultiPaneActivityClass = gdd11.app.ui.tablet.MapMultiPaneActivity.class;
+	public static final Class<?> NowPlayingMultiPaneActivityClass = gdd11.app.ui.tablet.NowPlayingMultiPaneActivity.class;
 
-	public static final Class<?> SessionsFragmentClass = com.google.android.apps.gddsched.ui.SessionsFragment.class;
-	public static final Class<?> SessionDetailFragmentClass = com.google.android.apps.gddsched.ui.SessionDetailFragment.class;
+	public static final Class<?> SessionsFragmentClass = gdd11.app.ui.SessionsFragment.class;
+	public static final Class<?> SessionDetailFragmentClass = gdd11.app.ui.SessionDetailFragment.class;
 
-	public static final Class<?> VendorsFragmentClass = com.google.android.apps.gddsched.ui.VendorsFragment.class;
-	public static final Class<?> VendorDetailFragmentClass = com.google.android.apps.gddsched.ui.VendorDetailFragment.class;
+	public static final Class<?> VendorsFragmentClass = gdd11.app.ui.VendorsFragment.class;
+	public static final Class<?> VendorDetailFragmentClass = gdd11.app.ui.VendorDetailFragment.class;
 
-	public static final Class<?> SetupActivityClass = com.google.android.apps.gddsched.ui.SetupActivity.class;
+	public static final Class<?> SetupActivityClass = gdd11.app.ui.SetupActivity.class;
 
 	// public static final Class<?> SyncStatusUpdaterFragmentClass =
-	// com.google.android.apps.gddsched.ui.SyncStatusUpdaterFragment.class;
+	// gdd11.ui.SyncStatusUpdaterFragment.class;
 
 	public static final String CONTENT_TYPE_BLOCK = "vnd.android.cursor.dir/vnd." + EVENT_PACKAGE_NAME + ".block";
 	public static final String CONTENT_ITEM_TYPE_BLOCK = "vnd.android.cursor.item/vnd." + EVENT_PACKAGE_NAME + ".block";

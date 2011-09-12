@@ -1,9 +1,10 @@
 package com.kupriyanov.android.apps.gddsched;
 
+import gdd11.app.R.xml;
+
 import java.util.Locale;
 import java.util.TimeZone;
 
-import com.google.android.apps.gddsched.R.xml;
 import com.google.android.apps.iosched2.util.ParserUtils;
 
 public class SetupAU implements ISetup {

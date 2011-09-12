@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched2.io;
 
-import com.google.android.apps.gddsched.R;
+import gdd11.app.R;
 import com.google.android.apps.iosched2.provider.ScheduleContract;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Rooms;
 import com.google.android.apps.iosched2.util.Lists;

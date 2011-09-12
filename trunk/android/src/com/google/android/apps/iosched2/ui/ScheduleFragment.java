@@ -16,7 +16,6 @@
 
 package com.google.android.apps.iosched2.ui;
 
-import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched2.provider.ScheduleContract;
 import com.google.android.apps.iosched2.ui.widget.BlockView;
 import com.google.android.apps.iosched2.ui.widget.BlocksLayout;
@@ -55,6 +54,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import gdd11.app.R;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -16,7 +16,7 @@
 
 package com.google.android.apps.iosched2.ui;
 
-import com.google.android.apps.gddsched.R;
+import gdd11.app.R;
 
 import android.content.Intent;
 import android.os.Bundle;

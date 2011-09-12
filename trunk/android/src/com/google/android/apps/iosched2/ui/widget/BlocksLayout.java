@@ -16,7 +16,8 @@
 
 package com.google.android.apps.iosched2.ui.widget;
 
-import com.google.android.apps.gddsched.R;
+import gdd11.app.R;
+
 import com.google.android.apps.iosched2.util.UIUtils;
 import com.kupriyanov.android.apps.gddsched.Setup;
 

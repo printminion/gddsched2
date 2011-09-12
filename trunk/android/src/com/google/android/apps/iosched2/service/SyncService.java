@@ -16,7 +16,6 @@
 
 package com.google.android.apps.iosched2.service;
 
-import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched2.io.LocalBlocksHandler;
 import com.google.android.apps.iosched2.io.LocalExecutor;
 import com.google.android.apps.iosched2.io.LocalRoomsHandler;
@@ -61,6 +60,8 @@ import android.os.Bundle;
 import android.os.ResultReceiver;
 import android.text.format.DateUtils;
 import android.util.Log;
+
+import gdd11.app.R;
 
 import java.io.IOException;
 import java.io.InputStream;

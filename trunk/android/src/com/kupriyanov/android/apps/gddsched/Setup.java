@@ -1,16 +1,17 @@
 package com.kupriyanov.android.apps.gddsched;
 
+import gdd11.app.R.xml;
+
 import java.util.Locale;
 import java.util.TimeZone;
 
-import com.google.android.apps.gddsched.R.xml;
 
 public class Setup implements ISetup {
 
 	/*
 	 * update it on the blocks and Rooms update
 	 */
-	public static final int VERSION_CURRENT = 23;
+	public static final int VERSION_CURRENT = 25;
 
 	public static final String CONFERENCE_STREAM = "http://gddstream.appspot.com/?event=";
 
@@ -58,7 +59,7 @@ public class Setup implements ISetup {
 
 	public static String EVENT_PREFIX = "";
 
-	public static String CONTENT_AUTHORITY = "com.google.android.apps.gddsched";// com.kupriyanov.android.apps.gddsched";
+//	public static String CONTENT_AUTHORITY = "gdd11";// com.kupriyanov.android.apps.gddsched";
 
 	public static String ANALYTICS_CODE = "UA-25535360-1"; // INSERT_YOUR_ANALYTICS_UA_CODE_HERE
 

@@ -1,9 +1,10 @@
 package com.kupriyanov.android.apps.gddsched;
 
+import gdd11.app.R.xml;
+
 import java.util.Locale;
 import java.util.TimeZone;
 
-import com.google.android.apps.gddsched.R.xml;
 import com.google.android.apps.iosched2.util.ParserUtils;
 
 public class SetupAR implements ISetup {
@@ -13,7 +14,7 @@ public class SetupAR implements ISetup {
 
 	public static final String WORKSHEETS_URL = "http://spreadsheets.google.com/feeds/worksheets/0An8ZzsaUDpaudEJrbHRILWg3T3VJTDUtNnY5aXQ1YkE/public/basic";
 	public static TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("America/Buenos_Aires");
-	public static String BLOCK_TITLE_BREAKOUT_SESSIONS = "Breakout sessions";
+	public static String BLOCK_TITLE_BREAKOUT_SESSIONS = "Sesiones Grupales";
 	
 	/*
 	 *  http://snipplr.com/view/23131/timezone-enum/

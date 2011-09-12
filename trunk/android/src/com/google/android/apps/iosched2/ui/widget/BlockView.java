@@ -16,7 +16,6 @@
 
 package com.google.android.apps.iosched2.ui.widget;
 
-import com.google.android.apps.gddsched.R;
 import com.google.android.apps.iosched2.provider.ScheduleContract.Blocks;
 import com.google.android.apps.iosched2.util.UIUtils;
 
@@ -26,6 +25,8 @@ import android.graphics.PorterDuff;
 import android.graphics.drawable.LayerDrawable;
 import android.text.format.DateUtils;
 import android.widget.Button;
+
+import gdd11.app.R;
 
 import java.util.TimeZone;
 
