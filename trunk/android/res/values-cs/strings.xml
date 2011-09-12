@@ -77,9 +77,10 @@ limitations under the License.
 <string name="session_notes">Poznámky</string>
 <string name="session_links">Odkazy</string>
 <string name="session_requirements">Požadavky</string>
+<string name="session_level">Úroveň přednášky</string>
 <string name="session_speakers">Řečník</string>
 
-<string name="block_title_breakout_session">Zobraz seznam přednášek</string>
+<string name="block_title_breakout_session">Zobrazit seznam přednášek</string>
 
 
 <string name="tag_stream">Živý stream pro</string>
@@ -97,14 +98,11 @@ limitations under the License.
 
 <string name="search_label">GDD</string>
 <string name="search_hint">Klíčová slova</string>
-<string name="share_template">Checking out \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
+
+<string name="share_template">Právě sedím na přednášce \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
 
 
- <plurals name="whats_on_countdown_title">
-<item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
-<item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> day, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
-<item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> days, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil GDD %3$s</item>
-</plurals>
+
   
 <string name="moderator_header">Moderátor</string>
 
@@ -114,6 +112,11 @@ limitations under the License.
 <string name="dialog_moderator_web">Zůstat v prohlížeči</string>
 <string name="dialog_moderator_market">Jít na Market</string>
 
+<plurals name="whats_on_countdown_title">
+	<item quantity="zero">Do GDD %3$s\nzbývá <xliff:g id="remaining_time">%2$s</xliff:g></item>
+	<item quantity="one">Do GDD %3$s\nzbývá <xliff:g id="number_of_days">%1$s</xliff:g>d <xliff:g id="remaining_time">%2$s</xliff:g></item>
+	<item quantity="other">Do GDD %3$s\nzbývá <xliff:g id="number_of_days">%1$s</xliff:g>d <xliff:g id="remaining_time">%2$s</xliff:g></item>
+</plurals>
 
 <string name="whats_on_stream_title">Živý stream</string>
 <string name="whats_on_now_playing_title">Nyní běží</string>
@@ -123,14 +126,14 @@ limitations under the License.
 <string name="toast_now_not_visible">Během GDD vám toto tlačítko ukáže aktuální čas.</string>
 
 <!-- Notes integration -->
-<string name="notes_catch_powered_by">Poznámky fungují pomocí <a href="http://www.catch.com/">Catch.com</a>.</string>
+<string name="notes_catch_powered_by">Poznámky fungují na <a href="http://www.catch.com/">Catch.com</a>.</string>
 <string name="notes_catch_market_title">Instalovat Catch Notes</string>
 <string name="notes_catch_market_subtitle">Poznámky k přednáškám na GDD můžete přidat pomocí nejnovější verze Catch Notes, která je dostupná na Android Market.</string>
 <string name="notes_catch_new_title">Vytvořit novou poznámku</string>
 <string name="notes_catch_view_title">Zobrazit poznámky k tématu</string>
 <string name="toast_notes_error_invoking">Chyba vyvolání Catch Notes.</string>
 
-<string name="note_template">Přednáška: <xliff:g id="title">%1$s</xliff:g>nnnn__________nTags: <xliff:g id="hashtags">%2$s</xliff:g></string>
+<string name="note_template">Přednáška: <xliff:g id="title">%1$s</xliff:g>\n Tagy: <xliff:g id="hashtags">%2$s</xliff:g></string>
 
 <!-- EULA -->
 
@@ -138,7 +141,7 @@ limitations under the License.
 
 <!-- SETUP -->
 <string name="setup_confirm_title">Potvrdit město</string>
-<string name="setup_confirm_text">Jde te na Google Developer Day 2011 v městě:  <xliff:g id="city">%1$s</xliff:g>.nnIs , je to tak?</string>
+<string name="setup_confirm_text">Jde te na Google Developer Day 2011 v městě:  <xliff:g id="city">%1$s</xliff:g> , je to tak?</string>
 <string name="setup_accept">Přijmout</string>
 <string name="setup_decline">Odmítnout</string>
 

@@ -36,7 +36,7 @@ limitations under the License.
 <string name="title_vendors">サンドボックス</string>
 <string name="title_vendor_detail">会社情報</string>
 <string name="title_map">地図</string>
-<string name="title_tagstream">リアルタイムストリーム</string>
+
 <string name="title_bulletin">お知らせ</string>
 
 <string name="title_session_tracks">セッショントラック</string>
@@ -97,8 +97,6 @@ limitations under the License.
 <string name="block_title_breakout_session">ブレイクアウトセッション</string>
 
 
-<string name="tag_stream">リアルタイムストリーム</string>
-
 <string name="session_link_main">ウェブリンク</string>
 <string name="session_link_moderator">質問する</string>
 <string name="session_link_youtube">YouTube 動画</string>
@@ -126,11 +124,12 @@ limitations under the License.
 <string name="dialog_moderator_market">マッケートへアクセス</string>
 
 <plurals name="whats_on_countdown_title">
-<item quantity="zero">あと<xliff:g id="remaining_time">%2$s</xliff:g>\n時間で GDD %3$s</item>
-<item quantity="one">あと<xliff:g id="number_of_days">%1$s</xliff:g> 日で, <xliff:g id="remaining_time">%2$s</xliff:g>\n時間で GDD %3$s</item>
-<item quantity="other">あと<xliff:g id="number_of_days">%1$s</xliff:g> 日で, <xliff:g id="remaining_time">%2$s</xliff:g>\n時間で GDD %3$s</item></plurals>
+	<item quantity="zero">GDD %3$s\nまで、あと<xliff:g id="remaining_time">%2$s</xliff:g></item>
+	<item quantity="one">GDD %3$s\nまで、あと <xliff:g id="number_of_days">%1$s</xliff:g> 日と <xliff:g id="remaining_time">%2$s</xliff:g></item>
+	<item quantity="other">GDD %3$s\nまで、あと <xliff:g id="number_of_days">%1$s</xliff:g> 日と <xliff:g id="remaining_time">%2$s</xliff:g></item>
+</plurals>
 
-<string name="whats_on_stream_title">リアルタイムストリーム</string>
+
 <string name="whats_on_now_playing_title">再生中</string>
 <string name="whats_on_thank_you_title">来年、お会いしましょう</string>
 

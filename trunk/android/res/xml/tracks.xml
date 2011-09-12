@@ -144,6 +144,12 @@
         
 
     <track>
+        <name>Ignite</name>
+        <color>#E50000</color>
+        <abstract></abstract>
+    </track>
+    
+    <track>
         <name>University</name>
         <color>#FFB033</color>
         <abstract></abstract>

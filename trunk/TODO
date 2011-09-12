@@ -94,3 +94,11 @@ gddglb.Feed.init('http://gdd-2011.appspot.com/twitter/get?locale=JP&callback=gdd
 AU
 gddglb.Feed.init('http://gdd-2011.appspot.com/twitter/get?locale=IL&callback=gddglb.Feed.twitter', 290)
 DE
+
+http://code.google.com/appengine/docs/python/channel/overview.html
+
+http://trivia-quiz.googlecode.com/svn/trunk/ 
+
+http://www.rustybrick.com/stream-twitter-on-website.html
+http://code.google.com/p/guardian-twitterfall/source/checkout
+
