@@ -17,6 +17,7 @@
 package com.google.android.apps.iosched2.ui;
 
 import com.google.android.apps.gddsched.R;
+import com.google.android.apps.iosched2.util.SetupHelper;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 import android.content.Intent;
@@ -55,7 +56,9 @@ public class TagStreamFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        
+        SetupHelper.loadCurrentSetup(getActivity());
+        
         final Intent intent = BaseActivity.fragmentArgumentsToIntent(getArguments());
         mSearchString = intent.getStringExtra(EXTRA_QUERY);
         if (TextUtils.isEmpty(mSearchString)) {
@@ -66,9 +69,12 @@ public class TagStreamFragment extends Fragment {
             mSearchString = Setup.EVENT_ID_SELECTED;
             
         }
-        if (!mSearchString.startsWith("#")) {
+        
+        
+        if (mSearchString!= null && !mSearchString.startsWith("#")) {
             mSearchString = "#" + mSearchString;
         }
+        
     }
 
     @Override
@@ -111,6 +117,13 @@ public class TagStreamFragment extends Fragment {
         return root;
     }
 
+    @Override
+    public void onResume() {
+     	super.onResume();
+     	SetupHelper.loadCurrentSetup(getActivity());
+        
+    }
+    
     public void refresh() {
         mWebView.reload();
     }
