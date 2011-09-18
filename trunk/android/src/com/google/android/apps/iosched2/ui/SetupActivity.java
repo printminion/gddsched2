@@ -164,8 +164,10 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 			// Error happened down in SyncService, show as toast.
 			mSyncing = false;
 
-			mDialog.dismiss();
-			mDialog = null;
+			if (mDialog != null) {
+				mDialog.dismiss();
+				mDialog = null;
+			}
 
 			final String errorText = getString(R.string.toast_sync_error, resultData.getString(Intent.EXTRA_TEXT));
 			Toast.makeText(this, errorText, Toast.LENGTH_LONG).show();
