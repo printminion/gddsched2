@@ -41,6 +41,18 @@
     <room><id>yellow</id><name>Yellow</name><floor>2</floor></room>
     <room><id>blue</id><name>Blue</name><floor>2</floor></room>
     
+    
+    <room><id>Chrome</id><name>Chrome</name><floor>2</floor></room>
+    <room><id>Tech</id><name>Tech</name><floor>2</floor></room>
+    <room><id>Social</id><name>Social</name><floor>2</floor></room>
+    
+    <room><id>Chrome &amp; HTML5</id><name>Chrome &amp; HTML5</name><floor>2</floor></room>
+    <room><id>Android</id><name>Android</name><floor>2</floor></room>
+    <room><id>Cloud</id><name>Cloud</name><floor>2</floor></room>
+    <room><id>Tech Talks</id><name>Tech Talks</name><floor>2</floor></room>
+    <room><id>Social/General</id><name>Social/General</name><floor>2</floor></room>
+    
+    
     <room><id>Green</id><name>Green</name><floor>2</floor></room>
     <room><id>Red</id><name>Red</name><floor>2</floor></room>
     <room><id>Yellow</id><name>Yellow</name><floor>2</floor></room>

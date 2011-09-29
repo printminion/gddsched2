@@ -1,16 +1,168 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic</id>
-	<updated>2011-09-10T17:43:37.044Z</updated>
+	<updated>2011-09-29T18:26:52.479Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>speakers</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE'/>
-	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic'/>
-	<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic'/>
+	<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic'/>
 	<author>
 		<name>j.prufrock</name>
 		<email>j.prufrock@gmail.com</email>
 	</author>
-	<openSearch:totalResults>0</openSearch:totalResults>
+	<openSearch:totalResults>19</openSearch:totalResults>
 	<openSearch:startIndex>1</openSearch:startIndex>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/chk2m</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 2</title>
+		<content type='text'>speakertitle: Bruno Oliveira, speakercompany: Google, speakerabstract: Bruno is a Developer Programs Engineer at Google. Based in Sao Paulo, Brazil, he works closely with developers in order to grow and engage the online community around Google developer products, with special emphasis on fostering the involvement of Brazilian developers. His focus areas are Orkut/OpenSocial and Android., speakerimageurl: http://sites.google.com/site/developeradvocates/image/bruno_oliveira.png, speakerurl: https://plus.google.com/102451193315916178828</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/chk2m'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/ciyn3</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 3</title>
+		<content type='text'>speakertitle: Ade Oshineye, speakercompany: Google, speakerabstract: Ade is a Developer Advocate in Google's London office. He's interested in the protocols and technologies that power the social web. He'd love to show you how social features can make your software better. Over the last decade he's worked on trading systems for a variety of investment banks as well as on Google's Ads and mobile search systems. He's also the co-author of "Apprenticeship Patterns": a book that teaches you how to learn to be a great programmer., speakerimageurl: http://sites.google.com/site/developeradvocates/image/ade_oshineye.png, speakerurl: https://plus.google.com/105037104815911535953/</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/ciyn3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/bamu</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 4</title>
+		<content type='text'>speakertitle: Alexei Masterov, speakercompany: Google, speakerimageurl: http://www.google.com/events/developerday/2011/static/img/sessions-speaker-droid.png, speakerurl: https://plus.google.com/104633156862971268110</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/bamu'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/ckd7g</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 5</title>
+		<content type='text'>speakertitle: Artem Kazachkov, speakercompany: Google, speakerimageurl: http://www.google.com/events/developerday/2011/static/img/sessions-speaker-droid.png</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/ckd7g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/clrrx</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 6</title>
+		<content type='text'>speakertitle: Chris Chabot, speakercompany: Google, speakerabstract: Chris is a Developer Advocate at Google, who's interested in the social web, open source, OpenSocial, and trying to do the impossible. Most recently he's been working on the Google Buzz API's and driving the various open standards that make a distributed, open social web possible. Previous escapades include writing various server implementations for social platforms like OpenSocial., speakerimageurl: http://sites.google.com/site/developeradvocates/image/chris_chabot.png, speakerurl: http://www.google.com/profiles/chabotc</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/clrrx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/cyevm</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 7</title>
+		<content type='text'>speakertitle: Christian Kurzke, speakercompany: Google, speakerabstract: Christian is Developer Advocate for the Google Android Platform, and has recently been focusing on Android for Google TV. He is an Open Source enthusiast, committer in the Eclipse Foundation and has been working at the intersection of Linux and Java since the early 90's. Prior to Google, Christian worked in Motorola's Mobile Phone and Set-top Box divisions. Before that, Christian was at SUN working on Java for Embedded Systems. He holds a Dipl. Inf. degree from Univ. Erlangen, Germany, and an MBA from Santa Clara University., speakerimageurl: http://sites.google.com/site/developeradvocates/image/christian_kurzke.png, speakerurl: https://plus.google.com/116626367309939192323</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/cyevm'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/wd55</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 8</title>
+		<content type='text'>speakertitle: Don Dodge, speakercompany: Google, speakerabstract: Don is a Developer Advocate at Google helping developers build new applications on Google platforms and technologies. Prior to joining Google Don was a startup evangelist at Microsoft. He is also a veteran of five start-ups including Forte Software, AltaVista, Napster, Bowstreet, and Groove Networks., speakerimageurl: http://sites.google.com/site/developeradvocates/image/don_dodge.png, speakerurl: http://www.google.com/profiles/donalddodge</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/wd55'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/cp7b</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 9</title>
+		<content type='text'>speakertitle: Fred Sauer, speakercompany: Google, speakerabstract: Fred Sauer is a Developer Advocate at Google where most of his time is devoted to Google App Engine and GWT. He is the author of various GWT related open source projects including gwt-dnd (providing in browser Drag and Drop capabilities), gwt-log (an advanced logging framework) and gwt-voices (for cross browser sound support). Fred has dedicated much of his career to Java related development, with an increasing focus on Web 2.0 technologies. As a consultant he has worked on a wide variety of projects in North America, Asia and Europe, primarily in the financial and billing industry., speakerimageurl: http://sites.google.com/site/developeradvocates/image/fred_sauer.png, speakerurl: http://www.google.com/profiles/fredsa</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/cp7b'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/cztg3</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 10</title>
+		<content type='text'>speakertitle: Iein Valdez, speakercompany: Google, speakerabstract: Iein is a Developer Advocate who spends most of his time focused on Google App Engine. He is passionate about accelerating Google cloud adoption within startup communities, enterprise ecosystems and strategic partners. Previously he spent his career working for several startups in the cloud computing, healthcare, financial services, and hr space., speakerimageurl: http://sites.google.com/site/developeradvocates/image/iein_valdez.png, speakerurl: https://plus.google.com/103073491679741548297</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/cztg3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/d180g</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 11</title>
+		<content type='text'>speakertitle: Ilmari Heikkinen, speakercompany: Google, speakerabstract: Ilmari is a Developer Programs Engineer for the Google Chrome web browser. He's focusing on the graphics side of the HTML5 stack and helps developers deal with canvas and WebGL., speakerimageurl: http://sites.google.com/site/developeradvocates/image/ilmari_heikkinen.png, speakerurl: https://plus.google.com/115293744081058969329</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/d180g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/d2mkx</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 12</title>
+		<content type='text'>speakertitle: Jonathan Beri, speakercompany: Google, speakerabstract: Jonathan is a Developer Advocate working on Google+. In a former life, Jonathan was a Product Manager for eCommerce and Social Game platforms. He holds a Bachelors degree in Computer Science &amp; Business Administration. Jonathan loves building apps that push the limits of his Lingua Franca, JavaScript., speakerimageurl: http://sites.google.com/site/developeradvocates/image/jonathan_beri.png, speakerurl: https://plus.google.com/108249232416813189685</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/d2mkx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/cssly</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 13</title>
+		<content type='text'>speakertitle: Mano Marks, speakercompany: Google, speakerabstract: In 2006, Mano became the founding member of Google's Geo Developer Relations team. Now he is the lead Developer Advocate for Google’s Geo APIs. He has travelled the world helping individuals, corporations, governments and aid organizations use Google’s mapping technologies to communicate their message to the world. Before Google, Mano had an eclectic career that involved getting a Masters in History, a Masters in Information Management and Systems, and working as a data manager in NGOs for over a decade., speakerimageurl: http://sites.google.com/site/developeradvocates/image/mano_marks.png, speakerurl: https://plus.google.com/107054744026933176373/</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/cssly'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/cx0b9</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 14</title>
+		<content type='text'>speakertitle: Nick Butcher, speakercompany: Google, speakerabstract: Nick is an Android Developer Advocate in Google's London office. He has a passion for mobile technologies and learnt his trade in the gnarly world of Windows Mobile development. He is particularly interested in producing sublime mobile user interfaces &amp; works with developers to make high quality Android apps. In his spare time he is an aspiring runner &amp; triathlete., speakerimageurl: http://sites.google.com/site/developeradvocates/image/nick_butcher.png, speakerurl: https://plus.google.com/118292708268361843293/</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/cx0b9'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/d9ney</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 15</title>
+		<content type='text'>speakertitle: Nicolas Garnier, speakercompany: Google, speakerabstract: Nicolas joined Google’s Developer Relations in 2008. Since then he's worked on commerce oriented products such as Google Checkout and Google Base, and also used a variety of developer products to build Chrome Extensions, Gadgets, Android, App Engine and GWT apps. Currently, he is working on Google Apps with a focus on Google Calendar and Google Contacts APIs. Before joining Google, Nicolas worked at Airbus and at the French Space Agency where he built web applications for scientific researchers., speakerimageurl: http://sites.google.com/site/developeradvocates/image/nicolas_garnier.png, speakerurl: http://www.google.com/profiles/Nivco.las</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/d9ney'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/dcgjs</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 16</title>
+		<content type='text'>speakertitle: Richard Hyndman, speakercompany: Google, speakerabstract: Richard is a Developer Advocate for Android at Google in the UK. He has enjoyed over 10 years in the mobile industry, including experience running a VC funded mobile start up, working for a large mobile operator and a few years consulting. With his J2ME and XHTML years behind him, Richard now supports Android developers bringing excellent apps to the Android Market., speakerimageurl: https://sites.google.com/site/developeradvocates/image/richard_hyndman.png, speakerurl: http://profiles.google.com/richard.hyndman/</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/dcgjs'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/ddv49</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 17</title>
+		<content type='text'>speakertitle: Ryan Boyd, speakercompany: Google, speakerabstract: Ryan is a Developer Advocate on the Developer Relations team, helping businesses build applications integrated into Google Apps. Wearing both engineering and business development hats, you'll find Ryan writing code and helping businesses get to market with integrated features., speakerimageurl: http://sites.google.com/site/developeradvocates/image/ryan_boyd.png, speakerurl: http://www.google.com/profiles/ryan.boyd</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/ddv49'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/d5fpr</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 18</title>
+		<content type='text'>speakertitle: Sam Dutton, speakercompany: Google, speakerabstract: Sam Dutton is a Developer Advocate for Chrome at Google in London. Sam has designed and coded numerous websites, but has also built applications with C++/Qt and has some experience of Symbian and Android. He is excited by the increasingly high base level of capability in browsers and (mobile) hardware. He previously worked for the BBC and ITN, is a governor at Ravenstone School in London, and cares passionately about the ICT school curriculum., speakerimageurl: http://sites.google.com/site/developeradvocates/image/sam_dutton.png, speakerurl: https://profiles.google.com/sam.dutton</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/d5fpr'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/dkvya</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 19</title>
+		<content type='text'>speakertitle: Shannon -jj Behrens, speakercompany: Google, speakerabstract: JJ is a developer advocate for YouTube APIs. His goal is to foster a rich set of third-party applications built on YouTube APIs. He's a well-known member of the Python community. He blogs at jjinux.blogspot.com on topics such as Python, Ruby, Linux, open source software, the Web, and lesser-known programming languages., speakerimageurl: http://sites.google.com/site/developeradvocates/image/shannon_behrens.png, speakerurl: https://plus.google.com/115478738847874567952/</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/dkvya'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/dnp34</id>
+		<updated>2011-09-29T18:26:52.479Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 20</title>
+		<content type='text'>speakertitle: Sparky Rhode, speakercompany: Google, speakerabstract: Sparky is a Developer Programs Engineer for Android at Google's office in Munich, Germany. He helps developers throughout Europe build the compelling apps that have propelled Android to the #1 position in smartphone sales., speakerimageurl: http://sites.google.com/site/developeradvocates/image/sparky.png, speakerurl: https://plus.google.com/111930343403502205052/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudEpKQl9sNXZVRTVCQUl6NnVaOUpjTVE/od7/public/basic/dnp34'/>
+	</entry>
 </feed>
