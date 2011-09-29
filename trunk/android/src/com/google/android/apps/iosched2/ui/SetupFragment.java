@@ -66,7 +66,7 @@ public class SetupFragment extends Fragment {
 
 		root.findViewById(R.id.home_btn_moscow).setOnClickListener(new View.OnClickListener() {
 			public void onClick(View view) {
-				validateSetting("Setup/RU", Setup.EventId.RU, R.string.btn_moscow);
+				validateSetting("Setup/RU", Setup.EventId.RU2, R.string.btn_moscow);
 			}
 
 		});

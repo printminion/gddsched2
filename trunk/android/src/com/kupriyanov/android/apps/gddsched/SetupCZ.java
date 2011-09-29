@@ -19,6 +19,8 @@ public class SetupCZ implements ISetup {
 
 	/*
 	 * http://snipplr.com/view/23131/timezone-enum/
+	 * Current time zone offset:	UTC/GMT +2 hours
+	 * http://www.timeanddate.com/worldclock/city.html?n=204
 	 */
 	public static final String TIME_ZONE = "+0200"; // RFC 822 - time zone
 	public static final String TIME_ZONE_SPLITTED = "+02:00"; // RFC 822 - time
@@ -34,7 +36,9 @@ public class SetupCZ implements ISetup {
 	public static final String CONFERNCE_URL = "http://www.google.com/events/developerday/2011/prague/";
 
 	public static final String CONFERENCE_HASHTAG = "#gdd11 #gddcz";
-
+	public static final String EVENT_ID_SELECTED_NAME = "CZ";
+	
+	
 	public static final boolean FEATURE_VENDORS_ON = false;
 	public static final boolean FEATURE_OFFICEHOURS_ON = false;
 	public static final boolean FEATURE_MAP_ON = false;

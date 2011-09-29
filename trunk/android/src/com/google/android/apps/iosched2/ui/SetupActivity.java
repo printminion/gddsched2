@@ -150,8 +150,14 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 			Log.v(TAG, "onReceiveResult:STATUS_FINISHED");
 
 			if (mDialog != null) {
-				mDialog.dismiss();
-				mDialog = null;
+
+				try {
+					mDialog.dismiss();
+					mDialog = null;
+				} catch (Exception e) {
+					// TODO: handle exception
+				}
+
 			}
 			
 			startActivity(new Intent(this, Setup.HomeActivityClass));
@@ -165,8 +171,12 @@ public class SetupActivity extends BaseActivity implements DetachableResultRecei
 			mSyncing = false;
 
 			if (mDialog != null) {
-				mDialog.dismiss();
-				mDialog = null;
+				try {
+					mDialog.dismiss();
+					mDialog = null;
+				} catch (Exception e) {
+					// TODO: handle exception
+				}
 			}
 
 			final String errorText = getString(R.string.toast_sync_error, resultData.getString(Intent.EXTRA_TEXT));

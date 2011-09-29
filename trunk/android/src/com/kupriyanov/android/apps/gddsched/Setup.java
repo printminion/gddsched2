@@ -11,7 +11,7 @@ public class Setup implements ISetup {
 	/*
 	 * update it on the blocks and Rooms update
 	 */
-	public static final int VERSION_CURRENT = 27;
+	public static final int VERSION_CURRENT = 31;
 
 	public static final String CONFERENCE_STREAM = "http://gddstream.appspot.com/?event=";
 
@@ -21,9 +21,12 @@ public class Setup implements ISetup {
 	public static int ROOMS_XML = xml.rooms;
 
 	public static String EVENT_ID_SELECTED = null;
+	public static String EVENT_ID_SELECTED_NAME = null;
+	
+	
 
 	public enum EventId {
-		BR, AR, RU, CZ, JP, AU, IL, DE
+		BR, AR, RU2, CZ, JP, AU, IL, DE
 	}
 
 	public static String WORKSHEETS_URL = "";// "http://spreadsheets.google.com/feeds/worksheets/0Akgh73WhU1qHdHJmSUlSb0JIckowX1ZiQkhsYmdkdkE/public/basic";

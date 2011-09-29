@@ -165,7 +165,7 @@ public class WhatsOnFragment extends Fragment {
             final int days = remainingSec / 86400;
             final String str = getResources().getQuantityString(
                     R.plurals.whats_on_countdown_title, days, days,
-                    DateUtils.formatElapsedTime(secs), Setup.EVENT_ID_SELECTED);
+                    DateUtils.formatElapsedTime(secs), Setup.EVENT_ID_SELECTED_NAME);
             mCountdownTextView.setText(str);
 
             // Repost ourselves to keep updating countdown

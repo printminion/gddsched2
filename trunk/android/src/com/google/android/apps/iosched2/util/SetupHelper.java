@@ -43,7 +43,10 @@ public class SetupHelper {
 
 		final String event = sp.getString("setup_event_prefix", "");
 
-		if (event.equals("")) {
+		/*
+		 * use RU2 event id instead of RU 
+		 */
+		if (event.equals("") || event.equals("RU")) {
 			return false;
 		}
 

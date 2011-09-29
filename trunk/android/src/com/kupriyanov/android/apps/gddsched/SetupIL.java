@@ -32,7 +32,8 @@ public class SetupIL implements ISetup {
 	public static final String CONFERNCE_URL = "http://www.google.com/events/developerday/2011/sydney/";
 
 	public static final String CONFERENCE_HASHTAG = "#gdd11 #gddil";
-
+	public static final String EVENT_ID_SELECTED_NAME = "IL";
+	
 	public static final boolean FEATURE_VENDORS_ON = false;
 	public static final boolean FEATURE_OFFICEHOURS_ON = false;
 	public static final boolean FEATURE_MAP_ON = false;
