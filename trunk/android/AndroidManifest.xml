@@ -11,8 +11,8 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-	package="gdd11.app" android:versionCode="31"
-	android:versionName="1.9" android:installLocation="auto">
+	package="gdd11.app" android:versionCode="32"
+	android:versionName="1.10" android:installLocation="auto">
 	
 	<uses-sdk android:minSdkVersion="7" android:targetSdkVersion="11" />
 
