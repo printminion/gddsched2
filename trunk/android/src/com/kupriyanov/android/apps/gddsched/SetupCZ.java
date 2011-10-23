@@ -15,7 +15,7 @@ public class SetupCZ implements ISetup {
 	public static final String WORKSHEETS_URL = "http://spreadsheets.google.com/feeds/worksheets/0An8ZzsaUDpaudDRhQmRZdVRXemIwMzRPcGNlQV93a1E/public/basic";
 	public static TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("Europe/Prague");
 
-	public static String BLOCK_TITLE_BREAKOUT_SESSIONS = "Zobraz seznam přednášek";
+	//public static String BLOCK_TITLE_BREAKOUT_SESSIONS = "Zobraz seznam přednášek";
 
 	/*
 	 * http://snipplr.com/view/23131/timezone-enum/

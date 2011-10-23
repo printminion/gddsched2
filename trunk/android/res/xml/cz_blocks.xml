@@ -19,7 +19,7 @@
     <block>
         <start>2011-10-18T08:00:00.000+02:00</start>
           <end>2011-10-18T09:00:00.000+02:00</end>
-        <title>Registrace</title>
+        <title>Registration</title>
         <type>session</type>
     </block>
 
@@ -40,7 +40,7 @@
     <block>
         <start>2011-10-18T13:00:00.000+02:00</start>
           <end>2011-10-18T14:00:00.000+02:00</end>
-        <title>Oběd</title>
+        <title>Lunch</title>
         <type>food</type>
     </block>
 
@@ -48,7 +48,7 @@
     <block>
         <start>2011-10-18T16:00:00.000+02:00</start>
           <end>2011-10-18T16:30:00.000+02:00</end>
-        <title>Přestávka</title>
+        <title>Break</title>
         <type>food</type>
     </block>
     
@@ -56,14 +56,14 @@
     <block>
         <start>2011-10-18T18:30:00.000+02:00</start>
           <end>2011-10-18T19:00:00.000+02:00</end>
-        <title>Shrnutí</title>
+        <title>Wrap Up</title>
         <type>session</type>
     </block>
     
     <block>
         <start>2011-10-18T19:00:00.000+02:00</start>
           <end>2011-10-18T21:00:00.000+02:00</end>
-        <title>Párty</title>
+        <title>Informal party</title>
         <type>food</type>
     </block>    
             

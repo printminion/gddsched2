@@ -85,6 +85,13 @@
         <abstract></abstract>
     </track>
     
+    <!-- for GDD RU -->
+    <track>
+        <name>Social/General</name>
+        <color>#DD4B39</color>
+        <abstract></abstract>
+    </track>
+    
     <track>
         <name>Cloud</name>
         <color>#0054AB</color>
