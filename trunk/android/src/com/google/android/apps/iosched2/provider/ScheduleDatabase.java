@@ -31,6 +31,8 @@ import com.google.android.apps.iosched2.provider.ScheduleContract.Vendors;
 import com.google.android.apps.iosched2.provider.ScheduleContract.VendorsColumns;
 import com.kupriyanov.android.apps.gddsched.Setup;
 import com.kupriyanov.android.apps.gddsched.SetupCZ;
+import com.kupriyanov.android.apps.gddsched.SetupDE;
+
 import android.app.SearchManager;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
@@ -55,11 +57,11 @@ public class ScheduleDatabase extends SQLiteOpenHelper {
     private static final int VER_SESSION_NOTES_URL_SLUG = 23;
     private static final int VER_GDD_CZ_UPDATE = 34;
     private static final int VER_GDD_JP_UTF8_UPDATE = 35;
-    private static final int VER_GDD_AU_UPDATE = 40;
+    private static final int VER_GDD_DE_UPDATE = 42;
     
     
     
-    private static final int DATABASE_VERSION = VER_GDD_JP_UTF8_UPDATE;
+    private static final int DATABASE_VERSION = VER_GDD_DE_UPDATE;
 
     interface Tables {
         String BLOCKS = "blocks";
@@ -386,10 +388,17 @@ public class ScheduleDatabase extends SQLiteOpenHelper {
 
         if (version < VER_GDD_CZ_UPDATE && Setup.EVENT_ID_SELECTED == SetupCZ.EVENT_ID_SELECTED_NAME) {
         	Log.d(TAG, "upgrade VER_GDD_CZ_UPDATE logic, at version " + version);
-            
-        	resetDatabase(db);
+            resetDatabase(db);
         	return;
         }
+        
+        if (version < VER_GDD_DE_UPDATE && Setup.EVENT_ID_SELECTED == SetupDE.EVENT_ID_SELECTED_NAME) {
+        	Log.d(TAG, "upgrade VER_GDD_DE_UPDATE logic, at version " + version);
+            resetDatabase(db);
+        	return;
+        }
+        
+        
 
         Log.d(TAG, "after upgrade logic, at version " + version);
         if (version != DATABASE_VERSION) {
