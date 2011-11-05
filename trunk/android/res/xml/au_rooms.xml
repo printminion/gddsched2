@@ -16,12 +16,18 @@
   -->
 <rooms>
 
+    <room><id>Auditorium A</id><name>Auditorium A</name><floor>2</floor></room>
+    <room><id>Auditorium B</id><name>Auditorium B</name><floor>2</floor></room>
+
     <room><id>Bayside Auditorium A</id><name>Bayside Auditorium A</name><floor>2</floor></room>
     <room><id>Bayside Auditorium B</id><name>Bayside Auditorium B</name><floor>2</floor></room>
     <room><id>Bayside 103</id><name>Bayside 103</name><floor>2</floor></room>
     <room><id>Bayside 104</id><name>Bayside 104</name><floor>2</floor></room>
     <room><id>Bayside 105</id><name>Bayside 105</name><floor>2</floor></room>
     <room><id>Bayside Gallery is catering/lunch area</id><name>Bayside Gallery is catering/lunch area</name><floor>2</floor></room>
+  
+    <room><id>auditoriuma</id><name>Auditorium A</name><floor>2</floor></room>
+    <room><id>auditoriumb</id><name>Auditorium B</name><floor>2</floor></room>
     
     <room><id>baysideauditoriuma</id><name>Bayside Auditorium A</name><floor>2</floor></room>
     <room><id>baysideauditoriumb</id><name>Bayside Auditorium B</name><floor>2</floor></room>

@@ -43,7 +43,16 @@
         <title>Lunch and Office Hours</title>
         <type>food</type>
     </block>
-            
+
+    <block>
+        <start>2011-11-13T17:00:00.000+02:00</start>
+          <end>2011-11-13T18:30:00.000+02:00</end>
+        <title>Ignite and Party</title>
+        <type>session</type>
+    </block>
+
+
+
     <!-- <block>
         <start>2011-11-13T10:30:00.000-07:00</start>
           <end>2011-11-13T18:30:00.000-07:00</end>

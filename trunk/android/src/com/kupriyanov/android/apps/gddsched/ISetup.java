@@ -1,6 +1,5 @@
 package com.kupriyanov.android.apps.gddsched;
 
-import gdd11.app.R.string;
 import gdd11.app.R.xml;
 
 import java.util.Locale;

@@ -1,312 +1,385 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic</id>
-	<updated>2011-09-07T13:41:59.212Z</updated>
+	<updated>2011-11-05T18:30:28.392Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>sessions</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E'/>
-	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic'/>
-	<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic'/>
+	<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic'/>
 	<author>
 		<name>j.prufrock</name>
 		<email>j.prufrock@gmail.com</email>
 	</author>
-	<openSearch:totalResults>37</openSearch:totalResults>
+	<openSearch:totalResults>45</openSearch:totalResults>
 	<openSearch:startIndex>1</openSearch:startIndex>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/i6mvg</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Saturday November 19, sessiontime: 07:00 - 09:00, sessionroom: Foyer, sessiontitle: Registration</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/i6mvg'/>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/i6mvg'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/cpzh4</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 09:00 - 10:30, sessionroom: Green, sessionlevel: 101, sessiontitle: Keynote, sessiontags: keynote, sessionspeakers: tbc, sessionabstract: Lassen Sie sich überraschen!, sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/cpzh4'/>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 09:00 - 10:30, sessionroom: Green, sessionlevel: 101, sessiontitle: Keynote, sessiontags: keynote, sessionabstract: Lassen Sie sich überraschen!, sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/cpzh4'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fc3dj</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Saturday November 19, sessiontime: 10:30 - 10:45, sessionroom: Foyer, sessiontitle: Break / Pause</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fc3dj'/>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fc3dj'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/cre1l</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 5</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 10:45 - 11:30, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionlevel: 201, sessiontitle: Android Market für Entwickler, sessiontags: Android, sessionspeakers: tbc, sessionabstract: Der Android Market wird ständig ausgebaut und weiterentwickelt, um die Nutzererfahrung für Entwickler und Anwender zu verbessern. Diese Gesprächsrunde beschäftigt sich mit den neuesten Entwicklungen und Techniken zur Verwendung des Android Markets mit dem Ziel, neue Monetarisierungsmodelle wirksam einzusetzen, optimierte Inhalte bereitzustellen, Softwarepiraterie zu minimieren und die Sichtbarkeit von Anwendungen zu maximieren., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/cre1l'/>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 10:45 - 11:30, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionhashtag: #an1 #gddde, sessionlevel: 201, sessiontitle: Android Market for Developers, sessiontags: Android, sessionspeakers: Rich Hyndman , sessionabstract: Android Market is undergoing continuous revisions to improve the experience for developers and end-users.  This talk covers recent developments, and goes into depth on techniques for using Android Market to leverage new monetization models, deliver optimized content, minimize piracy, and maximize application visibility., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_2000.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/cre1l'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fgb2q</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 6</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 10:45 - 11:30, sessionroom: Blue, sessionproduct: HTML5, ChromeVox, sessiontrack: Chrome &amp; HTML5, sessionlevel: 101, sessiontitle: Ihre Web-Apps mit HTML5 und ChromeVox barrierefrei machen, sessiontags: Chrome, sessionspeakers: tbc, sessionabstract: Wie können Sie Web-Apps bauen, die interaktiv und dynamisch sind und zugleich für Nutzer mit Behinderungen zugänglich? Wie kann Ihnen ChromeVox, ein Screenreader für Chrome, beim Testen von Apps auf Barriererfreiheit helfen? Mit erprobten HTML5-Technologien können Webentwickler Nutzern eine Erfahrung bieten, die für Menschen, die Eingabehilfen verwenden, genauso interaktiv und spannend ist wie für Menschen, die dies nicht tun. In dieser Gesprächsrunde wird es hauptsächlich um Methoden gehen, die mit den aktuellsten Browserversionen funktionieren. Wir befassen uns mit dem richtigen Einsatz von ARIA ebenso wie mit Focus Management, Tastaturnavigation und einfachen Accessibility-Tests der Benutzeroberfläche mit ChromeVox., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fgb2q'/>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 10:45 - 11:30, sessionroom: Blue, sessionproduct: HTML5, ChromeVox, sessiontrack: Chrome &amp; HTML5, sessionhashtag: #chr1 #gddde, sessionlevel: 101, sessiontitle: Making Your Web Apps Accessible Using HTML5 and ChromeVox, sessiontags: Chrome, sessionspeakers: Mike West, sessionabstract: When you build web apps that are interactive and dynamic, how do you make them accessible to users with disabilities? How can ChromeVox, a screen reader for Chrome, help you to test apps for accessibility? With proven HTML5 techniques, web developers can provide an experience that's just as rich and interactive for people who use assistive technology. The emphasis of this talk will be on methods that work today, with the latest browser versions. We'll cover proper use of ARIA along with focus management, keyboard navigation, and simple UI testing for accessibility with ChromeVox., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_1000.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fgb2q'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fhpn7</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>Row: 7</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 10:45 - 11:30, sessionroom: Yellow, sessionproduct: Cloud, sessiontrack: Cloud, sessionlevel: 201, sessiontitle: App Engine Workshop für fortgeschrittene Anfänger, sessiontags: Cloud, sessionspeakers: tbc, sessionabstract: In diesem Workshop können Nutzer, die mit anderen Google APIs vertraut sind, aber nicht mit der App Engine, schnell lernen, wie man auf der Plattform Apps baut, indem sie eine einfache, aber reale Web-Anwendung von Grund auf erstellen. Auf Basis eines Online-Tutorials bekommen die Teilnehmer detaillierte Schritt-für-Schritt-Anleitungen. Außerdem haben sie die Gelegenheit, ihre Anwendung über das hinaus auszuweiten, was in der App Engine Dokumentation verfügbar ist. Ein weiterer Bestandteil des Workshops sind Codelabs für Java und Python., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fhpn7'/>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 10:45 - 11:30, sessionroom: Yellow, sessionproduct: Cloud, sessiontrack: Cloud, sessionhashtag: #clo1 #gddde, sessionlevel: 201, sessiontitle: Finding Your Place in the World: Google Places API, sessiontags: Cloud, sessionspeakers: Mano Marks, sessionabstract: At Google I/O, Google Launched the Places API, a new API that allows you to find restaurants, bars, hospitals, churches, government buildings, and any other kind of business, landmark, or place. With millions of entries, the Places API not only lets you use our data, but add your own and control how search works. Come hear how to build your own next generation map, including building a check-in and mobile experience., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_5000.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fhpn7'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gnuph</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 8</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 10:45 - 11:30, sessionroom: Red, sessionproduct: Social, sessiontrack: Google+, sessionhashtag: #soc1 #gddde, sessionlevel: 101, sessiontitle: Google+ and the +1 Button, sessiontags: Social, sessionspeakers: Ade Oshineye, sessionabstract: In this session, we’ll look at how the Google+ project is adding the richness of real-life sharing to software, combining casual meetups with live multi-person video, and much more.  We’ll then dive into what the +1 button is and how it can help your site stand out in search. We'll go into detail on how to make the most of the +1 button, best practices, analytics and reporting, structured markup, and some thoughts on businesses in Google+., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_4000.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gnuph'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h0ht6</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 9</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 10:45 - 11:30, sessionroom: Orange, sessionproduct: Universities, sessiontrack: Universities of Berlin, sessionhashtag: #uni1 #gddde, sessionlevel: 201, sessiontitle: Internet architecture trends, sessiontags: university, sessionspeakers: Anja  Feldmann, sessionabstract: In this presentation we point out some on the ongoing trends with regards to the evolution of Internet traffic, the use of the Internet, and the corresponding architectural possibilities for a future Internet architecture., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12000.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h0ht6'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gcm65</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Saturday November 19, sessiontime: 11:30 - 11:45, sessionroom: Foyer, sessiontitle: Break / Pause</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gcm65'/>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gcm65'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/chk2m</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 9</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 11:45 - 12:30, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionlevel: 201, sessiontitle: Exzellenz in der Android-Nutzererfahrung, sessiontags: Android, sessionspeakers: tbc, sessionabstract: In dieser Session geht es darum, wie man Android-Anwendungen herstellt, die Nutzer glücklich machen. Wir befassen uns mit Techniken zur Steigerung von Performanz, Nutzerfreundlichkeit und visueller Attraktivität. Insbesondere geht es um das Designen von Anwendungen, die Nutzer von Tablet-PCs begeistern., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/chk2m'/>
+		<title type='text'>Row: 11</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 11:45 - 12:30, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionhashtag: #an2 #gddde, sessionlevel: 201, sessiontitle: Excellence in the Android User Experience , sessiontags: Android, sessionspeakers: Nick Butcher, sessionabstract: This talk focuses on how to produce Android applications that make users happy. It surveys a range of techniques for increasing performance, usability, and visual appeal.  In particular, it covers designing applications to please users in the tablet environment., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_2001.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/chk2m'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fj47k</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 10</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 11:45 - 12:30, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionlevel: 201, sessiontitle: Unabhängig von Netz arbeiten: HTML5 offline, sessiontags: Chrome, sessionspeakers: tbc, sessionabstract: Es ist nicht leicht, Nutzern eine einwandfreie Offline-Erfahrung zu bieten. Diese Session befasst sich mit fortgeschrittenen Offline-Ressourcen wie IndexedDB, FileSystem, AppCache, WebSQL und Online-Ereignissen zum Erstellen großartiger Apps, die auch offline nahtlos funktionieren., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fj47k'/>
+		<title type='text'>Row: 12</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 11:45 - 12:30, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionhashtag: #chr2 #gddde, sessionlevel: 201, sessiontitle: Working Off the Grid: HTML5 Offline , sessiontags: Chrome, sessionspeakers: Ido Green, sessionabstract: Giving users a flawless offline experience is tough. This session will discuss advanced offline capabilities like IndexedDB, FileSystem, AppCache, WebSQL, and online events for building great apps that work seamlessly offline., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_1001.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fj47k'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/frjm2</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 11</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 11:45 - 12:30, sessionroom: Yellow, sessionproduct: Cloud, sessiontrack: Cloud, sessionlevel: 201, sessiontitle: Google App Engine Übersicht &amp; Update, sessiontags: Cloud, sessionspeakers: tbc, sessionabstract: Die Google App Engine ist eine Entwicklungs- und Cloud-Hosting-Plattform, die es ermglicht, in Googles skalierbarer hoch frequentierter Infrastruktur Web-basierte (&amp; nicht Web-basierte) Applikationen zu bauen und dort einzustellen. Für all jene, die sich erst seit kurzem mit der App Engine beschäftigen, bietet diese Präsentation eine umfassende Einführung in das Cloud Computing und es wird erläutert, welche Möglichkeiten die App Engine hierfür bietet. Dafür werden technische Eigenheiten und Features der App Engine erklärt und einige wichtige Erfolgsgeschichten von Nutzern vorgeführt. Für erfahrene App Engine-Nutzer werden außerdem einige der neuesten Features vorgeführt, und sie erhalten einen Einblick in neue Versionen, die demnächst veröffentlicht werden., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/frjm2'/>
+		<title type='text'>Row: 13</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 11:45 - 12:30, sessionroom: Yellow, sessionproduct: Cloud, sessiontrack: Cloud, sessionhashtag: #clo2 #gddde, sessionlevel: 201, sessiontitle: Google App Engine Overview &amp; Update, sessiontags: Cloud, sessionspeakers: Wesley Chun, sessionabstract: Google App Engine is a development and cloud-hosting platform that lets you build &amp; deploy web (&amp; non-web) applications on Google's scalable high-traffic infrastructure. For those new to App Engine, this presentation will serve as a comprehensive introduction to cloud computing and explain where App Engine fits in. It will then review the technical features and components of App Engine as well as highlight some key customer success stories. Finally, for existing App Engine users, we will also provide a technical review of some of the most recent features as well as what to look for in upcoming releases., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_3001.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/frjm2'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h1wdn</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 14</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 11:45 - 12:30, sessionroom: Red, sessionproduct: Social, sessiontrack: Google+, sessionhashtag: #soc2 #gddde, sessionlevel: 101, sessiontitle: Using the Google+ APIs, sessiontags: Social, sessionspeakers: Chris Chabot, sessionabstract: Learn how to build an app using the Google+ API. In this session we'll look at how you can retrieve information that people have shared publicly on Google+. We'll share with you the early thinking behind the Google+ platform and how you can get involved., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_4001.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h1wdn'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h3ay0</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 15</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 11:45 - 12:30, sessionroom: Orange, sessionproduct: Universities, sessiontrack: Universities of Berlin, sessionhashtag: #uni2 #gddde, sessionlevel: 201, sessiontitle: Information Management in the Cloud - Parallel Dataflow Programming Beyond Map/Reduce , sessiontags: university, sessionspeakers: Volker Markl, sessionabstract: The Stratosphere collaborative research unit is researching a programming model and execution platform based on second order functions for massively parallel data analytics. We will show how Stratosphere generalizes the map/reduce programming model. and will illustrate how query programs are specified and executed in the framework. We will touch upon use-cases (e.g., climate research, linked open data, text mining), and will highlight our execution engine, which executes sequential building blocks in parallel and provides communication, synchronization and fault tolerance, as well as our approach to query optimization., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12001.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h3ay0'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gi8ft</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Saturday November 19, sessiontime: 12:30 - 14:00, sessionroom: Foyer, sessiontitle: Lunch / Mittagessen</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gi8ft'/>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gi8ft'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gp99u</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 13</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 13:30 - 14:15, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionlevel: 201, sessiontitle: Google TV: Offen für Android-Entwickler, sessiontags: Android, sessionspeakers: tbc, sessionabstract: Mit der Honeycomb-Version von Google TV können Android-Entwickler Anwendungen für beliebig große Bildschirme erstellen! Der Unterschied zwischen einer guten und einer großartigen Google TV-Anwendung hängt oft vom Design der Benutzeroberfläche ab und vom richtigen Einsatz der Android-APIs. In dieser Session zeigen wir an Best-Practice-Beispielen, wie man die Nutzerfreundlichkeit und Performanz verbessern und so herausragenede Anwendungen für Google TV und andere Android-Plattformen erstellen kann., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gp99u'/>
+		<title type='text'>Row: 17</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 13:30 - 14:15, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionhashtag: #an3 #gddde, sessionlevel: 201, sessiontitle: Google TV: Open for Android Developers, sessiontags: Android, sessionspeakers: Christian  Kurzke , sessionabstract: With the Honeycomb version of Google TV, Android developers can now create applications for the largest screen in the house! Often, the difference between a good and a great Google TV application relies as much on UI design as it does on the proper use of Android APIs. In this session we will show examples and best practices how to improve application usability and performance resulting in
+outstanding applications for Google TV and other Android platforms., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_2002.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gp99u'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fnbwv</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 14</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 13:30 - 14:15, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionlevel: 201, sessiontitle: Das Allerneueste über HTML5, sessiontags: Chrome, sessionspeakers: tbc, sessionabstract: Sie haben bestimmt schon von HTML5 gehört – aber was ist wirklich neu daran? Diese Session beschäftigt sich mit einigen der allerneuesten Features in Chrome und der Open-Web-Plattform. Wir besprechen Themen wie Performanz, Echtzeitkommunikation und Systemintegration sowie WebSockets, Messaging und Rich Media-APIs wie das Web-Audio-API., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fnbwv'/>
+		<title type='text'>Row: 18</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 13:30 - 14:15, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionhashtag: #chr3 #gddde, sessionlevel: 201, sessiontitle: Bleeding Edge HTML5 , sessiontags: Chrome, sessionspeakers: Ido Green, sessionabstract: You may have heard of HTML5, but what's new? This session will cover some of the bleeding edge features in Chrome and the open web platform. Digging into performance, real-time communication, and system integration, we'll cover WebSockets, messaging, and rich media APIs like the Web Audio API., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_1002.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fnbwv'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fucqw</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 15</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 13:30 - 14:15, sessionroom: Yellow, sessionproduct: Cloud, sessiontrack: Cloud, sessionlevel: 201, sessiontitle: Das Erstellen integrierter Anwendungen mithilfe von Google-Cloud-Technologien, sessiontags: Cloud, sessionspeakers: tbc, sessionabstract: Diese Session gibt einen Überblick über eine Reihe verschiedener Anwendungen, die mithilfe einer Kombination von Google-Cloud-Technologien erstellt wurden. Die Anwendungen zeigen, wie man verschiedene Technologien integriert, darunter Google Storage,  Prediction API, BigQuery und App Engine, und wie alle zusammen leistungsstarke Cloud-Anwendungen ergeben., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fucqw'/>
+		<title type='text'>Row: 19</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 13:30 - 14:15, sessionroom: Yellow, sessionproduct: Cloud, sessiontrack: Cloud, sessionhashtag: #clo3 #gddde, sessionlevel: 201, sessiontitle: Building Integrated Applications on Google's Cloud Technologies, sessiontags: Cloud, sessionspeakers: Michael  Manoochehri , sessionabstract: This session will review a series of different applications that were built using a combination of Google cloud technologies. The applications shown will show how to integrate technologies including Google Storage, Prediction API, BigQuery and App Engine all together to make powerful Cloud applications., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_3002.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fucqw'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h4pih</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 20</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 13:30 - 14:15, sessionroom: Red, sessionproduct: Social, sessiontrack: Google+, sessionhashtag: #soc3 #gddde, sessionlevel: 101, sessiontitle: Building Google+ Hangout Apps, sessiontags: Social, sessionspeakers: Jonathan Beri, sessionabstract: Real-time applications are more engaging, fun, and interactive, but are hard for developers to deliver.  Until now. In this session we'll teach you how to add your own experiences to Hangouts and instantly build real-time applications., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_4002.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h4pih'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/guvji</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 21</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 13:30 - 14:15, sessionroom: Orange, sessionproduct: Universities, sessiontrack: Universities of Berlin, sessionhashtag: #uni3 #gddde, sessionlevel: 201, sessiontitle: Machines that learn, sessiontags: university, sessionspeakers: Klaus-Robert Müller, sessionabstract: In recent years machine learning methods have begun to play a more and more enabling role in the sciences and in industry.  The talk will
+provide a brief introduction to kernel-based machine learning (e.g. Support Vector Machines) and touch selected key applications including intelligent social media search and Brain Computer Interfacing., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12002.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/guvji'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g9t1b</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Saturday November 19, sessiontime: 14:15 - 14:30, sessionroom: Foyer, sessiontitle: Break / Pause</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g9t1b'/>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g9t1b'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/ckd7g</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 17</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 14:30 - 15:15, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionlevel: 201, sessiontitle: Leistungsstarke Grafiken für Android, sessiontags: Android, sessionspeakers: tbc, sessionabstract: Das Android-Framework bietet Entwicklern eine breite Palette von Optionen, Nutzern außergewöhnliche, beeindruckende und interaktive Grafiken zu präsentieren. In dieser Gesprächsrunde werden diese Optionen vorgestellt, einschließlich der 2D- und 3D-Grafikfunktionen, die über Dalvik, Renderscript und den Einsatz von NDK verfügbar sind., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/ckd7g'/>
+		<title type='text'>Row: 23</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 14:30 - 15:15, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionhashtag: #an4 #gddde, sessionlevel: 201, sessiontitle: High-performance graphics for Android, sessiontags: Android, sessionspeakers: Sparky Rhode, sessionabstract: The Android framework offers developers a wide choice of options for delivering rich, immersive, interactive graphics to users.  This talk surveys the options, including the 2D and 3D graphics capabilities available through Dalvik, Renderscript, and the use of NDK., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_2003.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/ckd7g'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fdhxw</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 18</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 14:30 - 15:15, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionlevel: 201, sessiontitle: Dies sind nicht die Websites, nach denen Sie suchen: Moderne HTML5-Web-Apps, sessiontags: Chrome, sessionspeakers: tbc, sessionabstract: Dies ist nicht die Webseite Ihrer Mutter. Moderne Web-Apps sind clientseitige MVC JavaScript-Kraftpakete. Erfahren Sie, wie Sie moderne Web-Apps mit den neuesten Frameworks und Technologien erstellen, und verwenden Sie HTML5 für reaktionsschnelle Benutzeroberflächen, die Ihre Nutzer begeistern werden., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fdhxw'/>
+		<title type='text'>Row: 24</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 14:30 - 15:15, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionhashtag: #chr4 #gddde, sessionlevel: 201, sessiontitle: These Aren't the Sites You're Looking For: Modern HTML5 Web Apps, sessiontags: Chrome, sessionspeakers: Mike West, sessionabstract: Modern web apps are rich, interactive applications that look nothing like your mother's web page. You'll learn about the latest techniques, new frameworks and how to utilize HTML5 to create a new class of web apps that will delight and amaze your users., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_1003.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fdhxw'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/foqh8</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 19</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 14:30 - 15:15, sessionroom: Yellow, sessionproduct: Go, App Engine, sessiontrack: Cloud, sessionlevel: 201, sessiontitle: Go in der App Engine, sessiontags: Cloud, sessionspeakers: tbc, sessionabstract: Möchten Sie Anwendungen in der App Engine mit einer Sprache erstellen, die die besten Features von Java und Python kombiniert? Go sieht aus wie eine Skriptsprache mit der Zuverlässigkeit und den Effizienzvorteilen einer statisch typisierten Sprache. Sie können Go heute dazu verwenden, Apps mit der App Engine zu bauen. In dieser Session werden wir eine Go-Anwendung mit der App Engine erstellen, die die Stärken der Programmiersprache demonstriert., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/foqh8'/>
+		<title type='text'>Row: 25</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 14:30 - 15:15, sessionroom: Yellow, sessionproduct: Go, App Engine, sessiontrack: Cloud, sessionhashtag: #clo4 #gddde, sessionlevel: 201, sessiontitle: Go on App Engine , sessiontags: Cloud, sessionspeakers: Andrew Gerrand , sessionabstract: Are you looking to build applications on App Engine with a language that includes the best features of both Java and Python? Go has the feel of a scripting language with the reliability and efficiency benefits of a statically-typed language, and today you can use Go to build App Engine apps. In this session we'll build a Go App Engine app that showcases Go's strengths., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_3003.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/foqh8'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gwa3z</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 26</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 14:30 - 15:15, sessionroom: Red, sessionproduct: Social, sessiontrack: Google+, sessionhashtag: #soc4 #gddde, sessionlevel: 101, sessiontitle: OAuth and OpenID for Data Access and Identity in web apps, sessionspeakers: Ryan Boyd, sessionabstract: Learn how web applications can use OAuth 2.0 to access user data stored in Google's cloud for enhancing app functionality.  We'll also cover using OAuth 2.0 and OpenID Connect to enable seamless site authentication without the need for additional passwords.  Ease of implementation and UX are important topics and will be discussed in the context of the Google Identity Toolkit and Account Chooser. , sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_8000.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gwa3z'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gxooc</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 27</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 14:30 - 15:15, sessionroom: Orange, sessionproduct: Universities, sessiontrack: Universities of Berlin, sessionhashtag: #uni4 #gddde, sessionlevel: 201, sessiontitle: Service-oriented computing: automatically generated adapters for heterogeneous services, sessiontags: university, sessionspeakers: Wolfgang Reisig, sessionabstract: Service-oriented computing composes large software packages from asynchronously communicating components (the "Services"). Heterogeneous Services can often only communicate successfully with each other via an adapter. We show that automatically generated adapter can adjust not only data but also the behavior of the services., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12003.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gxooc'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gjn06</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Saturday November 19, sessiontime: 15:15 - 15:30, sessionroom: Foyer, sessiontitle: Break / Pause</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gjn06'/>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gjn06'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/clrrx</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 21</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 15:30 - 16:15, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionlevel: 201, sessiontitle: Android in Unternehmen, sessiontags: Android, sessionspeakers: tbc, sessionabstract: Was auch immer Ihr CIO denken mag – Android-Geräte werden auf allen Unternehmensebenen verwendet: vom Supportpersonal bis zum Management. In dieser Gesprächsrunde dreht sich alles um die neuesten Bemühungen, Android-Geräte zu einem effizienten und zuverlässigen Partner in Ihrem Unternehmen zu machen. Ein besonderes Augenmerk liegt auf Sicherheitsfragen., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/clrrx'/>
+		<title type='text'>Row: 29</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 15:30 - 16:15, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionhashtag: #an5 #gddde, sessionlevel: 201, sessiontitle: What's new and important in Android, sessiontags: Android, sessionspeakers: Sparky Rhode, sessionabstract: This talk covers the highlights, from a developer-centric viewpoint, of the most recent releases of the Android software., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_2004.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/clrrx'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g5la8</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 22</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 15:30 - 16:15, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionlevel: 201, sessiontitle: Datenschutz-bezogene APIs für Google Chrome Extensions, sessiontags: Chrome, sessionspeakers: tbc, sessionabstract: Diese Session führt in Datenschutz-bezogene Extension-APIs ein, die Entwicklern kürzlich zugänglich gemacht wurden. Diese APIs erlauben es Entwicklern, mächtige Datenschutz-Erweiterungen für Chrome zu bauen, von denen einige im Rahmen der Sitzung vorgestellt werden., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g5la8'/>
+		<title type='text'>Row: 30</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 15:30 - 16:15, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionhashtag: #chr5 #gddde, sessionlevel: 201, sessiontitle: Privacy-related APIs for Google Chrome Extensions, sessiontags: Chrome, sessionspeakers: Dominic  Battré, sessionabstract: Privacy-related APIs for Google Chrome Extensions, sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_9002.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g5la8'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/hd4wz</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 31</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 15:30 - 16:15, sessionroom: Yellow, sessionproduct: Go, App Engine, sessiontrack: Cloud, sessionhashtag: #clo5 #gddde, sessionlevel: 101, sessiontitle: Accelerated Beginner App Engine Workshop, sessiontags: Cloud, sessionspeakers: Wesley Chun, sessionabstract: "In this workshop, users familiar with other Google APIs but new to App
+Engine will quickly learn how to create applications on the platform
+by building a simple but real web application from the ground up.
+Based on the online tutorial, attendees will get more detailed
+step-by-step instructions as well as have the opportunity to extend
+their application beyond what is available in the App Engine
+documentation. This workshop will feature parallel codelabs for both
+Java and Python. Reference prerequisites at http://goo.gl/1wQxG.", sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_3004.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/hd4wz'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gz38t</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 32</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 15:30 - 16:15, sessionroom: Red, sessionproduct: TechTalks, sessiontrack: Other, sessionhashtag: #soc5 #gddde, sessionlevel: 201, sessiontitle: Dart: a new programming language for structured web programming, sessionspeakers: Anders Sandholm, sessionabstract: Dart is a new language for structured web programming, just introduced in October. This talk will focus on the language, its design characteristics, give an update on progress since the initial preview, and finally demonstrate two Dart applications. , sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12017.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gz38t'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/hbqci</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 33</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 15:30 - 16:15, sessionroom: Orange, sessionproduct: Universities, sessiontrack: Universities of Berlin, sessionhashtag: #uni5 #gddde, sessionlevel: 201, sessiontitle: Location Privacy – a blessing or a curse? , sessiontags: university, sessionspeakers: Johann‐Christoph  Freytag, sessionabstract: As our world becomes more and more proliferated by sensors and mobile devices ‐often connected by wireless networks ‐we see the need to give users some kind of control when and to which extend to allow applications to communicate with other (mobile) devices or applications. In particular, a user should be allowed to determine how much (s)he is willing to share personal (private)data with others. That is, the user should have control over how much his/her personal data is accessed by or communicated to other systems if privacy is a concern to him/her. This paper will elaborate on the concern for privacy in location‐aware systems by providing various examples that should highlight the complexity of such concerns. We show that privacy needs a well founded base for handling user requirements appropriately. Often, privacy is not a static property, but it is context sensitive thus increasing the overall complexity of managing privacy according to the user's expectations. Additionally, we argue that quality aspects should include and embed privacy protection and control mechanism as an integral part on all levels therefore increasing the usability of such systems from a user's point of view., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12004.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/hbqci'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gqnub</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Saturday November 19, sessiontime: 16:15 - 16:30, sessionroom: Foyer, sessiontitle: Break / Pause</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gqnub'/>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gqnub'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g46pv</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 24</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 16:30 - 17:15, sessionroom: Yellow, sessionproduct: Tech Talks, sessiontrack: Tech Talks, sessionlevel: 201, sessiontitle: Monetarisieren Sie  Ihre Web-Apps mit Google In-App-Zahlungen, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: Sie haben gerade eine großartige Web-App erstellt und wissen nicht, wie Sie Geld damit verdienen können? In dieser Session konzentrieren wir uns auf APIs für In-App-Zahlungen, mit denen Sie Webanwendungen und Spiele monetarisieren können. Wir zeigen Ihnen Demos und beispielhafte Integrationen von Inhalten und digitalen Waren, mit denen Geld verdient wird. Außerdem demonstrieren wir, wie das API funktioniert und wie Sie sie in HTML- und Flash-Anwendungen integrieren., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g46pv'/>
+		<title type='text'>Row: 35</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 16:30 - 17:15, sessionroom: Green, sessionproduct: Android, sessiontrack: Android, sessionhashtag: #an6 #gddde, sessionlevel: 201, sessiontitle: Android Office Hours, sessiontags: Android, sessionspeakers: Sparky Rhode, sessionabstract: Android speakers will be available to answer questions and discuss your ideas., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12013.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g46pv'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g6zup</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 25</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 16:30 - 17:15, sessionroom: Red, sessionproduct: Business, sessiontrack: Business, sessionlevel: 101, sessiontitle: VC Panel: Unternehmerschaft, Gründung und Venture Capital, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: Sie haben eine Idee und wollen ein Unternehmen gründen? Erfahren Sie, wie Sie Investoren gewinnen und was diese sehen wollen, bevor sie einen Scheck ausstellen. Hören Sie Berichte von Unternehmern, die Kapital bekommen haben, und von Venture-Capital-Gesellschaften, die sie finanziert haben., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g6zup'/>
+		<title type='text'>Row: 36</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 16:30 - 17:15, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionhashtag: #chr6 #gddde, sessionlevel: 101, sessiontitle: V8 Performance Tuning Tricks, sessiontags: Chrome, sessionspeakers: Daniel  Clifford, sessionabstract: Are you are interested in making JavaScript run blazingly fast in Chrome? This talk takes a look under the hood in V8 to highlight important factors to consider when optimizing your JavaScript code. The session will also cover how to gather performance data about your app beyond what's available from the standard profiler in Chrome's Developer Tools., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12012.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g6zup'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h642u</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 37</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 16:30 - 17:15, sessionroom: Yellow, sessionproduct: Go, App Engine, sessiontrack: Cloud, sessionhashtag: #clo6 #gddde, sessionlevel: 201, sessiontitle: Monetizing Web Apps, sessiontags: Cloud, sessionspeakers: Mihai Ionescu , sessionabstract: Making a successful web game or application is a combination of a captivating experience, distribution, and monetization.  Leveraging Google technologies can make life easier by allowing you to focus on developing your core user experience.  During this talk, we'll cover the steps to take after you've created your web app from distribution through the Chrome Webstore to monetization options with In-App Payments and Adsense., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12016.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h642u'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/hfy1t</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>-</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 16:30 - 17:15, sessionroom: Red, sessionproduct: TechTalks, sessiontrack: Other, sessionhashtag: #tec6 #gddde</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/hfy1t'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/hejhc</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 39</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 16:30 - 17:15, sessionroom: Orange, sessionproduct: Universities, sessiontrack: Universities of Berlin, sessionhashtag: #uni6 #gddde, sessionlevel: 201, sessiontitle: Android in disaster management, sessiontags: university, sessionspeakers: Igmar  Eveslage, sessionabstract: Initiated by the EU project SAFER and the BMBF-project EDIM, the Humboldt University of Berlin is developing a Self-Organizing Seismic Early Warning Information Network (SOSEWIN). For this purpose the teaching and research unit for system analysis currently evaluates among others the Android platform and developes an app, which makes it possible to retrieve information from the sensor network, to visualize the nodes in a map, and to send commands to the devices, sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12005.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/hejhc'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gmg50</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:15 - 17:30, sessionroom: Foyer, sessiontitle: Break / Pause</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gmg50'/>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gmg50'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/cztg3</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 27</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:30 - 18:15, sessionroom: Green, sessionproduct: Cloud, sessiontrack: Tech Talks, sessionlevel: 201, sessiontitle: Integration mit Google Apps: Neue APIs, neue Features und Best Practices, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: Wir arbeiten ständig daran, die Google Apps APIs der nächsten Generation zu bauen und zu bereits vorhandenen APIs häufig nachgefragte Features hinzuzufügen. In dieser Session stellen wir diese neuen APIs und Features vor, diskutieren ihre Einsatzmöglichkeiten und zeigen Best Practices für ihre Integration mit Google Apps., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/cztg3'/>
+		<title type='text'>Row: 41</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:30 - 18:15, sessionroom: Green, sessionproduct: Cloud, sessiontrack: Cloud, sessionhashtag: #clo7 #gddde, sessionlevel: 201, sessiontitle: Integrating with Google Apps: New APIs, New Features and Best Practises, sessiontags: Android, sessionspeakers: Ryan Boyd, sessionabstract: We're busy building the next generation Google Apps APIs and adding some often-requested features to existing APIs.  This session will introduce these new APIs and features, discuss the use cases they are designed to solve and provide best practices for integrating with Google Apps., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_7000.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/cztg3'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/d9ney</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 28</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:30 - 18:15, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionlevel: 201, sessiontitle: DevTools Tipps und Tricks, sessiontags: Chrome, sessionspeakers: tbc, sessionabstract: Egal ob Sie ein erfahrener Web-Entwickler oder ein kompletter "noob" sind – erhöhen Sie ihr Tempo mit den neuesten Features des besten Freundes des Web-App-Entwicklers, den Chrome DevTools: Aktualisierung von CSS-Styles on the fly, Diff der Änderungen, Remote Debugging. Setzen Sie Stopppunkte auf alles Erdenkliche und dringen Sie in den Netzwerk-Stack vor, um Performanz-Gewinne zu erreichen., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/d9ney'/>
+		<title type='text'>Row: 42</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:30 - 18:15, sessionroom: Blue, sessionproduct: Chrome, sessiontrack: Chrome &amp; HTML5, sessionhashtag: #chr7 #gddde, sessionlevel: 201, sessiontitle: DevTools Tips and Tricks, sessiontags: Chrome, sessionspeakers: Ido Green, sessionabstract: Whether you're an experienced web developer or a complete noob, get up to speed on all the latest features of a web app developer's best friend, the Chrome Dev Tools. Update CSS styles on the fly, get a diff of changes, remote debugging. Set breakpoints on everything imaginable and dig into the networking stack to uncover performance gains., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_1005.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/d9ney'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g2s5e</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 29</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:30 - 18:15, sessionroom: Yellow, sessionproduct: YouTube, sessiontrack: Tech Talks, sessionlevel: 201, sessiontitle: HTML5, Flash und der Kampf um schnellere YouTube Katzen-Videos, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: HTML5 ist neu, aufregend und leistungsstark, aber kann es das wichtigste Videoformat Flash ablösen? Welche Technologien haben die Fähigkeit, Katzen-Videos auf die nächste Ebene zu bringen? In dieser Gesprächsrunde geht es um die vielfältigen Herausforderungen für HTML5 und YouTube, sich an die Veränderungen der Videoverbreitung im Internet anzupassen., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g2s5e'/>
+		<title type='text'>Row: 43</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:30 - 18:15, sessionroom: Yellow, sessionproduct: YouTube, sessiontrack: Cloud, sessionhashtag: #yt7 #gddde, sessionlevel: 201, sessiontitle: HTML5, Flash and the Battle for Faster YouTube Cat Videos , sessiontags: Cloud, sessionspeakers: Greg Schechter, sessionabstract: HTML5:  it's new, it's awesome, and it's powerful, but can it take down the champ of video distribution, Flash? Which technology's got the ability to bring cat videos to the next level? This talk covers the many challenges of both HTML5 and YouTube adapting to change video distribution on the web., sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_6001.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/g2s5e'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fx5vq</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 30</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:30 - 18:15, sessionroom: Red, sessionproduct: OAuth, OpenID, sessiontrack: Tech Talks, sessionlevel: 201, sessiontitle: OAuth und OpenID für Datenzugriff und Identifizierung in Web-Apps, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: Erfahren Sie, wie Web-Apps OAuth 2.0 für den Zugriff auf in der Google-Cloud gespeicherte Nutzerdaten verwenden können und so die Funktionalität der Apps steigern. Wir besprechen außerdem die Verwendung von OAuth 2.0 und OpenID Connect zur nahtlosen Website-Authentifizierung ohne zusätzliche Passwörter. Eine einfache Implementierung und Nutzererfahrung sind weitere wichtige Themen und werden im Zusammenhang mit dem Google Identity Toolkit und Account Chooser diskutiert., sessionurl: http://www.google.com/events/developerday/2011/berlin/</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fx5vq'/>
+		<title type='text'>Row: 44</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:30 - 18:15, sessionroom: Red, sessionproduct: Other, sessiontrack: Other, sessionhashtag: #ignite #gddde, sessionlevel: 201, sessiontitle: Ignite, a Series of Lightning Talks from and for developer community , sessiontags: other, sessionspeakers: German GTUG Community, sessionabstract: Enlighten us, but make it quick. Ignite is a geek event where presenters share their personal and professional passions. This session is organized by German GTUGs. Sign up at http://goo.gl/z40pV, sessionurl: http://goo.gl/z40pV, sessionshorturl: http://goo.gl/z40pV</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/fx5vq'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h7inb</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 45</title>
+		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:30 - 18:15, sessionroom: Orange, sessionproduct: Universities, sessiontrack: Universities of Berlin, sessionhashtag: #uni7 #gddde, sessionlevel: 101, sessiontitle: EMEA Talent and Outreach Programs , sessiontags: university, sessionspeakers: Veronika Striessnig, sessionabstract: The EMEA Talent and Outreach Programs connect Google Engineering with students, academics, and industry professionals ensuring that new and existing opportunities for collaboration are recognized, supported and grown. We manage a wide portfolio of opportunities and programs including grants, sponsorships and internships.  Are you an academic, student or industry professional? If so, come and attend this talk, one of our initiatives might be for you!, sessionurl: http://www.google.com/events/developerday/2011/berlin/agenda/session_12008.html</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/h7inb'/>
 	</entry>
 	<entry>
 		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gl1kn</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
+		<updated>2011-11-05T18:30:28.392Z</updated>
 		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 		<title type='text'>-</title>
 		<content type='text'>sessiondate: Saturday November 19, sessiontime: 18:15 - 20:00, sessionroom: Foyer, sessiontitle: Meet &amp; Greet </content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gl1kn'/>
-	</entry>
-	<entry>
-		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/jpf1j</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
-		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 32</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 10:45 - 11:30, sessionroom: Orange, sessionproduct: tbc, sessiontrack: University, sessionlevel: tbc, sessiontitle: tbc1, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: tbc</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/jpf1j'/>
-	</entry>
-	<entry>
-		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/dmair</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
-		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 33</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 11:45 - 12:30, sessionroom: Orange, sessionproduct: tbc, sessiontrack: University, sessionlevel: tbc, sessiontitle: tbc2, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: tbc</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/dmair'/>
-	</entry>
-	<entry>
-		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/dnp34</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
-		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 34</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 13:30 - 14:15, sessionroom: Orange, sessionproduct: tbc, sessiontrack: University, sessionlevel: tbc, sessiontitle: tbc3, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: tbc</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/dnp34'/>
-	</entry>
-	<entry>
-		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/df9om</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
-		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 35</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 14:30 - 15:15, sessionroom: Orange, sessionproduct: tbc, sessiontrack: University, sessionlevel: tbc, sessiontitle: tbc3, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: tbc</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/df9om'/>
-	</entry>
-	<entry>
-		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/dgo93</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
-		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 36</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 15:30 - 16:15, sessionroom: Orange, sessionproduct: tbc, sessiontrack: University, sessionlevel: tbc, sessiontitle: tbc4, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: tbc</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/dgo93'/>
-	</entry>
-	<entry>
-		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/djhdx</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
-		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 37</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 16:30 - 17:15, sessionroom: Orange, sessionproduct: tbc, sessiontrack: University, sessionlevel: tbc, sessiontitle: tbc5, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: tbc</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/djhdx'/>
-	</entry>
-	<entry>
-		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/dw4je</id>
-		<updated>2011-09-07T13:41:59.212Z</updated>
-		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
-		<title type='text'>Row: 38</title>
-		<content type='text'>sessiondate: Saturday November 19, sessiontime: 17:30 - 18:15, sessionroom: Orange, sessionproduct: tbc, sessiontrack: University, sessionlevel: tbc, sessiontitle: tbc6, sessiontags: Tech Talks, sessionspeakers: tbc, sessionabstract: tbc</content>
-		<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/dw4je'/>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od6/public/basic/gl1kn'/>
 	</entry>
 </feed>

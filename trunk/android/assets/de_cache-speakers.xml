@@ -1,16 +1,232 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic</id>
-	<updated>2011-09-07T13:41:59.212Z</updated>
+	<updated>2011-11-05T18:30:28.392Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>speakers</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E'/>
-	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic'/>
-	<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic'/>
+	<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic'/>
 	<author>
 		<name>j.prufrock</name>
 		<email>j.prufrock@gmail.com</email>
 	</author>
-	<openSearch:totalResults>0</openSearch:totalResults>
+	<openSearch:totalResults>27</openSearch:totalResults>
 	<openSearch:startIndex>1</openSearch:startIndex>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/chk2m</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 2</title>
+		<content type='text'>speakertitle: Rich Hyndman , speakercompany: Google, speakerabstract: Richard is a Developer Advocate for Android at Google in the UK. He has enjoyed over 10 years in the mobile industry, including experience running a VC funded mobile start up, working for a large mobile operator and a few years consulting. With his J2ME and XHTML years behind him, Richard now supports Android developers bringing excellent apps to the Android Market., speakerimageurl: https://sites.google.com/site/developeradvocates/image/richard_hyndman.png, speakerurl: https://plus.google.com/115995639636688350464/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/chk2m'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/ciyn3</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 3</title>
+		<content type='text'>speakertitle: Mike West, speakercompany: Google, speakerabstract: Mike is a philosophy student cleverly disguised as a developer advocate on the Chrome team in Munich, Germany. Since it was relatively clear early on that it would be slightly more than difficult to make a living sitting under a tree while reading Kant, he's focused his energies on the web, which happily has proven itself to be a wonderful decision. He's worked as a web developer at companies like Yahoo! and the Süddeutsche Zeitung, and recently became a Chromium committer., speakerimageurl: http://sites.google.com/site/developeradvocates/image/mike_west.png, speakerurl: https://plus.google.com/104437754419996754779/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/ciyn3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/bamu</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 4</title>
+		<content type='text'>speakertitle: Mano Marks, speakercompany: Google, speakerabstract: In 2006, Mano became the founding member of Google's Geo Developer Relations team. Now he is the lead Developer Advocate for Google’s Geo APIs. He has travelled the world helping individuals, corporations, governments and aid organizations use Google’s mapping technologies to communicate their message to the world. Before Google, Mano had an eclectic career that involved getting a Masters in History, a Masters in Information Management and Systems, and working as a data manager in NGOs for over a decade., speakerimageurl: http://sites.google.com/site/developeradvocates/image/mano_marks.png, speakerurl: https://plus.google.com/107054744026933176373/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/bamu'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/ckd7g</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 5</title>
+		<content type='text'>speakertitle: Ade Oshineye, speakercompany: Google, speakerabstract: Ade is a Developer Advocate in Google's London office. He's interested in the protocols and technologies that power the social web. He'd love to show you how social features can make your software better. Over the last decade he's worked on trading systems for a variety of investment banks as well as on Google's Ads and mobile search systems. He's also the co-author of "Apprenticeship Patterns": a book that teaches you how to learn to be a great programmer., speakerimageurl: http://sites.google.com/site/developeradvocates/image/ade_oshineye.png, speakerurl: https://plus.google.com/105037104815911535953/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/ckd7g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/clrrx</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 6</title>
+		<content type='text'>speakertitle: Anja  Feldmann, speakercompany: TU Berlin, speakerabstract: Prof. Anja Feldmann, Ph.D., seit 2006 Leiterin des Fachgebiets Intelligent Networks and Management of Distributed Systems an der TU Berlin und einer Forschungsgruppe an den Deutsche Telekom Laboratories (T-Labs). Ihr Forschungsschwerpunkt liegt in der Schaffung einer neuen Internet-Architektur, die das Netz schneller, sicherer und zuverlässiger machen soll., speakerimageurl: http://www.google.com/events/developerday/2011/static/img/sessions-speaker-droid.png</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/clrrx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cyevm</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 7</title>
+		<content type='text'>speakertitle: Nick Butcher, speakercompany: Google, speakerabstract: Nick is an Android Developer Advocate in Google's London office. He has a passion for mobile technologies and learnt his trade in the gnarly world of Windows Mobile development. He is particularly interested in producing sublime mobile user interfaces &amp; works with developers to make high quality Android apps. In his spare time he is an aspiring runner &amp; triathlete., speakerimageurl: http://sites.google.com/site/developeradvocates/image/nick_butcher.png, speakerurl: https://plus.google.com/118292708268361843293/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cyevm'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/wd55</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 8</title>
+		<content type='text'>speakertitle: Ido Green, speakercompany: Google, speakerabstract: Ido is a Developer Advocate for Google Chrome OS. He has been a developer and building companies for more then 15 years. He still likes to develop web applications, but only ones with amazing UX. He has a wide array of skills and experience, including Java, php, perl, JavaScript--and all aspects of agile development and scaling systems., speakerimageurl: http://sites.google.com/site/developeradvocates/image/ido_green.png, speakerurl: https://plus.google.com/101709676645745930035/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/wd55'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cp7b</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 9</title>
+		<content type='text'>speakertitle: Wesley Chun, speakercompany: Google, speakerabstract: Wesley is the author of Prentice Hall's bestseller, "Core Python Programming" (corepython.com), its video training course, "Python Fundamentals" (LiveLessons DVD), co-author of "Python Web Development with Django" (withdjango.com), and has also written various technical articles for Linux Journal, CNET, and InformIT. In addition to being a software architect &amp; Developer Advocate at Google, he also runs CyberWeb (cyberwebconsulting.com), a consultancy specializing in Python training &amp; engineering. Wesley has over 25 years of programming, teaching, and writing experience, including more than a decade of Python. While at Yahoo!, he helped create Yahoo! Mail &amp; Yahoo! People Search using Python. Wesley has degrees in computer science, mathematics, and music from the University of California., speakerimageurl: http://sites.google.com/site/developeradvocates/image/wesley_chun.png, speakerurl: https://plus.google.com/102108625619739868700/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cp7b'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cztg3</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 10</title>
+		<content type='text'>speakertitle: Chris Chabot, speakercompany: Google, speakerabstract: Chris is a Developer Advocate at Google, who's interested in the social web, open source, OpenSocial, and trying to do the impossible. Most recently he's been working on the Google Buzz API's and driving the various open standards that make a distributed, open social web possible. Previous escapades include writing various server implementations for social platforms like OpenSocial., speakerimageurl: https://lh5.googleusercontent.com/-cQNLOQzkGpE/AAAAAAAAAAI/AAAAAAAAJYQ/uQztpB-bJwM/photo.jpg?sz=200, speakerurl: https://plus.google.com/108189587050871927619/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cztg3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d180g</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 11</title>
+		<content type='text'>speakertitle: Volker Markl, speakercompany: TU-Berlin, speakerabstract: Volker Markl is a Full Professor and Chair of the Database Systems and Information Management (DIMA) group at the Technische Universität Berlin (TU-Berlin)., speakerimageurl: http://www.google.com/events/developerday/2011/static/img/sessions-speaker-droid.png</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d180g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d2mkx</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 12</title>
+		<content type='text'>speakertitle: Christian  Kurzke , speakercompany: Google, speakerabstract: Christian is Developer Advocate for the Google Android Platform, and has recently been focusing on Android for Google TV. He is an Open Source enthusiast, committer in the Eclipse Foundation and has been working at the intersection of Linux and Java since the early 90's. Prior to Google, Christian worked in Motorola's Mobile Phone and Set-top Box divisions. Before that, Christian was at SUN working on Java for Embedded Systems. He holds a Dipl. Inf. degree from Univ. Erlangen, Germany, and an MBA from Santa Clara University., speakerimageurl: http://sites.google.com/site/developeradvocates/image/christian_kurzke.png, speakerurl: https://plus.google.com/116626367309939192323/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d2mkx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/e3ro</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 13</title>
+		<content type='text'>speakertitle: Michael  Manoochehri , speakercompany: Google, speakerabstract: Michael is a Developer Programs Engineer supporting developers who work with Google Apps and Authentication APIs. With many years of experience working on Internet media projects for non-profit organizations, he especially enjoys helping educational institutions "Go Google." Michael has written for tech blog ProgrammableWeb.com, has spent time in rural Uganda researching mobile phone use, and has a Masters degree in Information Management and Systems from UC Berkeley's School of Information., speakerimageurl: http://sites.google.com/site/developeradvocates/image/michael_manoochehri.png, speakerurl: https://plus.google.com/106641576811513429422/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/e3ro'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cssly</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 14</title>
+		<content type='text'>speakertitle: Jonathan Beri, speakercompany: Google, speakerabstract: Jonathan is a Developer Advocate working on Google+. In a former life, Jonathan was a Product Manager for eCommerce and Social Game platforms. He holds a Bachelors degree in Computer Science &amp; Business Administration. Jonathan loves building apps that push the limits of his Lingua Franca, JavaScript., speakerimageurl: http://sites.google.com/site/developeradvocates/image/jonathan_beri.png, speakerurl: https://plus.google.com/108249232416813189685/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cssly'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cu76f</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 15</title>
+		<content type='text'>speakertitle: Klaus-Robert Müller, speakercompany: TU-Berlin, speakerimageurl: http://www.ml.tu-berlin.de/typo3temp/pics/7/7c8c86793b.jpg, speakerurl: http://www.ml.tu-berlin.de/menue/mitglieder/klaus-robert_mueller/</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cu76f'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cvlqs</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 16</title>
+		<content type='text'>speakertitle: Sparky Rhode, speakercompany: Google, speakerabstract: Sparky is a Developer Programs Engineer for Android at Google's office in Munich, Germany. He helps developers throughout Europe build the compelling apps that have propelled Android to the #1 position in smartphone sales., speakerimageurl: http://sites.google.com/site/developeradvocates/image/sparky.png, speakerurl: https://plus.google.com/111930343403502205052/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cvlqs'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cx0b9</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 17</title>
+		<content type='text'>speakertitle: Andrew Gerrand , speakercompany: Google, speakerabstract: Andrew is Developer Advocate and member of the Go Programming Language team at Google. He writes Go articles and tutorials, gives Go talks and workshops, does Go code reviews, and writes Go code. He also manages the Go community, web site (golang.org), and continuous build infrastructure (for the Go project). (Can you see a pattern here?) Before joining Google, Andrew was a consultant programmer at companies ranging from web startups to Internet Providers. He has also worked as a composer, photographer, SCUBA diver, and concert tour manager (although not at the same time)., speakerimageurl: http://sites.google.com/site/developeradvocates/image/andrew_gerrand.png, speakerurl: https://plus.google.com/106356964679457436995/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/cx0b9'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d9ney</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 18</title>
+		<content type='text'>speakertitle: Ryan Boyd, speakercompany: Google, speakerabstract: Ryan is a Developer Advocate on the Developer Relations team, helping businesses build applications integrated into Google Apps. Wearing both engineering and business development hats, you'll find Ryan writing code and helping businesses get to market with integrated features., speakerimageurl: http://sites.google.com/site/developeradvocates/image/ryan_boyd.png, speakerurl: https://plus.google.com/110634877589748180443/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d9ney'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/db1zf</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 19</title>
+		<content type='text'>speakertitle: Wolfgang Reisig, speakerimageurl: http://www.google.com/events/developerday/2011/static/img/sessions-speaker-droid.png</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/db1zf'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/dcgjs</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 20</title>
+		<content type='text'>speakertitle: Dominic  Battré, speakercompany: Google, speakerabstract: Dominic joined Google in 2010 as a Software Engineer in the Chrome Privacy team and focussed recently on the proxy settings and webRequest extension APIs. He holds a PhD in CS from TU Berlin., speakerimageurl: https://lh5.googleusercontent.com/-BXP6HoFJNPU/AAAAAAAAAAI/AAAAAAAABCo/UbjvXqdseFY/photo.jpg?sz=200, speakerurl: https://plus.google.com/112873151164142266017</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/dcgjs'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/ddv49</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 21</title>
+		<content type='text'>speakertitle: Anders Sandholm, speakercompany: Google, speakerimageurl: https://lh3.googleusercontent.com/-i2YYoORCfEg/AAAAAAAAAAI/AAAAAAAAikw/Ojj5DWBVgvI/photo.jpg?sz=200, speakerurl: https://plus.google.com/117344886427356841678/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/ddv49'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d415a</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 22</title>
+		<content type='text'>speakertitle: Johann‐Christoph  Freytag, speakercompany: Humboldt-Universität zu Berlin, speakerimageurl: http://www.dbis.informatik.hu-berlin.de/typo3temp/pics/6ca5f74ade.jpg, speakerurl: http://www.dbis.informatik.hu-berlin.de/index.php?id=12</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d415a'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d5fpr</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 23</title>
+		<content type='text'>speakertitle: Daniel  Clifford, speakercompany: Google, speakerimageurl: https://lh4.googleusercontent.com/-42XRuYWzJ5Q/AAAAAAAAAAI/AAAAAAAAAE4/lk4swguB_4o/photo.jpg?sz=200, speakerurl: https://plus.google.com/111909581069462963574/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d5fpr'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d6ua4</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 24</title>
+		<content type='text'>speakertitle: Mihai Ionescu , speakercompany: Google, speakerabstract: Mihai is a Developer Advocate with the Google Developer Relations team. He is passionate about building API frameworks and teaching developers how to use them. Mihai joined Google in 2003 and worked on Google Commerce, Google Chrome, and Google Desktop. His focus is on open web technologies, HTML5, and modern browsers as developer platforms for rich web applications. Prior to Google, Mihai worked at Microsoft on Internet Explorer, Java VM, and .NET., speakerimageurl: http://sites.google.com/site/developeradvocates/image/mihai_ionescu.png, speakerurl: https://plus.google.com/113955469903735289920/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d6ua4'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d88ul</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 25</title>
+		<content type='text'>speakertitle: Igmar  Eveslage, speakercompany: Humboldt-Universität zu Berlin, speakerimageurl: http://www2.informatik.hu-berlin.de/~eveslage/eveslage.jpg, speakerurl: http://www2.informatik.hu-berlin.de/~eveslage/</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/d88ul'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/uyko</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 26</title>
+		<content type='text'>speakertitle: Greg Schechter, speakercompany: Google, speakerimageurl: https://lh3.googleusercontent.com/-8advrGkIHw8/AAAAAAAAAAI/AAAAAAAABjU/V_vQCXtNyvQ/photo.jpg?sz=200, speakerurl: https://plus.google.com/109404491328800973695/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/uyko'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/dkvya</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 27</title>
+		<content type='text'>speakertitle: German GTUG Community, speakercompany: GTUG, speakerimageurl: http://www.gtugs.org/static/gtug_logo.png, speakerurl: http://www.gtugs.org/</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/dkvya'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/dmair</id>
+		<updated>2011-11-05T18:30:28.392Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 28</title>
+		<content type='text'>speakertitle: Veronika Striessnig, speakercompany: Google, speakerabstract: Veronika is a University Programs Specialist working in the EMEA Talent and Outreach Team. Before Google, she worked in the field of higher education management., speakerimageurl: https://lh3.googleusercontent.com/-J17FIM3bUMk/AAAAAAAAAAI/AAAAAAAAACA/cRqg_BjsEz0/photo.jpg?sz=200, speakerurl: https://plus.google.com/104828657776888226499/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudE5DclRpTDJPLXVZS2VfT1NQZkVKU0E/od7/public/basic/dmair'/>
+	</entry>
 </feed>

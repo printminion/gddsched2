@@ -7,13 +7,14 @@
 	the specific language governing permissions and limitations under the License. -->
 
 <!-- 
-	Please change also Setup.VERSION_CURRENT to be sure database changes will also occur
+	Please change also Setup.VERSION_CURRENT = <current version> - local xmls will be loaded one more time
+	to be sure database changes will also occur
 	To reset DB set ScheduleDatabase.DATABASE_VERSION = <current version>
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-	package="gdd11.app" android:versionCode="35"
-	android:versionName="1.14" android:installLocation="auto">
+	package="gdd11.app" android:versionCode="41"
+	android:versionName="1.16" android:installLocation="auto">
 	
 	<uses-sdk android:minSdkVersion="7" android:targetSdkVersion="11" />
 

@@ -34,7 +34,7 @@ public class SetupHelper {
 
 	public static void loadCurrentSetup(final Context context) {
 		Log.d(TAG, "loadCurrentSetup...");
-		
+
 		hasChosenSetup(context);
 	}
 
@@ -44,14 +44,23 @@ public class SetupHelper {
 		final String event = sp.getString("setup_event_prefix", "");
 
 		/*
-		 * use RU2 event id instead of RU 
+		 * use RU2 event id instead of RU
 		 */
 		if (event.equals("") || event.equals("RU")) {
 			return false;
 		}
 
 		if (event.equals(Setup.EVENT_ID_SELECTED)) {
-			return true;
+
+			/*
+			 * try to 
+			 */
+			if (Setup.CONFERENCE_START_MILLIS_DAY1 != 0) {
+				return true;
+			}
+
+			Log.w(TAG, "missed start time for the chosen event:" + event);
+
 		}
 
 		setAcceptedEvent(context, Setup.EventId.valueOf(event));

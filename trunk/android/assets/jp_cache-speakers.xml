@@ -1,16 +1,252 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
 	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic</id>
-	<updated>2011-09-15T07:16:09.635Z</updated>
+	<updated>2011-11-01T15:20:28.304Z</updated>
 	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
 	<title type='text'>speakers</title>
 	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE'/>
-	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic'/>
-	<link rel='self' type='application/atom+xml' href='https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic'/>
+	<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic'/>
 	<author>
 		<name>j.prufrock</name>
 		<email>j.prufrock@gmail.com</email>
 	</author>
-	<openSearch:totalResults>0</openSearch:totalResults>
+	<openSearch:totalResults>29</openSearch:totalResults>
 	<openSearch:startIndex>1</openSearch:startIndex>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/chk2m</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 2</title>
+		<content type='text'>speakertitle: Tim Bray, speakercompany: Google, speakerabstract: Tim Bray は Google のデベロッパーアドボケイトとして、Android プラットフォームを担当しています。ソフトウェア開発者であり起業家でもある Tim Bray は Open Text Corporation （ナスダック:OTEX）の共同設立者です。世界初の Web サーチエンジンの開発者でもあり、XML の共同発明者でもあります。さらに彼は著名なブロガーの一人でもあります（http://www.tbray.org/ongoing/、@timbray）。, speakerimageurl: http://sites.google.com/site/developeradvocates/image/tim_bray.png, speakerurl: https://plus.google.com/107606703558161507946/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/chk2m'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/ciyn3</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 3</title>
+		<content type='text'>speakertitle: Eric Bidelman, speakercompany: Google, speakerabstract: Eric Bidelman は Chrome チームのシニアデベロッパー プログラムエンジニア であり、html5rocks.com の重要なコントリビューターです。彼のミッションは開発者と接し世界中にHTML5の素晴らしさを広めることです。, speakerimageurl: http://sites.google.com/site/developeradvocates/image/eric_bidelman.png, speakerurl: https://plus.google.com/118075919496626375791/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/ciyn3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/bamu</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 4</title>
+		<content type='text'>speakertitle: 松尾 貴史, speakercompany: Google, speakerabstract: 松尾 貴史は Google App Engine と iGoogle のデベロッパーアドボケイトです。2010 年に Google に入社し、それ以前は Google App Engine の API Expert として 3 年間ほど、また、Tokyo GTUG のマネージャとして 2 年間ほど活動していました。Google App Engine 用の Web Framework 「Kay」の開発者でもあります。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/tmatsuo.jpg, speakerurl: https://plus.google.com/110554344789668969711/posts</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/bamu'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/ckd7g</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 5</title>
+		<content type='text'>speakertitle: Timothy Jordan, speakercompany: Google, speakerabstract: Timothy Jordan は Google+ の デベロッパーアドボケイトです。さまざまな問題を解くことが好きで、科学と芸術によって生活を向上できると信じています。, speakerimageurl: http://sites.google.com/site/developeradvocates/image/timothy_jordan.jpg, speakerurl: https://plus.google.com/113751353481962008916/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/ckd7g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/clrrx</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 6</title>
+		<content type='text'>speakertitle: 前坂 徹, speakercompany: Google, speakerabstract: 前坂 徹は Google の広告技術とソーシャルプロダクトのデベロッパーアドボケイトです。オープンソース開発者として、有意義な技術の開発と啓蒙を楽しんでいます。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/tmaesaka.png, speakerurl: https://plus.google.com/117077138112562039463/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/clrrx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cyevm</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 7</title>
+		<content type='text'>speakertitle: 松内 良介, speakercompany: Google, speakerabstract: 松内 良介は Google のデベロッパーアドボケイトです。東京に勤務し、Android アプリ開発者の成功をサポートすることに情熱を持っています。2011 年に Google に入社する前は、Microsoft や DeNA で様々なソフトウェア製品の開発に携わっていました。日本の食べ物が大好きです。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/ryosukem.png, speakerurl: https://plus.google.com/105425518837935313061/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cyevm'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/wd55</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 8</title>
+		<content type='text'>speakertitle: 北村 英志, speakercompany: Google, speakerabstract: 北村 英志はGoogleのデベロッパーアドボケイトとして、Chrome Extension やChrome Web Store、HTML5 をはじめとしたフロントエンド技術を普及させる活動を行っています。Google 入社前はソーシャルウェブ技術のスペシャリストとして活動していました。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/agektmr.jpg, speakerurl: https://plus.google.com/107085977904914121234/posts</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/wd55'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cp7b</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 9</title>
+		<content type='text'>speakertitle: Johan Euphrosine, speakercompany: Google, speakerabstract: Johan Euphrosine は 2011 年に デベロッパープログラムズエンジニアとして Google に入社し、チューリッヒで働いています。現在は App Engine と開発者コミュニティの支援に注力しています。
+, speakerimageurl: https://sites.google.com/site/developeradvocates/image/johan_euphrosine.png, speakerurl: https://plus.google.com/111042085517496880918/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cp7b'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cztg3</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 10</title>
+		<content type='text'>speakertitle: Daniel 'Wolff' Dobson, speakercompany: Google, speakerabstract: Google のソーシャルチームにいる Wolff はデベロッパープログラムエンジニアです。Google 入社前の 12 年はゲーム業界にいました。彼は人工知能の分野において博士号を持っています。, speakerimageurl: http://sites.google.com/site/developeradvocates/image/wolff_dobson.png, speakerurl: https://plus.google.com/103772069584080057731/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cztg3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d180g</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 11</title>
+		<content type='text'>speakertitle: 後藤 正徳, speakercompany: Google, speakerabstract: 後藤正徳は、これまでソフトウェアエンジニアとして、グーグルマップやアースといった Geo
+製品の研究開発に携わってきました。東日本大震災においては、自動車通行実績情報マップや避難所情報をはじめとする、マップ及びAPIを使用した様々な取り組みを行いました。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/gotom.jpg</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d180g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d2mkx</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 12</title>
+		<content type='text'>speakertitle: 三浦 健, speakercompany: Google, speakerabstract: エイプリルフールの企画から、ユーザーインタフェイスの設計と実装、Google App Engine を利用したウェブアプリケーションの開発など、Google のウェブサイトの構築とディレクションを広く担当。東日本大震災では、Google Crisis Response やその後のGoogleの復興支援プロジェクトなどで、中心的役割を担う。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/miuraken.jpg</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d2mkx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/e3ro</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 13</title>
+		<content type='text'>speakertitle: Tony Chan, speakercompany: Google, speakerabstract: Tony Chan は Android の デベロッパーアドボケイトです。彼の目標は世界中の開発者と一緒にGoogle の様々な技術を利用して素晴らしい Android アプリケーションを開発し、Android マーケットに公開することです。, speakerimageurl: http://sites.google.com/site/developeradvocates/image/tony_chan.png, speakerurl: https://plus.google.com/100444819261782786795/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/e3ro'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cu76f</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 14</title>
+		<content type='text'>speakertitle: Julia Ferraioli, speakercompany: Google, speakerimageurl: https://lh5.googleusercontent.com/-R_VTGqL7BcY/AAAAAAAAAAI/AAAAAAAAGjs/UbACFWrCyh0/photo.jpg?sz=100, speakerurl: https://plus.google.com/112612962093061557999/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cu76f'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cvlqs</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 15</title>
+		<content type='text'>speakertitle: 賀沢 秀人, speakercompany: Google, speakerabstract: 賀沢 秀人は東京大学大学院卒業後、NTT コミュニケーション科学基礎研究所を経て、2006 年よりグーグル勤務。ウェブ検索・機械翻訳の研究開発を担当。3 月 11 日の震災直後に Crisis Response に参加。現在も 20% プロジェクトとして活動中。博士（工学）。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/kazawa.jpg, speakerurl: https://plus.google.com/113006771857439645985/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cvlqs'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cx0b9</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 16</title>
+		<content type='text'>speakertitle: 及川 卓也, speakercompany: Google, speakerabstract: 及川 卓也は Google のエンジニアリングマネージャーです。Google Chrome や Google 日本語入力などのクライアントの開発チームを率いています。以前は汎用オペレーティングシステムの開発に携わっていました。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/takuya.jpg, speakerurl: https://plus.google.com/u/0/106357774291225510689/</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/cx0b9'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d9ney</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 17</title>
+		<content type='text'>speakertitle: 安生 真, speakercompany: Tokyo GTUG, speakerabstract: 株式会社ケイブ 事業開発室/システムアーキテクトを務める傍ら、日本 Android の会や Gadget1 の運営や Tokyo GTUG のマネージャを行っています。Google API Expert （Android）。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/anjo.jpg</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d9ney'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/db1zf</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 18</title>
+		<content type='text'>speakertitle: 佐々木 陽, speakercompany: 株式会社GClue, speakerabstract: 1999年よりモバイル向けJavaアプリの研究を開始。2001年に携帯電話向けJava
+アプリ開発に特化したGClueを設立。2007年よりAndroid向けのアプリに特化し
+現在に至る。1975年仙台市生まれ。現在は会津若松ベース。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/akira.jpg</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/db1zf'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dcgjs</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 19</title>
+		<content type='text'>speakertitle: 市橋 一弘, speakercompany: 有限会社ストリッジプロジェクト</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dcgjs'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d415a</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 20</title>
+		<content type='text'>speakertitle: Steve Bazyl, speakercompany: Google, speakerabstract: Steve Bazyl は Google Apps と Google Apps Marketplace のデベロッパーアドボケイトです。彼は、さまざまなアプリケーションを統合し、ユーザーに価値を提供する方法を探している開発者をサポートしたいと考えています。, speakerimageurl: http://sites.google.com/site/developeradvocates/image/steve_bazyl.png, speakerurl: https://plus.google.com/103354693083460731603/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d415a'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d5fpr</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 21</title>
+		<content type='text'>speakertitle: 鵜飼 文敏, speakercompany: Google, speakerabstract: 鵜飼 文敏は Google のソフトウェア エンジニアとして 2006 年から働いています。現在は Google Chrome および WebKit の開発をしています。Go 言語のコントリビュータでもあります。著書に「Binary Hacks」があり、「Code Reading」「Code Quality」「Write Great Code」などの監訳もしています。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/ukai.png, speakerurl: https://plus.google.com/115535723976198353696/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d5fpr'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d6ua4</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 22</title>
+		<content type='text'>speakertitle: Peng Ying, speakercompany: Google, speakerabstract: Peng Ying は Google Commerce のデベロッパープログラムエンジニアです。たくさんの開発者が Commerce API を使うのを 2007 年からお手伝いしており、ウェブアプリのマネタイゼーションのエキスパートです。, speakerimageurl: http://sites.google.com/site/developeradvocates/image/peng_ying.png, speakerurl: https://plus.google.com/115132759088093329854/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/d6ua4'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/uyko</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 23</title>
+		<content type='text'>speakertitle: 伊藤元, speakercompany: 合同会社ピグマル, speakerabstract: メーカーでポータブル機器の開発、個人事業でスマートフォンアプリの開発を経て、合同会社ピグマルを設立。Android をベースとしたネットワーク、組み込み機器の開発を行なっています。Android Developers' Club （デ部）メンバー。</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/uyko'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dkvya</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 24</title>
+		<content type='text'>speakertitle: Andrew Gerrand , speakercompany: Google, speakerabstract: Andrew Gerrand は Google シドニーで Go プログラミング言語の開発に携わっています。「世界中の開発者に Go 言語を好きになってもらう」ことが彼のミッションです。, speakerimageurl: http://sites.google.com/site/developeradvocates/image/andrew_gerrand.png, speakerurl: https://plus.google.com/106356964679457436995/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dkvya'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dmair</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 25</title>
+		<content type='text'>speakertitle: 伊藤穰一, speakercompany: MIT Media Lab, speakerabstract: 2011 年 4 月 26 日に MIT メディアラボ新所長に就任。デジタルガレージ共同創業者で取締役。カルチュア・コンビニエンス・クラブの社外取締役。Creative Commons の会長。アジア、中東での新規事業育成を手がける Neoteny Labs ファンド、ジェネラル・パートナー。慶応大学大学院メディアデザイン研究科非常勤講師の他、FireFox 開発の Mozilla Foundation 、WITNESS、Global Voices などの非営利団体のボードメンバーも務める。エンジェル投資家として、シリコンバレー地域を中心に複数のインターネット事業への投資、事業育成にも携わり、これまでに Twitter, Six Apart, Wikia, Flickr, Last.fm, Fotonauts 等を初めとする有望ネットベンチャー企業の創業や事業展開を支援している。1997 年米国 TIME 誌にて、「サイバーエリート」、2000 年米国 Business Week 誌にて、「アジアの星 50 人」、2001 年世界経済フォーラムにて、「明日のグローバルリーダー」、2008 年米国 Business Week 誌にて、「ネット上で最も影響力のある世界の 25 人」に選出。2011 年英オクスフォード大学インターネット研究所より、特別功労賞受賞。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/joiito.jpg</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dmair'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dnp34</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 26</title>
+		<content type='text'>speakertitle: 林 信行, speakercompany: IT ジャーナリスト</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dnp34'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dp3nl</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 27</title>
+		<content type='text'>speakertitle: 園田 裕貴, speakercompany: Google, speakerabstract: 園田裕貴(そのだゆうき)。YuguiのハンドルでRuby処理系の開発にも携わっており、著書に『初めてのRuby』(Yugui, 2008, オライリー・ジャパン)があります。2011年3月にGoogle Japanに入社しGoogle マップス他の開発をしています。, speakerimageurl: https://sites.google.com/site/gdd11japan/speakers/yugui.jpg, speakerurl: https://plus.google.com/u/1/113187117752842431448/posts</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dp3nl'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/df9om</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 28</title>
+		<content type='text'>speakertitle: Paul Saxman, speakercompany: Google, speakerabstract: Paul Saxman は Google TV のデベロッパーアドボケイトです。彼は、技術的に収束することはすばらしいことであり、インターネットにアクセスするための最適な場所は家族が集まり、居心地の良い家具があり、素晴らしいビデオディスプレイがあるリビングルームだと信じています。家族と家庭をつなげるオープンアプリプラットフォーム Google TV について開発者の皆さんに伝えたいと考えています。, speakerimageurl: http://sites.google.com/site/developeradvocates/image/paul_saxman.png, speakerurl: https://plus.google.com/116049289435132333203/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/df9om'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dgo93</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 29</title>
+		<content type='text'>speakertitle: Greg Schechter, speakercompany: Google, speakerabstract: Greg Schechter はブラウザとウェブサイトの進化に挑む「ウェブ戦士」です。イリノイ大学アーバナ・シャンペーン校での研修時に「Opera ウェブ標準カリキュラム」の発行に貢献してきました。その後、 Amazon, Yahoo, Google などのウェブ企業と共にバトルを続けてきました。現在は、YouTube で HTML5 のビデオ機能の開発をリードしています。, speakerimageurl: https://lh3.googleusercontent.com/-8advrGkIHw8/AAAAAAAAAAI/AAAAAAAABjU/V_vQCXtNyvQ/photo.jpg?sz=100, speakerurl: https://plus.google.com/109404491328800973695/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/dgo93'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/di2tg</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 30</title>
+		<content type='text'>speakertitle: Phil Harnish, speakercompany: Google, speakerabstract: Phil Harnish は数年前から YouTube の動画再生に関する仕事に取り組んでいます。ここ数年、数々の猫動画から、歪みの度合いがデザインとユーザビリティーに影響することを学びました。, speakerimageurl: https://lh6.googleusercontent.com/-4CsefUmFx_4/AAAAAAAAAAI/AAAAAAAAAAA/c247TdDVqJo/photo.jpg?sz=100, speakerurl: https://plus.google.com/100073714987534276623/about</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/od7/public/basic/di2tg'/>
+	</entry>
 </feed>

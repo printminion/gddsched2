@@ -19,11 +19,14 @@
 
     <room><id>android</id><name>[Android]</name><floor>2</floor></room>
     <room><id>web</id><name>&lt;WEB&gt;</name><floor>2</floor></room>
-    <room><id>cloud</id><name>{Cloud}</name><floor>2</floor></room>
+    <room><id>social</id><name>(Social)</name><floor>2</floor></room>
 
     <room><id>[Android]</id><name>[Android]</name><floor>2</floor></room>
     <room><id>&lt;WEB&gt;</id><name>&lt;WEB&gt;</name><floor>2</floor></room>
     <room><id>{Cloud}</id><name>{Cloud}</name><floor>2</floor></room>
+    <room><id>(Social)</id><name>(Social)</name><floor>2</floor></room>
+
+
 
    <!-- standard names -->
     <room><id>green</id><name>Green</name><floor>2</floor></room>

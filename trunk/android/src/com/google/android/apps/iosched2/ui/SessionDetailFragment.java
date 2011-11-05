@@ -659,7 +659,8 @@ public class SessionDetailFragment extends Fragment implements
 
     private String getHashtagsString() {
         if (!TextUtils.isEmpty(mHashtag)) {
-            return TagStreamFragment.CONFERENCE_HASHTAG + " #" + mHashtag;
+            //return TagStreamFragment.CONFERENCE_HASHTAG + " " + mHashtag;
+            return mHashtag;
         } else {
             return TagStreamFragment.CONFERENCE_HASHTAG;
         }

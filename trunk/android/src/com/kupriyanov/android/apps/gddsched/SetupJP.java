@@ -37,7 +37,7 @@ public class SetupJP implements ISetup {
 	public static final String EVENT_ID_SELECTED_NAME = "JP";
 	
 
-	public static final boolean FEATURE_VENDORS_ON = false;
+	public static final boolean FEATURE_VENDORS_ON = true;
 	public static final boolean FEATURE_OFFICEHOURS_ON = false;
 	public static final boolean FEATURE_MAP_ON = false;
 	public static final boolean FEATURE_ANNOUNCEMENTS_ON = false;

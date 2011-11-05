@@ -20,7 +20,6 @@ import gdd11.app.R;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -28,7 +27,6 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.google.android.apps.iosched2.util.AnalyticsUtils;
-import com.google.android.apps.iosched2.util.SetupHelper;
 import com.kupriyanov.android.apps.gddsched.Setup;
 
 public class SetupFragment extends Fragment {

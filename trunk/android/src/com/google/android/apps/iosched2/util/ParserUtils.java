@@ -35,6 +35,7 @@ import android.net.Uri;
 import android.text.format.Time;
 
 import java.io.InputStream;
+import java.io.UnsupportedEncodingException;
 import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -106,18 +107,28 @@ public class ParserUtils {
 //        }
     }
     
+    /**
+     * Generate hash of UTF-8 string
+     * 
+     * @param s
+     * @return
+     */
     public static String md5(String s) 
     {
         MessageDigest digest;
         try 
         {
             digest = MessageDigest.getInstance("MD5");
-            digest.update(s.getBytes(),0,s.length());
+            try {
+				//digest.update(s.getBytes("UTF-8"), 0, s.length());
+				digest.update(s.getBytes("UTF-8"));
+			} catch (UnsupportedEncodingException e) {
+				e.printStackTrace();
+				digest.update(s.getBytes(), 0, s.length());
+			}
             String hash = new BigInteger(1, digest.digest()).toString(16);
             return hash;
-        } 
-        catch (NoSuchAlgorithmException e) 
-        {
+        } catch (NoSuchAlgorithmException e) {
             e.printStackTrace();
         }
         return "";

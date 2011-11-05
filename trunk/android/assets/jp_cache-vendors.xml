@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gsx='http://schemas.google.com/spreadsheets/2006/extended'>
+	<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic</id>
+	<updated>2011-11-01T15:20:28.304Z</updated>
+	<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+	<title type='text'>sandbox</title>
+	<link rel='alternate' type='text/html' href='https://spreadsheets.google.com/pub?key=0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic'/>
+	<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic'/>
+	<author>
+		<name>j.prufrock</name>
+		<email>j.prufrock@gmail.com</email>
+	</author>
+	<openSearch:totalResults>41</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cokwr</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 2</title>
+		<content type='text'>companyname: 株式会社アールティ, companydesc: 株式会社アールティは、「ロボットのいるくらし」を考える会社です。Google 関連では 2010 年 GDD、2011 年 Google I/O において人型ロボット RIC android と RT-ADK&amp;RT-ADS を展示し、製造販売しています。また、クラウドロボティクスを手がける世界をリードする会社でもあります。, companyurl: http://www.rt-net.jp, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cokwr'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cpzh4</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 3</title>
+		<content type='text'>companyname: 株式会社アイネット, companydesc: CG に特化したソフトウェア開発とコンテンツ制作を行っている。
+キーワード: リアルタイム CG, 立体視, AR など, companyurl: http://www.ddd.co.jp/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cpzh4'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cre1l</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 4</title>
+		<content type='text'>companyname: Anubis, companydesc: Google App Engine（Python）でのウェブアプリケーション開発を中心に、スマートフォン（iPhone/Android）開発を行っております。, companyurl: http://www.anubis.la/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cre1l'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/chk2m</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 5</title>
+		<content type='text'>companyname: Android女子部, companydesc: Android 女子部は Android やスマートデバイスに興味のある女性が集まって、コンテンツ制作の技術情報や、Android の楽しい活用方法を共有するグループです。メンバーは全国各地におり、開発者から企画担当者、デザイナー、主婦まで幅広いジャンルで活動しています。, companyurl: http://groups.google.com/group/dronjo, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/chk2m'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/ciyn3</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 6</title>
+		<content type='text'>companyname: Android DEvelopers' cluB, companydesc: Android Developers' Club（Android デベロッパー倶楽部）は、Android のアプリを作って公開している開発者を中心としたコミュニティです。, companyurl: https://groups.google.com/group/android-developers-club?hl=ja, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/ciyn3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/ckd7g</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 7</title>
+		<content type='text'>companyname: ARスペース, companydesc: Android 向けアプリを開発しているサークルです。現在注力しているのは山カメラ。という、アウトドアで利用するための AR アプリです。セカイカメラに追随し、かつ山の楽しみ方に一石を投じるべく、「やま 2.0」と題して活動を続けています。, companyurl: http://yamacamera.aqua-scape.net/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/ckd7g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/clrrx</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 8</title>
+		<content type='text'>companyname: html5j, companydesc: html5j.org（以前は HTML5 Developers JP という名称でした）は、HTML5 などの次世代ウェブ標準を使った「ものづくり」に関わる、すべての人々を応援する非営利・中立のコミュニティです。わたしたちは、日本のウェブクリエイター/エンジニアのスキル向上をお手伝いして、日本が世界のウェブシーンをリードするような存在になることを心より願っています。, companyurl: http://www.html5j.org, companypod: Chrome &amp; HTML5</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/clrrx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cyevm</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 9</title>
+		<content type='text'>companyname: Egglang, companydesc: Android 向けアプリのローカライズの推進を目指すデベロッパー集団です。, companyurl: http://l10n.egglang.com/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cyevm'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cztg3</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 10</title>
+		<content type='text'>companyname: 株式会社NTTドコモ, companydesc: わたしたちドコモは、通信事業を中心としたサービスや商品のご提供をしております。携帯電話の利用者が 1 億人を超え、ほぼ 1 人 1 台をお持ちいただく中で、ひとりひとりのお客様ときちんと向き合い、期待を上回る商品やサービスをご提供することで、もっと高いご満足をいただき、絆を深めていくことを目指すという想いを、「手のひらに、明日をのせて。」というスローガンに込めて活動しています。, companyurl: http://www.nttdocomo.co.jp/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cztg3'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d180g</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 11</title>
+		<content type='text'>companyname: 面白法人カヤック, companydesc: 鎌倉に本社を置きオリジナルウェブサービス事業、ウェブ制作事業を主要事業とする。近年はソーシャルゲーム、スマートフォンの企画開発も手がける。東京インタラクティブ・アド・アワード、Yahoo! JAPAN インターネットクリエイティブアワードなど国内外の広告賞を多数受賞。, companyurl: http://www.kayac.com, companypod: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d180g'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d2mkx</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 12</title>
+		<content type='text'>companyname: Cacoo, companydesc: Cacoo（カクー）はウェブ上で簡単にサイトマップやワイアーフレーム、UML、ネットワーク図などの図が作成できるドローツールです。ユーザー数は 170,000 人、100 カ国以上で利用されています。, companyurl: http://cacoo.com/, companypod: Chrome &amp; HTML5</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d2mkx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cssly</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 13</title>
+		<content type='text'>companyname: 有限会社カラビナシステムズ, companydesc: カラビナシステムズは、様々な「考える」活動をサポートするための道具を研究開発している会社です。頭の中にあるモヤモヤとしている事柄や情報を「考えるための道具」により整理しビジネスなどの活動に生かす、知的生産性を向上させる環境をご提供しております。, companyurl: http://carabiner.jp, companypod: Chrome &amp; HTML5</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cssly'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cu76f</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 14</title>
+		<content type='text'>companyname: 株式会社クエステトラ, companydesc: クエステトラは 2008 年 4 月 1 日、京都で設立された「BPM（Business Process Management）ソフトウェア」の開発会社です。「世界中の業務フロー整備のため」に、クエステトラは、純国産クラウド型 BPM ソフト「Questetra BPM Suite」を世界に向けて開発・販売しております。, companyurl: http://www.questetra.com/, companypod: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cu76f'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cvlqs</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 15</title>
+		<content type='text'>companyname: K2-GARAGE, companydesc: ハードウェアとソフトウェアの開発により新たな体験を創造します。, companyurl: k2-garage.com, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cvlqs'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cx0b9</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 16</title>
+		<content type='text'>companyname: 株式会社ゴーガ, companydesc: Google Enterprise Partner Google Maps API Premier ソリューションパートナー。Google Maps API を活用したさまざまなアプリケーションを開発しています。LAMP 環境や、Google App Engine での開発を得意としています。Google Apps の活用もご提案させていただきます。, companyurl: http://www.goga.co.jp/, companypod: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/cx0b9'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d9ney</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 17</title>
+		<content type='text'>companyname: 株式会社コスモルート GeQuu チーム, companydesc: ソーシャル・ロギングサービス「GeQuu」を紹介します。
+自分の位置や行動ログを容量無制限に保存、リアルタイムに共有するサービスです。
+当日は、GeQuu のコア・テクノロジーとデモをご紹介する予定です。, companyurl: https://gequu.net/v/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d9ney'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/db1zf</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 18</title>
+		<content type='text'>companyname: 株式会社co-meeting , companydesc: 株式会社 co-meeting は、Wave in a Box（Google Wave）をベースのテキストベースディスカッションサービス「co-meeting」や、Google App Engine 上で稼働させているソーシャルフィードアグリゲーター「Crowy」を開発、運用しています。その他、Google Apps の導入やその API に関する技術支援やコンサルテーションなども実施しています。 , companyurl: http://about.co-meeting.com, companypod: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/db1zf'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dcgjs</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 19</title>
+		<content type='text'>companyname: 株式会社GClue, companydesc: 福島県会津若松市を拠点に、Android アプリ開発をおこなっています。
+, companyurl: http://www.gclue.com, companypod: 震災復興</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dcgjs'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/ddv49</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 20</title>
+		<content type='text'>companyname: Seesmic Inc., companydesc: フランス人起業家として有名なロイック・ル・マールによって 2007 年に創業された Seesmic は、中小企業のビジネス構築やエンタープライズ・ビジネスのブランド支援、ソーシャル管理、そしてモバイル CRM のためのアプリケーションを主要なモバイルプラットフォームすべてに向けて開発しています。今回、国内で初めて Seesmic CRM for Salesforce on Android を正式披露目致します。, companyurl: http://seesmic.com, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/ddv49'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d415a</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 21</title>
+		<content type='text'>companyname: SIPropプロジェクト, companydesc: 「メディア （通信媒体）の世界を広げる」という目的の元、さまざまな OSS アプリを提案・開発する OSS プロジェクトである。この目的を果たすために、他プロジェクトと提携し、いろいろなプロダクトを立ち上げている。, companyurl: http://www.siprop.org/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d415a'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d5fpr</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 22</title>
+		<content type='text'>companyname: 芝浦工業大学 Incusphere Project, companydesc: Incusphere Project は、ソフトウェア開発技術者不足に悩む産業界の期待に応える学士力を育成するために、学部教育カリキュラムに基づく体系的なシナリオベースの教科書とソフトウェアの良し悪しを評価する評価ツールを開発するものです。初級者と中級者の 2 段階のレベルを想定し、初級者の目標は「基礎的なプログラミング能力の向上」として、シナリオに基づく教科書システム、および「きれいな無駄のないプログラム」であるかの評価ツールの開発を行います。また、中級者の目標は「ソフトウェア品質の観点からのソフトウェアのモデリング能力の向上」として、シナリオに基づく教科書システム、および「クラスの責務が明確で、理解しやすいプログラム」であるかの評価ツールを開発しています。, companyurl: http://www.shibaura-it.ac.jp/about/support_program/program13.html, companypod: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d5fpr'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d6ua4</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 23</title>
+		<content type='text'>companyname: 首都大学東京 渡邉英徳研究室, companydesc: 首都大学東京システムデザイン学部インダストリアルアートコースに所属する渡邉英徳研究室＋ネットワークデザインスタジオでは、ソーシャルメディアアートやデジタルアーカイブなど、インターネット技術を応用したアート＆エンタテインメントの研究を行っています。, companyurl: http://labo.wtnv.jp/, companypod: 震災復興</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d6ua4'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d88ul</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 24</title>
+		<content type='text'>companyname: 株式会社情報スペース, companydesc: システム手帳アプリ「ジョルテ」を開発しています。Android を利用した一般向けアプリや、Android と地図を利用したエンタープライズ向けのソリューションを展開しております。「ジョルテ」以外では、「JS バックアップ」という Android 端末のデータバックアップツールも Android Market に無料で公開しています。, companyurl: http://www.johospace.co.jp/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/d88ul'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dkvya</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 25</title>
+		<content type='text'>companyname: スマートドライブメーター製作委員会, companydesc: 震災発生直後にどこが被災し、どこが被災していないかを把握することは、その後の救援救助、復旧復興を迅速化するために非常に重要である。その情報を取得するひとつの方法として、スマートフォンを車のダッシュボード上に置き、普通に走行するだけで、加速度センサーと GPS から道路のどこに段差があるか、被災しているかを把握するアプリケーション BumpRecoreder を提案、公開している。その技術を普及させるために、さまざまな応用アプリケーションの開発を行っている。, companyurl: https://sites.google.com/site/smartdrivemeter/, companypod: 震災復興</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dkvya'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dmair</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 26</title>
+		<content type='text'>companyname: 住友精密工業株式会社（クロスボー）, companydesc: 住友精密工業・クロスボーでは無線センサネットワーク技術を応用した製品を開発しています。, companyurl: http://www.spp.co.jp, companypod: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dmair'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dnp34</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 27</title>
+		<content type='text'>companyname: 株式会社セラク, companydesc: ネットワーク・ウェブ・スマートシステムの 3 つのソリューションを柱に、IT を使った総合ビジネス支援を行っている会社です。また、新たな試みとして、Android を使った自社アプリや Android を使ったプロダクトの開発を行っております。, companyurl: http://www.seraku.co.jp/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dnp34'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dp3nl</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 28</title>
+		<content type='text'>companyname: ソニー株式会社, companydesc: ソニー株式会社は、コンシューマおよびプロフェッショナル市場向けにオーディオ、ビデオ、ゲーム、通信、コアデバイスおよび情報テクノロジー関連製品を提供するリーディング企業です。またソニーは、音楽、映像、コンピュータエンターテイメント、オンラインビジネスを通じ、世界のエレクトロニクスおよびエンターテイメント市場をリードする企業として確固たる地位を築いています。, companyurl: http://www.sony.co.jp/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dp3nl'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/df9om</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 29</title>
+		<content type='text'>companyname: SonicGarden, companydesc: 「IT 投資に対するソフトウェアの価値を最大化すること」と「ソフトウェアによって人々の習慣（世界）を変えること」に取り組んでいるソフトウェア企業が SonicGarden です。アジャイル と Ruby によるソフトウェア開発を得意とし、クラウド で動作するアプリケーション開発を行います。AmazonWebService のソリューションプロバイダです。, companyurl: http://www.sonicgarden.jp/, companypod: Chrome &amp; HTML5</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/df9om'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dgo93</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 30</title>
+		<content type='text'>companyname: 株式会社テクノロード, companydesc: 株式会社テクノロードは、ロボットベンチャー企業です。これまで宇宙機器やロボットの開発を行って参りました。近年は Android のアプリ開発や、Android+Robot をテーマに Android とロボット技術の融合に取り組んでおります。
+, companyurl: http://techno-road.com/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dgo93'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/di2tg</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 31</title>
+		<content type='text'>companyname: 凸版印刷株式会社, companydesc: 凸版印刷株式会社は、IT ソリューション事業の拡大を目指し、株式会社トッパンシステムソリューションズ（以下 TSS）を 2010 年 4 月にスタートさせました。凸版印刷と TSS は、スマートデバイス、クラウド、ソーシャルメディアを活用した新サービス開発を行っております。今回は、Android 端末を利用したデジタルサイネージや HTML5、ソーシャルメディア連携などの技術開発成果をご紹介いたします。
+, companyurl: http://www.toppan.co.jp/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/di2tg'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/djhdx</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 32</title>
+		<content type='text'>companyname: 株式会社鳥人間, companydesc: GDD09 では GoogleEarth を飛べる自転車「SpaceBike」を展示した、エンジニア 2 人だけの会社です。今回は飛行石を作ってみました, companyurl: http://www.tori.st, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/djhdx'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dw4je</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 33</title>
+		<content type='text'>companyname: 日本経済新聞社, companydesc: 日本経済新聞社。電子版を 2010 年 3 月に開始。スマートフォン向けサービスを拡充中, companyurl: http://sp.nikkei.com, companypod: Chrome &amp; HTML5</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dw4je'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dxj3v</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 34</title>
+		<content type='text'>companyname: Bar android, companydesc: Bar android は渋谷で毎週月曜日だけ営業している、女の子とデベロッパーのためのバーです。世界中から android デベロッパーが集っています。, companyurl: https://www.facebook.com/barandroid, companypod: Bar Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dxj3v'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dyxo8</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 35</title>
+		<content type='text'>companyname: Hack For Japan, companydesc: 「コードでつなぐ。想いと想い」
+Hack For Japanとは、震災からの復興を継続的に支援するための、IT開発を支えるコミュニティです。, companyurl: http://hack4.jp/, companypod: 震災復興</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dyxo8'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/e0c8p</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 36</title>
+		<content type='text'>companyname: 株式会社ピクセルグリッド, companydesc: ピクセルグリッドは JavaScript を中心に、HTML5 や Flash といった技術を積極的に利用したウェブアプリケーションを提供しています。JavaScript/Ajax を用いた Android/iPhone/iPad で動作するウェブサービス、ウェブサイト制作にも豊富な実績があります。, companyurl: http://www.pxgrid.com/, companypod: Chrome &amp; HTML5</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/e0c8p'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dqi9q</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 37</title>
+		<content type='text'>companyname: 昼会, companydesc: 昼会は毎日のランチタイムをより楽しく、アクティブに活用できるプラットフォームの提供を通じて、ユーザー間にオフラインで有益なつながりを広げていただくことを目的とした、ランチタイム共有サービスです。オンライン上のソーシャルグラフをオフラインに反映させることを通じ、ユーザーがより多くの人とつながりを持つ手助けとなるサービスを提供することをコンセプトに開発しました。, companyurl: http://www.hirukai.jp/, companypod: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dqi9q'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/drwu7</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 38</title>
+		<content type='text'>companyname: Finite Field, companydesc: 翻訳支援ツール Isometry の開発を行っています。, companyurl: http://www.finite-field.com/, companypod: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/drwu7'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dtbek</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 39</title>
+		<content type='text'>companyname: 株式会社ブリリアントサービス, companydesc: 光り輝くサービスを提供するソフトウェア開発会社です。お客様と社員と社会の幸せを追求します。, companyurl: http://www.brilliantservice.co.jp/, companypod: NFC</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dtbek'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dupz1</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 40</title>
+		<content type='text'>companyname: Poly's Factory, companydesc: 株式会社エムティーアイの Android 向けアプリ開発チーム有志が今回の企画のために集まったスペシャル技術チームです。, companyurl: http://polysfactory.com/, companypod: Android</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/dupz1'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/e7d2q</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 41</title>
+		<content type='text'>companyname: マインドフリー株式会社, companydesc: マインドフリーは HTML5 をはじめとするフロントエンドなどの先端技術を駆使したものづくりを得意としています。大阪を拠点にウェブサイト、ソーシャルメディア、ソーシャルアプリ、マルチディバイス対応のスマートフォン用ウェブアプリの企画、構築、運営を手がけています。, companyurl: http://mindfree.jp/, companypod: Chrome &amp; HTML5</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/e7d2q'/>
+	</entry>
+	<entry>
+		<id>https://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/e8rn7</id>
+		<updated>2011-11-01T15:20:28.304Z</updated>
+		<category scheme='http://schemas.google.com/spreadsheets/2006' term='http://schemas.google.com/spreadsheets/2006#list'/>
+		<title type='text'>Row: 42</title>
+		<content type='text'>companyname: MiCHiLU Labs., companydesc: Google 関連技術、HTML5、WebSocket を利用し、サービスの開発とビジネスの開拓をしています。, companyurl: http://michilu.com/contacts, companypod: Cloud</content>
+		<link rel='self' type='application/atom+xml' href='http://spreadsheets.google.com/feeds/list/0An8ZzsaUDpaudGJjMG00UDRDVHcyNHhpU0RxNkNTRkE/odb/public/basic/e8rn7'/>
+	</entry>
+</feed>
