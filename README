@@ -1,0 +1,16 @@
+Google Developer Day is a developer conference held each year.
+
+This project is the Android app for the conference, including these features and more:
+
+ * Conference schedule with calendar-block overview.
+ * Detailed session info that is full-text searchable. 
+ * Info about companies in the Developer Sandbox. 
+ * Star sessions and Sandbox companies. 
+ * Conference map and take notes on sessions.
+ * Support for non latin languages russian/japanese
+
+
+Based on iosched project https://code.google.com/p/iosched
+
+
+Market: https://market.android.com/details?id=gdd11.app
